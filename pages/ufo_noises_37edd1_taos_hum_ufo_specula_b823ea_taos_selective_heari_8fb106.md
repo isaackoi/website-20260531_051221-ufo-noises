@@ -1,0 +1,538 @@
+---
+level: 3
+basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106
+parent_basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+child_basenames: []
+sibling_basenames:
+- ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e
+- ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b
+- ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_medical_explana_9e6bff
+- ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_secret_base_rum_a20fee
+tags:
+- ufo-noises
+- taos-hum
+- selective-hearing
+keywords:
+- ufo-noises
+- taos-hum
+- selective-hearing
+affiliate_category: ufo-noises
+show_ads: true
+description: Selective hearing is central to the Taos Hum because some residents report a deep drone while many nearby people hear nothing at all.
+hero_summary: Selective hearing is central to the Taos Hum because some residents report a deep drone while many nearby people hear nothing at all.
+layout: default
+permalink: /selective-hearing/
+sidebar_expanded_urls:
+- /ufo-noises/
+- /taos-hum/
+nav_short_title: Selective Hearing
+title: Why Can Some People Hear the Taos Hum?
+title_full: Why Can Some People Hear the Taos Hum? | Taos Hum
+display_title_short: Selective Hearing
+display_title: Selective Hearing
+heading_title: Why Can Some People Hear the Taos Hum?
+page_heading_title: Why Can Some People Hear the Taos Hum?
+source_count: 28
+infographic_count: 3
+planned_sections:
+- What hearers describe and non hearers miss
+- Frequency differences reported in Taos studies
+- Why selective audibility fuels UFO speculation
+focal_unit_type: population_context
+topic_lens: evidence
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Why Is the Taos Hum Linked to UFOs? | UFO Noises
+parent_permalink: /taos-hum/
+parent_nav_short_title: Taos Hum
+parent_heading_title: Why Is the Taos Hum Linked to UFOs?
+ancestor_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+  title: Taos Hum | What Do UFO Witnesses Hear?
+  permalink: /taos-hum/
+  short_title: Taos Hum
+  heading_title: Why Is the Taos Hum Linked to UFOs?
+breadcrumb_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+  title: Taos Hum | What Do UFO Witnesses Hear?
+  permalink: /taos-hum/
+  short_title: Taos Hum
+  heading_title: Why Is the Taos Hum Linked to UFOs?
+sibling_links:
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_secret_base_rum_a20fee
+  title: Base Rumours | Taos Hum
+  permalink: /base-rumours/
+  short_title: Base Rumours
+  heading_title: How Secret Base Rumours Reached Taos
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e
+  title: Evidence Gap | Taos Hum
+  permalink: /evidence-gap/
+  short_title: Evidence Gap
+  heading_title: What the Taos Evidence Really Leaves Open
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_medical_explana_9e6bff
+  title: Medical Angle | Taos Hum
+  permalink: /medical-angle/
+  short_title: Medical Angle
+  heading_title: Could the Taos Hum Come From the Ear?
+- basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b
+  title: Sound Clues | Taos Hum
+  permalink: /sound-clues/
+  short_title: Sound Clues
+  heading_title: Why Low Sounds Are So Hard to Trace
+up_link:
+  basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
+  title: Taos Hum | What Do UFO Witnesses Hear?
+  permalink: /taos-hum/
+  short_title: Taos Hum
+  heading_title: Why Is the Taos Hum Linked to UFOs?
+prev_link:
+  basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_medical_explana_9e6bff
+  title: Medical Angle | Taos Hum
+  permalink: /medical-angle/
+  short_title: Medical Angle
+  heading_title: Could the Taos Hum Come From the Ear?
+next_link:
+  basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b
+  title: Sound Clues | Taos Hum
+  permalink: /sound-clues/
+  short_title: Sound Clues
+  heading_title: Why Low Sounds Are So Hard to Trace
+date: '2026-05-31 05:09:10 '
+header:
+  og_image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-social.jpg
+  preview_image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1.webp
+image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The most puzzling aspect of the [Taos Hum]({{ 'taos-hum/' | relative_url }}) is not the sound itself but the fact that only a small minority of people report hearing it. Since the phenomenon gained attention in northern New Mexico during the early 1990s, many residents have described a persistent low-frequency drone that resembles a distant engine or industrial vibration. Yet neighbours living in the same streets often hear nothing at all. Investigations found that only a small percentage of the local population reported the sound, and even among those hearers there was little agreement about its exact pitch or character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span> That selective audibility has become central to both scientific debate and UFO speculation. If the Hum were an ordinary environmental noise, why would so many people miss it? If it were purely an internal hearing phenomenon, why would groups of people in the same area describe similar experiences? The tension between those possibilities is one reason the Taos Hum remains controversial decades after it was first investigated.
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-light.svg" | relative_url }}" alt="Selective Hearing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## What Hearers Describe and Non-Hearers Miss
+
+People who report hearing the Taos Hum rarely describe a dramatic or loud sound. Instead, they often compare it to a diesel engine idling somewhere in the distance, a faint mechanical vibration, or a low electrical drone. Many hearers say the sound becomes more noticeable at night or during quiet periods when other environmental noises are absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the taos hum new mexicos unexplained acoustic phenomenon</span><span class="citation-popover-snippet">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — According to self-reported testimony, 2% of the area&#x27;s population is able to hear...</span></span></span> What makes the reports unusual is that non-hearers standing in the same location frequently detect nothing at all. This is not merely a matter of volume. In many accounts, hearers describe the Hum as impossible to ignore while family members, friends, or investigators nearby remain completely unaffected. The divide is so pronounced that some residents came to doubt one another's experiences, with hearers feeling dismissed and non-hearers questioning whether the sound existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://explorersweb.com/exploration-mysteries-the-hum-other-mystery-sounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorersweb.com">[Explorersweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorersweb.com</span><span class="citation-popover-title">The bulk of these mystery sounds were eventually</span><span class="citation-popover-snippet">ExplorerswebExploration Mysteries: The Hum and Other Unexplained...20 Nov 2024 — The Hum has been reported in the U.S., Australia, Canad...</span></span></span>
+
+The phenomenon also appears to vary from person to person. Some hearers report a steady hum, while others describe a pulsing vibration or a [buzzing]({{ 'buzzing/' | relative_url }}) sensation. That lack of consistency complicated attempts to determine whether everyone was hearing the same source or whether multiple causes were being grouped under a single label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ftUO9cGkTEY" title="The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer">The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 1.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ftUO9cGkTEY">Open on YouTube</a></p></div></div></div>
+
+## Frequency Differences Found in Taos Investigations
+
+One of the most important findings from investigations was that hearers did not identify a single shared frequency. Reports associated with the Taos studies suggested that perceived sounds fell within a broad low-frequency range rather than matching one precise acoustic signature. Estimates commonly placed reported frequencies between roughly 32 and 80 hertz, with slow modulation patterns layered on top. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+
+Researchers also found that only a small fraction of residents reported hearing the Hum. Surveys cited in later summaries suggested that approximately two percent of the local population identified themselves as hearers. Even within that group, descriptions varied considerably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span> This mattered because it weakened the simplest explanation of a single loud environmental source. If a large industrial machine were producing a clearly audible noise, investigators would expect more agreement among listeners and easier detection through conventional acoustic measurements. Instead, researchers encountered a situation in which some people reported a powerful and persistent sound while others remained unaware of any disturbance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — It has been proposed that the hum might represent some kind of low...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tcOao4B13vA" title="The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer">The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds</a></p><p class="youtube-embed-meta">Channel: NerdAlert &middot; Views: 86.7K &middot; Uploaded: August 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tcOao4B13vA">Open on YouTube</a></p></div></div></div>
+
+## Why Human Hearing May Differ So Much
+
+Several scientific explanations attempt to account for selective audibility without requiring a mysterious external source.
+
+One possibility is that some people possess greater sensitivity to low-frequency sound. Human hearing is not uniform. Individuals differ in how well they detect particular frequencies, especially near the lower limits of hearing. A weak environmental vibration that is barely perceptible to most people could therefore be highly noticeable to a small subset of listeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</span></span></span>
+
+Another possibility involves tinnitus and related auditory phenomena. Unlike the familiar high-pitched ringing often associated with tinnitus, some researchers have proposed that low-frequency forms may create sensations resembling a hum or distant engine noise. Because these sounds originate within the auditory system, they would naturally be heard only by certain individuals. The Taos investigations considered this possibility, although it has never fully explained all reports. Acoustical Society of America <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span> Researchers have also examined spontaneous otoacoustic emissions, faint sounds generated by the inner ear itself. Most people never notice them, but under quiet conditions some individuals can perceive internally generated buzzing or [humming]({{ 'humming/' | relative_url }}) sensations. This mechanism was among the explanations discussed by investigators trying to understand why hearers and non-hearers experienced the same environment differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+
+A further complication is psychological attention. Audiologists studying Hum reports have suggested that once a person becomes focused on a faint low-frequency sound, anxiety and expectation may amplify awareness of it. This does not mean the experience is imaginary. Rather, the brain may become increasingly sensitive to a signal that other people filter out as background noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-light.svg" | relative_url }}" alt="Selective Hearing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Investigators Never Reached a Single Answer
+
+The strongest evidence against simple explanations is that researchers never found one mechanism capable of accounting for every reported case.
+
+If the Hum were entirely internal, the clustering of reports in particular locations would be difficult to explain. Yet if it were entirely external, investigators would expect more consistent measurements and wider audibility. The possibility remains that the Hum is not one phenomenon at all. Different hearers may be responding to different combinations of environmental noise, vibration, hearing sensitivity, and auditory processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span> PubMed This mixed-model explanation has gained support from studies of Hum reports elsewhere. In several locations around the world <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">“Taos Hum” has puzzled residents, scientists, and visitors...</span></span></span>, investigators eventually identified ordinary industrial or mechanical sources for at least part of the reported noise. However, some people continued reporting the Hum even after those sources were reduced or eliminated, suggesting that environmental sound alone may not account for every experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</span></span></span>
+
+The result is an unusual evidential gap. Hearers clearly report a real experience, but the experience does not point neatly toward a single measurable cause.
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-light.svg" | relative_url }}" alt="Selective Hearing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Selective Audibility Fuels UFO Speculation
+
+The fact that only some residents hear the Hum has played a major role in keeping UFO-related theories alive.
+
+Many UFO narratives involve phenomena that seem detectable only by certain witnesses: unusual lights seen by one group but not another, strange sounds without visible sources, or experiences that resist straightforward measurement. The Taos Hum fits that pattern. Because no [aircraft]({{ 'aircraft/' | relative_url }}), spacecraft, or visible object accompanies the sound, believers in extraordinary explanations often argue that the selective hearing itself is evidence of an unconventional source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beyondhaunted.com/blog/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beyondhaunted.com">[BeyondHaunted.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beyondhaunted.com</span><span class="citation-popover-title">Beyond Haunted.com The Taos Hum Mystery: Science, Theories, &amp; the Unanswered</span><span class="citation-popover-snippet">The Taos Hum Mystery: Science, Theories, &amp; the Unanswered...March 17, 2026 — 17 Mar 2026 — In the high desert around Taos, New Mexico, s...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+
+The mystery deepens because the Hum often feels directional and external to hearers even when instruments fail to identify a corresponding signal. That disconnect encourages speculation about secret technologies, underground facilities, electromagnetic experiments, or even extraterrestrial activity. None of those ideas has been supported by convincing evidence, but the inability to fully explain who hears the Hum and why leaves room for such interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</span></span></span>
+
+In practice, selective audibility is probably the single most important reason the Taos Hum remains culturally linked to UFO discussions. If everyone heard the sound, it would likely be treated as an environmental noise problem. If only one or two individuals reported it, it would probably be regarded as a medical issue. Instead, the Hum occupies an uncomfortable middle ground: enough people hear it to suggest something shared, yet too few hear it to make the source obvious. That unresolved tension keeps the mystery alive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — It has been proposed that the hum might represent some kind of low...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mGFE3mhyUhA" title="The Taos Hum: Unraveling New Mexico’s Mysterious Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mGFE3mhyUhA" target="_blank" rel="noopener noreferrer">The Taos Hum: Unraveling New Mexico’s Mysterious Sound</a></p><p class="youtube-embed-meta">Channel: Dive Into Discovery &middot; Views: 47.4K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mGFE3mhyUhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mGFE3mhyUhA">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Can Some People Hear the Taos Hum?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Living+with+Tinnitus+and+Hyperacusis+by+Laurence+McKenna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Living with Tinnitus and Hyperacusis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bZ5BEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Living with Tinnitus and Hyperacusis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Living+with+Tinnitus+and+Hyperacusis+by+Laurence+McKenna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Living with Tinnitus and Hyperacusis">Living with Tinnitus and Hyperacusis</a>
+        </h4>
+        <p class="fr-book-author">By Laurence McKenna, David Baguley et al.</p>
+        
+        <p class="fr-book-desc">Explains why some individuals perceive sounds others do not hear.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Living+with+Tinnitus+and+Hyperacusis+by+Laurence+McKenna&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+For+A+Hat%3A+And+Other+Clinical+Tales+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Mistook His Wife For A Hat: And Other Clinical Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nc2dE9swe0sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Man Who Mistook His Wife For A Hat: And Other Clinical Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+For+A+Hat%3A+And+Other+Clinical+Tales+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Mistook His Wife For A Hat: And Other Clinical Tales">The Man Who Mistook His Wife For A Hat: And Other Clinical Tales</a>
+        </h4>
+        <p class="fr-book-author">By Oliver Sacks</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 9 Google Books ratings</p>
+        <p class="fr-book-desc">Explores unusual sensory perception and neurological interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+For+A+Hat%3A+And+Other+Clinical+Tales+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Provides a framework for assessing unusual reports and perception claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+        <p class="fr-book-desc">Addresses how shared but uncertain experiences are interpreted.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Living+with+Tinnitus+and+Hyperacusis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Living with Tinnitus and Hyperacusis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+Who+Mistook+His&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man Who Mistook His</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: iflscience.com  
+   Title: The Taos Hum Had Residents In New Mexico Convinced  
+   Link: [https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672](https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</p></details>
+   Published: July 5, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: The Hum  
+   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+
+3. <a id="endnote-3"></a>
+   Source: discoveryuk.com  
+   Title: the taos hum new mexicos unexplained acoustic phenomenon  
+   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but o...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: thrillist.com  
+   Title: taos hum mystery  
+   Link: [https://www.thrillist.com/travel/nation/taos-hum-mystery](https://www.thrillist.com/travel/nation/taos-hum-mystery)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — According to self-reported testimony, 2% of the area&#x27;s population is able to hear...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: explorersweb.com  
+   Title: The bulk of these mystery sounds were eventually  
+   Link: [https://explorersweb.com/exploration-mysteries-the-hum-other-mystery-sounds/](https://explorersweb.com/exploration-mysteries-the-hum-other-mystery-sounds/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExplorerswebExploration Mysteries: The Hum and Other Unexplained...20 Nov 2024 — The Hum has been reported in the U.S., Australia, Canad...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: beyondhaunted.com  
+   Title: Beyond Haunted.com The Taos Hum Mystery: Science, Theories, & the Unanswered  
+   Link: [https://beyondhaunted.com/blog/taos-hum-mystery](https://beyondhaunted.com/blog/taos-hum-mystery)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Mystery: Science, Theories, &amp; the Unanswered...March 17, 2026 — 17 Mar 2026 — In the high desert around Taos, New Mexico, s...</p></details>
+   Published: March 17, 2026  
+
+7. <a id="endnote-7"></a>
+   Source: acousticalsociety.org  
+   Link: [https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf](https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — It has been proposed that the hum might represent some kind of low...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: ft.com  
+   Link: [https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483](https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: timesofindia.indiatimes.com  
+   Link: [https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms](https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=ftUO9cGkTEY](https://www.youtube.com/watch?v=ftUO9cGkTEY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Taos Hum” has puzzled residents, scientists, and visitors...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: medium.com  
+   Title: The Taos Hum  
+   Link: [https://medium.com/%40tania_lynne/the-taos-hum-a8c10ad1849e](https://medium.com/%40tania_lynne/the-taos-hum-a8c10ad1849e)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Tania LynneThey interviewed “hearers.” What did they find? Nothing. No external sound source. No measurable vibration. No electromagne...</p></details>
+
+### Additional References
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/100080640641387/posts/the-low-frequency-sound-thousands-of-people-claim-to-hear-in-new-mexicosince-the/880512534646760/](https://www.facebook.com/100080640641387/posts/the-low-frequency-sound-thousands-of-people-claim-to-hear-in-new-mexicosince-the/880512534646760/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Low-Frequency Sound Thousands of People Claim...5 Dec 2025 — For years, people in Taos, New Mexico have reported hearing a strange...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/AstonishingLegends/comments/1si5k53/the_hum_a_lowfrequency_sound_heard_in_dozens_of/](https://www.reddit.com/r/AstonishingLegends/comments/1si5k53/the_hum_a_lowfrequency_sound_heard_in_dozens_of/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roughly 2 percent of the Taos population reported the sound. The other 98 percent heard nothing. The complaints were...Read more...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/fansofthelegendarypinkdots/posts/1082355378444777/](https://www.facebook.com/groups/fansofthelegendarypinkdots/posts/1082355378444777/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>***The Hum is based on an actual US Congressional investigation into a strange humming sound being heard in Taos, New Mexico...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: researchgate.net  
+   Title: Manifestations of a low-frequency sound of unknown origin  
+   Link: [https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum](https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: &quot;The Hum&quot; and &quot;Taos Hum&quot; are the common terms used for an annoying low-frequency sound of unknown and seemingly mysterious...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: pubmed.ncbi.nlm.nih.gov  
+   Link: [https://pubmed.ncbi.nlm.nih.gov/27488996/](https://pubmed.ncbi.nlm.nih.gov/27488996/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — Objective: This study investigates the different manifes...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: theguardian.com  
+   Title: Can you hear the mysterious 'global Hum'?  
+   Link: [https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do](https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently...16 Mar 2019 — Up to 4% of people around the world are thought to hear the strange, low-pitched noise. Its actual source is...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/](https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ever heard a mysterious deep humming sound that others...From Taos, New Mexico to Bristol, England, this eerie sound has baffled scienti...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: vocal.media  
+   Link: [https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist](https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>VocalThe Taos Hum: The Sound That Shouldn&#x27;t Exist | ChaptersOthers believe the Hum may be a form of low-frequency tinnitus, a condition w...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/9at26p/cracking_the_mystery_of_the_worldwide_hum/](https://www.reddit.com/r/UnresolvedMysteries/comments/9at26p/cracking_the_mystery_of_the_worldwide_hum/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s a distant rumbling or droning noise...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/anythingaycliffe/posts/1641179699350667/](https://www.facebook.com/groups/anythingaycliffe/posts/1641179699350667/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>So apparently, this hum that everyone can hear is a natural...So apparently, this hum that everyone can hear is a natural global phenomenon...</p></details>

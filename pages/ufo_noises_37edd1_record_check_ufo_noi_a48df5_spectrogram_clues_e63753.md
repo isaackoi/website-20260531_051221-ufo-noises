@@ -1,0 +1,991 @@
+---
+level: 3
+basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753
+parent_basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
+child_basenames: []
+sibling_basenames:
+- ufo_noises_37edd1_record_check_ufo_noi_a48df5_independent_witness_94dcb1
+- ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7
+- ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2
+- ufo_noises_37edd1_record_check_ufo_noi_a48df5_weather_notes_sky_no_5d5168
+tags:
+- ufo-noises
+- record-it
+- spectrograms
+keywords:
+- ufo-noises
+- record-it
+- spectrograms
+affiliate_category: ufo-noises
+show_ads: true
+description: A spectrogram can reveal pulses, bands and pitch changes that the ear may miss in a strange sky-noise recording.
+hero_summary: A spectrogram can reveal pulses, bands and pitch changes that the ear may miss in a strange sky-noise recording.
+layout: default
+permalink: /spectrograms/
+sidebar_expanded_urls:
+- /ufo-noises/
+- /record-it/
+nav_short_title: Spectrograms
+title: Can A Spectrogram Explain A UFO Sound?
+title_full: Can A Spectrogram Explain A UFO Sound? | Record It
+display_title_short: Spectrograms
+display_title: Spectrograms
+heading_title: Can A Spectrogram Explain A UFO Sound?
+page_heading_title: Can A Spectrogram Explain A UFO Sound?
+source_count: 34
+infographic_count: 3
+planned_sections:
+- What horizontal bands and pulses can suggest
+- Aircraft, rotor, wind and machinery patterns
+- Why visual audio clues still need context
+focal_unit_type: dataset_evidence
+topic_lens: evidence
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: How Should You Record a UFO Noise? | UFO Noises
+parent_permalink: /record-it/
+parent_nav_short_title: Record It
+parent_heading_title: How Should You Record a UFO Noise?
+ancestor_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
+  title: Record It | What Do UFO Witnesses Hear?
+  permalink: /record-it/
+  short_title: Record It
+  heading_title: How Should You Record a UFO Noise?
+breadcrumb_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
+  title: Record It | What Do UFO Witnesses Hear?
+  permalink: /record-it/
+  short_title: Record It
+  heading_title: How Should You Record a UFO Noise?
+sibling_links:
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7
+  title: Phone Audio | Record It
+  permalink: /phone-audio/
+  short_title: Phone Audio
+  heading_title: Phone Mistakes That Bury Strange Sky Sounds
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2
+  title: Timeline Notes | Record It
+  permalink: /timeline-notes/
+  short_title: Timeline Notes
+  heading_title: What To Say While Recording A Mystery Noise
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_weather_notes_sky_no_5d5168
+  title: Weather Notes | Record It
+  permalink: /weather-notes/
+  short_title: Weather Notes
+  heading_title: Weather Details That Change A Mystery Sound
+- basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_independent_witness_94dcb1
+  title: Witness Notes | Record It
+  permalink: /witness-notes/
+  short_title: Witness Notes
+  heading_title: Why Witnesses Should Write Separately First
+up_link:
+  basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
+  title: Record It | What Do UFO Witnesses Hear?
+  permalink: /record-it/
+  short_title: Record It
+  heading_title: How Should You Record a UFO Noise?
+prev_link:
+  basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7
+  title: Phone Audio | Record It
+  permalink: /phone-audio/
+  short_title: Phone Audio
+  heading_title: Phone Mistakes That Bury Strange Sky Sounds
+next_link:
+  basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2
+  title: Timeline Notes | Record It
+  permalink: /timeline-notes/
+  short_title: Timeline Notes
+  heading_title: What To Say While Recording A Mystery Noise
+date: '2026-05-31 04:59:40 '
+header:
+  og_image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-1-social.jpg
+  preview_image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-1.webp
+image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-1-social.jpg
+---
+
+## Introduction
+
+A spectrogram is one of the most useful tools for checking an unusual sky-noise recording because it can reveal patterns that are difficult to hear in real time. Instead of showing sound as a simple waveform, a spectrogram displays frequency on one axis, time on the other and signal strength through colour or brightness. This makes repeating pulses, tonal bands, pitch shifts and hidden harmonics visible at a glance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Spectrogram" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-1-light.svg" | relative_url }}" alt="Spectrograms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+For people investigating alleged [UFO noises]({{ 'ufo-noises/' | relative_url }}), a spectrogram rarely provides a definitive answer on its own. What it often does provide is a clue about whether a sound behaves like a helicopter, drone, jet [aircraft]({{ 'aircraft/' | relative_url }}), industrial machine, wind effect or something less easily classified. The value lies in pattern recognition rather than proof. A strange sound that seems featureless to the ear may show a highly structured signature once analysed.
+
+## Can A Spectrogram Explain A UFO Sound?
+
+Many reports of mysterious aerial sounds describe low hums, metallic drones, pulsing vibrations or distant rumbling. Human hearing is surprisingly poor at separating overlapping sounds, especially at night or over long distances. Spectrograms help because they convert those overlapping frequencies into visible structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_unexplained_sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of unexplained sounds</span><span class="citation-popover-snippet">List of unexplained soundsThe following is a list of sounds which are currently, or were previously, unidentified. All of the NOAA sou...</span></span></span>
+
+When examining a recording, investigators often look for three broad features:
+
+
+<div class="content-enhancement content-enhancement--benefit" markdown="1">
+
+* Stable horizontal bands.
+* Repeating pulses or rhythmic bursts.
+* Frequency shifts over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vibrationresearch.com/blog/what-is-a-spectrogram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vibrationresearch.com">[vibrationresearch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vibrationresearch.com</span><span class="citation-popover-title">Vibration Research What is a Spectrogram?</span><span class="citation-popover-snippet">What is a Spectrogram? - Signal AnalysisA spectrogram displays signal strength over time at the various frequencies present in a waveform...</span></span></span>
+
+</div>
+
+Each can point towards different kinds of sound source.
+
+A completely random atmospheric noise tends to appear as diffuse energy spread across frequencies. Mechanical systems, by contrast, often produce organised patterns that stand out clearly on a spectrogram. Rotating machinery, aircraft engines and propellers frequently generate repeated tonal structures and harmonics that remain visible even when the recording itself sounds confusing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Frequency-Destructive-Interference-curves-and-the-Spectrogram-of-light-plane-LB-3C_fig5_261395223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateFrequency Destructive Interference curves and the...Harmonics in spectrograms of light airplanes collected by a stationary m...</span></span></span>
+
+## What Horizontal Bands And Pulses Can Suggest
+
+One of the most common findings in supposed UFO-noise recordings is the appearance of horizontal frequency bands.
+
+Horizontal bands indicate that a sound is maintaining energy at roughly the same pitch over time. A single band may represent a steady tone. Multiple evenly spaced bands often indicate harmonics, meaning a fundamental frequency and its multiples. Harmonic structures are strongly associated with mechanical and rotating systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Frequency-Destructive-Interference-curves-and-the-Spectrogram-of-light-plane-LB-3C_fig5_261395223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateFrequency Destructive Interference curves and the...Harmonics in spectrograms of light airplanes collected by a stationary m...</span></span></span>
+
+For example:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A steady low-frequency band may indicate an engine, generator or distant turbine.
+* Multiple stacked bands can indicate propeller or rotor activity.
+* Narrow bright lines often suggest a tonal source rather than natural broadband noise.
+* Parallel bands that rise or fall together may indicate Doppler shifts caused by a moving aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Frequency-Destructive-Interference-curves-and-the-Spectrogram-of-light-plane-LB-3C_fig5_261395223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateFrequency Destructive Interference curves and the...Harmonics in spectrograms of light airplanes collected by a stationary m...</span></span></span>
+
+</div>
+
+Pulses appear differently. Instead of continuous lines, the spectrogram shows repeated bursts separated by gaps. These can reveal:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Rotor blade passages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2226-4310/10/6/502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIExperimental Analysis of Rotor Blade Noise in Edgewise...by NS Jamaluddin · 2023 · Cited by 25 — The acoustic spectra demonstrated a...</span></span></span>
+* Drone propeller cycles.
+* Rhythmic machinery.
+* Periodic aerodynamic effects.
+
+</div>
+
+Researchers studying aircraft and rotor acoustics frequently identify blade-passing frequencies and their harmonics through these repeating patterns. The resulting visual signature can remain obvious even when the sound seems like an indistinct drone to a listener on the ground. NASA Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustique.ec-lyon.fr">[2Acoustique École Centrale Lyon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustique.ec-lyon.fr</span><span class="citation-popover-snippet">the flight direction in the case of half-blade passage...Read more...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z9QFeZPoLak" title="NMC Learning at Home: Spectrograms &amp; Your Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z9QFeZPoLak" target="_blank" rel="noopener noreferrer">NMC Learning at Home: Spectrograms &amp; Your Voice</a></p><p class="youtube-embed-meta">Channel: National Music Centre &middot; Views: 7.3K &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z9QFeZPoLak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z9QFeZPoLak">Open on YouTube</a></p></div></div></div>
+
+## Why Rotor And Propeller Sounds Often Look Mysterious
+
+Some of the most dramatic "unidentified" sounds become less mysterious when viewed as rotor-generated noise.
+
+Helicopters, drones and propeller aircraft generate tones linked to blade-passing frequency. This occurs when rotating blades repeatedly disturb the air and create periodic pressure fluctuations. On a spectrogram, the result commonly appears as evenly spaced horizontal bands or ladders of harmonics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustique.ec-lyon.fr">[acoustique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustique.ec-lyon.fr</span><span class="citation-popover-snippet">the flight direction in the case of half-blade passage...Read more...</span></span></span> École Centrale Lyon <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/pdf/10.2514/3.45542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalSpectral characteristics of rotor blade/vortex interaction noiseby RM Martin · 1988 · Cited by 15 — The trends of the blade p...</span></span></span>
+
+Distance complicates interpretation. Atmospheric conditions can remove higher frequencies while preserving lower ones. A helicopter several kilometres away may therefore lose its familiar chopping character and instead resemble a strange [humming]({{ 'humming/' | relative_url }}) resonance. The spectrogram may still reveal harmonic spacing associated with rotor activity even when the listener no longer recognises the sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/pdf/10.2514/3.45542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalSpectral characteristics of rotor blade/vortex interaction noiseby RM Martin · 1988 · Cited by 15 — The trends of the blade p...</span></span></span>
+
+Modern drones add another layer of confusion. Multiple rotors produce interacting tones and harmonics that can create unusual beating effects and fluctuating intensity patterns. Acoustic studies of quadrotor aircraft show that rotor systems generate tonal components at blade-passing frequencies alongside broader turbulence-related noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustique.ec-lyon.fr">[acoustique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustique.ec-lyon.fr</span><span class="citation-popover-snippet">the flight direction in the case of half-blade passage...Read more...</span></span></span> École Centrale Lyon <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/10/6/502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIExperimental Analysis of Rotor Blade Noise in Edgewise...by NS Jamaluddin · 2023 · Cited by 25 — The acoustic spectra demonstrated a...</span></span></span>
+
+This is one reason why some recordings initially described as "alien" or "otherworldly" later prove consistent with drone operations.
+
+## Aircraft, Rotor, Wind And Machinery Patterns
+
+The strongest use of a spectrogram is comparison.
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-2-light.svg" | relative_url }}" alt="Spectrograms illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Aircraft Signatures
+
+Aircraft often produce visible frequency shifts as they approach and recede. The Doppler effect can cause harmonic bands to curve upward and then downward through time. Research on aircraft acoustic signatures specifically uses spectrogram harmonics to estimate aircraft movement and characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/figure/Frequency-Destructive-Interference-curves-and-the-Spectrogram-of-light-plane-LB-3C_fig5_261395223" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateFrequency Destructive Interference curves and the...Harmonics in spectrograms of light airplanes collected by a stationary m...</span></span></span>
+
+Jet aircraft can also generate multiple tonal components, especially during high-power operation. Fan and compressor systems create harmonic structures that may appear as parallel bands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.chalmers.se">[research.chalmers.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.chalmers.se</span><span class="citation-popover-snippet">Aircraft Noise Prediction: from Trajectory to Synthesisby EM Thoma · 2024 · Cited by 5 — Tones are generated at integer multiples of the...</span></span></span>
+
+### Rotor Systems
+
+Rotor systems tend to produce repeating tonal ladders. Harmonics frequently appear at predictable intervals, corresponding to blade-passing events and rotational speed. Investigators often look for these evenly spaced patterns when checking recordings attributed to unknown aerial objects. NASA Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustique.ec-lyon.fr">[2Acoustique École Centrale Lyon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustique.ec-lyon.fr</span><span class="citation-popover-snippet">the flight direction in the case of half-blade passage...Read more...</span></span></span>
+
+### Wind Noise
+
+Wind can produce surprisingly dramatic recordings while leaving a relatively different visual signature.
+
+Strong wind striking a microphone often creates broadband energy spread across a wide range of frequencies rather than clean tonal bands. Gusts may appear as irregular clouds or bursts rather than stable harmonic structures. Recording studies consistently identify wind as a major source of contamination in environmental audio analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1470160X24002164" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInfluence of recording devices and environmental noise on...by C Zhang · 2024 · Cited by 26 — This study investigated the i...</span></span></span>
+
+This distinction matters because witnesses sometimes interpret microphone wind overload as an external atmospheric phenomenon.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0loVfl2Lq4s" title="Spectrogram explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0loVfl2Lq4s" target="_blank" rel="noopener noreferrer">Spectrogram explained</a></p><p class="youtube-embed-meta">Channel: Srinath Srinivasan &middot; Views: 8.8K &middot; Uploaded: January 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0loVfl2Lq4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0loVfl2Lq4s">Open on YouTube</a></p></div></div></div>
+
+### Industrial And Infrastructure Sources
+
+Factories, ventilation systems, pumps, turbines and electrical equipment often generate remarkably stable frequency bands. A distant industrial source can create a low-frequency hum that appears mysterious to nearby residents, particularly at night when background noise decreases.
+
+Spectrogram analysis frequently shows that these sounds remain fixed in frequency for long periods, unlike aircraft or moving aerial sources. The stability itself becomes an important clue.
+
+## When A Spectrogram Reveals Something Unexpected
+
+Not every recording fits a simple category.
+
+Researchers in environmental sound classification regularly encounter mixed soundscapes where multiple sources overlap. A spectrogram can expose combinations that are difficult to hear directly, such as aircraft noise masked by wind, machinery mixed with traffic or overlapping drone and environmental sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-021-01045-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureEnvironmental sound classification using temporal...by W Mu · 2021 · Cited by 159 — A temporal-frequency attention based convoluti...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-8994/12/11/1822" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Efficient Classification of Environmental Sounds through...by Z Mushtaq · 2020 · Cited by 76 — This paper reports our study on employing...</span></span></span>
+
+In some cases, a recording that initially seems dominated by one strange tone turns out to contain several independent sources operating simultaneously. A low-frequency industrial hum might sit beneath an aircraft pass, creating a composite sound that feels unusual to witnesses.
+
+This possibility is important because many famous mystery-sound reports occur in acoustically complex environments rather than quiet laboratory conditions.
+
+One example discussed within unidentified aerial phenomenon circles involved a reported mystery sound whose spectrogram showed nearby aircraft signatures complicating interpretation. The visual evidence did not automatically identify the source, but it demonstrated how easily aviation noise can overlap with supposedly anomalous recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Mystery Sound of an Unidentified Anomalous Phenomenon</span><span class="citation-popover-snippet">MediumMystery Sound of an Unidentified Anomalous PhenomenonNovember 10, 2023 — Here is a spectrogram of 10 minutes with the mystery sound...</span><span class="citation-popover-meta">Published: November 10, 2023</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-3-light.svg" | relative_url }}" alt="Spectrograms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spectrogram_clues_e63753-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Visual Audio Clues Still Need Context
+
+A spectrogram is powerful, but it is not a lie detector for UFO claims.
+
+Several factors can create misleading patterns:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Microphone distortion.
+* Automatic gain control in phones.
+* Wind striking the microphone.
+* Compression artefacts from social media uploads.
+* Echoes from buildings or terrain.
+* Multiple overlapping sound sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1470160X24002164" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInfluence of recording devices and environmental noise on...by C Zhang · 2024 · Cited by 26 — This study investigated the i...</span></span></span>
+
+</div>
+
+The same visual structure can also arise from very different physical causes. A harmonic ladder might indicate a helicopter, a drone, a turbine or another rotating machine. Identification usually depends on combining the spectrogram with time, location, weather conditions and known activity in the area.
+
+This is why professional [acoustic monitoring]({{ 'sensors/' | relative_url }}) projects place such importance on metadata and environmental context rather than relying on the image alone. A spectrogram can show that a sound is organised, periodic or mechanical, but it cannot automatically reveal what produced it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://etheses.whiterose.ac.uk/id/eprint/28401/2/MCG_Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etheses.whiterose.ac.uk">[White Rose eTheses Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etheses.whiterose.ac.uk</span><span class="citation-popover-title">MCG Thesis</span><span class="citation-popover-snippet">White Rose eTheses OnlineEnvironmental Sound Monitoring Using Machine Listening...4 Feb 2021 — This thesis investigates how the technolo...</span></span></span>
+
+For UFO-noise investigations, the most useful approach is to treat the spectrogram as evidence of structure rather than evidence of origin. It can reveal hidden pulses, harmonics and frequency movements that the ear misses, helping separate genuinely unusual recordings from sounds that match known aircraft, rotorcraft, weather or machinery behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vibrationresearch.com/blog/what-is-a-spectrogram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vibrationresearch.com">[Vibration Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vibrationresearch.com</span><span class="citation-popover-title">Vibration Research What is a Spectrogram?</span><span class="citation-popover-snippet">What is a Spectrogram? - Signal AnalysisA spectrogram displays signal strength over time at the various frequencies present in a waveform...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ejPYe48DmV0" title="Understanding Spectrograms | Studio Acoustics Masterclass at The Blackbird Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ejPYe48DmV0" target="_blank" rel="noopener noreferrer">Understanding Spectrograms | Studio Acoustics Masterclass at The Blackbird Academy</a></p><p class="youtube-embed-meta">Channel: GIK Acoustics &middot; Views: 1.4K &middot; Uploaded: November 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ejPYe48DmV0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ejPYe48DmV0">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can A Spectrogram Explain A UFO Sound?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sound Book: The Science of the Sonic Wonders of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rATGAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sound Book: The Science of the Sonic Wonders of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sound Book: The Science of the Sonic Wonders of the World">The Sound Book: The Science of the Sonic Wonders of the World</a>
+        </h4>
+        <p class="fr-book-author">By Trevor Cox</p>
+        
+        <p class="fr-book-desc">Introduces how sound behaves and how unusual noises can be interpreted.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Recording Techniques on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4gQoldrNGKgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Recording Techniques" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Recording Techniques">Practical Recording Techniques</a>
+        </h4>
+        <p class="fr-book-author">By Bruce Bartlett</p>
+        
+        <p class="fr-book-desc">Covers audio analysis concepts useful when interpreting spectrograms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Audio+Expert+by+Ethan+Winer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Audio Expert on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf0YQAUWGfgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Audio Expert" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Audio+Expert+by+Ethan+Winer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Audio Expert">The Audio Expert</a>
+        </h4>
+        <p class="fr-book-author">By Ethan Winer</p>
+        
+        <p class="fr-book-desc">Explains frequencies, harmonics and signal behavior visible on spectrograms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Audio+Expert+by+Ethan+Winer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I3n0AgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
+        </h4>
+        <p class="fr-book-author">By Trisha Greenhalgh</p>
+        
+        <p class="fr-book-desc">Encourages evidence-based interpretation rather than overreading patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sound Book: The Science of the Sonic Wonders of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Recording+Techniques&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Recording Techniques</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Audio+Expert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Audio Expert</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spectrograms-can-a-spectrogram-explain-a-ufo-sound-ufo-noises-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  if (!sections.length) return;
+  function inferMarket(available) {
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      return window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: 'EBAY_US'
+      });
+    }
+    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
+    return available[0];
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-market-init') === '1') return;
+    section.setAttribute('data-ebay-market-init', '1');
+    var select = section.querySelector('[data-ebay-market-select]');
+    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
+    if (!select || panels.length < 2) return;
+    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
+    function selectMarket(marketId, persist) {
+      panels.forEach(function (panel) {
+        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
+        panel.hidden = !active;
+      });
+      if (available.indexOf(marketId) >= 0) select.value = marketId;
+      var option = select.options[select.selectedIndex];
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+        flag.className = flagClass(marketId);
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+        label.textContent = option ? option.text : marketId;
+      });
+      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      });
+      if (persist) {
+        try {
+          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
+        } catch (err) {}
+      }
+      closeMenu(section);
+    }
+    select.addEventListener('change', function () {
+      selectMarket(select.value, true);
+    });
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    selectMarket(inferMarket(available), false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Spectrogram](https://en.wikipedia.org/wiki/Spectrogram)  
+
+2. <a id="endnote-2"></a>
+   Source: nature.com  
+   Link: [https://www.nature.com/articles/s41598-021-01045-4](https://www.nature.com/articles/s41598-021-01045-4)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureEnvironmental sound classification using temporal...by W Mu · 2021 · Cited by 159 — A temporal-frequency attention based convoluti...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/figure/Frequency-Destructive-Interference-curves-and-the-Spectrogram-of-light-plane-LB-3C_fig5_261395223](https://www.researchgate.net/figure/Frequency-Destructive-Interference-curves-and-the-Spectrogram-of-light-plane-LB-3C_fig5_261395223)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateFrequency Destructive Interference curves and the...Harmonics in spectrograms of light airplanes collected by a stationary m...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: research.chalmers.se  
+   Link: [https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf](https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Prediction: from Trajectory to Synthesisby EM Thoma · 2024 · Cited by 5 — Tones are generated at integer multiples of the...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: ntrs.nasa.gov  
+   Link: [https://ntrs.nasa.gov/api/citations/19770026169/downloads/19770026169.pdf](https://ntrs.nasa.gov/api/citations/19770026169/downloads/19770026169.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Serverstudy of noise and inflow distortion sources in the nasa qf-...October 3, 2000 — by DB Hanson · 1977 · Cite...</p></details>
+   Published: October 3, 2000  
+
+6. <a id="endnote-6"></a>
+   Source: mdpi.com  
+   Link: [https://www.mdpi.com/2226-4310/10/6/502](https://www.mdpi.com/2226-4310/10/6/502)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIExperimental Analysis of Rotor Blade Noise in Edgewise...by NS Jamaluddin · 2023 · Cited by 25 — The acoustic spectra demonstrated a...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: arc.aiaa.org  
+   Link: [https://arc.aiaa.org/doi/pdf/10.2514/3.45542](https://arc.aiaa.org/doi/pdf/10.2514/3.45542)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalSpectral characteristics of rotor blade/vortex interaction noiseby RM Martin · 1988 · Cited by 15 — The trends of the blade p...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S1470160X24002164](https://www.sciencedirect.com/science/article/pii/S1470160X24002164)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInfluence of recording devices and environmental noise on...by C Zhang · 2024 · Cited by 26 — This study investigated the i...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: mdpi.com  
+   Link: [https://www.mdpi.com/2073-8994/12/11/1822](https://www.mdpi.com/2073-8994/12/11/1822)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficient Classification of Environmental Sounds through...by Z Mushtaq · 2020 · Cited by 76 — This paper reports our study on employing...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: avi-loeb.medium.com  
+   Title: Mystery Sound of an Unidentified Anomalous Phenomenon  
+   Link: [https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2](https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumMystery Sound of an Unidentified Anomalous PhenomenonNovember 10, 2023 — Here is a spectrogram of 10 minutes with the mystery sound...</p></details>
+   Published: November 10, 2023  
+
+11. <a id="endnote-11"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S1000936119301098](https://www.sciencedirect.com/science/article/pii/S1000936119301098)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>As shown in Fig...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/345260947_Efficient_Classification_of_Environmental_Sounds_through_Multiple_Features_Aggregation_and_Data_Enhancement_Techniques_for_Spectrogram_Images](https://www.researchgate.net/publication/345260947_Efficient_Classification_of_Environmental_Sounds_through_Multiple_Features_Aggregation_and_Data_Enhancement_Techniques_for_Spectrogram_Images)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Efficient Classification of Environmental Sounds...3 Nov 2020 — This paper reports our study on employing various acoustic feature...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: Wikipedia  
+   Title: List of unexplained sounds  
+   Link: [https://en.wikipedia.org/wiki/List_of_unexplained_sounds](https://en.wikipedia.org/wiki/List_of_unexplained_sounds)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of unexplained soundsThe following is a list of sounds which are currently, or were previously, unidentified. All of the NOAA sou...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: news.sky.com  
+   Title: mysterious sounds could help scientists detect deadly tornadoes 11870750  
+   Link: [https://news.sky.com/story/mysterious-sounds-could-help-scientists-detect-deadly-tornadoes-11870750](https://news.sky.com/story/mysterious-sounds-could-help-scientists-detect-deadly-tornadoes-11870750)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>sounds could help scientists detect deadly...26 Nov 2019 — The research team suggests with more tests, they could be able to detect a to...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: vibrationresearch.com  
+   Title: Vibration Research What is a Spectrogram?  
+   Link: [https://vibrationresearch.com/blog/what-is-a-spectrogram/](https://vibrationresearch.com/blog/what-is-a-spectrogram/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Spectrogram? - Signal AnalysisA spectrogram displays signal strength over time at the various frequencies present in a waveform...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: acoustique.ec-lyon.fr  
+   Link: [https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf](https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the flight [direction](&amp;#123;&amp;#123; &#x27;direction/&#x27; | relative_url &amp;#125;&amp;#125;) in the case of half-blade passage...Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: etheses.whiterose.ac.uk  
+   Title: MCG Thesis  
+   Link: [https://etheses.whiterose.ac.uk/id/eprint/28401/2/MCG_Thesis.pdf](https://etheses.whiterose.ac.uk/id/eprint/28401/2/MCG_Thesis.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose eTheses OnlineEnvironmental Sound Monitoring Using Machine Listening...4 Feb 2021 — This thesis investigates how the technolo...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: kaggle.com  
+   Link: [https://www.kaggle.com/code/salimhammadi07/esc-50-environmental-sound-classification](https://www.kaggle.com/code/salimhammadi07/esc-50-environmental-sound-classification)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESC-50: Environmental Sound ClassificationA spectrogram can be useful for visualizing the frequency content of a sound over time, and for...</p></details>
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: headcountcoffee.com  
+   Title: unexplained sound phenomena and acoustic anomalies  
+   Link: [https://www.headcountcoffee.com/blogs/coffee-news/unexplained-sound-phenomena-and-acoustic-anomalies?srsltid=AfmBOoqXZ5SiYM_H6Xuv9etL87wDcuSJKjPt10kHMC3JrUb0h1APJs-R](https://www.headcountcoffee.com/blogs/coffee-news/unexplained-sound-phenomena-and-acoustic-anomalies?srsltid=AfmBOoqXZ5SiYM_H6Xuv9etL87wDcuSJKjPt10kHMC3JrUb0h1APJs-R)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2026 — Strange sounds from [sky trumpets](&amp;#123;&amp;#123; &#x27;sky-trumpets/&#x27; | relative_url &amp;#125;&amp;#125;) to the [Taos Hum](&amp;#123;&amp;#123; &#x27;taos-hum/&#x27; | relative_url &amp;#125;&amp;#125;). Explore unexplained acoustic phenomena, fear triggers, and...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: soundoflife.com  
+   Title: strange sounds heard around the world  
+   Link: [https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world](https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Mysterious Noises Heard Around the World2 Apr 2023 — Coming from our planet&#x27;s surface, the ocean depths and even outer space, he...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: repository.cam.ac.uk  
+   Link: [https://www.repository.cam.ac.uk/items/6aba81ef-0d56-4cac-9e4e-ea3cc19f0260](https://www.repository.cam.ac.uk/items/6aba81ef-0d56-4cac-9e4e-ea3cc19f0260)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University RepositoryRetrieving spectral information of individual noise sources...by I Besnea · 2026 — For the A321neo and th...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: bruit.fr  
+   Link: [https://www.bruit.fr/revues/78_09968.PDF](https://www.bruit.fr/revues/78_09968.PDF)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Active control of the blade passage frequency noise level of...by J Schulz · Cited by 25 — In this study, the required anti-phase sound...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12064345/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12064345/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF NOISE GENERATED BY WIND TURBINES...by A Staniek · 2025 · Cited by 1 — This paper presents an analysis of selected low-frequency noise...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2603.08154](https://arxiv.org/abs/2603.08154)  
+
+25. <a id="endnote-25"></a>
+   Source: worldscientific.com  
+   Link: [https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoprMOp_29picHTMUIzUMKYjHX3TOxnryyIkUbnrSvxwti8O8Vv6](https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoprMOp_29picHTMUIzUMKYjHX3TOxnryyIkUbnrSvxwti8O8Vv6)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — A passive, multi-band, field microphone suite designe...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: arxiv.org  
+   Title: arXiv Low-Frequency Intensity Modulation of High-Frequency Rotor Noise  
+   Link: [https://arxiv.org/abs/2310.01056](https://arxiv.org/abs/2310.01056)  
+
+27. <a id="endnote-27"></a>
+   Source: youtu.be  
+   Title: How to interpret a Spectrograph  
+   Link: [https://youtu.be/xZfHCvMrTh8](https://youtu.be/xZfHCvMrTh8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectrogram Deep Dive: Visualize and Hear the Hidden World of Data - YouTube BioniChaos...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: frontiersin.org  
+   Link: [https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.761147/full](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.761147/full)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using a Novel Visualization Tool for Rapid Survey of Long-...by S Brodie · 2022 · Cited by 14 — This paper explores the efficacy of usin...</p></details>

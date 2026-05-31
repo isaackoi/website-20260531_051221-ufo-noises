@@ -1,0 +1,609 @@
+---
+level: 3
+basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2
+parent_basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
+child_basenames: []
+sibling_basenames:
+- ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c
+- ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b
+- ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86
+- ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4
+tags:
+- ufo-noises
+- industry
+- pipelines
+keywords:
+- ufo-noises
+- industry
+- pipelines
+affiliate_category: ufo-noises
+show_ads: true
+description: Pipeline pumps, compressors, and gas infrastructure can generate deep vibrations that travel through air and ground.
+hero_summary: Pipeline pumps, compressors, and gas infrastructure can generate deep vibrations that travel through air and ground.
+layout: default
+permalink: /pipelines/
+sidebar_expanded_urls:
+- /ufo-noises/
+- /industry/
+nav_short_title: Pipelines
+title: Can Pipeline Machinery Explain a Mystery Drone?
+title_full: Can Pipeline Machinery Explain a Mystery Drone? | Industry
+display_title_short: Pipelines
+display_title: Pipelines
+heading_title: Can Pipeline Machinery Explain a Mystery Drone?
+page_heading_title: Can Pipeline Machinery Explain a Mystery Drone?
+source_count: 39
+infographic_count: 3
+planned_sections:
+- How compressors and pumps produce low drones
+- Why pipeline noise may be felt as vibration
+- Clues from maps, routes, and operating patterns
+focal_unit_type: population_context
+topic_lens: evidence
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Could That UFO Noise Be Machinery? | UFO Noises
+parent_permalink: /industry/
+parent_nav_short_title: Industry
+parent_heading_title: Could That UFO Noise Be Machinery?
+ancestor_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
+  title: Industry | What Do UFO Witnesses Hear?
+  permalink: /industry/
+  short_title: Industry
+  heading_title: Could That UFO Noise Be Machinery?
+breadcrumb_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
+  title: Industry | What Do UFO Witnesses Hear?
+  permalink: /industry/
+  short_title: Industry
+  heading_title: Could That UFO Noise Be Machinery?
+sibling_links:
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c
+  title: Bristol Hum | Industry
+  permalink: /bristol-hum/
+  short_title: Bristol Hum
+  heading_title: Why the Bristol Hum Still Points Toward Industry
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b
+  title: Factory Fans | Industry
+  permalink: /factory-fans/
+  short_title: Factory Fans
+  heading_title: When Factory Fans Sound Like Something Overhead
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86
+  title: Omagh Hum | Industry
+  permalink: /omagh-hum/
+  short_title: Omagh Hum
+  heading_title: Why Some Hum Investigations Do Not End Cleanly
+- basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4
+  title: Transformer Hum | Industry
+  permalink: /transformer-hum/
+  short_title: Transformer Hum
+  heading_title: Is That Sky Buzz Coming From a Substation?
+up_link:
+  basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
+  title: Industry | What Do UFO Witnesses Hear?
+  permalink: /industry/
+  short_title: Industry
+  heading_title: Could That UFO Noise Be Machinery?
+prev_link:
+  basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86
+  title: Omagh Hum | Industry
+  permalink: /omagh-hum/
+  short_title: Omagh Hum
+  heading_title: Why Some Hum Investigations Do Not End Cleanly
+next_link:
+  basename: ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4
+  title: Transformer Hum | Industry
+  permalink: /transformer-hum/
+  short_title: Transformer Hum
+  heading_title: Is That Sky Buzz Coming From a Substation?
+date: '2026-05-31 05:03:18 '
+header:
+  og_image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-social.jpg
+  preview_image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1.webp
+image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Reports of “[UFO noises]({{ 'ufo-noises/' | relative_url }})” often focus on lights in the sky, but many witnesses first notice something else: a deep mechanical drone that seems too large, too distant or too directionless to have an obvious source. One overlooked explanation is gas infrastructure. High-pressure pipelines, compressor stations, metering facilities and large industrial pumps can generate persistent low-frequency sounds and vibrations that travel far beyond the visible facility itself. Under the right conditions, the result can feel less like machinery and more like a hovering object, a distant engine suspended in the air, or an unseen presence vibrating through the ground. Studies of compressor-station noise and investigations into long-running “hum” complaints show that pipeline systems can produce exactly the kinds of low rumbles, pulses and resonant vibrations that people often describe in mystery-noise reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.06277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Controlling transient gas flow in real-world pipeline intersection areas</span><span class="citation-popover-snippet">arXiv Controlling transient gas flow in real-world pipeline intersection areas</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5378322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5378322</span><span class="citation-popover-snippet">annoyance) for homes located within 750 m from the nearest compressor station. ... Low frequency noise and annoyance. Noise Health [Inter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-light.svg" | relative_url }}" alt="Pipelines illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The most important detail is not loudness alone but frequency. Many pipeline-related sounds fall into the low-frequency range, producing a deep hum or rumble rather than a sharp mechanical noise. Engineers studying compressor facilities identify several contributing mechanisms:
+
+* Rotating compressor machinery creating continuous tonal noise.
+* Pressure fluctuations inside pipelines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[cerjan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+* Turbulent gas flow through valves and regulators.
+* Acoustic resonance within pipes and connected equipment.
+* Pulsations generated by reciprocating compressors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventx.co.uk">[Ventx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventx.co.uk</span><span class="citation-popover-title">Ventx How is noise created in natural gas pipelines?</span><span class="citation-popover-snippet">Ventx23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Cerjan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span> Acoustics](#endnote-1 "Snippet: Cerjan AcousticsGas Transmission & Compressor Station NoiseThe noise originates from various sources, including the compressors themselve")
+
+In practical terms, these sounds can resemble distant [aircraft]({{ 'aircraft/' | relative_url }}), heavy diesel engines or the rhythmic throb of a helicopter heard from many kilometres away. Because the source is often fenced off, hidden behind terrain or located in remote utility corridors, listeners may never connect the sound to pipeline infrastructure.
+
+Some specialist noise-control firms serving the gas [industry]({{ 'industry/' | relative_url }}) specifically describe “hum” and “flutter” effects associated with high-pressure gas transmission, where pressure waves and turbulence create low-frequency acoustic phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventx.co.uk">[Ventx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventx.co.uk</span><span class="citation-popover-title">Ventx How is noise created in natural gas pipelines?</span><span class="citation-popover-snippet">Ventx23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</span></span></span>
+
+## Why Pipeline Noise May Be Felt as Vibration
+
+One reason pipeline-related sounds can seem unusual is that people do not always experience them primarily through hearing.
+
+Low-frequency sound travels differently from higher-pitched noise. It penetrates buildings more effectively, bends around obstacles and can be accompanied by physical vibration. Residents near compressor stations have reported sensations ranging from window rattling and floor vibration to pressure-like feelings in rooms. Research examining homes near compressor stations found evidence of low-frequency noise exposure, particularly at locations closest to the facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5378322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5378322</span><span class="citation-popover-snippet">annoyance) for homes located within 750 m from the nearest compressor station. ... Low frequency noise and annoyance. Noise Health [Inter...</span></span></span>
+
+Acoustic researchers have also noted that some environmental low-frequency noise may be transmitted partly through ground vibration, creating structure-borne sound inside buildings. In those situations, a person may hear a hum indoors while struggling to identify a clear outdoor source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.lboro.ac.uk">[Loughborough Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.lboro.ac.uk</span><span class="citation-popover-snippet">Loughborough Research RepositoryInvestigation of environmental low-frequency noiseby VV Krylov · Cited by 7 — According to this hypothesi...</span></span></span>
+
+This helps explain a recurring feature of mystery-noise reports:
+
+* The sound feels larger than any visible machine.
+* Vibrations seem to come from walls, floors or furniture.
+* The apparent [direction]({{ 'direction/' | relative_url }}) changes as the listener moves.
+* The noise can be stronger indoors than outdoors.
+* The sensation may be described as pressure rather than sound.
+
+Such experiences can easily be interpreted as something airborne or hovering nearby, especially during the night when other environmental noise is reduced.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oqz2QNV58fw" title="Imagine Dragons - Natural (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oqz2QNV58fw" target="_blank" rel="noopener noreferrer">Imagine Dragons - Natural (Lyrics)</a></p><p class="youtube-embed-meta">Channel: 7clouds &middot; Views: 13.0M &middot; Uploaded: December 2022 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oqz2QNV58fw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oqz2QNV58fw">Open on YouTube</a></p></div></div></div>
+
+## Why the Source Can Seem Much Farther Away Than It Really Is
+
+Pipeline systems create a particular kind of identification problem. The infrastructure itself is often invisible.
+
+Transmission pipelines may run through forests, farmland, industrial estates or utility corridors. Compressor stations can sit kilometres away from residential areas while remaining connected to vast networks of buried steel pipe. Someone hearing a low drone may not know that major gas infrastructure exists nearby at all.
+
+Weather conditions further complicate matters. Temperature [inversions]({{ 'inversions/' | relative_url }}) and stable nighttime air can allow low-frequency sounds to propagate over longer distances. The listener hears a persistent rumble but sees no factory chimney, turbine hall or obvious industrial complex. The result can feel detached from any earthly source.
+
+Noise-control specialists working with pipeline operators note that topography, terrain and atmospheric conditions can strongly influence how compressor-station noise spreads across surrounding areas. A facility hidden beyond a ridge or behind woodland may still be audible in a distant neighbourhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundfighter.com">[Sound Fighter Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundfighter.com</span><span class="citation-popover-title">reducing noise natural gas compressor station</span><span class="citation-popover-snippet">Sound Fighter SystemsNatural Gas Compressor Stations And Reducing Noise...Nov 2, 2017 — Minimizing the constant hum of equipment · Using...</span></span></span>
+
+This disconnect between sound and visibility is one reason pipeline-related noise occasionally enters UFO discussions. Witnesses are responding to a real physical stimulus, but the source remains hidden.
+
+## Pipeline Theories in Hum Investigations
+
+The broader “Hum” phenomenon provides a useful example of how gas infrastructure enters discussions of unexplained sound.
+
+Reports of persistent low-frequency hums have appeared in places including the United Kingdom, Canada, New Zealand and the United States. While no single explanation accounts for every case, industrial machinery is one of the most frequently investigated causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+
+Mechanical engineer Steve Kohlhase became known for arguing that many reported hum locations appeared near high-pressure gas pipelines. His work attracted attention because witnesses often described vibrations and low-frequency droning rather than ordinary audible noise. Although his conclusions remain debated and are not universally accepted, the theory illustrates how pipeline infrastructure became part of serious attempts to explain mystery-hum reports rather than purely speculative UFO narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+
+Importantly, the evidence does not show that all hum reports originate from pipelines. Researchers studying the phenomenon continue to point to multiple possible causes, including industrial facilities, power infrastructure, environmental acoustics and, in some cases, human auditory perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-2-light.svg" | relative_url }}" alt="Pipelines illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Clues From Maps, Routes and Operating Patterns
+
+When investigators attempt to identify a mysterious drone or vibration, pipeline infrastructure is often easier to overlook than factories or airports because much of it is underground. However, several clues can point toward a utility-related source.
+
+### Hidden Industrial Corridors
+
+A residential area may appear quiet on the surface while sitting near:
+
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[* High-pressure transmission pipelines.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrdc.org">[* Compressor stations.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrdc.org</span><span class="citation-popover-title">live tape dangerous noise emitted natural gas compressor stations neighborhoods</span><span class="citation-popover-snippet">Live on tape: the dangerous noise emitted by natural gas...Feb 22, 2010 — Low-frequency noise (LFN), also created by compressor stations...</span></span></span>
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Gas metering facilities.
+* Pressure-regulation stations.
+* Industrial pumping installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+
+</div>
+
+Pipeline-route maps sometimes reveal major infrastructure within a few kilometres of locations where residents report unexplained low-frequency noise.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-IENT7aBZik" title="Fluke Webinar: Using Acoustic Imaging to Detect Compressed Gas Leaks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-IENT7aBZik" target="_blank" rel="noopener noreferrer">Fluke Webinar: Using Acoustic Imaging to Detect Compressed Gas Leaks</a></p><p class="youtube-embed-meta">Channel: TEquipment &middot; Views: 6.5K &middot; Uploaded: September 2019 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-IENT7aBZik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-IENT7aBZik">Open on YouTube</a></p></div></div></div>
+
+### Timing Patterns
+
+Pipeline facilities do not always operate at a constant level. Changes in gas demand, maintenance activities, valve operations and compressor cycling can alter noise output. Witnesses may therefore report sounds that appear intermittently rather than continuously.
+
+This irregularity can make the phenomenon seem even more mysterious. A noise that disappears for days and then suddenly returns may feel less like industrial machinery and more like an unexplained event.
+
+### Correlation With Industrial Activity
+
+Some investigations find that reported vibrations become stronger during periods of increased industrial operation. Engineers studying compressor-station vibration have identified pressure fluctuations, acoustic resonance and flow-related effects as major contributors to abnormal vibration behaviour in pipeline systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateAnalysis and Research on Pipeline Vibration of a Natural...December 17, 2020 — The main conclusions are as follows: (1) The...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+
+For investigators, matching complaint times against known infrastructure operations can sometimes reveal patterns that are invisible to residents experiencing the sound.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zIYgc7JE8Nc" title="Module 2, Pulsations and Other Forces in a Reciprocating Compressor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zIYgc7JE8Nc" target="_blank" rel="noopener noreferrer">Module 2, Pulsations and Other Forces in a Reciprocating Compressor</a></p><p class="youtube-embed-meta">Channel: Vibration, dynamics and noise &middot; Views: 38.5K &middot; Uploaded: May 2012 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zIYgc7JE8Nc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zIYgc7JE8Nc">Open on YouTube</a></p></div></div></div>
+
+## Why a Mechanical Drone Can Sound Like Something in the Sky
+
+Human hearing is relatively poor at locating low-frequency sound. Deep drones lack the directional cues that make higher-frequency sounds easier to pinpoint. As a result, listeners often describe low-frequency [industrial noise]({{ 'industry/' | relative_url }}) as surrounding them rather than coming from a specific location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+
+A pipeline-related hum can therefore create a surprisingly UFO-like experience:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* The sound appears to hover.
+* The source cannot be seen.
+* Ground vibration accompanies the noise.
+* The drone seems to come from everywhere at once.
+* Walking toward the perceived source does not necessarily make it louder.
+
+</div>
+
+When combined with darkness, atmospheric sound propagation and the hidden nature of gas infrastructure, ordinary compressor or pipeline operations can produce reports that sound extraordinary in retelling. The mystery often lies not in the existence of the sound itself, but in how effectively low-frequency industrial noise conceals its true origin. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-3-light.svg" | relative_url }}" alt="Pipelines illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can Pipeline Machinery Explain a Mystery Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
+        </h4>
+        <p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
+        
+        <p class="fr-book-desc">Covers low-frequency machinery, vibration, and environmental noise transmission.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Environmental Engineering and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_JgoAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Environmental Engineering and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Environmental Engineering and Science">Introduction to Environmental Engineering and Science</a>
+        </h4>
+        <p class="fr-book-author">By Gilbert M. Masters, Wendell Ela</p>
+        
+        <p class="fr-book-desc">Provides infrastructure and environmental impact context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
+        </h4>
+        <p class="fr-book-author">By Mike Goldsmith</p>
+        
+        <p class="fr-book-desc">Useful primer on sound behaviour relevant to pipeline drones.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
+        </h4>
+        <p class="fr-book-author">By Eric J. Heller</p>
+        
+        <p class="fr-book-desc">Explains how low-frequency sound can be perceived over distance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Environmental+Engineering+and+Science+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Environmental Engineering and Science books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: cerjan.com  
+   Link: [https://www.cerjan.com/gas-transmission-and-compressor-station-noise/](https://www.cerjan.com/gas-transmission-and-compressor-station-noise/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: arxiv.org  
+   Title: arXiv Controlling transient gas flow in real-world pipeline intersection areas  
+   Link: [https://arxiv.org/abs/2206.06277](https://arxiv.org/abs/2206.06277)  
+
+3. <a id="endnote-3"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379](https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: The Hum  
+   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+
+5. <a id="endnote-5"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures](https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateAnalysis and Research on Pipeline Vibration of a Natural...December 17, 2020 — The main conclusions are as follows: (1) The...</p></details>
+   Published: December 17, 2020  
+
+6. <a id="endnote-6"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0955598625001220](https://www.sciencedirect.com/science/article/abs/pii/S0955598625001220)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on vibration characteristics and reduction...by J Lu · 2025 · Cited by 1 — This study provides theoretical insights and practic...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: vdn.woodgroup.com  
+   Link: [https://vdn.woodgroup.com/knowledge-center/vibration-issues-affecting-gas-compressor-facilities/](https://vdn.woodgroup.com/knowledge-center/vibration-issues-affecting-gas-compressor-facilities/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Issues Affecting Gas Compressor FacilitiesPressure pulsations at pocket passing frequency can create high vibration leading to pipe failu...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: ventx.co.uk  
+   Title: Ventx How is noise created in natural gas pipelines?  
+   Link: [https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/](https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ventx23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: ventx.co.uk  
+   Link: [https://ventx.co.uk/flutter-and-hum-explained/](https://ventx.co.uk/flutter-and-hum-explained/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>VentxFlutter and hum noise - Natural gas silencers - VentxApril 29, 2022 — 29 Apr 2022 — They occur due to the transmission of high press...</p></details>
+   Published: April 29, 2022  
+
+10. <a id="endnote-10"></a>
+   Source: repository.lboro.ac.uk  
+   Link: [https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf](https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loughborough Research RepositoryInvestigation of environmental low-frequency noiseby VV Krylov · Cited by 7 — According to this hypothesi...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: soundfighter.com  
+   Title: reducing noise natural gas compressor station  
+   Link: [https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/](https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Fighter SystemsNatural Gas Compressor Stations And Reducing Noise...Nov 2, 2017 — Minimizing the constant hum of equipment · Using...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: docs.wind-watch.org  
+   Link: [https://docs.wind-watch.org/Kohlhase-180215-infrasound-hum-gas-pipeline-syndrome.pdf](https://docs.wind-watch.org/Kohlhase-180215-infrasound-hum-gas-pipeline-syndrome.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocsThe Hum, It&#x27;s all about an Epidemic called Gas Pipeline...Moving high pressure through pipelines can create turbulence, v...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: dictionary.cambridge.org  
+   Link: [https://dictionary.cambridge.org/us/dictionary/english/natural](https://dictionary.cambridge.org/us/dictionary/english/natural)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionaryas found in nature and not involving anything made or done by people: a natural substance...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: merriam-webster.com  
+   Link: [https://www.merriam-webster.com/dictionary/natural](https://www.merriam-webster.com/dictionary/natural)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; Meaning4 days ago — 1. based on an inherent sense of right and wrong; natural justice. 2. a: being in accordance wi...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/TheHum/comments/1ascin1/the_hum_explained_by_an_industry_service_provider/](https://www.reddit.com/r/TheHum/comments/1ascin1/the_hum_explained_by_an_industry_service_provider/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hum explained by an industry service providerThey occur due to the transmission of high pressure natural gas through the set ups. The...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: dictionary.com  
+   Link: [https://www.dictionary.com/browse/natural](https://www.dictionary.com/browse/natural)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; MeaningNatural describes something that comes from nature, rather than being man-made. Your healthy friend who only...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: energy.sustainability-directory.com  
+   Link: [https://energy.sustainability-directory.com/area/compressor-station-broadband-noise/resource/3/](https://energy.sustainability-directory.com/area/compressor-station-broadband-noise/resource/3/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compressor Station Broadband Noise represents the pervasive, low-frequency acoustic energy emitted by natural gas compression facilities...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: nrdc.org  
+   Title: live tape dangerous noise emitted natural gas compressor stations neighborhoods  
+   Link: [https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods](https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live on tape: the dangerous noise emitted by natural gas...Feb 22, 2010 — Low-frequency noise (LFN), also created by compressor stations...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: independent.co.uk  
+   Link: [https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html](https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;[Bristol hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such as submarines...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: Fluke Webinar: Using Acoustic Imaging to Detect Compressed Gas Leaks  
+   Link: [https://www.youtube.com/watch?v=-IENT7aBZik](https://www.youtube.com/watch?v=-IENT7aBZik)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noisy Gas Compressor Station and Toxic Emissions - 9 -14-16 - YouTube Noisy Gas Compressor Station and Toxic Emissions - 9 -14-16 - YouTube...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: hazardexonthenet.net  
+   Title: Combating noise in gas pipeline transmission.aspx  
+   Link: [https://www.hazardexonthenet.net/article/114505/Combating-noise-in-gas-pipeline-transmission.aspx](https://www.hazardexonthenet.net/article/114505/Combating-noise-in-gas-pipeline-transmission.aspx)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating noise in gas pipeline transmission24 Dec 2015 — Low frequency noise, usually caused by standing waves, can result in the mechan...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: extension.psu.edu  
+   Title: understanding natural gas compressor stations  
+   Link: [https://extension.psu.edu/understanding-natural-gas-compressor-stations/](https://extension.psu.edu/understanding-natural-gas-compressor-stations/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Gas Compressor Stations26 Mar 2015 — As natural gas moves through a pipeline, distance, friction, and elevation differences slow...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: sites.google.com  
+   Link: [https://sites.google.com/site/metropolitanforensics/noise-issues-with-the-gas-compressor-stations-at-the-millennium-pipeline---minisink-compressor-station](https://sites.google.com/site/metropolitanforensics/noise-issues-with-the-gas-compressor-stations-at-the-millennium-pipeline---minisink-compressor-station)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISSUES WITH THE GAS COMPRESSOR...The next closest residences located to the north or east of the compressor station, after NSA No. 1, ar...</p></details>

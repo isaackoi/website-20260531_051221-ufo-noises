@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-05-31T04:10:04.143823Z",
+  "summary": {
+    "total_pages_with_permalink": 107,
+    "visible_pages": 91,
+    "hidden_pages": 16,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9_boom_timing_clues_51277e",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9_meteor_airburst_boom_b77f08",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9_seneca_guns_folklore_92e49e",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948_stock_audio_sky_trum_5bac52",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948_temperature_inversio_bca0a3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948_train_horns_sky_trum_de6e9e",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_internet_sky_sounds_488b3a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_sci_fi_ufo_sound_des_234a73",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_silent_ufo_reports_690069",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_ufo_hums_buzzes_5eea49",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad_chelyabinsk_acoustic_7e83b8",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5_drone_buzz_unfamilia_56560f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_record_check_ufo_noi_a48df5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_silent_ufo_sightings_76971d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_sky_trumpet_videos_7ce948",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_sonic_boom_claims_e68177",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_taos_hum_ufo_specula_b823ea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_ufo_noise_folklore_7b3b2f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_witness_memory_sound_0c49e1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214_low_frequency_hum_sk_75b402",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214_nighttime_mechanical_ff36ae",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb",
+        "type": "child"
+      },
+      {
+        "from": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "to": "ufo_noises_37edd1",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_acoustic_monitoring_609fad",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_aircraft_sound_mista_f42cc5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_atmospheric_acoustic_8ad214",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_humming_ufo_reports_8a7cf2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_industrial_noise_mis_f8566f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_infrasound_ufo_sensa_380040",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_noises_37edd1_buzzing_electrical_c_877b01",
+        "to": "ufo_noises_37edd1_mystery_booms_ufo_329ad9",
+        "type": "sibling"
+      }
+    ]
+  }
+}

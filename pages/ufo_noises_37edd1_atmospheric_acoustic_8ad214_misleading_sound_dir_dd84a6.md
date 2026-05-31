@@ -1,0 +1,642 @@
+---
+level: 3
+basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6
+parent_basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
+child_basenames: []
+sibling_basenames:
+- ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023
+- ufo_noises_37edd1_atmospheric_acoustic_8ad214_low_frequency_hum_sk_75b402
+- ufo_noises_37edd1_atmospheric_acoustic_8ad214_nighttime_mechanical_ff36ae
+- ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb
+tags:
+- ufo-noises
+- atmosphere
+- direction
+keywords:
+- ufo-noises
+- atmosphere
+- direction
+affiliate_category: ufo-noises
+show_ads: true
+description: Refraction, reflections, and wind can scramble the cues people use to locate sound, making ground sources seem airborne.
+hero_summary: Refraction, reflections, and wind can scramble the cues people use to locate sound, making ground sources seem airborne.
+layout: default
+permalink: /direction/
+sidebar_expanded_urls:
+- /ufo-noises/
+- /atmosphere/
+nav_short_title: Direction
+title: Why Sky Sounds Point the Wrong Way
+title_full: Why Sky Sounds Point the Wrong Way | Atmosphere
+display_title_short: Direction
+display_title: Direction
+heading_title: Why Sky Sounds Point the Wrong Way
+page_heading_title: Why Sky Sounds Point the Wrong Way
+source_count: 36
+infographic_count: 3
+planned_sections:
+- How humans judge sound direction
+- How atmosphere disrupts location cues
+- Why witnesses may hear the sky
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: single_mechanism
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: When Ordinary Sounds Come From the Sky | UFO Noises
+parent_permalink: /atmosphere/
+parent_nav_short_title: Atmosphere
+parent_heading_title: When Ordinary Sounds Come From the Sky
+ancestor_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
+  title: Atmosphere | What Do UFO Witnesses Hear?
+  permalink: /atmosphere/
+  short_title: Atmosphere
+  heading_title: When Ordinary Sounds Come From the Sky
+breadcrumb_links:
+- basename: ufo_noises_37edd1
+  title: UFO Noises
+  permalink: /ufo-noises/
+  short_title: UFO Noises
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
+  title: Atmosphere | What Do UFO Witnesses Hear?
+  permalink: /atmosphere/
+  short_title: Atmosphere
+  heading_title: When Ordinary Sounds Come From the Sky
+sibling_links:
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb
+  title: Inversions | Atmosphere
+  permalink: /inversions/
+  short_title: Inversions
+  heading_title: Why Night Air Can Throw Sound Overhead
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214_low_frequency_hum_sk_75b402
+  title: Low Hums | Atmosphere
+  permalink: /low-hums-06eda3/
+  short_title: Low Hums
+  heading_title: Why Deep Hums Feel So Uncanny
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214_nighttime_mechanical_ff36ae
+  title: Night Drones | Atmosphere
+  permalink: /night-drones/
+  short_title: Night Drones
+  heading_title: Why Nighttime Drones Can Seem Source Less
+- basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023
+  title: Sound Shadows | Atmosphere
+  permalink: /sound-shadows/
+  short_title: Sound Shadows
+  heading_title: How Sound Can Skip One Street and Hit Another
+up_link:
+  basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
+  title: Atmosphere | What Do UFO Witnesses Hear?
+  permalink: /atmosphere/
+  short_title: Atmosphere
+  heading_title: When Ordinary Sounds Come From the Sky
+next_link:
+  basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb
+  title: Inversions | Atmosphere
+  permalink: /inversions/
+  short_title: Inversions
+  heading_title: Why Night Air Can Throw Sound Overhead
+date: '2026-05-31 05:05:11 '
+header:
+  og_image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-social.jpg
+  preview_image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1.webp
+image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Many reports of unexplained “[UFO noises]({{ 'ufo-noises/' | relative_url }})” include a striking claim: the sound seemed to come from directly overhead, from somewhere in the sky, or from no identifiable direction at all. Witnesses often describe being certain about where the noise was located even when they could not see a source. Yet outdoor acoustics is full of situations where that certainty can be misleading.
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-light.svg" | relative_url }}" alt="Direction illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Human hearing is good at locating nearby, visible sounds in familiar environments. It is much less reliable when sounds travel long distances through changing layers of air, reflect from terrain or buildings, or arrive after atmospheric refraction has bent their path. Under those conditions, ordinary ground-based sounds can appear detached from their true origin and seem airborne. Acoustic researchers have long studied these effects because they affect everything from [aircraft]({{ 'aircraft/' | relative_url }})-noise monitoring to military detection systems and environmental sound modelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticstoday.org/wp-content/uploads/2017/07/Article_1of4_from_ATCODK_2_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticstoday.org">[Acoustics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticstoday.org</span><span class="citation-popover-title">If the speed changes from one point</span><span class="citation-popover-snippet">Acoustics Todayrefraction of sound in the atmosphereJune 22, 2017 — by TB Gabrielson · Cited by 18 — The speed at which a sound wave trav...</span><span class="citation-popover-meta">Published: June 22, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sound Propagation in the AtmospherePropagation of sound close to the ground outdoors involves geometric spreading, air...</span></span></span>
+
+## How Humans Judge Sound Direction
+
+People locate sounds by comparing what reaches each ear. The brain uses several cues at once:
+
+* **Interaural time difference (ITD):** a sound reaches one ear slightly before the other.
+* **Interaural level difference (ILD):** a sound is louder in one ear than the other.
+* **Spectral cues:** the shape of the head and outer ears subtly alters frequencies depending on where a sound originates.
+* **Movement cues:** small head movements help resolve ambiguities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acousticslab.org/RECA220/PMFiles/Module07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticslab.org">[Acoustics Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticslab.org</span><span class="citation-popover-title">Acoustics Lab Fundamentals of Sound</span><span class="citation-popover-snippet">Fundamentals of Sound - Module 07The term auditory localization describes judgments on the location (orientation &amp; distance), movement, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6596065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Encoding of Sound Source Elevation in the Human</span><span class="citation-popover-snippet">PMCby R Trapeau · 2018 · Cited by 28 — Sound localization is achieved by extracting spatial cues from the acoustic signal that arise from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.neurips.cc/paper/1731-spectral-cues-in-human-sound-localization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.neurips.cc">[NeurIPS Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.neurips.cc</span><span class="citation-popover-snippet">NeurIPS PapersSpectral Cues in Human Sound Localizationby CT Jin · Cited by 20 — The differential contribution of the monaural and intera...</span></span></span>
+
+Under ideal conditions, these cues work remarkably well. However, they were not evolved for interpreting distant industrial sounds refracted through kilometres of [atmosphere]({{ 'atmosphere/' | relative_url }}). Researchers in psychoacoustics have shown that localisation becomes less reliable when sounds are low-frequency, broadband, prolonged, heavily reflected, or stripped of the sharp transients that normally help the brain pinpoint a source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://varietyofsound.wordpress.com/2023/04/11/the-world-of-sound-localization-according-to-psychoacoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: varietyofsound.wordpress.com">[Variety Of Sound]</a><span class="citation-popover" role="note"><span class="citation-popover-source">varietyofsound.wordpress.com</span><span class="citation-popover-title">Variety Of Soundthe world of sound localization according to psychoacoustics</span><span class="citation-popover-snippet">April 11, 2023 — 11 Apr 2023 — Sound localization refers to the ability of the human auditory system to determine the location of a sound...</span><span class="citation-popover-meta">Published: April 11, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6596065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Encoding of Sound Source Elevation in the Human</span><span class="citation-popover-snippet">PMCby R Trapeau · 2018 · Cited by 28 — Sound localization is achieved by extracting spatial cues from the acoustic signal that arise from...</span></span></span>
+
+This matters because many reported sky noises are described as deep hums, drones, rumbles or metallic groans. Those characteristics are precisely the kinds of sounds that are difficult to place accurately in open environments.
+
+### Why “Overhead” Is Harder Than People Realise
+
+Humans are generally better at judging left-versus-right position than elevation. Determining whether a sound is above, below, in front of or behind relies heavily on subtle frequency filtering by the outer ear. These cues are weaker and more vulnerable to distortion than horizontal localisation cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6596065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Encoding of Sound Source Elevation in the Human</span><span class="citation-popover-snippet">PMCby R Trapeau · 2018 · Cited by 28 — Sound localization is achieved by extracting spatial cues from the acoustic signal that arise from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.neurips.cc/paper/1731-spectral-cues-in-human-sound-localization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.neurips.cc">[NeurIPS Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.neurips.cc</span><span class="citation-popover-snippet">NeurIPS PapersSpectral Cues in Human Sound Localizationby CT Jin · Cited by 20 — The differential contribution of the monaural and intera...</span></span></span>
+
+Researchers describe a phenomenon known as the **cone of confusion**, in which multiple source positions produce similar timing and loudness differences between the ears. Without additional cues, the brain can confuse front with back or misjudge elevation. Small head movements normally help resolve this problem, but when a distant sound arrives from multiple refracted or reflected paths, the extra information can remain ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.neurips.cc/paper/1731-spectral-cues-in-human-sound-localization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.neurips.cc">[NeurIPS Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.neurips.cc</span><span class="citation-popover-snippet">NeurIPS PapersSpectral Cues in Human Sound Localizationby CT Jin · Cited by 20 — The differential contribution of the monaural and intera...</span></span></span>
+
+As a result, listeners may honestly perceive a sound as suspended overhead even when the physical source is near the horizon.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_B_pTxlQvE" title="Refraction of Sound: How Sound Waves Bend Through Different Media | Sound Physics Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer">Refraction of Sound: How Sound Waves Bend Through Different Media | Sound Physics Explained</a></p><p class="youtube-embed-meta">Channel: CodeLucky &middot; Views: 211 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_B_pTxlQvE">Open on YouTube</a></p></div></div></div>
+
+## How the Atmosphere Disrupts Location Cues
+
+The atmosphere does not merely change how far sound travels. It can also alter the apparent direction from which the sound arrives.
+
+Temperature gradients and wind gradients change the speed of sound through different layers of air. As a sound wave moves through these layers, it bends through refraction. Under temperature [inversions]({{ 'inversions/' | relative_url }})—common during calm evenings, nights and early mornings—sound that would normally disperse upward can curve back toward the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: students.aip.org">[STUDENTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">students.aip.org</span><span class="citation-popover-title">physics puzzler sound reasons the answers</span><span class="citation-popover-snippet">STUDENTSPhysics Puzzler: Sound Reasons: The Answers1 Feb 2016 — Various atmospheric conditions can cause a temperature inversion, with ai...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Cold Snaps and Sound Waves: Atmospheric Acoustics</span><span class="citation-popover-snippet">AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFebruary 15, 2022 — 15 Feb 2022 — In a temperature inversion, the sound from far...</span><span class="citation-popover-meta">Published: February 15, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_a-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandWind and Temperature Effects on Sound PropagationMarch 1, 2012 — As discussed in the previous article, w...</span><span class="citation-popover-meta">Published: March 1, 2012</span></span></span> at Penn State
+
+To a listener, the sound may seem disconnected from its source because the wave reaching the ear has not travelled in a straight line.
+
+Environmental acoustics literature repeatedly notes that wind and temperature gradients can significantly alter propagation paths and perceived source locations over large distances. Modern drone-detection and sound-localisation systems must account for these effects because atmospheric refraction can distort direction-of-arrival estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_a-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandWind and Temperature Effects on Sound PropagationMarch 1, 2012 — As discussed in the previous article, w...</span><span class="citation-popover-meta">Published: March 1, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">Acta AcusticaPassive acoustic detection and localization of drones using...by Z Ghouli · 2026 — Wind and temperature gradients can also...</span></span></span>
+
+A witness standing several kilometres from a motorway, railway line or industrial site may therefore hear sound arriving from an angle that does not obviously point back to the real source.
+
+### Wind Can Create Acoustic Misdirection
+
+Wind affects sound in a more complicated way than many people assume.
+
+At different heights above the ground, wind speed often changes. This wind shear bends sound waves, much like a lens bends light. Downwind propagation can carry sound farther and concentrate acoustic energy in unexpected locations. Upwind propagation can create shadow zones where the same source becomes difficult to hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_a-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandWind and Temperature Effects on Sound PropagationMarch 1, 2012 — As discussed in the previous article, w...</span><span class="citation-popover-meta">Published: March 1, 2012</span></span></span> ResearchGate When combined with temperature inversion layers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sound Propagation in the AtmospherePropagation of sound close to the ground outdoors involves geometric spreading, air...</span></span></span>, wind can produce situations in which a listener receives a strong sound signal while having very poor directional information. The sound feels present and close, but its origin remains difficult to identify.
+
+That mismatch between loudness and localisation is important in many sky-noise accounts. People often assume that a loud sound should also be easy to locate. Outdoor acoustics shows that the opposite can occur.
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-light.svg" | relative_url }}" alt="Direction illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Reflections Can Make Ground Sources Seem Airborne
+
+Refraction is not the only mechanism that distorts direction.
+
+Large surfaces reflect sound. Hillsides, cliffs, cloud bases, water surfaces, building façades and industrial structures can all redirect acoustic energy. The listener may hear a mixture of direct and reflected sound arriving from different angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://euracoustics.org/documents/3/AiP_issue2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euracoustics.org">[European Acoustics Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euracoustics.org</span><span class="citation-popover-title">Near and far fields of sound sources and directivity. Page</span><span class="citation-popover-snippet">European Acoustics AssociationAcoustics in PracticeOctober 28, 2013 — interference, reflection, refraction, and application to sound prop...</span><span class="citation-popover-meta">Published: October 28, 2013</span></span></span>
+
+The brain generally assumes that the earliest strong arrival points toward the source. When reflections become unusually prominent, that assumption can fail.
+
+Several conditions increase the risk:
+
+* Valleys and enclosed landscapes that channel sound.
+* Urban environments with large reflective structures.
+* Calm nights when atmospheric conditions preserve reflected energy.
+* Low-frequency sounds, which travel efficiently and diffract around obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sound Propagation in the AtmospherePropagation of sound close to the ground outdoors involves geometric spreading, air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://euracoustics.org/documents/3/AiP_issue2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euracoustics.org">[European Acoustics Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euracoustics.org</span><span class="citation-popover-title">Near and far fields of sound sources and directivity. Page</span><span class="citation-popover-snippet">European Acoustics AssociationAcoustics in PracticeOctober 28, 2013 — interference, reflection, refraction, and application to sound prop...</span><span class="citation-popover-meta">Published: October 28, 2013</span></span></span>
+
+A factory drone, distant train or aircraft noise may therefore seem to hover over a neighbourhood rather than originate from a recognisable point on the horizon.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2V9yAyXIYQo" title="What is Binaural Sound Localization?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2V9yAyXIYQo" target="_blank" rel="noopener noreferrer">What is Binaural Sound Localization?</a></p><p class="youtube-embed-meta">Channel: Hearing and Balance Doctors &middot; Views: 438 &middot; Uploaded: July 2024 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2V9yAyXIYQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2V9yAyXIYQo">Open on YouTube</a></p></div></div></div>
+
+### The Problem of Multiple Arrival Paths
+
+One reason witnesses sometimes struggle to describe a sound's location is that there may not be a single arrival path.
+
+A listener can receive:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. A direct sound path.
+2. One or more reflected paths.
+3. Refracted paths bent by atmospheric layers.
+
+</div>
+
+These arrivals reach the ears with slightly different timing and frequency content. Instead of producing a clear directional cue, they can create a diffuse acoustic image. The result is a sound that seems everywhere and nowhere at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sound Propagation in the AtmospherePropagation of sound close to the ground outdoors involves geometric spreading, air...</span></span></span>
+
+Descriptions such as “the whole sky was [humming]({{ 'humming/' | relative_url }})” or “it sounded like it was above the entire town” fit this pattern better than they fit the behaviour of a compact object directly overhead.
+
+
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-light.svg" | relative_url }}" alt="Direction illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Witnesses May Hear the Sky
+
+The most important point is not that witnesses are mistaken about hearing a sound. It is that hearing a sound and correctly locating it are separate tasks.
+
+People naturally trust directional hearing because it usually works well in daily life. In unusual atmospheric conditions, however, the auditory system can be working with incomplete or distorted information. A sound may be real, loud and genuinely unusual while still being mislocated.
+
+This helps explain a recurring feature of sky-noise reports:
+
+* No visible source is found.
+* The sound seems elevated or overhead.
+* Multiple listeners disagree about direction.
+* The event occurs at night or during calm weather.
+* The noise appears to drift or move without an obvious source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Cold Snaps and Sound Waves: Atmospheric Acoustics</span><span class="citation-popover-snippet">AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFebruary 15, 2022 — 15 Feb 2022 — In a temperature inversion, the sound from far...</span><span class="citation-popover-meta">Published: February 15, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturalnavigator.com">[The Natural Navigator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturalnavigator.com</span><span class="citation-popover-title">sounds during a temperature inversion</span><span class="citation-popover-snippet">The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — When there is a temperature inversion it creates a &#x27;sandwich effec...</span></span></span>
+
+Those features do not automatically identify a conventional explanation, but they do match known acoustic situations in which atmospheric propagation and localisation errors become significant.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LkFQg1zhi2o" title="ACOUSTICS: Refraction and Temperature Inversion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LkFQg1zhi2o" target="_blank" rel="noopener noreferrer">ACOUSTICS: Refraction and Temperature Inversion</a></p><p class="youtube-embed-meta">Channel: The Point Studios &middot; Views: 9.2K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LkFQg1zhi2o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LkFQg1zhi2o">Open on YouTube</a></p></div></div></div>
+
+## The Main Risk in UFO-Noise Interpretation
+
+The strongest lesson from [atmospheric acoustics]({{ 'atmosphere/' | relative_url }}) is that directional certainty is often overstated.
+
+A witness may accurately report what was heard while unintentionally misreporting where it came from. In investigations of unexplained [sky sounds]({{ 'sky-sounds/' | relative_url }}), the location estimate is frequently treated as evidence that the source was airborne. Yet acoustics research shows that direction, elevation and distance judgments can become unreliable when sound travels through complex outdoor environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">Acta AcusticaPassive acoustic detection and localization of drones using...by Z Ghouli · 2026 — Wind and temperature gradients can also...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6596065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Encoding of Sound Source Elevation in the Human</span><span class="citation-popover-snippet">PMCby R Trapeau · 2018 · Cited by 28 — Sound localization is achieved by extracting spatial cues from the acoustic signal that arise from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.neurips.cc/paper/1731-spectral-cues-in-human-sound-localization.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.neurips.cc">[NeurIPS Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.neurips.cc</span><span class="citation-popover-snippet">NeurIPS PapersSpectral Cues in Human Sound Localizationby CT Jin · Cited by 20 — The differential contribution of the monaural and intera...</span></span></span>
+
+For that reason, reports that place a mysterious sound “in the sky” are not necessarily evidence that the source was actually in the sky. They may instead reflect the way atmospheric refraction, wind gradients and reflections scramble the cues that people normally use to navigate the acoustic world.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Sky Sounds Point the Wrong Way. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
+        </h4>
+        <p class="fr-book-author">By R. Murray Schafer</p>
+        
+        <p class="fr-book-desc">Highly relevant to directional confusion and auditory perception.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+        </h4>
+        <p class="fr-book-author">By John D. Cox</p>
+        
+        <p class="fr-book-desc">Explains the atmospheric conditions that distort acoustic cues.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful background for reports involving sounds from unknown directions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
+        </h4>
+        <p class="fr-book-author">By Eric J. Heller</p>
+        
+        <p class="fr-book-desc">Explains how sound localization and perception can fail.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere](https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Sound Propagation in the AtmospherePropagation of sound close to the ground outdoors involves geometric spreading, air...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Title: PMCThe Encoding of Sound Source Elevation in the Human  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6596065/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6596065/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby R Trapeau · 2018 · Cited by 28 — Sound localization is achieved by extracting spatial cues from the acoustic signal that arise from...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: papers.neurips.cc  
+   Link: [https://papers.neurips.cc/paper/1731-spectral-cues-in-human-sound-localization.pdf](https://papers.neurips.cc/paper/1731-spectral-cues-in-human-sound-localization.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NeurIPS PapersSpectral Cues in Human Sound Localizationby CT Jin · Cited by 20 — The differential contribution of the monaural and intera...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: acentech.com  
+   Title: Cold Snaps and Sound Waves: Atmospheric Acoustics  
+   Link: [https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/](https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFebruary 15, 2022 — 15 Feb 2022 — In a temperature inversion, the sound from far...</p></details>
+   Published: February 15, 2022  
+
+5. <a id="endnote-5"></a>
+   Source: students.aip.org  
+   Title: physics puzzler sound reasons the answers  
+   Link: [https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers](https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDENTSPhysics Puzzler: Sound Reasons: The Answers1 Feb 2016 — Various atmospheric conditions can cause a temperature inversion, with ai...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/317935869_LOCALIZATION_OF_SOUND_SOURCES_IN_TEMPERATURE_INVERSION_LAYER_DURING_A_GEOMAGNETIC_STORM](https://www.researchgate.net/publication/317935869_LOCALIZATION_OF_SOUND_SOURCES_IN_TEMPERATURE_INVERSION_LAYER_DURING_A_GEOMAGNETIC_STORM)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>localization of sound sources in temperature inversion...27 Jul 2017 — The obtained results support the hypothesis and estimates that th...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: youtube.com  
+   Title: Refraction of Sound: How Sound Waves Bend Through Different Media  
+   Link: [https://www.youtube.com/watch?v=4_B_pTxlQvE](https://www.youtube.com/watch?v=4_B_pTxlQvE)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACOUSTICS: Refraction and Temperature Inversion...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Title: ACOUSTICS: Refraction and Temperature Inversion  
+   Link: [https://www.youtube.com/watch?v=LkFQg1zhi2o](https://www.youtube.com/watch?v=LkFQg1zhi2o)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing in the Real World | Chapter 10 – Sensation &amp; Perception (6th)...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: acousticstoday.org  
+   Title: If the speed changes from one point  
+   Link: [https://acousticstoday.org/wp-content/uploads/2017/07/Article_1of4_from_ATCODK_2_2.pdf](https://acousticstoday.org/wp-content/uploads/2017/07/Article_1of4_from_ATCODK_2_2.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustics Todayrefraction of sound in the atmosphereJune 22, 2017 — by TB Gabrielson · Cited by 18 — The speed at which a sound wave trav...</p></details>
+   Published: June 22, 2017  
+
+10. <a id="endnote-10"></a>
+   Source: acta-acustica.edpsciences.org  
+   Link: [https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html](https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acta AcusticaPassive acoustic detection and localization of drones using...by Z Ghouli · 2026 — Wind and temperature gradients can also...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: acousticslab.org  
+   Title: Acoustics Lab Fundamentals of Sound  
+   Link: [https://www.acousticslab.org/RECA220/PMFiles/Module07.htm](https://www.acousticslab.org/RECA220/PMFiles/Module07.htm)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Sound - Module 07The term auditory localization describes judgments on the location (orientation &amp; distance), movement, a...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: varietyofsound.wordpress.com  
+   Title: Variety Of Soundthe world of sound localization according to psychoacoustics  
+   Link: [https://varietyofsound.wordpress.com/2023/04/11/the-world-of-sound-localization-according-to-psychoacoustics/](https://varietyofsound.wordpress.com/2023/04/11/the-world-of-sound-localization-according-to-psychoacoustics/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2023 — 11 Apr 2023 — Sound localization refers to the ability of the human auditory system to determine the location of a sound...</p></details>
+   Published: April 11, 2023  
+
+13. <a id="endnote-13"></a>
+   Source: acs.psu.edu  
+   Link: [https://www.acs.psu.edu/drussell/demos/refract/refract.html](https://www.acs.psu.edu/drussell/demos/refract/refract.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustics at Penn StateRefraction of Sound Waves25 Jul 2025 — The opposite effect, a temperature inversion occurs when the temperature is...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: acoustics.org.nz  
+   Link: [https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_a-1.pdf](https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_a-1.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of New ZealandWind and Temperature Effects on Sound PropagationMarch 1, 2012 — As discussed in the previous article, w...</p></details>
+   Published: March 1, 2012  
+
+15. <a id="endnote-15"></a>
+   Source: euracoustics.org  
+   Title: Near and far fields of sound sources and directivity. Page  
+   Link: [https://euracoustics.org/documents/3/AiP_issue2.pdf](https://euracoustics.org/documents/3/AiP_issue2.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Acoustics AssociationAcoustics in PracticeOctober 28, 2013 — interference, reflection, refraction, and application to sound prop...</p></details>
+   Published: October 28, 2013  
+
+16. <a id="endnote-16"></a>
+   Source: naturalnavigator.com  
+   Title: sounds during a temperature inversion  
+   Link: [https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/](https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — When there is a temperature inversion it creates a &#x27;sandwich effec...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: recordingsofnature.wordpress.com  
+   Title: acoustics of nature recordings  
+   Link: [https://recordingsofnature.wordpress.com/2016/07/04/acoustics-of-nature-recordings/](https://recordingsofnature.wordpress.com/2016/07/04/acoustics-of-nature-recordings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In my view, all outdoor sounds are deeply controlled by a variety of different acoustic conditions...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: soundand.design  
+   Title: Auditory Localization  
+   Link: [https://soundand.design/auditory-localization-e93a6e333a4a](https://soundand.design/auditory-localization-e93a6e333a4a)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction | by Myk Eff1 Sept 2024 — Auditory localization is the auditory system&#x27;s remarkable ability to determine the spatial orig...</p></details>
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: ioa.org.uk  
+   Link: [https://www.ioa.org.uk/sites/default/files/ioa_innovationssup2020lr_digital_1.pdf](https://www.ioa.org.uk/sites/default/files/ioa_innovationssup2020lr_digital_1.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>innovations inToday, our understanding of sound localisation allows us to synthesise sounds in a specified location by artificially simul...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: sea-acustica.es  
+   Link: [https://www.sea-acustica.es/INTERNOISE_2019/Fchrs/Proceedings/2071.pdf](https://www.sea-acustica.es/INTERNOISE_2019/Fchrs/Proceedings/2071.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>t on the knowledge of the acoustic transfer functions between the control...Read more...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: sky-lights.org  
+   Title: qa how wind and temperature affect sound waves  
+   Link: [https://sky-lights.org/2020/12/14/qa-how-wind-and-temperature-affect-sound-waves/](https://sky-lights.org/2020/12/14/qa-how-wind-and-temperature-affect-sound-waves/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A: How Wind and Temperature Affect Sound Waves14 Dec 2020 — All waves experience refraction when they encounter a change in the medium&#x27;...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/939407438057941/posts/1184677256864290/](https://www.facebook.com/groups/939407438057941/posts/1184677256864290/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This might be controversial in a way but they&#x27;re one...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: sciencedirect.com  
+   Title: ScienceDirect Acoustic Phenomena  
+   Link: [https://www.sciencedirect.com/topics/physics-and-astronomy/acoustic-phenomena](https://www.sciencedirect.com/topics/physics-and-astronomy/acoustic-phenomena)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Phenomena - an overviewRefraction by gradients of wind speed and temperature has a profound effect upon the propagation of sound...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: biorxiv.org  
+   Link: [https://www.biorxiv.org/content/10.1101/2025.08.05.668776v1.full.pdf](https://www.biorxiv.org/content/10.1101/2025.08.05.668776v1.full.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust spatial hearing beyond primary interaural cues in...7 Aug 2025 — Spatial hearing allows humans to localize sound sources in the a...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: eaglepubs.erau.edu  
+   Title: noise of flight vehicles  
+   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Flight Vehicles – Introduction to...by JG Leishman · 2023 · Cited by 2 — In the context of aircraft, the relevant branch is aeroacous...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: Wikipedia  
+   Title: Inversion (meteorology)  
+   Link: [https://en.wikipedia.org/wiki/Inversion_%28meteorology%29](https://en.wikipedia.org/wiki/Inversion_%28meteorology%29)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: d-nb.info  
+   Title: Auditive Localization  
+   Link: [https://d-nb.info/970186762/34](https://d-nb.info/970186762/34)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Head movements, an additional cue...by P Mackensen · Cited by 66 — acoustical cues. Interaural cues are localization cues resulting from...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: youtube.com  
+   Title: What is Binaural Sound Localization?  
+   Link: [https://www.youtube.com/watch?v=2V9yAyXIYQo](https://www.youtube.com/watch?v=2V9yAyXIYQo)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing in the Real World | Chapter 10 – Sensation &amp; Perception (6th) - YouTube Hearing in the Real World | Chapter 10 – Sensation &amp; Perc...</p></details>
