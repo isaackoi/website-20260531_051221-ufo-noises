@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-atmospheric-acoustic/
 description: Focused pages that expand on Atmosphere.
-date: '2026-05-31'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_noises_37edd1_atmospheric_acoustic_8ad214
 parent_title: Atmosphere | UFO Noises

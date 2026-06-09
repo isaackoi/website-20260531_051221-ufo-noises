@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 05:05:33'
 parent_title: When Ordinary Sounds Come From the Sky | UFO Noises
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
@@ -265,7 +266,6 @@ next_link:
   permalink: /low-hums-06eda3/
   short_title: Low Hums
   heading_title: Why Deep Hums Feel So Uncanny
-date: '2026-05-31 05:05:33 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1.webp
@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_
 Many reports of mysterious “[UFO noises]({{ 'ufo-noises/' | relative_url }})” share a peculiar detail: the sound seems to come from above even when no [aircraft]({{ 'aircraft/' | relative_url }}), storm or visible object is present. One of the most common atmospheric reasons for this effect is a temperature inversion. During calm nights and early mornings, layers of cool air can become trapped near the ground while warmer air sits above. Under these conditions, ordinary sounds from distant roads, railways, factories or airports can travel far beyond their usual range and appear detached from their true source. Instead of moving away and fading, the sound is bent back toward listeners, creating the impression that something is hovering or moving overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">cold snaps and sound waves atmospheric acoustics</span><span class="citation-popover-snippet">AcentechCold Snaps and Sound Waves: Atmospheric Acoustics15 Feb 2022 — In a temperature inversion, the sound from far away bends back tow...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">The Effect of Environment on Sound PropagationRefraction. Refraction of sound is the bending of sound waves caused by propagation through...</span></span></span> at Penn State
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-light.svg" | relative_url }}" alt="Inversions illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-dark.svg" | relative_url }}" alt="Inversions illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people investigating strange sky-sound reports, temperature inversions matter because they can transform familiar noises into something unfamiliar without changing the sound source itself. The [atmosphere]({{ 'atmosphere/' | relative_url }}) effectively reshapes the path the sound takes before it reaches the listener. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/lightning/sound-of-thunder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">The Sound of Thunder</span><span class="citation-popover-snippet">NOAAThe Sound of Thunder - Lightning5 Apr 2023 — However, when the air temperature increases with height, called an inversion, sound wave...</span></span></span>
 
 ## What a Temperature Inversion Is
@@ -320,7 +320,7 @@ Human hearing estimates location partly by comparing tiny timing and loudness di
 This directional confusion is one reason witnesses sometimes describe hearing a sound “all around” them or “coming from the clouds” even when the source is entirely terrestrial.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-2-light.svg" | relative_url }}" alt="Inversions illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-2-dark.svg" | relative_url }}" alt="Inversions illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Sources Mistaken for Sky Noise
 
 Many sounds reported as mysterious aerial hums, drones or metallic groans have characteristics that match ordinary low-frequency sources enhanced by inversion conditions.
@@ -361,7 +361,7 @@ The timing of many unexplained sound reports closely matches the conditions most
 As a result, an ordinary industrial hum, train movement or distant traffic corridor can become an eerie, source-less sound that appears to hang above a neighbourhood.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-3-light.svg" | relative_url }}" alt="Inversions illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-3-dark.svg" | relative_url }}" alt="Inversions illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_temperature_inversio_1a83fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Explanation Fits Best
 
 Temperature inversions do not explain every report of unusual [sky sounds]({{ 'sky-sounds/' | relative_url }}). However, they fit particularly well when witnesses describe:

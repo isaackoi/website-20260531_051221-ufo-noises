@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 05:05:11'
 parent_title: When Ordinary Sounds Come From the Sky | UFO Noises
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere
@@ -259,7 +260,6 @@ next_link:
   permalink: /inversions/
   short_title: Inversions
   heading_title: Why Night Air Can Throw Sound Overhead
-date: '2026-05-31 05:05:11 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1.webp
@@ -271,7 +271,7 @@ image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_s
 Many reports of unexplained “[UFO noises]({{ 'ufo-noises/' | relative_url }})” include a striking claim: the sound seemed to come from directly overhead, from somewhere in the sky, or from no identifiable direction at all. Witnesses often describe being certain about where the noise was located even when they could not see a source. Yet outdoor acoustics is full of situations where that certainty can be misleading.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-light.svg" | relative_url }}" alt="Direction illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-dark.svg" | relative_url }}" alt="Direction illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Human hearing is good at locating nearby, visible sounds in familiar environments. It is much less reliable when sounds travel long distances through changing layers of air, reflect from terrain or buildings, or arrive after atmospheric refraction has bent their path. Under those conditions, ordinary ground-based sounds can appear detached from their true origin and seem airborne. Acoustic researchers have long studied these effects because they affect everything from [aircraft]({{ 'aircraft/' | relative_url }})-noise monitoring to military detection systems and environmental sound modelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticstoday.org/wp-content/uploads/2017/07/Article_1of4_from_ATCODK_2_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticstoday.org">[Acoustics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticstoday.org</span><span class="citation-popover-title">If the speed changes from one point</span><span class="citation-popover-snippet">Acoustics Todayrefraction of sound in the atmosphereJune 22, 2017 — by TB Gabrielson · Cited by 18 — The speed at which a sound wave trav...</span><span class="citation-popover-meta">Published: June 22, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/302545876_Sound_Propagation_in_the_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Sound Propagation in the AtmospherePropagation of sound close to the ground outdoors involves geometric spreading, air...</span></span></span>
 
 ## How Humans Judge Sound Direction
@@ -296,7 +296,7 @@ Researchers describe a phenomenon known as the **cone of confusion**, in which m
 As a result, listeners may honestly perceive a sound as suspended overhead even when the physical source is near the horizon.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_B_pTxlQvE" title="Refraction of Sound: How Sound Waves Bend Through Different Media | Sound Physics Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer">Refraction of Sound: How Sound Waves Bend Through Different Media | Sound Physics Explained</a></p><p class="youtube-embed-meta">Channel: CodeLucky &middot; Views: 211 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_B_pTxlQvE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2V9yAyXIYQo" title="What is Binaural Sound Localization?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2V9yAyXIYQo" target="_blank" rel="noopener noreferrer">What is Binaural Sound Localization?</a></p><p class="youtube-embed-meta">Channel: Hearing and Balance Doctors &middot; Views: 438 &middot; Uploaded: July 2024 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2V9yAyXIYQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2V9yAyXIYQo">Open on YouTube</a></p></div></div></div>
 
 ## How the Atmosphere Disrupts Location Cues
 
@@ -319,7 +319,7 @@ At different heights above the ground, wind speed often changes. This wind shear
 That mismatch between loudness and localisation is important in many sky-noise accounts. People often assume that a loud sound should also be easy to locate. Outdoor acoustics shows that the opposite can occur.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-light.svg" | relative_url }}" alt="Direction illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-dark.svg" | relative_url }}" alt="Direction illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reflections Can Make Ground Sources Seem Airborne
 
 Refraction is not the only mechanism that distorts direction.
@@ -338,7 +338,7 @@ Several conditions increase the risk:
 A factory drone, distant train or aircraft noise may therefore seem to hover over a neighbourhood rather than originate from a recognisable point on the horizon.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2V9yAyXIYQo" title="What is Binaural Sound Localization?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2V9yAyXIYQo" target="_blank" rel="noopener noreferrer">What is Binaural Sound Localization?</a></p><p class="youtube-embed-meta">Channel: Hearing and Balance Doctors &middot; Views: 438 &middot; Uploaded: July 2024 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2V9yAyXIYQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2V9yAyXIYQo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tpVUsMJ_1NE" title="Auditory localization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tpVUsMJ_1NE" target="_blank" rel="noopener noreferrer">Auditory localization</a></p><p class="youtube-embed-meta">Channel: nptelhrd &middot; Views: 1.9K &middot; Uploaded: January 2016 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tpVUsMJ_1NE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tpVUsMJ_1NE">Open on YouTube</a></p></div></div></div>
 
 ### The Problem of Multiple Arrival Paths
 
@@ -360,7 +360,7 @@ These arrivals reach the ears with slightly different timing and frequency conte
 Descriptions such as “the whole sky was [humming]({{ 'humming/' | relative_url }})” or “it sounded like it was above the entire town” fit this pattern better than they fit the behaviour of a compact object directly overhead.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-light.svg" | relative_url }}" alt="Direction illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-dark.svg" | relative_url }}" alt="Direction illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_misleading_sound_dir_dd84a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Witnesses May Hear the Sky
 
 The most important point is not that witnesses are mistaken about hearing a sound. It is that hearing a sound and correctly locating it are separate tasks.

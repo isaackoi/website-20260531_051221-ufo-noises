@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-sonic-boom-claims/
 description: Focused pages that expand on Sonic Booms.
-date: '2026-05-31'
+date: '2026-06-09'
 layout: default
 parent_basename: ufo_noises_37edd1_sonic_boom_claims_e68177
 parent_title: Sonic Booms | UFO Noises

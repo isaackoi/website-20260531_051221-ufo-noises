@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 05:07:49'
 parent_title: How Should You Record a UFO Noise? | UFO Noises
 parent_permalink: /record-it/
 parent_nav_short_title: Record It
@@ -265,7 +266,6 @@ next_link:
   permalink: /weather-notes/
   short_title: Weather Notes
   heading_title: Weather Details That Change A Mystery Sound
-date: '2026-05-31 05:07:49 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1.webp
@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timel
 If you are recording a strange sky sound that seems unusual, the most valuable thing you can add is often your own voice. A calm spoken timeline can transform an ambiguous audio clip into a usable record that investigators, aviation enthusiasts or other witnesses can compare against flight paths, weather conditions and local events. Without those notes, even a clear recording may leave basic questions unanswered: when did the sound change, where was it coming from, and what else was happening nearby?
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-light.svg" | relative_url }}" alt="Timeline Notes illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-dark.svg" | relative_url }}" alt="Timeline Notes illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 [Acoustic monitoring]({{ 'sensors/' | relative_url }}) projects place heavy importance on metadata — information about the recording rather than just the sound itself — because context is often what makes later analysis possible. Exact times, locations, environmental conditions and observations can be as important as the noise being recorded. NCEI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.703682/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The Next Wave of Passive Acoustic Data Managementby CC Wall · 2021 · Cited by 34 — The NCEI passive acoustic archive holds metadata, raw...</span></span></span>
 
 ## What To Say While Recording A Mystery Noise
@@ -390,7 +390,7 @@ Those timestamps can later be compared with publicly available flight-tracking r
 Even if the witness originally believed the sound was mysterious, the timeline may reveal that a distant aircraft was approaching, passing overhead and moving away during exactly the same period.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-2-light.svg" | relative_url }}" alt="Timeline Notes illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-2-dark.svg" | relative_url }}" alt="Timeline Notes illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparing With Weather Conditions
 
 Atmospheric conditions can carry sound surprisingly long distances. Industrial equipment, trains, motorway traffic and aircraft can sometimes be heard far beyond their expected range.
@@ -428,7 +428,7 @@ Another may report:
 Those overlapping timestamps can help establish whether the reports describe the same event or separate local noises.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-3-light.svg" | relative_url }}" alt="Timeline Notes illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-3-dark.svg" | relative_url }}" alt="Timeline Notes illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_spoken_timeline_note_de6bb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Narration Prevents Memory Drift
 
 One of the biggest problems in mystery-sound reports is that memories change quickly.
@@ -453,7 +453,7 @@ For example, a witness might later remember that a light appeared before the sou
 This is one reason many scientific and monitoring programmes attach significant importance to metadata and observational notes alongside raw recordings. The supporting context preserves information that might otherwise be lost or distorted over time. NOAA Ioos <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.703682/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The Next Wave of Passive Acoustic Data Managementby CC Wall · 2021 · Cited by 34 — The NCEI passive acoustic archive holds metadata, raw...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vul4SYL4QiQ" title="The Source Behind a Mystery Sound Heard Around the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer">The Source Behind a Mystery Sound Heard Around the World</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 9.4M &middot; Uploaded: January 2018 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vul4SYL4QiQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NhzuBlGvqpY" title="WEIRD Sounds in the Sky Around the World - (trumpets strange noise metallic buzz)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NhzuBlGvqpY" target="_blank" rel="noopener noreferrer">WEIRD Sounds in the Sky Around the World - (trumpets strange noise metallic buzz)</a></p><p class="youtube-embed-meta">Channel: VidVulture &middot; Views: 5.7K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NhzuBlGvqpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NhzuBlGvqpY">Open on YouTube</a></p></div></div></div>
 
 ## Common Mistakes When Narrating
 

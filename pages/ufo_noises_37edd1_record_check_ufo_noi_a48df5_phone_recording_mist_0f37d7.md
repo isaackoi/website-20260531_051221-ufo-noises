@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 05:07:38'
 parent_title: How Should You Record a UFO Noise? | UFO Noises
 parent_permalink: /record-it/
 parent_nav_short_title: Record It
@@ -259,7 +260,6 @@ next_link:
   permalink: /spectrograms/
   short_title: Spectrograms
   heading_title: Can A Spectrogram Explain A UFO Sound?
-date: '2026-05-31 05:07:38 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1.webp
@@ -271,7 +271,7 @@ image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_record
 Many UFO noise reports begin with a phone recording made under poor conditions: a witness hears an unusual hum, roar, metallic vibration or pulsing sound, grabs a smartphone, records a few seconds, then uploads an edited clip hours later. By that point, the evidence may already be damaged.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-light.svg" | relative_url }}" alt="Phone Audio illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-dark.svg" | relative_url }}" alt="Phone Audio illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The biggest problem is not usually audio quality. It is lost context. Investigators, sound engineers and digital-forensics specialists often find that a recording cannot be properly checked because the witness stopped and restarted repeatedly, blocked the microphone, filtered the sound, or discarded the original file. A strange sky noise does not have to be extraordinary to be worth documenting, but it does need to be recorded in a way that allows later [verification]({{ 'verification/' | relative_url }}). Small mistakes can remove exactly the clues needed to identify [aircraft]({{ 'aircraft/' | relative_url }}), drones, atmospheric effects or genuinely unusual sound behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">Eclipse Forensics Audio Forensics in the Digital Age: Challenges and Solutions</span><span class="citation-popover-snippet">Always maintain a copy of the original audio file to ensure that subsequent analysis does not alter the evidence.Read more...</span></span></span>
 
 ## Handling Noise Can Sound More Mysterious Than the Sky
@@ -366,7 +366,7 @@ Continuous recording also preserves environmental references. Distant traffic, c
 A five-minute uninterrupted recording is often more useful than ten separate clips totalling the same length.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-light.svg" | relative_url }}" alt="Phone Audio illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-dark.svg" | relative_url }}" alt="Phone Audio illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Damage Caused by Editing Too Early
 
 Another frequent mistake occurs after the event rather than during it.
@@ -429,7 +429,7 @@ A witness may therefore record:
 The recording is still valuable, but listeners should remember that the phone may not be reproducing the sound exactly as it existed in the environment.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-light.svg" | relative_url }}" alt="Phone Audio illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-dark.svg" | relative_url }}" alt="Phone Audio illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Uploading Through Apps Can Strip Away Useful Information
 
 A surprisingly damaging mistake is sharing the recording only through messaging or social-media platforms.

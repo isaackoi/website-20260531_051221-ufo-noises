@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 05:09:10'
 parent_title: Why Is the Taos Hum Linked to UFOs? | UFO Noises
 parent_permalink: /taos-hum/
 parent_nav_short_title: Taos Hum
@@ -265,7 +266,6 @@ next_link:
   permalink: /sound-clues/
   short_title: Sound Clues
   heading_title: Why Low Sounds Are So Hard to Trace
-date: '2026-05-31 05:09:10 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1.webp
@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selecti
 The most puzzling aspect of the [Taos Hum]({{ 'taos-hum/' | relative_url }}) is not the sound itself but the fact that only a small minority of people report hearing it. Since the phenomenon gained attention in northern New Mexico during the early 1990s, many residents have described a persistent low-frequency drone that resembles a distant engine or industrial vibration. Yet neighbours living in the same streets often hear nothing at all. Investigations found that only a small percentage of the local population reported the sound, and even among those hearers there was little agreement about its exact pitch or character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span> That selective audibility has become central to both scientific debate and UFO speculation. If the Hum were an ordinary environmental noise, why would so many people miss it? If it were purely an internal hearing phenomenon, why would groups of people in the same area describe similar experiences? The tension between those possibilities is one reason the Taos Hum remains controversial decades after it was first investigated.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-light.svg" | relative_url }}" alt="Selective Hearing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-dark.svg" | relative_url }}" alt="Selective Hearing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hearers Describe and Non-Hearers Miss
 
 People who report hearing the Taos Hum rarely describe a dramatic or loud sound. Instead, they often compare it to a diesel engine idling somewhere in the distance, a faint mechanical vibration, or a low electrical drone. Many hearers say the sound becomes more noticeable at night or during quiet periods when other environmental noises are absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the taos hum new mexicos unexplained acoustic phenomenon</span><span class="citation-popover-snippet">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — According to self-reported testimony, 2% of the area&#x27;s population is able to hear...</span></span></span> What makes the reports unusual is that non-hearers standing in the same location frequently detect nothing at all. This is not merely a matter of volume. In many accounts, hearers describe the Hum as impossible to ignore while family members, friends, or investigators nearby remain completely unaffected. The divide is so pronounced that some residents came to doubt one another's experiences, with hearers feeling dismissed and non-hearers questioning whether the sound existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://explorersweb.com/exploration-mysteries-the-hum-other-mystery-sounds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorersweb.com">[Explorersweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorersweb.com</span><span class="citation-popover-title">The bulk of these mystery sounds were eventually</span><span class="citation-popover-snippet">ExplorerswebExploration Mysteries: The Hum and Other Unexplained...20 Nov 2024 — The Hum has been reported in the U.S., Australia, Canad...</span></span></span>
@@ -294,7 +294,7 @@ One of the most important findings from investigations was that hearers did not 
 Researchers also found that only a small fraction of residents reported hearing the Hum. Surveys cited in later summaries suggested that approximately two percent of the local population identified themselves as hearers. Even within that group, descriptions varied considerably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span> This mattered because it weakened the simplest explanation of a single loud environmental source. If a large industrial machine were producing a clearly audible noise, investigators would expect more agreement among listeners and easier detection through conventional acoustic measurements. Instead, researchers encountered a situation in which some people reported a powerful and persistent sound while others remained unaware of any disturbance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — It has been proposed that the hum might represent some kind of low...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tcOao4B13vA" title="The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer">The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds</a></p><p class="youtube-embed-meta">Channel: NerdAlert &middot; Views: 86.7K &middot; Uploaded: August 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tcOao4B13vA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mGFE3mhyUhA" title="The Taos Hum: Unraveling New Mexico’s Mysterious Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mGFE3mhyUhA" target="_blank" rel="noopener noreferrer">The Taos Hum: Unraveling New Mexico’s Mysterious Sound</a></p><p class="youtube-embed-meta">Channel: Dive Into Discovery &middot; Views: 47.4K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mGFE3mhyUhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mGFE3mhyUhA">Open on YouTube</a></p></div></div></div>
 
 ## Why Human Hearing May Differ So Much
 
@@ -307,7 +307,7 @@ Another possibility involves tinnitus and related auditory phenomena. Unlike the
 A further complication is psychological attention. Audiologists studying Hum reports have suggested that once a person becomes focused on a faint low-frequency sound, anxiety and expectation may amplify awareness of it. This does not mean the experience is imaginary. Rather, the brain may become increasingly sensitive to a signal that other people filter out as background noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</span></span></span>
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-light.svg" | relative_url }}" alt="Selective Hearing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-dark.svg" | relative_url }}" alt="Selective Hearing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Investigators Never Reached a Single Answer
 
 The strongest evidence against simple explanations is that researchers never found one mechanism capable of accounting for every reported case.
@@ -317,7 +317,7 @@ If the Hum were entirely internal, the clustering of reports in particular locat
 The result is an unusual evidential gap. Hearers clearly report a real experience, but the experience does not point neatly toward a single measurable cause.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-light.svg" | relative_url }}" alt="Selective Hearing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-dark.svg" | relative_url }}" alt="Selective Hearing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_selective_heari_8fb106-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Selective Audibility Fuels UFO Speculation
 
 The fact that only some residents hear the Hum has played a major role in keeping UFO-related theories alive.
@@ -329,7 +329,7 @@ The mystery deepens because the Hum often feels directional and external to hear
 In practice, selective audibility is probably the single most important reason the Taos Hum remains culturally linked to UFO discussions. If everyone heard the sound, it would likely be treated as an environmental noise problem. If only one or two individuals reported it, it would probably be regarded as a medical issue. Instead, the Hum occupies an uncomfortable middle ground: enough people hear it to suggest something shared, yet too few hear it to make the source obvious. That unresolved tension keeps the mystery alive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-title">The Taos Hum Had Residents In New Mexico Convinced</span><span class="citation-popover-snippet">IFLScienceThe Taos Hum Had Residents In New Mexico Convinced...July 5, 2023 — 5 Jul 2023 — It found that 161 of the 8,000 surveyed resid...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos hum16 Apr 2017 — It has been proposed that the hum might represent some kind of low...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mGFE3mhyUhA" title="The Taos Hum: Unraveling New Mexico’s Mysterious Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mGFE3mhyUhA" target="_blank" rel="noopener noreferrer">The Taos Hum: Unraveling New Mexico’s Mysterious Sound</a></p><p class="youtube-embed-meta">Channel: Dive Into Discovery &middot; Views: 47.4K &middot; Uploaded: November 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mGFE3mhyUhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mGFE3mhyUhA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tcOao4B13vA" title="The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer">The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds</a></p><p class="youtube-embed-meta">Channel: NerdAlert &middot; Views: 86.7K &middot; Uploaded: August 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tcOao4B13vA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -416,6 +416,312 @@ In practice, selective audibility is probably the single most important reason t
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="selective-hearing-why-can-some-people-hear-the-taos-hum-ufo-noises-ufo-poster-book-books-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes

@@ -211,6 +211,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Aircraft</span>
+              <span class="ct-node-title-full">When Aircraft Sounds Become UFO Stories</span>
               <span class="ct-node-summary">Jets, helicopters, drones, and propeller aircraft can sound unfamiliar when distance, weather, and darkness change perception.</span>
             </span>
           </a>
@@ -232,6 +233,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Flight Checks</span>
+                  <span class="ct-node-title-full">How to Check a Strange Aircraft Sound</span>
                   <span class="ct-node-summary">Flight activity records can often turn a strange roar or hum into a traceable aircraft, helicopter, cargo flight, or training operation.</span>
                 </span>
               </a>
@@ -251,6 +253,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Blade Slap</span>
+                  <span class="ct-node-title-full">When Helicopters Sound Like Sky Knocks</span>
                   <span class="ct-node-summary">Helicopter rotors can create sharp cracking or knocking sounds that are easy to misread when the aircraft is distant or hidden.</span>
                 </span>
               </a>
@@ -270,6 +273,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Military Roars</span>
+                  <span class="ct-node-title-full">When Military Flights Sound Like UFOs</span>
                   <span class="ct-node-summary">Military aircraft can operate in patterns that feel unusual to nearby residents, especially during night training or unfamiliar routes.</span>
                 </span>
               </a>
@@ -289,6 +293,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Head On Jets</span>
+                  <span class="ct-node-title-full">Why a Moving Jet Can Seem to Hover</span>
                   <span class="ct-node-summary">A jet flying toward a listener can look almost stationary while its delayed roar makes the sighting feel stranger than it is.</span>
                 </span>
               </a>
@@ -308,6 +313,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Drone Buzz</span>
+                  <span class="ct-node-title-full">Why Drones Make Such Uncanny Sky Sounds</span>
                   <span class="ct-node-summary">Small drones can sound unlike jets or helicopters, with buzzing tones that shift as multiple rotors constantly adjust.</span>
                 </span>
               </a>
@@ -329,6 +335,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Atmosphere</span>
+              <span class="ct-node-title-full">When Ordinary Sounds Come From the Sky</span>
               <span class="ct-node-summary">Wind, humidity, and temperature layers can bend ordinary sounds until they seem to come from the sky.</span>
             </span>
           </a>
@@ -350,6 +357,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sound Shadows</span>
+                  <span class="ct-node-title-full">How Sound Can Skip One Street and Hit Another</span>
                   <span class="ct-node-summary">Atmospheric bending can create patches where sound skips some listeners but becomes loud for others farther away.</span>
                 </span>
               </a>
@@ -369,6 +377,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Hums</span>
+                  <span class="ct-node-title-full">Why Deep Hums Feel So Uncanny</span>
                   <span class="ct-node-summary">Deep rumbles and hums can travel efficiently outdoors, making ordinary machinery feel larger, closer, and harder to identify.</span>
                 </span>
               </a>
@@ -388,6 +397,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Inversions</span>
+                  <span class="ct-node-title-full">Why Night Air Can Throw Sound Overhead</span>
                   <span class="ct-node-summary">Cold air near the ground can bend ordinary sound back toward listeners until roads, trains, or factories seem to be in the sky.</span>
                 </span>
               </a>
@@ -407,6 +417,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Night Drones</span>
+                  <span class="ct-node-title-full">Why Nighttime Drones Can Seem Source Less</span>
                   <span class="ct-node-summary">Calm, stable night air can carry low mechanical noise across long distances while hiding the source from view.</span>
                 </span>
               </a>
@@ -426,6 +437,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Direction</span>
+                  <span class="ct-node-title-full">Why Sky Sounds Point the Wrong Way</span>
                   <span class="ct-node-summary">Refraction, reflections, and wind can scramble the cues people use to locate sound, making ground sources seem airborne.</span>
                 </span>
               </a>
@@ -447,6 +459,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Booms</span>
+              <span class="ct-node-title-full">What Causes Mystery Booms in the Sky?</span>
               <span class="ct-node-summary">Sudden booms can trigger UFO speculation, but meteors, aircraft, explosions, and weather may all be plausible sources.</span>
             </span>
           </a>
@@ -468,6 +481,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Seneca Guns</span>
+                  <span class="ct-node-title-full">The Old Booms Behind Modern UFO Rumors</span>
                   <span class="ct-node-summary">Centuries-old coastal boom stories show how the same strange sounds can be reinterpreted as folklore, artillery, or UFO activity.</span>
                 </span>
               </a>
@@ -487,6 +501,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Timing Clues</span>
+                  <span class="ct-node-title-full">The Timeline Clues Mystery Booms Leave Behind</span>
                   <span class="ct-node-summary">The order of flashes, shaking, calls, and official checks can reveal whether a boom fits a meteor, aircraft, blast, or rumor cascade.</span>
                 </span>
               </a>
@@ -506,6 +521,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Meteor Booms</span>
+                  <span class="ct-node-title-full">Was That Boom a Meteor Airburst?</span>
                   <span class="ct-node-summary">A meteor can explode high in the atmosphere, creating a delayed boom that reaches witnesses even when no fireball was seen.</span>
                 </span>
               </a>
@@ -525,6 +541,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Industrial Blasts</span>
+                  <span class="ct-node-title-full">When Ground Explosions Sound Like Sky Mysteries</span>
                   <span class="ct-node-summary">Quarries, construction sites, and industrial accidents can create booms that seem airborne when the source is far from witnesses.</span>
                 </span>
               </a>
@@ -544,6 +561,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sonic Booms</span>
+                  <span class="ct-node-title-full">When Jets Make Explosions in the Sky</span>
                   <span class="ct-node-summary">Fast aircraft can leave shockwaves that rattle windows across wide areas while the plane itself remains unseen or unconfirmed.</span>
                 </span>
               </a>
@@ -565,6 +583,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Buzzing</span>
+              <span class="ct-node-title-full">Are Buzzing UFO Sounds Really Electrical?</span>
               <span class="ct-node-summary">Buzzing UFO reports often resemble transformers, insects, or electrical equipment, making them vivid but difficult to verify.</span>
             </span>
           </a>
@@ -586,6 +605,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Microwave Effect</span>
+                  <span class="ct-node-title-full">Can Electromagnetic Fields Make Buzzing Sounds?</span>
                   <span class="ct-node-summary">The microwave auditory effect is real science, but applying it to UFO buzzing claims usually outruns the evidence available in case reports.</span>
                 </span>
               </a>
@@ -605,6 +625,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Body Effects</span>
+                  <span class="ct-node-title-full">Did Witnesses Hear It or Feel It?</span>
                   <span class="ct-node-summary">Chest vibration, tingling, ear pressure, and internal buzzing claims are vivid but difficult to separate from stress, acoustics, and expectation...</span>
                 </span>
               </a>
@@ -624,6 +645,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Pascagoula</span>
+                  <span class="ct-node-title-full">How Sound Shaped Pascagoula&#x27;s Mystery</span>
                   <span class="ct-node-summary">The Pascagoula case shows how unusual noise details can become more prominent as a famous UFO story is retold and debated.</span>
                 </span>
               </a>
@@ -643,6 +665,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Before Sight</span>
+                  <span class="ct-node-title-full">When the Buzz Comes First</span>
                   <span class="ct-node-summary">Reports where buzzing comes before a visible object raise useful questions about memory, anticipation, direction, and environmental sound sources.</span>
                 </span>
               </a>
@@ -662,6 +685,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Source Confusion</span>
+                  <span class="ct-node-title-full">Why UFO Buzzing Sounds Electrical</span>
                   <span class="ct-node-summary">Transformer-like UFO buzzing can sound specific while still hiding ordinary sources such as substations, power lines, machinery, or reflected hums.</span>
                 </span>
               </a>
@@ -683,6 +707,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Folklore</span>
+              <span class="ct-node-title-full">How UFO Sounds Became Folklore</span>
               <span class="ct-node-summary">Hums, whines, silence, and metallic drones have become part of how people imagine UFOs even before they see one.</span>
             </span>
           </a>
@@ -704,6 +729,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Screen Sounds</span>
+                  <span class="ct-node-title-full">How Movies Taught UFOs to Sound Alien</span>
                   <span class="ct-node-summary">Films and television taught audiences to hear alien craft through electronic whines, drones, pulses, and metallic tones.</span>
                 </span>
               </a>
@@ -723,6 +749,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Musical UFOs</span>
+                  <span class="ct-node-title-full">When UFO Sounds Became a Language</span>
                   <span class="ct-node-summary">Close Encounters made UFO sound feel communicative, turning alien noise into music, contact, and wonder.</span>
                 </span>
               </a>
@@ -742,6 +769,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Silent Craft</span>
+                  <span class="ct-node-title-full">Why Silent UFOs Feel So Unsettling</span>
                   <span class="ct-node-summary">Silence can make a UFO account feel more impossible than noise because it violates expectations about aircraft and engines.</span>
                 </span>
               </a>
@@ -761,6 +789,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sky Sounds</span>
+                  <span class="ct-node-title-full">Why Sky Sounds Became UFO Folklore</span>
                   <span class="ct-node-summary">Online sky-sound videos spread quickly because metallic groans and trumpet-like blasts already fit UFO audio expectations.</span>
                 </span>
               </a>
@@ -780,6 +809,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Hums and Buzzes</span>
+                  <span class="ct-node-title-full">Why UFOs So Often Hum and Buzz</span>
                   <span class="ct-node-summary">Hums and buzzes became the default UFO sound because they suggest advanced machinery without sounding completely unfamiliar.</span>
                 </span>
               </a>
@@ -801,6 +831,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Humming</span>
+              <span class="ct-node-title-full">Why Do So Many UFOs Hum?</span>
               <span class="ct-node-summary">Low hums are among the most common reported UFO sounds, but they can point to machinery, aircraft, atmosphere, or memory effects.</span>
             </span>
           </a>
@@ -822,6 +853,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Industrial Hums</span>
+                  <span class="ct-node-title-full">The Machinery Behind Some Mystery Hums</span>
                   <span class="ct-node-summary">Factories, generators and infrastructure can create low drones that witnesses may connect to unusual lights or objects overhead.</span>
                 </span>
               </a>
@@ -841,6 +873,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Verify Hums</span>
+                  <span class="ct-node-title-full">What Makes a UFO Hum Worth Checking</span>
                   <span class="ct-node-summary">A hum becomes more useful evidence when recordings, multiple witnesses, animal reactions or aviation data support the same event.</span>
                 </span>
               </a>
@@ -860,6 +893,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Aircraft Sounds</span>
+                  <span class="ct-node-title-full">When Aircraft Sound Like UFOs</span>
                   <span class="ct-node-summary">Weather, distance and nighttime viewing can make ordinary aircraft sound detached from where they appear in the sky.</span>
                 </span>
               </a>
@@ -879,6 +913,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Hums</span>
+                  <span class="ct-node-title-full">Why Low Hums Feel So Strange</span>
                   <span class="ct-node-summary">Low-frequency sound can seem directionless, physical and strangely hard to verify, which makes it easy to attach to UFO sightings.</span>
                 </span>
               </a>
@@ -898,6 +933,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">NICAP Case</span>
+                  <span class="ct-node-title-full">Why One California Hum Case Still Matters</span>
                   <span class="ct-node-summary">The 1957 California triangular-object report shows how witness status, object shape and sound detail can make a hum case more notable.</span>
                 </span>
               </a>
@@ -919,6 +955,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Industry</span>
+              <span class="ct-node-title-full">Could That UFO Noise Be Machinery?</span>
               <span class="ct-node-summary">Factories, construction, substations, and heavy machinery can create humming or metallic sounds that seem mysterious at night.</span>
             </span>
           </a>
@@ -940,6 +977,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Pipelines</span>
+                  <span class="ct-node-title-full">Can Pipeline Machinery Explain a Mystery Drone?</span>
                   <span class="ct-node-summary">Pipeline pumps, compressors, and gas infrastructure can generate deep vibrations that travel through air and ground.</span>
                 </span>
               </a>
@@ -959,6 +997,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Transformer Hum</span>
+                  <span class="ct-node-title-full">Is That Sky Buzz Coming From a Substation?</span>
                   <span class="ct-node-summary">Electrical substations can produce a constant buzz or hum that listeners may misread as a hovering object.</span>
                 </span>
               </a>
@@ -978,6 +1017,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Factory Fans</span>
+                  <span class="ct-node-title-full">When Factory Fans Sound Like Something Overhead</span>
                   <span class="ct-node-summary">Large ventilation fans can turn ordinary industrial airflow into a steady drone that sounds detached from its source.</span>
                 </span>
               </a>
@@ -997,6 +1037,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Omagh Hum</span>
+                  <span class="ct-node-title-full">Why Some Hum Investigations Do Not End Cleanly</span>
                   <span class="ct-node-summary">The Omagh Hum highlights the gap between finding a probable industrial source and proving it well enough to satisfy everyone.</span>
                 </span>
               </a>
@@ -1016,6 +1057,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Bristol Hum</span>
+                  <span class="ct-node-title-full">Why the Bristol Hum Still Points Toward Industry</span>
                   <span class="ct-node-summary">The Bristol Hum shows how a famous mystery sound can remain disputed while still pointing investigators toward industry.</span>
                 </span>
               </a>
@@ -1037,6 +1079,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Infrasound</span>
+              <span class="ct-node-title-full">Could Infrasound Explain UFO Vibrations?</span>
               <span class="ct-node-summary">Infrasound may help explain some reports of pressure, unease, vibration, or humming without a clear audible source.</span>
             </span>
           </a>
@@ -1058,6 +1101,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Check clues</span>
+                  <span class="ct-node-title-full">How to Test a UFO Vibration Claim</span>
                   <span class="ct-node-summary">A practical check can separate low-frequency sound clues from memory gaps, visual assumptions, and unrelated sources.</span>
                 </span>
               </a>
@@ -1077,6 +1121,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Natural sources</span>
+                  <span class="ct-node-title-full">Natural Sounds That Can Feel Like UFOs</span>
                   <span class="ct-node-summary">Storms, wind, ocean waves, earthquakes, and meteors can create low-frequency sensations that may coincide with unusual aerial reports.</span>
                 </span>
               </a>
@@ -1096,6 +1141,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Hum analogues</span>
+                  <span class="ct-node-title-full">What Mystery Hums Teach UFO Researchers</span>
                   <span class="ct-node-summary">Persistent hum reports such as the Taos Hum show how low-frequency noise can blur the line between hearing, vibration, and discomfort.</span>
                 </span>
               </a>
@@ -1115,6 +1161,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Hard to locate</span>
+                  <span class="ct-node-title-full">Why Some UFO Hums Seem Directionless</span>
                   <span class="ct-node-summary">Long low-frequency wavelengths can make a hum feel present everywhere while leaving witnesses unsure where it is coming from.</span>
                 </span>
               </a>
@@ -1134,6 +1181,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Chest pressure</span>
+                  <span class="ct-node-title-full">Why UFO Witnesses Report Chest Pressure</span>
                   <span class="ct-node-summary">Low-frequency sound may help explain why some witnesses report chest pressure, resonance, or a felt presence during sightings.</span>
                 </span>
               </a>
@@ -1155,6 +1203,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Memory</span>
+              <span class="ct-node-title-full">How Memory Changes UFO Sounds</span>
               <span class="ct-node-summary">UFO sound testimony can change as surprise, fear, discussion, and later media exposure reshape what people remember hearing.</span>
             </span>
           </a>
@@ -1176,6 +1225,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Shared Memories</span>
+                  <span class="ct-node-title-full">How Witness Groups Can Merge UFO Sound Memories</span>
                   <span class="ct-node-summary">Witnesses who compare stories can unintentionally align their memories, including what the object supposedly sounded like.</span>
                 </span>
               </a>
@@ -1195,6 +1245,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Silence Claims</span>
+                  <span class="ct-node-title-full">Was the UFO Silent, or Just Unexpected?</span>
                   <span class="ct-node-summary">Claims that an object was silent can reflect real perception, but they also depend on what the witness expected to hear.</span>
                 </span>
               </a>
@@ -1214,6 +1265,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Retellings</span>
+                  <span class="ct-node-title-full">When UFO Sounds Grow More Detailed Later</span>
                   <span class="ct-node-summary">Repeated retellings can turn a simple hum into a richer description without the witness intending to mislead anyone.</span>
                 </span>
               </a>
@@ -1233,6 +1285,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Stress Focus</span>
+                  <span class="ct-node-title-full">Why Stress Can Blur UFO Sound Memories</span>
                   <span class="ct-node-summary">Stress can make witnesses fixate on the object while leaving the remembered sound vague, partial, or later reshaped.</span>
                 </span>
               </a>
@@ -1252,6 +1305,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sound Analogies</span>
+                  <span class="ct-node-title-full">Why UFO Hums Sound Like Familiar Machines</span>
                   <span class="ct-node-summary">Comparisons to transformers, insects, turbines, and engines reveal how witnesses translate unfamiliar sounds into known examples.</span>
                 </span>
               </a>
@@ -1273,6 +1327,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Record It</span>
+              <span class="ct-node-title-full">How Should You Record a UFO Noise?</span>
               <span class="ct-node-summary">A careful recording, location notes, timing, and comparison checks can make an unusual sound report much more useful.</span>
             </span>
           </a>
@@ -1294,6 +1349,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Spectrograms</span>
+                  <span class="ct-node-title-full">Can A Spectrogram Explain A UFO Sound?</span>
                   <span class="ct-node-summary">A spectrogram can reveal pulses, bands and pitch changes that the ear may miss in a strange sky-noise recording.</span>
                 </span>
               </a>
@@ -1313,6 +1369,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Phone Audio</span>
+                  <span class="ct-node-title-full">Phone Mistakes That Bury Strange Sky Sounds</span>
                   <span class="ct-node-summary">Small recording choices can decide whether a strange aerial sound remains useful evidence or becomes impossible to check later.</span>
                 </span>
               </a>
@@ -1332,6 +1389,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Weather Notes</span>
+                  <span class="ct-node-title-full">Weather Details That Change A Mystery Sound</span>
                   <span class="ct-node-summary">Wind, rain, cloud and calm conditions can change how far a noise travels and how nearby it seems.</span>
                 </span>
               </a>
@@ -1351,6 +1409,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Timeline Notes</span>
+                  <span class="ct-node-title-full">What To Say While Recording A Mystery Noise</span>
                   <span class="ct-node-summary">Narrating time, direction and visible clues while recording can turn a confusing noise clip into a usable timeline.</span>
                 </span>
               </a>
@@ -1370,6 +1429,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Witness Notes</span>
+                  <span class="ct-node-title-full">Why Witnesses Should Write Separately First</span>
                   <span class="ct-node-summary">Separate witness notes can preserve genuine agreements before conversation turns several memories into one shared story.</span>
                 </span>
               </a>
@@ -1391,6 +1451,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Sensors</span>
+              <span class="ct-node-title-full">Can Sensors Catch UFO Noises?</span>
               <span class="ct-node-summary">Multi-band sensors can record audible sound and infrasound, giving investigators more than memory to work with.</span>
             </span>
           </a>
@@ -1412,6 +1473,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Arrays</span>
+                  <span class="ct-node-title-full">Can Microphones Point to a UFO Sound?</span>
                   <span class="ct-node-summary">Microphone arrays can compare arrival times across sensors to estimate where a suspicious aerial sound came from.</span>
                 </span>
               </a>
@@ -1431,6 +1493,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Infrasound</span>
+                  <span class="ct-node-title-full">How Far Can Sky Sounds Really Travel?</span>
                   <span class="ct-node-summary">Infrasound can record energetic sky events far beyond human hearing, turning distant booms and fireballs into measurable signals.</span>
                 </span>
               </a>
@@ -1450,6 +1513,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Drone Buzz</span>
+                  <span class="ct-node-title-full">Is That Strange Buzz Just a Drone?</span>
                   <span class="ct-node-summary">Known drone and aircraft recordings give investigators comparison material when a strange buzz or hum is reported overhead.</span>
                 </span>
               </a>
@@ -1469,6 +1533,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Chelyabinsk</span>
+                  <span class="ct-node-title-full">The Meteor Blast Heard Around the World</span>
                   <span class="ct-node-summary">The Chelyabinsk meteor showed how a sudden aerial explosion can leave a worldwide acoustic trail in scientific sensor networks.</span>
                 </span>
               </a>
@@ -1488,6 +1553,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Multi Band</span>
+                  <span class="ct-node-title-full">When a Silent UFO Is Not Silent</span>
                   <span class="ct-node-summary">Some events seem silent because the strongest signal may fall below or above normal hearing rather than inside ordinary audio.</span>
                 </span>
               </a>
@@ -1509,6 +1575,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Silence</span>
+              <span class="ct-node-title-full">Why Are Some UFOs Reported Silent?</span>
               <span class="ct-node-summary">Silent UFO reports raise a simple question: was the object truly quiet, or was distance, wind, or expectation hiding the sound?</span>
             </span>
           </a>
@@ -1530,6 +1597,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Weather Masking</span>
+                  <span class="ct-node-title-full">Can Weather Make Aircraft Soundless?</span>
                   <span class="ct-node-summary">Wind, temperature layers, humidity and terrain can bend or weaken aircraft noise before it reaches a witness.</span>
                 </span>
               </a>
@@ -1549,6 +1617,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Inside Cars</span>
+                  <span class="ct-node-title-full">Silent UFOs Seen From Cars</span>
                   <span class="ct-node-summary">A witness inside a vehicle may miss or misread outside sound, especially when wind, engine noise and glass reduce faint aircraft noise.</span>
                 </span>
               </a>
@@ -1568,6 +1637,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Distance Errors</span>
+                  <span class="ct-node-title-full">When Faraway Lights Seem Silent</span>
                   <span class="ct-node-summary">A distant light can look close and large at night, making ordinary aircraft seem strangely silent from the ground.</span>
                 </span>
               </a>
@@ -1587,6 +1657,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sonic Booms</span>
+                  <span class="ct-node-title-full">Why No Sonic Boom Was Heard</span>
                   <span class="ct-node-summary">Silent high-speed UFO claims raise a sharper question: whether the object was truly supersonic or only seemed that way.</span>
                 </span>
               </a>
@@ -1606,6 +1677,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Belgian Triangles</span>
+                  <span class="ct-node-title-full">Why Were Belgium&#x27;s Triangles So Quiet?</span>
                   <span class="ct-node-summary">The Belgian UFO wave made silent triangular craft famous, but its evidence also shows how hoaxes and misidentifications complicate the story.</span>
                 </span>
               </a>
@@ -1627,6 +1699,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Sky Trumpets</span>
+              <span class="ct-node-title-full">What Are Sky Trumpet Sounds?</span>
               <span class="ct-node-summary">Sky trumpet recordings can sound uncanny, but many turn out to involve machinery, acoustics, trains, aircraft, or editing.</span>
             </span>
           </a>
@@ -1648,6 +1721,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Stock Audio</span>
+                  <span class="ct-node-title-full">Are Sky Trumpet Videos Using Stock Sounds?</span>
                   <span class="ct-node-summary">Some famous sky trumpet videos look less mysterious when repeated audio layers and familiar cinematic effects are compared side by side.</span>
                 </span>
               </a>
@@ -1667,6 +1741,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Verification</span>
+                  <span class="ct-node-title-full">How to Check a Sky Trumpet Video</span>
                   <span class="ct-node-summary">A careful check of location, weather, nearby rail or industry, aircraft activity, and audio reuse can quickly narrow many sky trumpet claims.</span>
                 </span>
               </a>
@@ -1686,6 +1761,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Skyquakes</span>
+                  <span class="ct-node-title-full">Skyquakes Before the Viral Video Era</span>
                   <span class="ct-node-summary">Reports of unexplained booming sky sounds long predate social media, showing that modern UFO framing is only one chapter in an older mystery.</span>
                 </span>
               </a>
@@ -1705,6 +1781,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Train Sounds</span>
+                  <span class="ct-node-title-full">When Train Horns Sound Like Sky Trumpets</span>
                   <span class="ct-node-summary">Distant trains can sound huge, metallic, and airborne when rail noise, horns, echoes, and weather distort the direction of the sound.</span>
                 </span>
               </a>
@@ -1724,6 +1801,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Weather Effects</span>
+                  <span class="ct-node-title-full">Why Weather Can Make Sounds Seem Overhead</span>
                   <span class="ct-node-summary">Temperature inversions can bend and carry sound so a faraway industrial or transport noise seems to come from above.</span>
                 </span>
               </a>
@@ -1745,6 +1823,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Sonic Booms</span>
+              <span class="ct-node-title-full">Can UFOs Break Sound Without Booms?</span>
               <span class="ct-node-summary">Reports of rapid UFO motion without sonic booms are intriguing, but speed and distance are easy to misjudge in the sky.</span>
             </span>
           </a>
@@ -1766,6 +1845,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Boom Footprints</span>
+                  <span class="ct-node-title-full">Could a Sonic Boom Miss the Witness?</span>
                   <span class="ct-node-summary">A real sonic boom can occur without reaching the person who saw the object, depending on altitude, path and atmosphere.</span>
                 </span>
               </a>
@@ -1785,6 +1865,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Pilot Cases</span>
+                  <span class="ct-node-title-full">Do Better Witnesses Solve the Boom Mystery?</span>
                   <span class="ct-node-summary">Reports involving pilots, radar or military witnesses are more interesting, but they still need trajectory and acoustic data to prove a true anomaly.</span>
                 </span>
               </a>
@@ -1804,6 +1885,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Check Claims</span>
+                  <span class="ct-node-title-full">How Strong Is a No Boom UFO Claim?</span>
                   <span class="ct-node-summary">A no-boom claim becomes stronger only when the object&#x27;s speed, distance, altitude and local sound conditions can be tested together.</span>
                 </span>
               </a>
@@ -1823,6 +1905,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Low Boom Jets</span>
+                  <span class="ct-node-title-full">What Quiet Supersonic Jets Mean for UFO Claims</span>
                   <span class="ct-node-summary">NASA&#x27;s low-boom research shows why supersonic flight does not always sound like the classic window-rattling boom.</span>
                 </span>
               </a>
@@ -1842,6 +1925,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Distance Errors</span>
+                  <span class="ct-node-title-full">When Fast UFOs Are Closer Than They Look</span>
                   <span class="ct-node-summary">Many silent high-speed UFO reports begin with a hidden problem: the object&#x27;s distance is guessed rather than measured.</span>
                 </span>
               </a>
@@ -1863,6 +1947,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
             </div>
             <span class="ct-node-content">
               <span class="ct-node-label">Taos Hum</span>
+              <span class="ct-node-title-full">Why Is the Taos Hum Linked to UFOs?</span>
               <span class="ct-node-summary">The Taos Hum shows how a persistent low-frequency mystery can become linked to UFOs even without a visible object.</span>
             </span>
           </a>
@@ -1884,6 +1969,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Medical Angle</span>
+                  <span class="ct-node-title-full">Could the Taos Hum Come From the Ear?</span>
                   <span class="ct-node-summary">Tinnitus-like processes and other auditory effects offer a possible explanation for some Hum reports without explaining every experience.</span>
                 </span>
               </a>
@@ -1903,6 +1989,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Base Rumours</span>
+                  <span class="ct-node-title-full">How Secret Base Rumours Reached Taos</span>
                   <span class="ct-node-summary">The Hum became linked to underground-base rumours because an unseen sound, official uncertainty, and New Mexico UFO folklore fit together easily.</span>
                 </span>
               </a>
@@ -1922,6 +2009,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Evidence Gap</span>
+                  <span class="ct-node-title-full">What the Taos Evidence Really Leaves Open</span>
                   <span class="ct-node-summary">The Taos investigations found no accepted single source, but that gap is not evidence that UFOs caused the sound.</span>
                 </span>
               </a>
@@ -1941,6 +2029,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Selective Hearing</span>
+                  <span class="ct-node-title-full">Why Can Some People Hear the Taos Hum?</span>
                   <span class="ct-node-summary">Selective hearing is central to the Taos Hum because some residents report a deep drone while many nearby people hear nothing at all.</span>
                 </span>
               </a>
@@ -1960,6 +2049,7 @@ site_image_description: A quiet rural road at night with a glowing unidentified 
                 </div>
                 <span class="ct-node-content">
                   <span class="ct-node-label">Sound Clues</span>
+                  <span class="ct-node-title-full">Why Low Sounds Are So Hard to Trace</span>
                   <span class="ct-node-summary">Low-frequency sound can travel far, feel hard to locate, and make ordinary noise sources seem stranger than they are.</span>
                 </span>
               </a>

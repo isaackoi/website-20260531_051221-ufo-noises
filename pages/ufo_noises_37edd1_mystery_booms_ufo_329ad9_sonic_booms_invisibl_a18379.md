@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-31 04:59:29'
 parent_title: What Causes Mystery Booms in the Sky? | UFO Noises
 parent_permalink: /booms/
 parent_nav_short_title: Booms
@@ -265,7 +266,6 @@ next_link:
   permalink: /timing-clues/
   short_title: Timing Clues
   heading_title: The Timeline Clues Mystery Booms Leave Behind
-date: '2026-05-31 04:59:29 '
 header:
   og_image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1.webp
@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_inv
 Many reports of mysterious sky explosions begin with the same detail: people hear a violent boom, windows rattle, pets react, and yet nobody sees an [aircraft]({{ 'aircraft/' | relative_url }}). In UFO discussions, that absence of a visible source often becomes the mystery itself. A sonic boom is one of the most common explanations for these events. A fast aircraft flying faster than the speed of sound creates a moving shockwave that can travel across large areas and reach people who never saw the jet responsible. Depending on altitude, weather conditions and military flight activity, the boom can seem disconnected from any visible aircraft, making it sound more like an unexplained explosion than ordinary aviation noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> The result is a recurring pattern in mystery-boom reports: residents hear what sounds like a blast, authorities initially have little information, and speculation quickly fills the gap. Understanding how sonic [booms]({{ 'booms/' | relative_url }}) work helps explain why so many “invisible explosions” end up linked to aircraft that were never seen from the ground.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-light.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-dark.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When a Jet Creates a Moving Shockwave
 
 A sonic boom is not the sound of an aircraft engine. It is a pressure wave created when an object moves through the [atmosphere]({{ 'atmosphere/' | relative_url }}) faster than sound itself. Because sound waves cannot move ahead of a supersonic aircraft quickly enough, they compress into shockwaves that trail behind the aircraft in a cone-shaped pattern. When that pressure disturbance reaches the ground, people hear a sudden boom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
@@ -329,7 +329,7 @@ A recent example came from western India, where repeated unexplained booms rattl
 The same pattern has appeared in numerous countries: residents hear an explosion, emergency services investigate, no immediate source is identified, and rumours emerge before aviation explanations catch up.
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-2-light.svg" | relative_url }}" alt="Sonic Booms illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-2-dark.svg" | relative_url }}" alt="Sonic Booms illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sonic Booms Feel Like Real Explosions
 
 The reason sonic booms generate so much alarm is that they genuinely share characteristics with explosions.
@@ -368,7 +368,7 @@ Many mystery-boom cases never become famous UFO incidents precisely because inve
 The strongest clue that a mystery boom may be a sonic boom is the combination of three features:
 
 
-<img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-3-light.svg" | relative_url }}" alt="Sonic Booms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-3-dark.svg" | relative_url }}" alt="Sonic Booms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
