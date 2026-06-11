@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aircraft/
 nav_short_title: Head On Jets
 title: Why a Moving Jet Can Seem to Hover
-title_full: Why a Moving Jet Can Seem to Hover | Aircraft
+title_full: Why a Moving Jet Can Seem to Hover
 display_title_short: Head On Jets
 display_title: Head On Jets
 heading_title: Why a Moving Jet Can Seem to Hover
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:04:18'
-parent_title: When Aircraft Sounds Become UFO Stories | UFO Noises
+parent_title: When Aircraft Sounds Become UFO Stories
 parent_permalink: /aircraft/
 parent_nav_short_title: Aircraft
 parent_heading_title: When Aircraft Sounds Become UFO Stories
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_
 
 One of the most common aviation-related UFO misunderstandings involves a bright light that seems to hover in place while a deep engine roar arrives late from somewhere else in the sky. To a ground observer, the combination can feel genuinely strange: the object appears stationary, yet a powerful sound follows seconds later, creating the impression that the light and the noise do not belong together.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-1-dark.svg" | relative_url }}" alt="Head On Jets illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In many cases, the explanation is not unusual [aircraft]({{ 'aircraft/' | relative_url }}) technology but a simple interaction between perspective and sound propagation. A jet flying almost directly towards an observer can show very little apparent sideways motion, making it look as though it is hanging motionless in the air. At the same time, the aircraft's engine noise may take several seconds to reach the listener, especially when the jet is still many kilometres away. The result is a convincing illusion that has repeatedly contributed to reports of hovering craft, mysterious lights and unexplained aerial sounds. Aviation Stack Exchange <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationFundamentals of Noise and Sound29 Mar 2022 — For example, the sound level of a plane increases as it appro...</span></span></span>
 
@@ -286,8 +285,7 @@ Most people judge movement by watching an object slide across their field of vie
 
 A jet approaching head-on is different. Even though it may be travelling at hundreds of miles per hour, most of its movement is directed towards the observer rather than across the observer's line of sight. Because the aircraft's angular motion is very small, the brain receives surprisingly little visual evidence that it is moving. Aviation observers and pilots frequently note that an aircraft flying directly towards or away from a viewer can appear almost stationary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-snippet">Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</span></span></span>
 
-This effect becomes stronger when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/opticalillusions/comments/1sg4eof/this_plane_is_actually_moving_its_called_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThis plane is actually moving it&#x27;s called the parallax effect: r...What you&#x27;re seeing is the parallax effect. When an object in t...</span></span></span>
-
+This effect becomes stronger when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/opticalillusions/comments/1sg4eof/this_plane_is_actually_moving_its_called_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This plane is actually moving it&#x27;s called the parallax effect: r...What you&#x27;re seeing is the parallax effect. When an object in t...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ When the jet is heading directly towards an observer, the landing lights remain 
 
 Videos that circulate online showing aircraft apparently frozen in mid-air often involve this geometry combined with parallax effects from a moving observer. The aircraft is moving rapidly, but its position relative to the viewer changes so slowly that the motion becomes difficult to detect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">how can a plane appear still in the air?Smaller planes can actually be airborne and stationary over the ground if they&#x27;re flying into a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/opticalillusions/comments/1nmxqp1/an_example_of_the_parallax_effect_it_causes_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">An example of the parallax effect</span><span class="citation-popover-snippet">It causes the plane to...September 21, 2025 — An example of the parallax effect. It causes the plane to appear to be remaining still bec...</span><span class="citation-popover-meta">Published: September 21, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 203.9K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
 ## Why Engine Sound Can Arrive Late
@@ -319,7 +316,6 @@ The visual illusion becomes more convincing because sound and sight do not arriv
 Light reaches an observer almost instantly over ordinary atmospheric distances. Sound does not. Engine noise travels through air at roughly 343 metres per second under typical conditions, meaning a distant aircraft can be seen well before its noise arrives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alexanderell.is/posts/plane-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexanderell.is">[Alexander Ellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexanderell.is</span><span class="citation-popover-title">Alexander Ellis How far behind a plane is its noise?</span><span class="citation-popover-snippet">Caffeinspiration12 Jun 2022 — If a plane takes 15 seconds for its sound to catch up, it will “look” like the plane is 1.5km ahead of its...</span></span></span>
 
 Imagine a jet several kilometres away on an approach path:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -333,7 +329,6 @@ Imagine a jet several kilometres away on an approach path:
 The listener naturally expects sound and image to line up. When they do not, the brain often interprets the situation as something unusual rather than as a simple consequence of distance.
 
 A useful rule of thumb is that a delay of around 15 seconds implies the aircraft may be roughly 5 kilometres away, meaning the visible aircraft can appear significantly ahead of the sound reaching the listener. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alexanderell.is/posts/plane-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexanderell.is">[Alexander Ellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexanderell.is</span><span class="citation-popover-title">Alexander Ellis How far behind a plane is its noise?</span><span class="citation-popover-snippet">Caffeinspiration12 Jun 2022 — If a plane takes 15 seconds for its sound to catch up, it will “look” like the plane is 1.5km ahead of its...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-2-dark.svg" | relative_url }}" alt="Head On Jets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Noise Can Feel Detached from the Light
@@ -355,10 +350,9 @@ Darkness removes many of the visual cues people normally use to judge speed and 
 
 During the day, observers can compare an aircraft with clouds, terrain or buildings. At night, especially under clear skies, the aircraft may be reduced to a single point of light. Human perception becomes much less reliable under those conditions.
 
-Aviation safety literature documents several visual illusions associated with night operations, including misjudgements of distance, apparent motion and false interpretations of isolated lights. Pilots themselves are trained to recognise such effects because the human visual system can be deceived when reference points disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/spatial-disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybrarySpatial Disorientation | SKYbrary Aviation SafetySpatial disorientation is defined as the inability of a pilot to correctly inter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationFundamentals of Noise and Sound29 Mar 2022 — For example, the sound level of a plane increases as it appro...</span></span></span>
+Aviation safety literature documents several visual illusions associated with night operations, including misjudgements of distance, apparent motion and false interpretations of isolated lights. Pilots themselves are trained to recognise such effects because the human visual system can be deceived when reference points disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/spatial-disorientation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Spatial Disorientation &#124; SKYbrary Aviation SafetySpatial disorientation is defined as the inability of a pilot to correctly inter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationFundamentals of Noise and Sound29 Mar 2022 — For example, the sound level of a plane increases as it appro...</span></span></span>
 
 An isolated light against a dark background can even appear to move when it is actually stationary, a phenomenon known as the autokinetic effect. While this is a separate illusion from the head-on jet scenario, the two can combine in real sightings. A distant aircraft approaching directly towards an observer may already appear nearly motionless; prolonged staring can then make the light seem to drift or manoeuvre slightly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
@@ -386,7 +380,6 @@ Many witnesses report that the apparently stationary light suddenly starts movin
 
 Many modern sightings near airports can be matched to published arrival routes or tracked aircraft moving directly towards the observer's location.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-3-dark.svg" | relative_url }}" alt="Head On Jets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_head_on_jet_hover_il_bc6b12-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Illusion Feels So Convincing
 
@@ -398,9 +391,7 @@ An approaching aircraft can violate all three expectations at once. It may appea
 
 That combination of perspective, delayed sound and limited visual information explains why reports of strange aerial lights accompanied by mysterious noises often turn out to involve ordinary jets flying directly towards the observer rather than anything genuinely hovering overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alexanderell.is/posts/plane-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexanderell.is">[Alexander Ellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexanderell.is</span><span class="citation-popover-title">Alexander Ellis How far behind a plane is its noise?</span><span class="citation-popover-snippet">Caffeinspiration12 Jun 2022 — If a plane takes 15 seconds for its sound to catch up, it will “look” like the plane is 1.5km ahead of its...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-snippet">Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ZG17H8yizI" title="The LEANS ILLUSION. How pilots get disoriented." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ZG17H8yizI" target="_blank" rel="noopener noreferrer">The LEANS ILLUSION. How pilots get disoriented.</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 57.6K &middot; Uploaded: May 2019 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ZG17H8yizI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ZG17H8yizI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -798,139 +789,139 @@ That combination of perspective, delayed sound and limited visual information ex
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/](https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>how can a plane appear still in the air?Smaller planes can actually be airborne and stationary over the ground if they&#x27;re flying into a s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: An example of the parallax effect  
-   Link: [https://www.reddit.com/r/opticalillusions/comments/1nmxqp1/an_example_of_the_parallax_effect_it_causes_the/](https://www.reddit.com/r/opticalillusions/comments/1nmxqp1/an_example_of_the_parallax_effect_it_causes_the/)  
+   Link: <a href="https://www.reddit.com/r/opticalillusions/comments/1nmxqp1/an_example_of_the_parallax_effect_it_causes_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/opticalillusions/comments/1nmxqp1/an_example_of_the_parallax_effect_it_causes_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It causes the plane to...September 21, 2025 — An example of the parallax effect. It causes the plane to appear to be remaining still bec...</p></details>
    Published: September 21, 2025  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/opticalillusions/comments/1sg4eof/this_plane_is_actually_moving_its_called_the/](https://www.reddit.com/r/opticalillusions/comments/1sg4eof/this_plane_is_actually_moving_its_called_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThis plane is actually moving it&#x27;s called the parallax effect: r...What you&#x27;re seeing is the parallax effect. When an object in t...</p></details>
+   Link: <a href="https://www.reddit.com/r/opticalillusions/comments/1sg4eof/this_plane_is_actually_moving_its_called_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/opticalillusions/comments/1sg4eof/this_plane_is_actually_moving_its_called_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This plane is actually moving it&#x27;s called the parallax effect: r...What you&#x27;re seeing is the parallax effect. When an object in t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/spatial-disorientation](https://skybrary.aero/articles/spatial-disorientation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybrarySpatial Disorientation | SKYbrary Aviation SafetySpatial disorientation is defined as the inability of a pilot to correctly inter...</p></details>
+   Link: <a href="https://skybrary.aero/articles/spatial-disorientation" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/spatial-disorientation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation | SKYbrary Aviation SafetySpatial disorientation is defined as the inability of a pilot to correctly inter...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: [https://en.wikipedia.org/wiki/Autokinetic_effect](https://en.wikipedia.org/wiki/Autokinetic_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/3slp3s/eli5_when_we_see_a_plane_passing_by_why_do_we/](https://www.reddit.com/r/explainlikeimfive/comments/3slp3s/eli5_when_we_see_a_plane_passing_by_why_do_we/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/3slp3s/eli5_when_we_see_a_plane_passing_by_why_do_we/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/3slp3s/eli5_when_we_see_a_plane_passing_by_why_do_we/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: When we see a plane passing by, why do we hear its...As the plane approaches you the sound gets compressed and so the sound will r...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Aviation Visual Illusions  
-   Link: [https://www.youtube.com/watch?v=zZOhH07h4Iw](https://www.youtube.com/watch?v=zZOhH07h4Iw)  
+   Link: <a href="https://www.youtube.com/watch?v=zZOhH07h4Iw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zZOhH07h4Iw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane Glitch in Mid Air. Matrix?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The LEANS ILLUSION. How Pilots Get Disoriented  
-   Link: [https://www.youtube.com/watch?v=5ZG17H8yizI](https://www.youtube.com/watch?v=5ZG17H8yizI)  
+   Link: <a href="https://www.youtube.com/watch?v=5ZG17H8yizI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5ZG17H8yizI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation visual illusions - YouTube Aviation visual illusions - YouTube...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aviation.stackexchange.com  
-   Link: [https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air](https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air)  
+   Link: <a href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/policy_guidance/noise/basics](https://www.faa.gov/regulations_policies/policy_guidance/noise/basics)  
+   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/basics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFundamentals of Noise and Sound29 Mar 2022 — For example, the sound level of a plane increases as it appro...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: alexanderell.is  
    Title: Alexander Ellis How far behind a plane is its noise?  
-   Link: [https://alexanderell.is/posts/plane-noise/](https://alexanderell.is/posts/plane-noise/)  
+   Link: <a href="https://alexanderell.is/posts/plane-noise/" target="_blank" rel="noopener noreferrer nofollow">https://alexanderell.is/posts/plane-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeinspiration12 Jun 2022 — If a plane takes 15 seconds for its sound to catch up, it will “look” like the plane is 1.5km ahead of its...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: eaglepubs.erau.edu  
    Title: Airplanes generate multiple  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle PubsAeroacoustics of Flight Vehicles – Introduction to...January 1, 2023 — by JG Leishman · 2023 · Cited by 2 — This latter type o...</p></details>
    Published: January 1, 2023  
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration FAA  
-   Link: [https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf](https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - Spacial DisorientationThe pilot&#x27;s response to this illusion would be to pitch the nose of the aircraft up. If this illusion occurs...</p></details>
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-11/spatial_disorientation.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacial DisorientationThe pilot&#x27;s response to this illusion would be to pitch the nose of the aircraft up. If this illusion occurs...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aviation.stackexchange.com  
    Title: why can you hear an aircraft only after the shockwave passes  
-   Link: [https://aviation.stackexchange.com/questions/104562/why-can-you-hear-an-aircraft-only-after-the-shockwave-passes](https://aviation.stackexchange.com/questions/104562/why-can-you-hear-an-aircraft-only-after-the-shockwave-passes)  
+   Link: <a href="https://aviation.stackexchange.com/questions/104562/why-can-you-hear-an-aircraft-only-after-the-shockwave-passes" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/104562/why-can-you-hear-an-aircraft-only-after-the-shockwave-passes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A lot of resources use this picture to illustrate...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DX4QswkjCb3/?hl=en-gb](https://www.instagram.com/reel/DX4QswkjCb3/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DX4QswkjCb3/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX4QswkjCb3/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeather | These airplanes might look like they&#x27;ve paused...This plane isn&#x27;t frozen in mid-air, it&#x27;s the parallax effect. When you&#x27;re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/zuq_s3jtBeM](https://www.youtube.com/shorts/zuq_s3jtBeM)  
+   Link: <a href="https://www.youtube.com/shorts/zuq_s3jtBeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/zuq_s3jtBeM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane appears to pause mid-air in optical illusionFootage of a plane traveling into San Francisco is going viral after the aircraft appea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTlEZf4jYFW/](https://www.instagram.com/reel/DTlEZf4jYFW/)  
+   Link: <a href="https://www.instagram.com/reel/DTlEZf4jYFW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTlEZf4jYFW/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>led the parallax effect, where movement and perspective trick your brain...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Timesnow/posts/when-we-look-at-a-plane-in-the-sky-it-always-seems-it-is-moving-verw-slowly-amon/10168544234945311/](https://www.facebook.com/Timesnow/posts/when-we-look-at-a-plane-in-the-sky-it-always-seems-it-is-moving-verw-slowly-amon/10168544234945311/)  
+   Link: <a href="https://www.facebook.com/Timesnow/posts/when-we-look-at-a-plane-in-the-sky-it-always-seems-it-is-moving-verw-slowly-amon/10168544234945311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timesnow/posts/when-we-look-at-a-plane-in-the-sky-it-always-seems-it-is-moving-verw-slowly-amon/10168544234945311/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the clouds. This happens because we experience the Motion...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUvC2cIjQy4/](https://www.instagram.com/reel/DUvC2cIjQy4/)  
+   Link: <a href="https://www.instagram.com/reel/DUvC2cIjQy4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUvC2cIjQy4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nless in the sky. When a plane is far away and moving in the same...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTdfYfYkqt2/](https://www.instagram.com/reel/DTdfYfYkqt2/)  
+   Link: <a href="https://www.instagram.com/reel/DTdfYfYkqt2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTdfYfYkqt2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e almost frozen in the sky, as if it is not moving at all, when...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qsEjV8DdSbs](https://www.youtube.com/watch?v=qsEjV8DdSbs)  
+   Link: <a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you want to read basically the whole video in one paragraph...there was a hot thing in the sky. It looks the way planes sometimes look...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: willbrownsberger.com  
    Title: The FAA and Airplane Noise  
-   Link: [https://willbrownsberger.com/faa-and-airplane-noise/](https://willbrownsberger.com/faa-and-airplane-noise/)  
+   Link: <a href="https://willbrownsberger.com/faa-and-airplane-noise/" target="_blank" rel="noopener noreferrer nofollow">https://willbrownsberger.com/faa-and-airplane-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Brownsberger20 Aug 2014 — The Federal Aviation Administration briefed state and local elected officials about ongoing efforts to con...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: noiseawareness.org  
    Title: Aircraft Noise Ailments  
-   Link: [https://noiseawareness.org/info-center/aircraft-noise-ailments-bronzaft/](https://noiseawareness.org/info-center/aircraft-noise-ailments-bronzaft/)  
+   Link: <a href="https://noiseawareness.org/info-center/aircraft-noise-ailments-bronzaft/" target="_blank" rel="noopener noreferrer nofollow">https://noiseawareness.org/info-center/aircraft-noise-ailments-bronzaft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Awareness DayCongress forbade airport operators from enacting noise abatement measures concerning the newest generation of airplane...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6BD9fyyIJzY](https://www.youtube.com/watch?v=6BD9fyyIJzY)  
+   Link: <a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6BD9fyyIJzY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ppens how it affects pilots and how to prevent it during flight...</p></details>

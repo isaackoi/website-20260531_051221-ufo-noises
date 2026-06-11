@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /infrasound/
 nav_short_title: Check clues
 title: How to Test a UFO Vibration Claim
-title_full: How to Test a UFO Vibration Claim | Infrasound
+title_full: How to Test a UFO Vibration Claim
 display_title_short: Check clues
 display_title: Check clues
 heading_title: How to Test a UFO Vibration Claim
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:48'
-parent_title: Could Infrasound Explain UFO Vibrations? | UFO Noises
+parent_title: Could Infrasound Explain UFO Vibrations?
 parent_permalink: /infrasound/
 parent_nav_short_title: Infrasound
 parent_heading_title: Could Infrasound Explain UFO Vibrations?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo
 
 Reports of a UFO that seemed to cause a deep vibration, [chest pressure]({{ 'chest-pressure/' | relative_url }}), window rattling or a strange bodily sensation are often cited as possible signs of infrasound. The challenge is that infrasound is difficult to confirm after the event. Low-frequency sound can come from [aircraft]({{ 'aircraft/' | relative_url }}), industrial machinery, weather systems, distant explosions, traffic, ventilation equipment and other ordinary sources, and witnesses often remember physical sensations more clearly than the surrounding environmental details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-1-dark.svg" | relative_url }}" alt="Check clues illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A useful investigation does not begin by assuming a mysterious craft produced the vibration. Instead, it asks whether the report contains clues that fit known low-frequency sound behaviour, whether ordinary sources were present, and whether any independent records exist. In many UFO vibration cases, the most valuable evidence is not the sighting itself but the timing, location and physical details surrounding it.
 
@@ -281,7 +280,6 @@ The first step is to separate what was directly experienced from what was inferr
 Many UFO reports are written days, months or even years after the event. By then, a witness may remember that an object was present and assume it caused every unusual sensation. A better approach is to reconstruct the sequence carefully.
 
 Ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ Some UFO reports combine vibration claims with fear, unease, dizziness or a feel
 That does not automatically make the account unreliable. Researchers studying low-frequency sound have repeatedly examined reports of annoyance, discomfort, pressure sensations and altered mood during exposure to low-frequency noise. More recent laboratory work has also explored whether infrasound can influence stress responses even when people are not consciously aware of hearing it. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Sensed a bump in the night?</span><span class="citation-popover-snippet">It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</span></span></span>
 
 However, investigators should record emotional effects separately from physical observations. "I felt pressure in my chest" is a different category of evidence from "I felt that something intelligent was nearby."
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8KCNtM5ruPI" title="Role of Infrasound in the USGS Eruption Response" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8KCNtM5ruPI" target="_blank" rel="noopener noreferrer">Role of Infrasound in the USGS Eruption Response</a></p><p class="youtube-embed-meta">Channel: USGS Presentations &middot; Views: 2.4K &middot; Uploaded: September 2020 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8KCNtM5ruPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8KCNtM5ruPI">Open on YouTube</a></p></div></div></div>
 
@@ -337,14 +334,13 @@ Before treating a UFO vibration claim as anomalous, check for:
 
 Aircraft deserve particular attention because witnesses sometimes notice vibration before recognising an aircraft overhead, especially at night or in poor visibility. Noise complaint systems maintained by aviation authorities often reveal whether aircraft activity was occurring near the reported time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</span></span></span>
 
-Weather conditions also matter. Strong winds, storm systems and atmospheric conditions can generate or channel low-frequency sound over long distances. Infrasound researchers routinely monitor signals from storms, volcanic activity, avalanches and other natural events because such waves can travel remarkable distances through the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">get know cvo alex and infrasound</span><span class="citation-popover-snippet">Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring | U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span>
+Weather conditions also matter. Strong winds, storm systems and atmospheric conditions can generate or channel low-frequency sound over long distances. Infrasound researchers routinely monitor signals from storms, volcanic activity, avalanches and other natural events because such waves can travel remarkable distances through the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">get know cvo alex and infrasound</span><span class="citation-popover-snippet">Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring &#124; U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span>
 
 ### Check whether the vibration fits the claimed object
 
 One useful reality check is to compare the reported physical effect with the reported object's behaviour.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,7 +351,6 @@ For example:
 </div>
 
 The goal is not to dismiss the report but to determine whether the physical consequences described match the scale of the claimed event.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-2-dark.svg" | relative_url }}" alt="Check clues illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Look for independent records
@@ -376,7 +371,6 @@ Modern monitoring networks routinely use infrasound for detecting natural and hu
 
 That does not mean a local UFO report will appear in those systems. Most reported sensations are far too small and localised. Still, checking whether any documented event occurred near the reported time can eliminate some possibilities or reveal overlooked explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/35P6lTif8m0" title="Infrasound Explained: Sound Below Human Hearing 🌊 Earthquakes, Elephants &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=35P6lTif8m0" target="_blank" rel="noopener noreferrer">Infrasound Explained: Sound Below Human Hearing 🌊 Earthquakes, Elephants &amp; More</a></p><p class="youtube-embed-meta">Channel: CodeLucky &middot; Views: 3.8K &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=35P6lTif8m0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=35P6lTif8m0">Open on YouTube</a></p></div></div></div>
 
 ### Be cautious with reconstructed timelines
@@ -386,7 +380,6 @@ Many investigations fail because the timing is uncertain.
 A witness may say an event occurred "around midnight" when it actually happened an hour earlier. That difference can completely alter comparisons with aircraft tracks, weather data or industrial activity.
 
 Whenever possible, investigators should anchor the timeline to something concrete:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -401,7 +394,6 @@ Whenever possible, investigators should anchor the timeline to something concret
 
 Even a rough correction can make later source checks much more reliable.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-3-dark.svg" | relative_url }}" alt="Check clues illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why after-the-fact proof is usually limited
 
@@ -411,12 +403,11 @@ Unlike a photograph, radar track or physical trace, a low-frequency acoustic eve
 
 This creates a common misunderstanding in UFO discussions. People sometimes assume that because a witness reported vibration, investigators should be able to prove whether infrasound was present. In reality, most cases lack the instruments needed for confirmation.
 
-Atmospheric conditions further complicate matters. Researchers have shown that winds and temperature structure can alter how infrasound travels, making source direction and intensity difficult to reconstruct after the fact. A vibration perceived in one location may not reflect a simple straight-line path from its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring | U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Atmospheric conditions further complicate matters. Researchers have shown that winds and temperature structure can alter how infrasound travels, making source direction and intensity difficult to reconstruct after the fact. A vibration perceived in one location may not reflect a simple straight-line path from its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring &#124; U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 ### What counts as a useful clue
 
 A vibration report is most informative when several elements line up:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -431,11 +422,9 @@ A vibration report is most informative when several elements line up:
 
 A single memory recorded years later can still be interesting, but it is rarely enough to establish that infrasound occurred.
 
-For that reason, the most productive way to examine UFO vibration claims is not to ask, "Did a UFO create infrasound?" but rather, "What evidence shows that a low-frequency acoustic event happened at all?" Once that question is answered, the remaining explanations can be compared more realistically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
-
+For that reason, the most productive way to examine UFO vibration claims is not to ask, "Did a UFO create infrasound?" but rather, "What evidence shows that a low-frequency acoustic event happened at all?" Once that question is answered, the remaining explanations can be compared more realistically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3AC0m2HlNDE" title="The Kokomo Hum: An Acoustical Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3AC0m2HlNDE" target="_blank" rel="noopener noreferrer">The Kokomo Hum: An Acoustical Investigation</a></p><p class="youtube-embed-meta">Channel: AVL Designs &middot; Views: 1.7K &middot; Uploaded: February 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3AC0m2HlNDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3AC0m2HlNDE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -801,210 +790,210 @@ For that reason, the most productive way to examine UFO vibration claims is not 
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/publication/70229751](https://pubs.usgs.gov/publication/70229751)  
+   Link: <a href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70229751</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: usgs.gov  
    Title: get know cvo alex and infrasound  
-   Link: [https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound](https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound)  
+   Link: <a href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: usgs.gov  
    Title: infrasound volcano monitoring  
-   Link: [https://www.usgs.gov/publications/infrasound-volcano-monitoring](https://www.usgs.gov/publications/infrasound-volcano-monitoring)  
+   Link: <a href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/infrasound-volcano-monitoring</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound for volcano monitoring | U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: usgs.gov  
    Title: listening hydrothermal activity and more yellowstone  
-   Link: [https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone](https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone)  
+   Link: <a href="https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Because infrasound energy travels easily through the atmosphere, monitoring...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: usgs.gov  
    Title: detecting snow avalanche activity using infrasound hooker valley new zealand  
-   Link: [https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand](https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand)  
+   Link: <a href="https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here, we...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response](https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response)  
+   Link: <a href="https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Infrasound in the USGS Eruption ResponseInfrasound is an important tools for volcanologists, allowing them to detect eruptions, l...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: usgs.gov  
    Title: volcano watch infrasound coming hvocan you hear it  
-   Link: [https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it](https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it)  
+   Link: <a href="https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear explosions produce infrasound that can propagate large distances...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1907.05601](https://arxiv.org/abs/1907.05601)  
+   Link: <a href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.05601</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2004.07972](https://arxiv.org/abs/2004.07972)  
+   Link: <a href="https://arxiv.org/abs/2004.07972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.07972</a>  
 
 12. <a id="endnote-12"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion](https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion)  
+   Link: <a href="https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2023 — Recent works additionally suggest that infrasound can be used to discriminate between different volcanic processes (Watson...</p></details>
    Published: July 7, 2023  
 
 13. <a id="endnote-13"></a>
    Source: usgs.gov  
    Title: Infrasound from giant bubbles during explosive submarine eruptions  
-   Link: [https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions](https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions)  
+   Link: <a href="https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 14, 2019 — We show that the infrasound originates from the oscillation and rupture of magmatic gas bubbles that initially formed...</p></details>
    Published: October 14, 2019  
 
 14. <a id="endnote-14"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/](https://www.usgs.gov/)  
+   Link: <a href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science for a changing worldWe provide scientific information and near real-time data on current conditions that helps communities prepar...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf](https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf)  
+   Link: <a href="https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C: Infrasound for Volcano Monitoringby AK Diefenbach · 2024 — A windscreen covers a single infrasound sensor, co-located with a seismomet...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/publication/70242756](https://pubs.usgs.gov/publication/70242756)  
+   Link: <a href="https://pubs.usgs.gov/publication/70242756" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70242756</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, infrasound sensors are usually...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubs.usgs.gov  
    Title: OFR2014 1253  
-   Link: [https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf](https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf)  
+   Link: <a href="https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Three New Infrasound [Arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) Around Kīlauea...by WA Thelen · 2015 · Cited by 8 — Infrasound is an emerging monitoring method...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: usgs.gov  
    Title: uas based observations infrasound directionality stromboli volcano italy  
-   Link: [https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy](https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy)  
+   Link: <a href="https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, infrasound sensors are usually...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: usgs.gov  
    Title: volcano watch tonga eruption recorded hawaii infrasound network and globally  
-   Link: [https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally](https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally)  
+   Link: <a href="https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volcano Watch — Tonga eruption recorded on Hawaii...10 Feb 2022 — Pressure waves from the Hunga Tonga-Hunga Ha&#x27;apai eruption on January...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: [https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0](https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0)  
+   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/noise/inquiries](https://www.faa.gov/noise/inquiries)  
+   Link: <a href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/inquiries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: faa.gov  
    Title: noise complaints  
-   Link: [https://www.faa.gov/air_traffic/noise_emissions/noise_complaints](https://www.faa.gov/air_traffic/noise_emissions/noise_complaints)  
+   Link: <a href="https://www.faa.gov/air_traffic/noise_emissions/noise_complaints" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/noise_emissions/noise_complaints</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise Complaints | Federal Aviation AdministrationFeb 25, 2025 — FAA&#x27;s Aviation Noise Ombudsman i...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/ancir](https://www.faa.gov/ancir)  
+   Link: <a href="https://www.faa.gov/ancir" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/ancir</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationANCIR Service PortalJan 30, 2026 — The FAA&#x27;s ANCIR Portal allows users to submit aircraft noise complaints...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/policy_guidance/noise/community](https://www.faa.gov/regulations_policies/policy_guidance/noise/community)  
+   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to NoiseMar 29, 2022 — Annoyance is a cumulative measure of the general adverse reaction of people to noise that causes interfer...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: faa.gov  
    Title: noise complaint  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint](https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Region Aircraft Noise and Community Engagement...Jan 8, 2026 — We provide information on community involvement and aircraft nois...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
    Title: airport noise  
-   Link: [https://www.faa.gov/airports/environmental/airport_noise](https://www.faa.gov/airports/environmental/airport_noise)  
+   Link: <a href="https://www.faa.gov/airports/environmental/airport_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/airports/environmental/airport_noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationMar 20, 2025 — These Part 150 checklists identify the necessary components of Part 150 Noise Compatibility...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/noise](https://www.faa.gov/noise)  
+   Link: <a href="https://www.faa.gov/noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDec 13, 2024 — The FAA strives to reduce noise in ways within our purview, including conducting noise rese...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: metroairports.org  
-   Link: [https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct](https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct)  
+   Link: <a href="https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Noise PortalSep 16, 2020 — Purpose: to identify how the FAA can more efficiently and effectively respond to and address noise complai...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: avo.alaska.edu  
-   Link: [https://avo.alaska.edu/about/infrasound](https://avo.alaska.edu/about/infrasound)  
+   Link: <a href="https://avo.alaska.edu/about/infrasound" target="_blank" rel="noopener noreferrer nofollow">https://avo.alaska.edu/about/infrasound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can be used to detect, locate, characterize, and quantify volcanic eruptions, providing a valuable tool for volcano monitoring.Read more...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy](https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy)  
+   Link: <a href="https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responding to the Nation&#x27;s Aviation Noise ConcernsTo better understand the FAA guidelines for processing noise complaints, we urge you to...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: icben.org  
-   Link: [https://www.icben.org/2023/presenting134.pdf](https://www.icben.org/2023/presenting134.pdf)  
+   Link: <a href="https://www.icben.org/2023/presenting134.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icben.org/2023/presenting134.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental study on the perception of infrasoundThe aim of this study was to experimentally determine the hearing threshold level, a...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: lfresearch.org  
-   Link: [https://lfresearch.org/](https://lfresearch.org/)  
+   Link: <a href="https://lfresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://lfresearch.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Frequency ResearchAt very high intensities (typically &gt;110 dB), infrasound can produce measurable physiological responses including b...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: cltairport.com  
-   Link: [https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/](https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/)  
+   Link: <a href="https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NAF Mission &amp; GuidelinesThe overall purpose is to facilitate community awareness and involvement in Airport noise management efforts, ens...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: dal.noiselab.casper.aero  
-   Link: [https://dal.noiselab.casper.aero/content/1/guidelines/](https://dal.noiselab.casper.aero/content/1/guidelines/)  
+   Link: <a href="https://dal.noiselab.casper.aero/content/1/guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://dal.noiselab.casper.aero/content/1/guidelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complaints Guidelines &amp; StandardsSubmitting Noise Complaints to the FAA. The FAA&#x27;s Aviation Noise Ombudsman serves as a public liaison fo...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/](https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All this noise is ruining my peaceful life”. FAA agrees to study the amount of noise. “This is ridiculous...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/0M1KALNibug](https://youtu.be/0M1KALNibug)  
+   Link: <a href="https://youtu.be/0M1KALNibug" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/0M1KALNibug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For more from Seth and how AVL Designs can assist you with your acoustical needs, please visit: [https://AVLDesigns.com...&quot;](https://AVLDesigns.com...&quot;)...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXuA-9BjKRC/](https://www.instagram.com/p/DXuA-9BjKRC/)  
+   Link: <a href="https://www.instagram.com/p/DXuA-9BjKRC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXuA-9BjKRC/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>levels and reported feeling more irritable, less interested...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/](https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/)  
+   Link: <a href="https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oring System (IMS), which is intended to detect nuclear tests.Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: nps.gov  
    Title: volcano monitoring  
-   Link: [https://www.nps.gov/articles/volcano-monitoring.htm](https://www.nps.gov/articles/volcano-monitoring.htm)  
+   Link: <a href="https://www.nps.gov/articles/volcano-monitoring.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/volcano-monitoring.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring Volcanoes7 Aug 2024 — Monitoring is best done at an observatory where data from infrasonic sensors can be viewed simultaneousl...</p></details>

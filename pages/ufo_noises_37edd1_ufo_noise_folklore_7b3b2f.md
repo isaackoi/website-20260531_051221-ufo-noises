@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Folklore
 title: How UFO Sounds Became Folklore
-title_full: How UFO Sounds Became Folklore | UFO Noises
+title_full: How UFO Sounds Became Folklore
 display_title_short: Folklore
 display_title: Folklore
 heading_title: How UFO Sounds Became Folklore
@@ -354,7 +354,6 @@ image: /assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-overview-socia
 
 The sounds associated with UFOs are often as culturally important as the objects themselves. Long before most people claimed to see a flying saucer, they already had an idea of what one should sound like: a low hum, an electrical buzz, a metallic drone, an eerie whistle, or, in a striking reversal, complete [silence]({{ 'silence/' | relative_url }}). Over decades, these recurring audio motifs moved from witness reports into films, television, music, toys and internet folklore. The result is a feedback loop in which reported UFO sounds influence popular culture, and popular culture in turn shapes what people expect unusual aerial phenomena to sound like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-overview.webp" | relative_url }}" alt="Overview image for Folklore" loading="eager" decoding="sync" fetchpriority="high">
 Unlike visual UFO imagery, which shifted dramatically from discs to triangles and spheres, the soundscape remained surprisingly stable. [Humming]({{ 'humming/' | relative_url }}), [buzzing]({{ 'buzzing/' | relative_url }}) and droning noises appear repeatedly in both witness narratives and fictional depictions. At the same time, silence became one of the most dramatic features of UFO folklore: an object that appears technologically powerful yet produces no engine noise challenges everyday expectations about how flight should work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
@@ -363,7 +362,6 @@ Unlike visual UFO imagery, which shifted dramatically from discs to triangles an
 From the late 1940s onward, UFO accounts frequently included descriptions of sound. Reports varied widely, but several patterns became culturally recognisable.
 
 Common descriptions included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,7 +379,6 @@ The persistence of these descriptions matters less as proof of a physical phenom
 
 Carl Jung's influential analysis of flying saucers treated UFO reports partly as modern myths and rumours that spread through societies facing uncertainty and rapid technological change. In that framework, repeated sound descriptions function similarly to recurring symbols in traditional folklore: they help make an unusual experience intelligible by fitting it into an existing cultural story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[Wasabi Technologies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Wasabi Technologies Flying saucers: a modern myth of things seen in the skies1</span><span class="citation-popover-snippet">UFOS AS RUMOURS. 595. Since the things reported of Ufos not only sound incredible but seem to fly in the face of all our basic assumption...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-1-dark.svg" | relative_url }}" alt="Folklore illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Hums and Buzzes Became Dominant
 
@@ -389,16 +386,15 @@ A humming or buzzing sound occupies a useful middle ground between familiarity a
 
 A witness describing a UFO as sounding like a car engine would make the object seem ordinary. Describing it as completely indescribable would make the account harder to communicate. A hum, drone or electrical buzz suggests advanced machinery while remaining easy to imagine.
 
-The language also reflects twentieth-century technological culture. As electrical infrastructure, radar systems, transformers, generators and jet engines became common features of everyday life, people increasingly interpreted strange sounds through industrial and electronic metaphors. UFO narratives therefore borrowed the vocabulary of modern machines while presenting those machines as vastly more advanced than anything familiar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaListen to the Sky: Investigating Sound in Cultural Images of...AI. The article explores sound as a neglected sensory dimension i...</span></span></span>
+The language also reflects twentieth-century technological culture. As electrical infrastructure, radar systems, transformers, generators and jet engines became common features of everyday life, people increasingly interpreted strange sounds through industrial and electronic metaphors. UFO narratives therefore borrowed the vocabulary of modern machines while presenting those machines as vastly more advanced than anything familiar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Listen to the Sky: Investigating Sound in Cultural Images of...AI. The article explores sound as a neglected sensory dimension i...</span></span></span>
 
 ## How Science Fiction Taught Audiences What UFOs Sound Like
 
 Popular culture did not simply borrow from UFO reports. It actively created expectations about alien sound.
 
-During the post-war flying saucer boom, films and radio dramas needed ways to represent extraterrestrial technology through audio. Sound designers increasingly relied on sustained electronic tones, oscillating frequencies, reverberating hums and strange metallic textures. These sounds communicated otherness even when audiences could not see the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaListen to the Sky: Investigating Sound in Cultural Images of...AI. The article explores sound as a neglected sensory dimension i...</span></span></span>
+During the post-war flying saucer boom, films and radio dramas needed ways to represent extraterrestrial technology through audio. Sound designers increasingly relied on sustained electronic tones, oscillating frequencies, reverberating hums and strange metallic textures. These sounds communicated otherness even when audiences could not see the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Listen to the Sky: Investigating Sound in Cultural Images of...AI. The article explores sound as a neglected sensory dimension i...</span></span></span>
 
 By the 1950s and 1960s, the sound of the UFO had become almost as standardised as its visual appearance. Flying saucers in films often arrived with:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,16 +406,15 @@ By the 1950s and 1960s, the sound of the UFO had become almost as standardised a
 
 </div>
 
-Television productions reinforced these expectations. Gerry Anderson's 1970 series *UFO* became particularly known for its distinctive spacecraft audio design, created using electronic instruments to generate an eerie, futuristic sound. The result was a sonic identity that many viewers came to associate with alien craft in general rather than with a specific fictional universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/124754521603598/posts/2064102691002095/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookCreation of UFO TV series sound effectthe eerie &quot;shooo weee&quot; sound (of the UFOs) was created by music composer / director Barry G...</span></span></span>
+Television productions reinforced these expectations. Gerry Anderson's 1970 series *UFO* became particularly known for its distinctive spacecraft audio design, created using electronic instruments to generate an eerie, futuristic sound. The result was a sonic identity that many viewers came to associate with alien craft in general rather than with a specific fictional universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/124754521603598/posts/2064102691002095/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Creation of UFO TV series sound effectthe eerie &quot;shooo weee&quot; sound (of the UFOs) was created by music composer / director Barry G...</span></span></span>
 
 What emerged was a shared cultural library. Even people with no strong interest in UFOs learned to associate certain sounds with extraterrestrial visitation. A metallic drone or oscillating electronic tone could instantly signal "alien technology" in a way that audiences understood without explanation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4PYI6TzqYk" title="Close Encounters of the Third Kind (6/8) Movie CLIP - Communicating with the Mothership (1977) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (6/8) Movie CLIP - Communicating with the Mothership (1977) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 2.1M &middot; Uploaded: October 2012 &middot; Length: 2 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4PYI6TzqYk">Open on YouTube</a></p></div></div></div>
 
 ## Close Encounters and the Musical UFO
 
-One of the most influential shifts occurred with Steven Spielberg's *[Close Encounters]({{ 'musical-ufos/' | relative_url }}) of the Third Kind* (1977).
+One of the most influential shifts occurred with Steven Spielberg's *Close Encounters of the Third Kind* (1977).
 
 Instead of treating UFOs as threatening machines that roared through the sky, the film presented communication through sound itself. The famous five-note sequence became a narrative device, suggesting that music could bridge the gap between humans and extraterrestrials. The UFO was no longer merely an object producing noise; it became an instrument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (6/8) Movie CLIP...The ship&#x27;s sound is a tuba. The man who played the tuba for this scene is t...</span></span></span>
 
@@ -441,7 +436,6 @@ Popular media repeatedly reinforced this idea. Science-fiction films often portr
 
 This is one reason silence remains memorable in UFO folklore. Human perception is highly sensitive to violations of expectation. When an expected noise is missing, people often remember that absence more vividly than a conventional sound.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-2-dark.svg" | relative_url }}" alt="Folklore illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Silence as a Marker of the Unknown
 
@@ -457,10 +451,9 @@ The internet transformed UFO sound folklore by allowing mysterious noises to cir
 
 Videos labelled as "[sky trumpets]({{ 'sky-trumpets/' | relative_url }})" became especially influential. These recordings featured metallic groans, resonant blasts or seemingly mechanical sounds apparently coming from the sky. In many cases, investigators proposed explanations involving industrial equipment, atmospheric effects, construction activity or audio manipulation. Yet the recordings spread because they matched existing expectations about how an otherworldly presence might sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-The same pattern appears in discussions of unexplained hums. The Taos Hum and similar low-frequency noise reports became linked to UFO speculation not because evidence directly connected them to unidentified objects, but because the sounds resembled the droning audio already embedded in UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
+The same pattern appears in discussions of unexplained hums. The [Taos Hum]({{ 'taos-hum/' | relative_url }}) and similar low-frequency noise reports became linked to UFO speculation not because evidence directly connected them to unidentified objects, but because the sounds resembled the droning audio already embedded in UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-Online communities accelerated the process. Witnesses could compare experiences instantly, and recurring descriptions gained visibility. Buzzing sounds, flute-like tones and low-frequency vibrations became recognised categories within digital UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWha is the significance of the buzzing or flute sound...Wha is the significance of the buzzing or flute sound that is frequently r...</span></span></span>
-
+Online communities accelerated the process. Witnesses could compare experiences instantly, and recurring descriptions gained visibility. Buzzing sounds, flute-like tones and low-frequency vibrations became recognised categories within digital UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Wha is the significance of the buzzing or flute sound...Wha is the significance of the buzzing or flute sound that is frequently r...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jUzzNL6iCUg" title="Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer">Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies</a></p><p class="youtube-embed-meta">Channel: RerunZone &middot; Views: 135.6K &middot; Uploaded: February 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jUzzNL6iCUg">Open on YouTube</a></p></div></div></div>
 
@@ -476,9 +469,7 @@ A person hearing an unexplained drone in the sky today has access to decades of 
 
 The result is a continuous cycle:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8LEt2jrkdRI" title="Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer">Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook</a></p><p class="youtube-embed-meta">Channel: Altrusian Grace Media &middot; Views: 11.6K &middot; Uploaded: March 2024 &middot; Length: 4 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8LEt2jrkdRI">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -499,7 +490,6 @@ A low electronic hum suggests hidden technology. A metallic drone suggests somet
 These motifs survived changes in UFO fashion. Flying saucers gave way to triangles, black helicopters, mysterious drones and modern UAP discussions, yet the accompanying soundscape remained remarkably familiar. The cultural imagination still returns to the same small set of auditory cues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
 In that sense, [UFO noises]({{ 'ufo-noises/' | relative_url }}) function much like folklore motifs in older legends. They help audiences recognise the story being told. Whether heard in a witness account, a science-fiction soundtrack or an internet mystery video, the hum, the buzz and the impossible silence have become part of the shared language through which modern societies imagine encounters with the unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[Wasabi Technologies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Wasabi Technologies Flying saucers: a modern myth of things seen in the skies1</span><span class="citation-popover-snippet">UFOS AS RUMOURS. 595. Since the things reported of Ufos not only sound incredible but seem to fly in the face of all our basic assumption...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-3-dark.svg" | relative_url }}" alt="Folklore illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -900,157 +890,157 @@ In that sense, [UFO noises]({{ 'ufo-noises/' | relative_url }}) function much li
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958](https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaListen to the Sky: Investigating Sound in Cultural Images of...AI. The article explores sound as a neglected sensory dimension i...</p></details>
+   Link: <a href="https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38212775/Listen_to_the_Sky_Investigating_Sound_in_Cultural_Images_of_the_A_Bomb_Flying_Saucer_and_Sputnik_1945_1958</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Listen to the Sky: Investigating Sound in Cultural Images of...AI. The article explores sound as a neglected sensory dimension i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/227276781.pdf](https://core.ac.uk/download/pdf/227276781.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/227276781.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/227276781.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying saucers.” The idea stuck. Descriptions of the objects hardened; witnesses most frequently reported bright metallic or silvery obje...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/](https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWha is the significance of the buzzing or flute sound...Wha is the significance of the buzzing or flute sound that is frequently r...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wha is the significance of the buzzing or flute sound...Wha is the significance of the buzzing or flute sound that is frequently r...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/124754521603598/posts/2064102691002095/](https://www.facebook.com/groups/124754521603598/posts/2064102691002095/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookCreation of UFO TV series sound effectthe eerie &quot;shooo weee&quot; sound (of the UFOs) was created by music composer / director Barry G...</p></details>
+   Link: <a href="https://www.facebook.com/groups/124754521603598/posts/2064102691002095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/124754521603598/posts/2064102691002095/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creation of UFO TV series sound effectthe eerie &quot;shooo weee&quot; sound (of the UFOs) was created by music composer / director Barry G...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: avosound.com  
    Title: The Science Fiction Sound Effects Library Complete Track  
-   Link: [https://www.avosound.com/pdf/sound-ideas/Sound%20Ideas%20-%20Science%20Fiction%20Sound%20Effects%20Library%20Tracksheet.pdf](https://www.avosound.com/pdf/sound-ideas/Sound%20Ideas%20-%20Science%20Fiction%20Sound%20Effects%20Library%20Tracksheet.pdf)  
+   Link: <a href="https://www.avosound.com/pdf/sound-ideas/Sound%20Ideas%20-%20Science%20Fiction%20Sound%20Effects%20Library%20Tracksheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.avosound.com/pdf/sound-ideas/Sound%20Ideas%20-%20Science%20Fiction%20Sound%20Effects%20Library%20Tracksheet.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3:03. SFSE03. 39-1. Space Ship. Close Encounter with Mothership: Rumbling Only. 1:39. SFSE03. 40-1. Electronic, Tone...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/124754521603598/posts/1971982703547428/](https://www.facebook.com/groups/124754521603598/posts/1971982703547428/)  
+   Link: <a href="https://www.facebook.com/groups/124754521603598/posts/1971982703547428/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/124754521603598/posts/1971982703547428/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>se I just turned our vacuum cleaner off...it didn&#x27;t half sound like...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S4PYI6TzqYk](https://www.youtube.com/watch?v=S4PYI6TzqYk)  
+   Link: <a href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4PYI6TzqYk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (6/8) Movie CLIP...The ship&#x27;s sound is a tuba. The man who played the tuba for this scene is t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/scifi/comments/1o5w9yj/what_are_peoples_favourite_sound_effects_from_sci/](https://www.reddit.com/r/scifi/comments/1o5w9yj/what_are_peoples_favourite_sound_effects_from_sci/)  
+   Link: <a href="https://www.reddit.com/r/scifi/comments/1o5w9yj/what_are_peoples_favourite_sound_effects_from_sci/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/1o5w9yj/what_are_peoples_favourite_sound_effects_from_sci/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>extended. Darth Vader breathing. T Rex from Jurassic Park. The noise...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/](https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mountain in 1947, when pilot Kenneth Arnold reported “nine shining...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: Southampton Sotoniansand Friends  
-   Link: [https://www.facebook.com/groups/SouthamptonSotoniansandFriends/posts/2329650977326001/](https://www.facebook.com/groups/SouthamptonSotoniansandFriends/posts/2329650977326001/)  
+   Link: <a href="https://www.facebook.com/groups/SouthamptonSotoniansandFriends/posts/2329650977326001/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SouthamptonSotoniansandFriends/posts/2329650977326001/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eccentric Englishmen They came...NHILL&#x27;s “SAUCER MAN” In the 1950s reports of &quot;flying saucers&quot; became a cultural phenomenon. And NHILL w...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: the isle of mans first ufo sightingon this day in 1902 the manx newspapers repor  
-   Link: [https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/](https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/)  
+   Link: <a href="https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Isle of Man&#x27;s first UFO sighting? On this day in 1902...First UFO sighting over 200 years ago! [http://www.express.co.uk/news/weird/6...&quot;](http://www.express.co.uk/news/weird/6...&quot;)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8LEt2jrkdRI](https://www.youtube.com/watch?v=8LEt2jrkdRI)  
+   Link: <a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8LEt2jrkdRI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ying Objects by Edward J. RUPPELT Part 1/3 | Full Audio Book...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jUzzNL6iCUg](https://www.youtube.com/watch?v=jUzzNL6iCUg)  
+   Link: <a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs. The Flying Saucers Ship Sound...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Earth vs. The Flying Saucers Ship Sound  
-   Link: [https://www.youtube.com/watch?v=-ptwPMRh71U](https://www.youtube.com/watch?v=-ptwPMRh71U)  
+   Link: <a href="https://www.youtube.com/watch?v=-ptwPMRh71U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ptwPMRh71U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic Alien sound effects From old TV, cartoons and Si Fi Movies...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Classic Alien sound effects From old TV, cartoons and Si Fi Movies  
-   Link: [https://www.youtube.com/watch?v=qHK4YjgDV9s](https://www.youtube.com/watch?v=qHK4YjgDV9s)  
+   Link: <a href="https://www.youtube.com/watch?v=qHK4YjgDV9s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qHK4YjgDV9s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retro Ufo Sound Effects...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Retro Ufo Sound Effects  
-   Link: [https://www.youtube.com/watch?v=CivYZTCbZXA](https://www.youtube.com/watch?v=CivYZTCbZXA)  
+   Link: <a href="https://www.youtube.com/watch?v=CivYZTCbZXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CivYZTCbZXA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer sound FX from (This Island Earth)1955...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CvxdJkFf2Mo](https://www.youtube.com/watch?v=CvxdJkFf2Mo)  
+   Link: <a href="https://www.youtube.com/watch?v=CvxdJkFf2Mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CvxdJkFf2Mo</a>  
 
 19. <a id="endnote-19"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Wasabi Technologies Flying saucers: a modern myth of things seen in the skies1  
-   Link: [https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf](https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf)  
+   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS AS RUMOURS. 595. Since the things reported of Ufos not only sound incredible but seem to fly in the face of all our basic assumption...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: electronicsound.co.uk  
-   Link: [https://www.electronicsound.co.uk/features/long-reads/50-years-of-electronic-sounds/](https://www.electronicsound.co.uk/features/long-reads/50-years-of-electronic-sounds/)  
+   Link: <a href="https://www.electronicsound.co.uk/features/long-reads/50-years-of-electronic-sounds/" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsound.co.uk/features/long-reads/50-years-of-electronic-sounds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years of Electronic SoundsIt was like an alien spaceship had landed.” In the subsequent years, you will have heard McCluskey waxing ly...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: artlist.io  
-   Link: [https://artlist.io/collection/alien-encounter/11340](https://artlist.io/collection/alien-encounter/11340)  
+   Link: <a href="https://artlist.io/collection/alien-encounter/11340" target="_blank" rel="noopener noreferrer nofollow">https://artlist.io/collection/alien-encounter/11340</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien encounter SFX CollectionsAlien encounter. Otherworldly voices, UFOs, and sci-fi ambiences. Start Free Now. Add to Your Artboards. T...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tvtropes.org  
-   Link: [https://tvtropes.org/pmwiki/pmwiki.php/Main/DroneOfDread](https://tvtropes.org/pmwiki/pmwiki.php/Main/DroneOfDread)  
+   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/DroneOfDread" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/DroneOfDread</a>  
 
 23. <a id="endnote-23"></a>
    Source: contemporarylegend.co.uk  
-   Link: [https://contemporarylegend.co.uk/tag/flying-saucer/](https://contemporarylegend.co.uk/tag/flying-saucer/)  
+   Link: <a href="https://contemporarylegend.co.uk/tag/flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/tag/flying-saucer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flying saucerThe talk will explore the visual folklore of UFOs, UAPs and Flying Saucers, with a particular focus on British sightings and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: audiosparx.com  
-   Link: [https://www.audiosparx.com/sa/display/submain.cfm/soundGroup_iid.953](https://www.audiosparx.com/sa/display/submain.cfm/soundGroup_iid.953)  
+   Link: <a href="https://www.audiosparx.com/sa/display/submain.cfm/soundGroup_iid.953" target="_blank" rel="noopener noreferrer nofollow">https://www.audiosparx.com/sa/display/submain.cfm/soundGroup_iid.953</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction Sounds, music effects, son, bbc...Science Fiction sound effects bring alien drones, UFO flybys, laser blasts, spaceship...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: [https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously](https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously)  
+   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — For decades, flying saucers were a punch line, Gideon Lewis...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: screenrant.com  
    Title: coolest sci fi movie sound effects  
-   Link: [https://screenrant.com/coolest-sci-fi-movie-sound-effects/](https://screenrant.com/coolest-sci-fi-movie-sound-effects/)  
+   Link: <a href="https://screenrant.com/coolest-sci-fi-movie-sound-effects/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/coolest-sci-fi-movie-sound-effects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Coolest Sound Effects In Sci-Fi Movies22 Nov 2024 — Sound design is often an underrated aspect of production design, particularly when...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skyatnightmagazine.com  
    Title: Why are we so obsessed with UFOs?  
-   Link: [https://www.skyatnightmagazine.com/space-science/why-are-we-so-obssessed-with-ufos](https://www.skyatnightmagazine.com/space-science/why-are-we-so-obssessed-with-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/why-are-we-so-obssessed-with-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-are-we-so-obssessed-with-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A history of flying...11 May 2026 — The saucer craze fades. Yet UFO excitement was reaching its peak. Back in 1950, it seemed as if the...</p></details>
    Published: May 2026  
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
    Title: the ufo files c5f98c90611d  
-   Link: [https://medium.com/%40hfwnbq/the-ufo-files-c5f98c90611d](https://medium.com/%40hfwnbq/the-ufo-files-c5f98c90611d)  
+   Link: <a href="https://medium.com/%40hfwnbq/the-ufo-files-c5f98c90611d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/the-ufo-files-c5f98c90611d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Files | by NBM House Books | May, 2026It was his belief that no flying saucers have been recovered but that it was merely an atte...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: open.spotify.com  
    Title: 6AWDH4KIk LAce KGn1Ea TDP  
-   Link: [https://open.spotify.com/album/6AWDH4KIkLAceKGn1EaTDP](https://open.spotify.com/album/6AWDH4KIkLAceKGn1EaTDP)  
+   Link: <a href="https://open.spotify.com/album/6AWDH4KIkLAceKGn1EaTDP" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/6AWDH4KIkLAceKGn1EaTDP</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comScience-Fiction Sound Effects: Alien Space Ship Noises...Science-Fiction Sound Effects: Alien Space Ship Noises, Time Travel...</p></details>

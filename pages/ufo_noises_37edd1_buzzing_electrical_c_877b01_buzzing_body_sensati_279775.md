@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /buzzing/
 nav_short_title: Body Effects
 title: Did Witnesses Hear It or Feel It?
-title_full: Did Witnesses Hear It or Feel It? | Buzzing
+title_full: Did Witnesses Hear It or Feel It?
 display_title_short: Body Effects
 display_title: Body Effects
 heading_title: Did Witnesses Hear It or Feel It?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:05:52'
-parent_title: Are Buzzing UFO Sounds Really Electrical? | UFO Noises
+parent_title: Are Buzzing UFO Sounds Really Electrical?
 parent_permalink: /buzzing/
 parent_nav_short_title: Buzzing
 parent_heading_title: Are Buzzing UFO Sounds Really Electrical?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body
 
 Reports of UFO [buzzing]({{ 'buzzing/' | relative_url }}) often blur the line between hearing and feeling. Witnesses do not always describe a simple sound coming from an object in the sky. Instead, some claim that the noise seemed to pass through their bodies, producing chest vibration, tingling skin, pressure in the ears, numbness, trembling, or a sensation that the buzzing originated inside the head rather than in the surrounding environment. These accounts are among the most vivid parts of close-encounter stories, but they are also among the hardest to verify.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-1-dark.svg" | relative_url }}" alt="Body Effects illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The difficulty is not merely that such sensations are subjective. Human perception already combines sound, vibration, balance, stress responses and expectation into a single experience. Low-frequency sound can sometimes be felt physically, fear can create powerful bodily symptoms, and [memory]({{ 'memory/' | relative_url }}) can reshape how an event is recalled. As a result, bodily vibration reports occupy an uncertain space between genuine sensory experiences and interpretations that may not reflect an external physical cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perception of infrasound</span><span class="citation-popover-snippet">December 19, 2011 — Infrasound can come from many natural as well as man-made sources, including weather patterns, topographic features...</span><span class="citation-popover-meta">Published: December 19, 2011</span></span></span>
 
@@ -285,7 +284,6 @@ The difficulty is not merely that such sensations are subjective. Human percepti
 A recurring theme in buzzing encounter reports is that witnesses struggle to describe the sensation as purely auditory. Instead of saying they heard a hum, they often report feeling immersed in one.
 
 Descriptions commonly include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +296,7 @@ Descriptions commonly include:
 
 </div>
 
-In UFO literature, these sensations frequently appear alongside reports of [humming]({{ 'humming/' | relative_url }}), buzzing or whistling sounds. John Schuessler's catalogue of claimed UFO-related physiological effects collected numerous cases involving prickling sensations, electric-shock feelings, paralysis, bodily vibration and significant sound effects during alleged [close encounters]({{ 'musical-ufos/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
+In UFO literature, these sensations frequently appear alongside reports of [humming]({{ 'humming/' | relative_url }}), buzzing or whistling sounds. John Schuessler's catalogue of claimed UFO-related physiological effects collected numerous cases involving prickling sensations, electric-shock feelings, paralysis, bodily vibration and significant sound effects during alleged close encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
 
 What makes these reports distinctive is that witnesses often treat the bodily sensation as evidence that the sound was unusual. The experience is remembered not as hearing a distant engine but as being physically affected by a field, vibration or force that seemed to interact directly with the body.
 
@@ -328,13 +326,12 @@ These reports attract attention because the inner ear plays a dual role. It cont
 
 In a frightening or unexpected situation, these sensations may become incorporated into a larger interpretation of what is happening.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-2-dark.svg" | relative_url }}" alt="Body Effects illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Low-Frequency Sound Keeps Appearing in the Discussion
 
 Many discussions of bodily vibration eventually turn to infrasound, meaning sound below the normal threshold of human hearing.
 
-Researchers have long been interested in whether low-frequency vibration can influence perception. Infrasound has been associated in some studies with discomfort, altered mood, stress responses and vague sensations of unease. Recent experiments have reported increased cortisol levels and more negative emotional reactions among participants exposed to low-frequency vibration, even when they were unaware of the stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedInfrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-title">infrasound stress cortisol mood 30611</span><span class="citation-popover-snippet">Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</span></span></span>
+Researchers have long been interested in whether low-frequency vibration can influence perception. Infrasound has been associated in some studies with discomfort, altered mood, stress responses and vague sensations of unease. Recent experiments have reported increased cortisol levels and more negative emotional reactions among participants exposed to low-frequency vibration, even when they were unaware of the stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-title">infrasound stress cortisol mood 30611</span><span class="citation-popover-snippet">Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</span></span></span>
 
 This has led some investigators to suggest that at least certain reports of strange presences, haunted locations or unusual environmental experiences may involve low-frequency acoustic effects rather than supernatural or extraterrestrial causes.
 
@@ -347,7 +344,6 @@ However, there are limits to this explanation. Most UFO reports lack the measure
 A key challenge in evaluating bodily vibration reports is that fear itself produces physical sensations remarkably similar to those being described.
 
 When people encounter something unexpected, the body's stress response can rapidly generate:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -366,7 +362,6 @@ These reactions are well documented and do not require an external energy source
 Expectation can also shape interpretation. Once a witness associates an unusual sound with a strange object, later memories may integrate separate sensory details into a single coherent narrative. A distant hum, bodily tension and visual uncertainty can become remembered as one connected experience.
 
 This does not mean witnesses are fabricating events. It means that human perception naturally combines multiple sensory and emotional inputs into a single story about what happened.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-3-dark.svg" | relative_url }}" alt="Body Effects illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem with Paralysis Claims
@@ -387,11 +382,10 @@ Yet from an investigative perspective, bodily effects actually require stronger 
 
 A witness can sincerely experience:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Vibration without an external vibrating source.
-* Tingling without electrical exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedInfrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span>
+* Tingling without electrical exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span>
 * Ear pressure without unusual technology.
 * Fear-induced paralysis without physical restraint.
 
@@ -800,141 +794,141 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Perception of infrasound  
-   Link: [https://en.wikipedia.org/wiki/Perception_of_infrasound](https://en.wikipedia.org/wiki/Perception_of_infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perception_of_infrasound</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2011 — Infrasound can come from many natural as well as man-made sources, including weather patterns, topographic features...</p></details>
    Published: December 19, 2011  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archivea catalog of ufo-related human physiological effects  
-   Link: [https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf](https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf)  
+   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons](https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons)  
+   Link: <a href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</p></details>
    Published: March 1, 2004  
 
 5. <a id="endnote-5"></a>
    Source: docs.wind-watch.org  
-   Link: [https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf](https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf)  
+   Link: <a href="https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>irect patho- physiological link between the generation of infrasound by wind turbines and health complaints...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/](https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/)  
+   Link: <a href="https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The physical sensations feel real, but...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Narrative of the abduction phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon](https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: No, it's not just your imagination  
-   Link: [https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/](https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/)  
+   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists have linked...These vibrations are too low to hear but can cause dizziness, fear, or the sense of a haunting. 22. Reports of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/](https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/)  
+   Link: <a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hysical and emotional scars. With experts analyzing the evidence...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/418091763063248/posts/1584389046433508/](https://www.facebook.com/groups/418091763063248/posts/1584389046433508/)  
+   Link: <a href="https://www.facebook.com/groups/418091763063248/posts/1584389046433508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418091763063248/posts/1584389046433508/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The invisible universe and our limited perception of realityMany readers of this may have abilities far beyond others, making them recept...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/](https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/)  
+   Link: <a href="https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A recent scientific study suggests that the uneasy, “haunted...A Frontiers study shows that infrasound—low- frequency sound below human...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf](https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf)  
+   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce- 5 close encounters of the fifth kindHuman-alien encounters. I. Title. BF2050.H35. 1998. 001.942—dc21. 98... UFO Responses to Human T...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-induced physiological effects on humans during close encounters. Physiological effects enumerated include such phenomena as paralysis...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/42125313/](https://pubmed.ncbi.nlm.nih.gov/42125313/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedInfrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42125313/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: neurosciencenews.com  
    Title: infrasound stress cortisol mood 30611  
-   Link: [https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/](https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/)  
+   Link: <a href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: researchonline.ljmu.ac.uk  
-   Link: [https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf](https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf)  
+   Link: <a href="https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ljmu.ac.ukSONIC, INFRASONIC, AND ULTRASONIC FREQUENCIESby T Heys · 2011 · Cited by 5 — we are baring ear witness to the modal strategies...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html](https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html)  
+   Link: <a href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallels: Ancient Insights into Modern UFO Phenomena...CE3: Sighting of alien entities, either by themselves or in association with a UFO...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: We can only see and hear a tiny sliver of reality  
-   Link: [https://www.instagram.com/p/DYYp7V6vTiR/](https://www.instagram.com/p/DYYp7V6vTiR/)  
+   Link: <a href="https://www.instagram.com/p/DYYp7V6vTiR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYYp7V6vTiR/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are most commonly known as being fast, so it may be that the UFO was moving so quickly that she didn&#x27;t have the ability to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction: What Science Really DiscoveredHearing buzzing, humming, or whispering sounds; Experiencing sensations of floating or vib...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYCmNlAlD2m/](https://www.instagram.com/p/DYCmNlAlD2m/)  
+   Link: <a href="https://www.instagram.com/p/DYCmNlAlD2m/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYCmNlAlD2m/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y low-frequency sound waves below 20 Hz that humans...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: madinamerica.com  
    Title: tms damaged my brain  
-   Link: [https://www.madinamerica.com/2020/04/tms-damaged-my-brain/](https://www.madinamerica.com/2020/04/tms-damaged-my-brain/)  
+   Link: <a href="https://www.madinamerica.com/2020/04/tms-damaged-my-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.madinamerica.com/2020/04/tms-damaged-my-brain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Too Good to Be True: How TMS Damaged My Brain21 Apr 2020 — It&#x27;s a disservice to prospective TMS patients to go digging in unverified data...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39](https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39)  
+   Link: <a href="https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound, Vibration, and Entity Perception: How Low-...Low-frequency vibrations resonate with internal organs, in some cases even indu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Sonic Vibrations: How Inaudible Noise Vibrates Human Organs  
-   Link: [https://www.youtube.com/watch?v=XbVbH2q1g7Y](https://www.youtube.com/watch?v=XbVbH2q1g7Y)  
+   Link: <a href="https://www.youtube.com/watch?v=XbVbH2q1g7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XbVbH2q1g7Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound and Illusion: Explaining Anomalous Low Frequency Experiences...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/](https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness/Sighting.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Sound and Illusion: Explaining Anomalous Low Frequency Experiences  
-   Link: [https://www.youtube.com/watch?v=2eR6v7-yvV0](https://www.youtube.com/watch?v=2eR6v7-yvV0)  
+   Link: <a href="https://www.youtube.com/watch?v=2eR6v7-yvV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2eR6v7-yvV0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Audio Anomalies and Physical Effects Explored...</p></details>

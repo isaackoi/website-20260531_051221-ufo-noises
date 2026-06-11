@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /buzzing/
 nav_short_title: Microwave Effect
 title: Can Electromagnetic Fields Make Buzzing Sounds?
-title_full: Can Electromagnetic Fields Make Buzzing Sounds? | Buzzing
+title_full: Can Electromagnetic Fields Make Buzzing Sounds?
 display_title_short: Microwave Effect
 display_title: Microwave Effect
 heading_title: Can Electromagnetic Fields Make Buzzing Sounds?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:01'
-parent_title: Are Buzzing UFO Sounds Really Electrical? | UFO Noises
+parent_title: Are Buzzing UFO Sounds Really Electrical?
 parent_permalink: /buzzing/
 parent_nav_short_title: Buzzing
 parent_heading_title: Are Buzzing UFO Sounds Really Electrical?
@@ -276,28 +276,26 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_au
 
 Some UFO witnesses describe a [buzzing]({{ 'buzzing/' | relative_url }}), [humming]({{ 'humming/' | relative_url }}) or crackling sound that feels unusually intimate. Instead of seeming to come from a visible object in the sky, the noise is sometimes reported as if it were inside the head, surrounding the listener, or impossible to locate. Because of those descriptions, some writers have suggested a connection to the microwave auditory effect, also known as the Frey effect.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-1-dark.svg" | relative_url }}" alt="Microwave Effect illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The microwave auditory effect is a real and documented phenomenon. Under specific laboratory and engineering conditions, pulsed microwave energy can produce perceived sounds without ordinary airborne sound waves reaching the ear. However, moving from that established scientific effect to claims about UFO buzzing encounters is a much larger step. The central problem is not whether microwave hearing exists. It does. The problem is that most UFO reports do not contain the measurements needed to show that the effect was actually involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">PMCby KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span>
+The microwave auditory effect is a real and documented phenomenon. Under specific laboratory and engineering conditions, pulsed microwave energy can produce perceived sounds without ordinary airborne sound waves reaching the ear. However, moving from that established scientific effect to claims about UFO buzzing encounters is a much larger step. The central problem is not whether microwave hearing exists. It does. The problem is that most UFO reports do not contain the measurements needed to show that the effect was actually involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">by KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span>
 
 ## What the microwave auditory effect actually means
 
 The microwave auditory effect was investigated extensively after reports from people working near radar equipment during and after the Second World War. Research by Allan H. Frey and later investigators showed that brief pulses of radiofrequency energy can create perceived sounds without a conventional acoustic source. Witnesses in experiments commonly described clicks, chirps, knocks, hisses or buzzing sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Microwave_auditory_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Microwave auditory effect</span><span class="citation-popover-snippet">March 10, 2026 — The microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of the human perc...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications The Microwave Hearing Effect</span><span class="citation-popover-snippet">American Chemical Society PublicationsThe Microwave Hearing Effect - ACS PublicationsAug 4, 1981 — Human subjects exposed to pulse-modula...</span></span></span>
 
-The important detail is that the sound is not transmitted through the air like an ordinary engine noise. The leading explanation is thermoelastic expansion. Extremely brief microwave pulses deposit small amounts of energy into tissue, producing tiny pressure waves inside the head that are then interpreted by the auditory system as sound. Modern reviews continue to identify this mechanism as the best-supported explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.185.4147.256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMicrowave Hearing: Evidence for Thermoacoustic Auditory...Acoustic transients can be thermally generated in water by pulsed micro...</span></span></span> Several features of the effect are relevant to UFO buzzing claims:
+The important detail is that the sound is not transmitted through the air like an ordinary engine noise. The leading explanation is thermoelastic expansion. Extremely brief microwave pulses deposit small amounts of energy into tissue, producing tiny pressure waves inside the head that are then interpreted by the auditory system as sound. Modern reviews continue to identify this mechanism as the best-supported explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.185.4147.256" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Microwave Hearing: Evidence for Thermoacoustic Auditory...Acoustic transients can be thermally generated in water by pulsed micro...</span></span></span> Several features of the effect are relevant to UFO buzzing claims:
 
 * The perceived sound can seem to originate inside or near the head rather than from a clear external [direction]({{ 'direction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications The Microwave Hearing Effect</span><span class="citation-popover-snippet">American Chemical Society PublicationsThe Microwave Hearing Effect - ACS PublicationsAug 4, 1981 — Human subjects exposed to pulse-modula...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Different pulse patterns can produce different sensations, including clicks, chirps and buzzing tones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2022IJERM...6...16L/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">This paper reviews the research in humans and animals leading to scientific documentations that...Read more...</span></span></span>
-* Nearby observers may not hear the same thing if they are not exposed in the same way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bionity.com/en/encyclopedia/Microwave_auditory_effect.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bionity.com">[Bionity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bionity.com</span><span class="citation-popover-snippet">BionityMicrowave auditory effectThe microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of...</span></span></span>
+* Nearby observers may not hear the same thing if they are not exposed in the same way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bionity.com/en/encyclopedia/Microwave_auditory_effect.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bionity.com">[Bionity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bionity.com</span><span class="citation-popover-snippet">Microwave auditory effectThe microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of...</span></span></span>
 * The phenomenon depends on pulsed energy characteristics rather than simply high average power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span>
 
 </div>
 
 These characteristics explain why the idea attracts attention in discussions of unusual auditory experiences. A witness who reports a buzzing sensation with no obvious sound source is describing something that superficially resembles known properties of microwave hearing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FNpBd_f_p9g" title="Frey Microwave Hearing - Beam Voices Into Your Auditory Cortex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FNpBd_f_p9g" target="_blank" rel="noopener noreferrer">Frey Microwave Hearing - Beam Voices Into Your Auditory Cortex</a></p><p class="youtube-embed-meta">Channel: Arcturus aReaganDesignee &middot; Views: 56.5K &middot; Uploaded: June 2010 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FNpBd_f_p9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FNpBd_f_p9g">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +307,7 @@ Most UFO case reports provide descriptions rather than measurements. Witnesses m
 
 Another problem is that many classic UFO buzzing accounts describe sounds heard by multiple people simultaneously at significant distances from an object. The microwave auditory effect is not a broad environmental sound field in the ordinary sense. It is an individual percept produced within the exposed person's auditory system. If a report involves a large group independently hearing the same external buzzing source, that pattern does not automatically fit the Frey effect model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications The Microwave Hearing Effect</span><span class="citation-popover-snippet">American Chemical Society PublicationsThe Microwave Hearing Effect - ACS PublicationsAug 4, 1981 — Human subjects exposed to pulse-modula...</span></span></span>
 
-The engineering requirements also matter. Scientific reviews note that producing microwave auditory sensations requires pulsed radiofrequency systems with specific exposure characteristics. While such systems exist, demonstrating that an unknown aerial object was generating them is a separate claim requiring evidence beyond witness impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">PMCby KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span>
+The engineering requirements also matter. Scientific reviews note that producing microwave auditory sensations requires pulsed radiofrequency systems with specific exposure characteristics. While such systems exist, demonstrating that an unknown aerial object was generating them is a separate claim requiring evidence beyond witness impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">by KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span>
 
 This distinction is often lost in UFO literature. A report may begin with a witness describing a strange buzz and end with speculation about electromagnetic propulsion, directed energy or advanced technology. Yet the chain of evidence linking those ideas is usually missing. The report establishes only that a person heard or felt something unusual.
 
@@ -321,8 +319,7 @@ Unlike many proposed UFO mechanisms, microwave hearing is not hypothetical. Peer
 
 At the same time, the effect appears counterintuitive. The idea that a person can hear a sound without a conventional sound wave feels strange enough to resemble descriptions found in close-encounter narratives. UFO authors therefore sometimes use the Frey effect as a bridge between witness testimony and electromagnetic interpretations.
 
-Interest increased further during debates over alleged directed-energy incidents and so-called Havana Syndrome. Some discussions proposed microwave auditory mechanisms as one possible explanation for reported buzzing, clicking or pressure sensations. However, even in that much more specific context, the scientific and intelligence communities have not reached a universal conclusion about causation. The debate itself illustrates how difficult it is to infer a microwave source from subjective auditory reports alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/25889/chapter/11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesAdditional Comments on Directed Radio Frequency EnergyThe average power densities associated with some of these effects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">PMCby KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span>
-
+Interest increased further during debates over alleged directed-energy incidents and so-called Havana Syndrome. Some discussions proposed microwave auditory mechanisms as one possible explanation for reported buzzing, clicking or pressure sensations. However, even in that much more specific context, the scientific and intelligence communities have not reached a universal conclusion about causation. The debate itself illustrates how difficult it is to infer a microwave source from subjective auditory reports alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/25889/chapter/11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesAdditional Comments on Directed Radio Frequency EnergyThe average power densities associated with some of these effects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">by KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-2-dark.svg" | relative_url }}" alt="Microwave Effect illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest and weakest UFO-style indicators
@@ -337,7 +334,6 @@ More suggestive features include:
 * Reports from only one exposed individual while nearby people hear nothing.
 * Simultaneous sensations of pressure, clicking or unusual auditory distortion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications The Microwave Hearing Effect</span><span class="citation-popover-snippet">American Chemical Society PublicationsThe Microwave Hearing Effect - ACS PublicationsAug 4, 1981 — Human subjects exposed to pulse-modula...</span></span></span> PubMed Less suggestive features include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A conventional buzzing noise clearly heard by multiple observers.
@@ -349,7 +345,6 @@ More suggestive features include:
 
 The reason is simple: the microwave auditory effect is fundamentally different from an airborne sound source. Evidence that points toward ordinary acoustics weakens the need for a microwave explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8wear2gf2Fk" title="The Frey Effect | Episode 4, THE SOUND: Mystery of Havana Syndrome (Podcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8wear2gf2Fk" target="_blank" rel="noopener noreferrer">The Frey Effect | Episode 4, THE SOUND: Mystery of Havana Syndrome (Podcast)</a></p><p class="youtube-embed-meta">Channel: Brazen &middot; Views: 5.4K &middot; Uploaded: August 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8wear2gf2Fk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8wear2gf2Fk">Open on YouTube</a></p></div></div></div>
 
 ## What evidence would make the claim testable
@@ -358,12 +353,11 @@ Most UFO buzzing reports remain anecdotal because they lack the data needed to d
 
 A genuinely testable case would require much more than witness testimony. Useful evidence would include:
 
-* Simultaneous radiofrequency measurements from the location.
-* Precise timing of the reported auditory event.
-* [Independent witness]({{ 'witness-notes/' | relative_url }}) comparisons documenting who heard the sound and who did not.
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
+* Simultaneous radiofrequency measurements from the location.
+* Precise timing of the reported auditory event.
+* Independent witness comparisons documenting who heard the sound and who did not.
 * Environmental recordings showing whether conventional acoustic sound was present.
 * Medical or physiological data collected immediately after exposure.
 * Repeated observations under similar conditions rather than a single retrospective account.
@@ -372,7 +366,6 @@ A genuinely testable case would require much more than witness testimony. Useful
 
 The key question would be whether a measurable pulsed electromagnetic source was present at the same time the auditory sensation occurred. Without that information, investigators cannot determine whether a reported buzz was caused by microwave hearing, ordinary sound, a physiological effect, or a perceptual misinterpretation.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-3-dark.svg" | relative_url }}" alt="Microwave Effect illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_microwave_auditory_b_56f58a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence currently supports
 
@@ -380,11 +373,9 @@ The microwave auditory effect is one of the rare cases where a seemingly science
 
 What remains unestablished is the leap from laboratory demonstrations to UFO buzzing encounters. Most case reports contain descriptions that are too general, incomplete or retrospective to identify the mechanism involved. A witness saying that a UFO produced an electrical hum or that a buzzing sensation felt internal does not provide evidence that microwaves caused the experience.
 
-As a result, the microwave auditory effect occupies an unusual position in UFO sound discussions. It is scientifically real enough to prevent outright dismissal, yet the available UFO evidence is usually too weak to show that the phenomenon actually occurred in the reported event. The mechanism exists; the case-specific proof generally does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">PMCby KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span>
-
+As a result, the microwave auditory effect occupies an unusual position in UFO sound discussions. It is scientifically real enough to prevent outright dismissal, yet the available UFO evidence is usually too weak to show that the phenomenon actually occurred in the reported event. The mechanism exists; the case-specific proof generally does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan the Microwave Auditory Effect Be “Weaponized”?</span><span class="citation-popover-snippet">by KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The weight of evidence of the results...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AzlvuAVOvVs" title="Alien UFO Static Sound Effects (FULL PACKAGE ) HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AzlvuAVOvVs" target="_blank" rel="noopener noreferrer">Alien UFO Static Sound Effects (FULL PACKAGE ) HQ</a></p><p class="youtube-embed-meta">Channel: n Beats &middot; Views: 8.0K &middot; Uploaded: February 2016 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AzlvuAVOvVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AzlvuAVOvVs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -783,116 +774,116 @@ As a result, the microwave auditory effect occupies an unusual position in UFO s
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan the Microwave Auditory Effect Be “Weaponized”?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by KR Foster · 2021 · Cited by 20 — Brief but intense pulses of radiofrequency (RF) energy can elicit auditory sensations when absorbe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2022IJERM...6...16L/abstract](https://ui.adsabs.harvard.edu/abs/2022IJERM...6...16L/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2022IJERM...6...16L/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2022IJERM...6...16L/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper reviews the research in humans and animals leading to scientific documentations that...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Microwave auditory effect  
-   Link: [https://en.wikipedia.org/wiki/Microwave_auditory_effect](https://en.wikipedia.org/wiki/Microwave_auditory_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Microwave_auditory_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Microwave_auditory_effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 10, 2026 — The microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of the human perc...</p></details>
    Published: March 10, 2026  
 
 4. <a id="endnote-4"></a>
    Source: bionity.com  
-   Link: [https://www.bionity.com/en/encyclopedia/Microwave_auditory_effect.html](https://www.bionity.com/en/encyclopedia/Microwave_auditory_effect.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BionityMicrowave auditory effectThe microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of...</p></details>
+   Link: <a href="https://www.bionity.com/en/encyclopedia/Microwave_auditory_effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bionity.com/en/encyclopedia/Microwave_auditory_effect.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microwave auditory effectThe microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: frey.com  
-   Link: [https://frey.com/?srsltid=AfmBOops4x0a2Afa88gpDEbd8I3xceJrHNvOUsxm85-ZOo1NbETUdUsR](https://frey.com/?srsltid=AfmBOops4x0a2Afa88gpDEbd8I3xceJrHNvOUsxm85-ZOo1NbETUdUsR)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frey - Clean, Fresh &amp; Eco-Friendly Laundry Care – FREYAt Frey, we believe in creating luxury laundry products that clean amazing, smell i...</p></details>
+   Link: <a href="https://frey.com/?srsltid=AfmBOops4x0a2Afa88gpDEbd8I3xceJrHNvOUsxm85-ZOo1NbETUdUsR" target="_blank" rel="noopener noreferrer nofollow">https://frey.com/?srsltid=AfmBOops4x0a2Afa88gpDEbd8I3xceJrHNvOUsxm85-ZOo1NbETUdUsR</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clean, Fresh &amp; Eco-Friendly Laundry Care – FREYAt Frey, we believe in creating luxury laundry products that clean amazing, smell i...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/14628312/](https://pubmed.ncbi.nlm.nih.gov/14628312/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14628312/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14628312/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The weight of evidence of the results...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubs.acs.org  
    Title: American Chemical Society Publications The Microwave Hearing Effect  
-   Link: [https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018](https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/bk-1981-0157.ch018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Chemical Society PublicationsThe Microwave Hearing Effect - ACS PublicationsAug 4, 1981 — Human subjects exposed to pulse-modula...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.185.4147.256](https://www.science.org/doi/10.1126/science.185.4147.256)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceMicrowave Hearing: Evidence for Thermoacoustic Auditory...Acoustic transients can be thermally generated in water by pulsed micro...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.185.4147.256" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.185.4147.256</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microwave Hearing: Evidence for Thermoacoustic Auditory...Acoustic transients can be thermally generated in water by pulsed micro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/25889/chapter/11](https://www.nationalacademies.org/read/25889/chapter/11)  
+   Link: <a href="https://www.nationalacademies.org/read/25889/chapter/11" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25889/chapter/11</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesAdditional Comments on Directed Radio Frequency EnergyThe average power densities associated with some of these effects...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0006899377907351](https://www.sciencedirect.com/science/article/abs/pii/0006899377907351)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0006899377907351" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0006899377907351</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et al. Human perception of illumination with pulsed ultrahigh-frequency electromagnetic energy... The Microwave Auditory Effect. 2022, I...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8wear2gf2Fk](https://www.youtube.com/watch?v=8wear2gf2Fk)  
+   Link: <a href="https://www.youtube.com/watch?v=8wear2gf2Fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wear2gf2Fk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ite House grounds. 60 Minutes...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ycombinator.com  
-   Link: [https://www.ycombinator.com/companies/frey](https://www.ycombinator.com/companies/frey)  
+   Link: <a href="https://www.ycombinator.com/companies/frey" target="_blank" rel="noopener noreferrer nofollow">https://www.ycombinator.com/companies/frey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is a line of exceptional laundry and clothing care...FREY is a line premium clothing care products meticulously designed to smell better...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/363461470_The_Microwave_Auditory_Effect](https://www.researchgate.net/publication/363461470_The_Microwave_Auditory_Effect)  
+   Link: <a href="https://www.researchgate.net/publication/363461470_The_Microwave_Auditory_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363461470_The_Microwave_Auditory_Effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Microwave Auditory EffectThis paper reviews the research in humans and animals leading to scientific documentations that absorp...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C0hIJKxg6Go/?hl=en](https://www.instagram.com/reel/C0hIJKxg6Go/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/C0hIJKxg6Go/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0hIJKxg6Go/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DAY 107CONSPIRACY THEORY: The Microwave Auditory...And that&#x27;s happening right now. UFOs and Star Wars stuff. Check it out. OCR. UFO&#x27;s in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/Frey](https://www.merriam-webster.com/dictionary/Frey)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/Frey" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Frey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FREY Definition &amp; Meaningnoun ˈfrā: the Norse god of fertility, crops, peace, and prosperity. Word History Etymology Old Norse Freyr Fir...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: chemeurope.com  
-   Link: [https://www.chemeurope.com/en/encyclopedia/Microwave_auditory_effect.html](https://www.chemeurope.com/en/encyclopedia/Microwave_auditory_effect.html)  
+   Link: <a href="https://www.chemeurope.com/en/encyclopedia/Microwave_auditory_effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chemeurope.com/en/encyclopedia/Microwave_auditory_effect.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microwave auditory effectThe microwave auditory effect, also known as the microwave hearing effect or the Frey effect, consists of audibl...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/165021818/The_Microwave_Auditory_Effect_Radar_Research_RF_Bioeffects_and_Havana_Syndrome_A_Comprehensive_Historical_and_Technical_Analysis_1940s_2026](https://www.academia.edu/165021818/The_Microwave_Auditory_Effect_Radar_Research_RF_Bioeffects_and_Havana_Syndrome_A_Comprehensive_Historical_and_Technical_Analysis_1940s_2026)  
+   Link: <a href="https://www.academia.edu/165021818/The_Microwave_Auditory_Effect_Radar_Research_RF_Bioeffects_and_Havana_Syndrome_A_Comprehensive_Historical_and_Technical_Analysis_1940s_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165021818/The_Microwave_Auditory_Effect_Radar_Research_RF_Bioeffects_and_Havana_Syndrome_A_Comprehensive_Historical_and_Technical_Analysis_1940s_2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Microwave Auditory Effect, Radar Research, RF...23 Mar 2026 — This book presents a comprehensive historical and technical exam...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: amazon.com  
    Title: Frey Laundry Care FREY Laundry Detergent + Dryer Sheets Bundle, 60 Count  
-   Link: [https://www.amazon.com/stores/FreyLaundryCare/page/0737CAE5-5426-4247-9BE2-C0EEFEDA317E](https://www.amazon.com/stores/FreyLaundryCare/page/0737CAE5-5426-4247-9BE2-C0EEFEDA317E)  
+   Link: <a href="https://www.amazon.com/stores/FreyLaundryCare/page/0737CAE5-5426-4247-9BE2-C0EEFEDA317E" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/FreyLaundryCare/page/0737CAE5-5426-4247-9BE2-C0EEFEDA317E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frey Laundry CareFREY Laundry Detergent + Dryer Sheets Bundle, 60 Count - Plastic Free Liquidless Full Wash Solution for Soft, Fresh Clot...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FNpBd_f_p9g](https://www.youtube.com/watch?v=FNpBd_f_p9g)  
+   Link: <a href="https://www.youtube.com/watch?v=FNpBd_f_p9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FNpBd_f_p9g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;WikiPedia: [https://en.wikipedia.org/wiki/Microwave_auditory_effect?fbclid=IwY2xjawJHj2pleHRuA2FlbQIxMAABHcirsTSIXDrRtRx3jHLTiIFWM3LuZVEop...&quot;](https://en.wikipedia.org/wiki/Microwave_auditory_effect?fbclid=IwY2xjawJHj2pleHRuA2FlbQIxMAA...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceNaturePage/posts/scientists-spent-17-years-chasing-mysterious-signals-from-space-turns-out-they-c/1222874129293454/](https://www.facebook.com/ScienceNaturePage/posts/scientists-spent-17-years-chasing-mysterious-signals-from-space-turns-out-they-c/1222874129293454/)  
+   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/scientists-spent-17-years-chasing-mysterious-signals-from-space-turns-out-they-c/1222874129293454/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/scientists-spent-17-years-chasing-mysterious-signals-from-space-turns-out-they-c/1222874129293454/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, they came from... a microwave oven. For nearly two decades, astronomers...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ObscurePatentDangers/comments/1mwmlb4/the_microwave_auditory_effect_frey_effect_voices/](https://www.reddit.com/r/ObscurePatentDangers/comments/1mwmlb4/the_microwave_auditory_effect_frey_effect_voices/)  
+   Link: <a href="https://www.reddit.com/r/ObscurePatentDangers/comments/1mwmlb4/the_microwave_auditory_effect_frey_effect_voices/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ObscurePatentDangers/comments/1mwmlb4/the_microwave_auditory_effect_frey_effect_voices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c sounds or even words directly into a person&#x27;s head without anyone...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/amateurradio/comments/10ktduv/diagram_for_pulse_modulating_the_microwave/](https://www.reddit.com/r/amateurradio/comments/10ktduv/diagram_for_pulse_modulating_the_microwave/)  
+   Link: <a href="https://www.reddit.com/r/amateurradio/comments/10ktduv/diagram_for_pulse_modulating_the_microwave/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/amateurradio/comments/10ktduv/diagram_for_pulse_modulating_the_microwave/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>udible clicks, or even speech, induced by pulsed or modulated...Read more...</p></details>

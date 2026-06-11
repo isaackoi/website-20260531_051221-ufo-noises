@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /buzzing/
 nav_short_title: Pascagoula
 title: How Sound Shaped Pascagoula's Mystery
-title_full: How Sound Shaped Pascagoula's Mystery | Buzzing
+title_full: How Sound Shaped Pascagoula's Mystery
 display_title_short: Pascagoula
 display_title: Pascagoula
 heading_title: How Sound Shaped Pascagoula's Mystery
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:10'
-parent_title: Are Buzzing UFO Sounds Really Electrical? | UFO Noises
+parent_title: Are Buzzing UFO Sounds Really Electrical?
 parent_permalink: /buzzing/
 parent_nav_short_title: Buzzing
 parent_heading_title: Are Buzzing UFO Sounds Really Electrical?
@@ -276,14 +276,12 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_s
 
 The 1973 Pascagoula encounter is usually remembered for its alleged abduction narrative, but the reported sounds are an important part of why the case became so influential in UFO culture. Charles Hickson and Calvin Parker did not describe a conventional [aircraft]({{ 'aircraft/' | relative_url }}) noise. Instead, they repeatedly referred to a strange whirring, whizzing or buzzing sound that accompanied flashing blue lights and the appearance of the object near the Pascagoula River. Over time, those sound descriptions became woven into a broader tradition of UFO reports involving electrical hums, vibrations and mechanical-sounding energy effects. The case is also a useful example of how witness memories, media [retellings]({{ 'retellings/' | relative_url }}) and sceptical critiques can shift attention toward particular sensory details long after an event is first reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed th...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.hindscc.edu">[libguides.hindscc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.hindscc.edu</span><span class="citation-popover-title">The Pascagoula Abuction</span><span class="citation-popover-snippet">Hickson and Parker promptly reported the incident to...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-1-dark.svg" | relative_url }}" alt="Pascagoula illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the case adds to buzzing folklore
 
 One reason the Pascagoula story matters in discussions of [UFO noises]({{ 'ufo-noises/' | relative_url }}) is that the sound was reported before the alleged close encounter reached its most dramatic stage. According to accounts given by Hickson and Parker, they first noticed an unusual whirring or whizzing noise near the riverbank and then saw flashing blue lights associated with the object. The sound therefore functioned as an early warning signal rather than merely a background detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction/1973_recording" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.hindscc.edu">[libguides.hindscc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.hindscc.edu</span><span class="citation-popover-title">1973 recording</span><span class="citation-popover-snippet">to 1973 Recording of Hickson and Parker...1 Oct 2025 — The Pascagoula Abuction · Listen to 1973 Recording of Hickson and Parker Discussi...</span></span></span>
 
 This pattern appears in many later UFO reports involving electrical-style sounds. Witnesses often claim that a [buzzing]({{ 'buzzing/' | relative_url }}) or [humming]({{ 'humming/' | relative_url }}) noise announces the presence of something unusual before they can clearly identify its source. In the Pascagoula narrative, the sound is remembered as part of a sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -298,7 +296,6 @@ Because the sound comes before the extraordinary claims, supporters often point 
 
 Another notable feature is the language used. The descriptions usually centre on words such as "whirring", "whizzing" or "zipping" rather than the roaring, engine-like noises associated with aircraft. That places Pascagoula firmly within the tradition of UFO reports that sound technological yet do not resemble recognised aviation sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post The men claimed they were abducted by aliens</span><span class="citation-popover-snippet">In...26 Jun 2019 — The riverbank where the men said the close encounter happened got a historical marker, calling it one of the “best do...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HprgyW7QsYQ" title="PASCAGOULA 73 Official Trailer (2025) Alien Abduction Documentary Film 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HprgyW7QsYQ" target="_blank" rel="noopener noreferrer">PASCAGOULA 73 Official Trailer (2025) Alien Abduction Documentary Film 4K</a></p><p class="youtube-embed-meta">Channel: MovieGasm‍․com &middot; Views: 39.6K &middot; Uploaded: January 2025 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HprgyW7QsYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HprgyW7QsYQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the sound details became more prominent later
@@ -308,7 +305,6 @@ The earliest public accounts focused primarily on the alleged beings, paralysis 
 This is common in famous UFO cases. Once a narrative becomes culturally established, certain details gain symbolic importance because they help audiences recognise the story. In Pascagoula's case, the strange noise reinforces the image of an object powered by something unfamiliar. The sound becomes evidence of otherness.
 
 Several versions of the story illustrate this process:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,7 +319,6 @@ None of these terms necessarily contradict one another. However, they show how w
 
 The result is that many people now remember Pascagoula as a classic example of a UFO producing an electrical or mechanical buzz, even though the original accounts contained a range of sound descriptions rather than one fixed phrase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed th...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-2-dark.svg" | relative_url }}" alt="Pascagoula illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters and sceptics read consistency differently
 
@@ -335,7 +330,6 @@ Sceptics view the same consistency differently. They note that unusual sounds ar
 
 The disagreement reflects a broader problem in UFO investigations. A reported sound can feel highly specific while remaining difficult to verify. Unlike a photograph or a physical trace, a buzzing or whirring noise usually leaves no independent record. Investigators must rely almost entirely on witness recollection.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ldhiji54-s" title="The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer">The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS</a></p><p class="youtube-embed-meta">Channel: The Crafsman Steady Craftin &middot; Views: 46.6K &middot; Uploaded: November 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ldhiji54-s">Open on YouTube</a></p></div></div></div>
 
 ## The role of the secretly recorded conversation
@@ -344,8 +338,7 @@ One reason Pascagoula remains influential is the hidden recording made by local 
 
 The tape does not verify the source of any sound they claimed to hear. However, supporters often point to it because it documents their emotional state very close to the event itself. In UFO [folklore]({{ 'folklore/' | relative_url }}), this recording has become almost as famous as the encounter narrative.
 
-For discussions about sound claims, the recording matters because it reduces one common criticism: that all sensory details emerged years later through retelling. At least some of the core narrative, including the strange object's approach and associated sensations, was being discussed immediately after the incident. What remains uncertain is exactly how much later versions elaborated or sharpened the sound descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/155soi2/in_1973_two_men_went_to_police_claiming_to_have/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1973 two men went to police claiming to have</span><span class="citation-popover-snippet">The police thought they were lying, so they left the men alone in the room with a...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditTranscript of private conversation between UFO abductees...In 1973, Charles Hickson and Calvin Parker claim they were levitated in...</span></span></span>
-
+For discussions about sound claims, the recording matters because it reduces one common criticism: that all sensory details emerged years later through retelling. At least some of the core narrative, including the strange object's approach and associated sensations, was being discussed immediately after the incident. What remains uncertain is exactly how much later versions elaborated or sharpened the sound descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/155soi2/in_1973_two_men_went_to_police_claiming_to_have/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1973 two men went to police claiming to have</span><span class="citation-popover-snippet">The police thought they were lying, so they left the men alone in the room with a...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Transcript of private conversation between UFO abductees...In 1973, Charles Hickson and Calvin Parker claim they were levitated in...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-3-dark.svg" | relative_url }}" alt="Pascagoula illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_pascagoula_sound_cla_323878-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Pascagoula remains important in UFO sound history
@@ -356,9 +349,7 @@ The case also demonstrates how sensory details evolve within public memory. A br
 
 Within the broader history of buzzing and electrical UFO reports, Pascagoula remains one of the clearest examples of a sound description gaining significance not because it was independently verified, but because it became inseparable from one of the most enduring close-encounter stories in American UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oiVA5-2RQ7k" title="“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer">“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)</a></p><p class="youtube-embed-meta">Channel: Jerry Skinner &middot; Views: 2.7K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oiVA5-2RQ7k">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -725,130 +716,130 @@ Within the broader history of buzzing and electrical UFO reports, Pascagoula rem
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed th...</p></details>
    Published: April 29, 2026  
 
 2. <a id="endnote-2"></a>
    Source: libguides.hindscc.edu  
    Title: The Pascagoula Abuction  
-   Link: [https://libguides.hindscc.edu/paranormalms/pascagoula_abduction](https://libguides.hindscc.edu/paranormalms/pascagoula_abduction)  
+   Link: <a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hickson and Parker promptly reported the incident to...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/w3quxy/charles_hickson_talks_about_his_ufo_sighting_and/](https://www.reddit.com/r/UFOs/comments/w3quxy/charles_hickson_talks_about_his_ufo_sighting_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/w3quxy/charles_hickson_talks_about_his_ufo_sighting_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w3quxy/charles_hickson_talks_about_his_ufo_sighting_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 11, 1973... r/UFOs - Why do most UFO/alien incidents seem...</p></details>
    Published: October 11, 1973  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: in 1973 two men went to police claiming to have  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/155soi2/in_1973_two_men_went_to_police_claiming_to_have/](https://www.reddit.com/r/HighStrangeness/comments/155soi2/in_1973_two_men_went_to_police_claiming_to_have/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/155soi2/in_1973_two_men_went_to_police_claiming_to_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/155soi2/in_1973_two_men_went_to_police_claiming_to_have/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The police thought they were lying, so they left the men alone in the room with a...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/](https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditTranscript of private conversation between UFO abductees...In 1973, Charles Hickson and Calvin Parker claim they were levitated in...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/157wi6e/transcript_of_private_conversation_between_ufo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript of private conversation between UFO abductees...In 1973, Charles Hickson and Calvin Parker claim they were levitated in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: in 1973 charles hickson and calvin parker claim  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1fcj9yl/in_1973_charles_hickson_and_calvin_parker_claim/](https://www.reddit.com/r/HighStrangeness/comments/1fcj9yl/in_1973_charles_hickson_and_calvin_parker_claim/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1fcj9yl/in_1973_charles_hickson_and_calvin_parker_claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1fcj9yl/in_1973_charles_hickson_and_calvin_parker_claim/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, Charles Hickson and Calvin Parker claim they...In October 1973, Charles Hixon and Calvin Parker from Pascagoula, Mississippi, r...</p></details>
    Published: October 1973  
 
 9. <a id="endnote-9"></a>
    Source: libguides.hindscc.edu  
    Title: 1973 recording  
-   Link: [https://libguides.hindscc.edu/paranormalms/pascagoula_abduction/1973_recording](https://libguides.hindscc.edu/paranormalms/pascagoula_abduction/1973_recording)  
+   Link: <a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction/1973_recording" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction/1973_recording</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to 1973 Recording of Hickson and Parker...1 Oct 2025 — The Pascagoula Abuction · Listen to 1973 Recording of Hickson and Parker Discussi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: washingtonpost.com  
    Title: The Washington Post The men claimed they were abducted by aliens  
-   Link: [https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/](https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/)  
+   Link: <a href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In...26 Jun 2019 — The riverbank where the men said the close encounter happened got a historical marker, calling it one of the “best do...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aquila.usm.edu  
-   Link: [https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&context=honors_theses](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&context=honors_theses)  
+   Link: <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aquila Digital CommunityMedia Coverage of the 1973 Pascagoula Alien Abductionby J Fort · 2024 — This thesis then analyzes the media cover...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/articles/the-pascagoula-abduction](https://www.history.co.uk/articles/the-pascagoula-abduction)  
+   Link: <a href="https://www.history.co.uk/articles/the-pascagoula-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-pascagoula-abduction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelThe Pascagoula Abduction: Did aliens kidnap two...How did the &#x27;Pascagoula Abduction&#x27; unfold? · Famous UFO Sighting...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: amazon.de  
-   Link: [https://www.amazon.de/-/en/Charles-Hickson-William-Mendez-ebook/dp/B077PCB73G](https://www.amazon.de/-/en/Charles-Hickson-William-Mendez-ebook/dp/B077PCB73G)  
+   Link: <a href="https://www.amazon.de/-/en/Charles-Hickson-William-Mendez-ebook/dp/B077PCB73G" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Charles-Hickson-William-Mendez-ebook/dp/B077PCB73G</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CONTACT AT PASCAGOULA (English Edition)UFO CONTACT AT PASCAGOULA On the night of October 11, 1973, two very frightened Mississisppian...</p></details>
    Published: October 11, 1973  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: on october 11 1973 charles hickson 42 and calvin parker 19 set out fishing on th  
-   Link: [https://www.facebook.com/100057070315212/posts/on-october-11-1973-charles-hickson-42-and-calvin-parker-19-set-out-fishing-on-th/1329568988955432/](https://www.facebook.com/100057070315212/posts/on-october-11-1973-charles-hickson-42-and-calvin-parker-19-set-out-fishing-on-th/1329568988955432/)  
+   Link: <a href="https://www.facebook.com/100057070315212/posts/on-october-11-1973-charles-hickson-42-and-calvin-parker-19-set-out-fishing-on-th/1329568988955432/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057070315212/posts/on-october-11-1973-charles-hickson-42-and-calvin-parker-19-set-out-fishing-on-th/1329568988955432/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On October 11, 1973, Charles Hickson (42) and Calvin...Charles Hickson and Calvin Parker reported that they were fishing along the Pasca...</p></details>
    Published: October 11, 1973  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: this is spine chilling in 1973 a family in pascagoula mississippi claimed they w  
-   Link: [https://www.facebook.com/mrballen/posts/this-is-spine-chilling-in-1973-a-family-in-pascagoula-mississippi-claimed-they-w/807960298269472/](https://www.facebook.com/mrballen/posts/this-is-spine-chilling-in-1973-a-family-in-pascagoula-mississippi-claimed-they-w/807960298269472/)  
+   Link: <a href="https://www.facebook.com/mrballen/posts/this-is-spine-chilling-in-1973-a-family-in-pascagoula-mississippi-claimed-they-w/807960298269472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/this-is-spine-chilling-in-1973-a-family-in-pascagoula-mississippi-claimed-they-w/807960298269472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, a family in Pascagoula, Mississippi claimed they...On the night of October 11, 1973, a chilling UFO encounter took place in Pas...</p></details>
    Published: October 11, 1973  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: two fishermen reported being abducted by aliens in 1973 police hid a recorder ex  
-   Link: [https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/](https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/)  
+   Link: <a href="https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pascagoula Abduction remains one of the most compelling and debated UFO encounters in history, not because we have proof aliens exist...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: in 1973 two men went to the police claiming to have been abducted by aliensin oc  
-   Link: [https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/](https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/)  
+   Link: <a href="https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, two men went to the police claiming to have been...The Pascagoula Abduction was an alleged UFO sighting and alien abduction in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: supertalk.fm  
    Title: longtime ufo researcher releases new docuseries on pascagoula abduction  
-   Link: [https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/](https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/)  
+   Link: <a href="https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Longtime UFO researcher releases new docuseries on...27 May 2025 — “Discover the astonishing 1973 Pascagoula UFO abduction through the e...</p></details>
    Published: May 2025  
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DPrqaM1ABWG/](https://www.instagram.com/p/DPrqaM1ABWG/)  
+   Link: <a href="https://www.instagram.com/p/DPrqaM1ABWG/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPrqaM1ABWG/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 11, 1973, co-workers Charles Hickson and Calvin Parker reported having been abducted by aliens while fishing in Pascagoula.Read more...</p></details>
    Published: October 11, 1973  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_ldhiji54-s](https://www.youtube.com/watch?v=_ldhiji54-s)  
+   Link: <a href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ldhiji54-s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvin Parker, Charles Hickson UFO Abduction (Pascagoula 1973) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HprgyW7QsYQ](https://www.youtube.com/watch?v=HprgyW7QsYQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HprgyW7QsYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HprgyW7QsYQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Pascagoula UFO Abduction: Fact, Fear, or Fiction?” (Jerry Skinner Documentary)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oiVA5-2RQ7k](https://www.youtube.com/watch?v=oiVA5-2RQ7k)  
+   Link: <a href="https://www.youtube.com/watch?v=oiVA5-2RQ7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oiVA5-2RQ7k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS...</p></details>

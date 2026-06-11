@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /industry/
 nav_short_title: Transformer Hum
 title: Is That Sky Buzz Coming From a Substation?
-title_full: Is That Sky Buzz Coming From a Substation? | Industry
+title_full: Is That Sky Buzz Coming From a Substation?
 display_title_short: Transformer Hum
 display_title: Transformer Hum
 heading_title: Is That Sky Buzz Coming From a Substation?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:03:27'
-parent_title: Could That UFO Noise Be Machinery? | UFO Noises
+parent_title: Could That UFO Noise Be Machinery?
 parent_permalink: /industry/
 parent_nav_short_title: Industry
 parent_heading_title: Could That UFO Noise Be Machinery?
@@ -268,8 +268,7 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_
 
 ## Introduction
 
-A steady electrical buzz in the night sky is one of the easier UFO-related sounds to misinterpret because the source may not be visible at all. Electrical substations, transformers and related power equipment often produce a constant low-frequency hum that can seem detached from the ground, especially after dark. When listeners hear a vibration that appears to hover in one place, remains active for hours and lacks an obvious source, they may assume an [aircraft]({{ 'aircraft/' | relative_url }}), drone or unidentified object is nearby. In many cases, however, the sound is coming from fixed electrical infrastructure operating exactly as designed. Transformer hum is particularly misleading because low-frequency sound is difficult for humans to locate accurately, allowing a ground-based source to seem as though it is hanging in the air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deicon.com">[Deicon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deicon.com</span><span class="citation-popover-snippet">DeiconTransformer Noise (Hum) Reduction by Air IsolationTransformer vibration (and consequently noise) is caused by the magnetostriction...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span>
-
+A steady electrical buzz in the night sky is one of the easier UFO-related sounds to misinterpret because the source may not be visible at all. Electrical substations, transformers and related power equipment often produce a constant low-frequency hum that can seem detached from the ground, especially after dark. When listeners hear a vibration that appears to hover in one place, remains active for hours and lacks an obvious source, they may assume an [aircraft]({{ 'aircraft/' | relative_url }}), drone or unidentified object is nearby. In many cases, however, the sound is coming from fixed electrical infrastructure operating exactly as designed. Transformer hum is particularly misleading because low-frequency sound is difficult for humans to locate accurately, allowing a ground-based source to seem as though it is hanging in the air. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deicon.com">[Deicon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deicon.com</span><span class="citation-popover-snippet">Transformer Noise (Hum) Reduction by Air IsolationTransformer vibration (and consequently noise) is caused by the magnetostriction...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-1-dark.svg" | relative_url }}" alt="Transformer Hum illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Is That Sky Buzz Coming From a Substation?
@@ -277,7 +276,6 @@ A steady electrical buzz in the night sky is one of the easier UFO-related sound
 Electrical transformers convert voltage levels across power networks. During normal operation, their magnetic cores expand and contract by tiny amounts as alternating current changes [direction]({{ 'direction/' | relative_url }}). This phenomenon, known as magnetostriction, creates vibration that becomes audible as the familiar transformer hum. The sound is not usually a sign of malfunction; it is a by-product of the equipment's design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span> In countries using 50 Hz electrical systems, including the UK, the resulting hum is commonly strongest around 100 Hz because the vibration occurs twice during each electrical cycle. Large substations can therefore generate a persistent tonal sound that remains present day and night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.npcelectric.com/news/best-ways-to-reduce-transformer-hum-vibration-isolation-and-soundproofing-tips.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: npcelectric.com">[NPC ELECTRIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">npcelectric.com</span><span class="citation-popover-title">best ways to reduce transformer hum vibration isolation and soundproofing tips</span><span class="citation-popover-snippet">NPC ELECTRICReduce Transformer Hum with Vibration &amp; Noise ControlMar 26, 2026 — Transformer hum is primarily caused by magnetostriction —...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slideshare.net/slideshow/electrical-power-distribution-ee543/30107642" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slideshare.net">[2www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slideshare.net</span><span class="citation-popover-snippet">Noise and magnetostriction phenomenonTransformers produce noise due to a phenomenon called magnetostriction. When a ferromagnetic materia...</span></span></span>
 
 For someone unfamiliar with nearby infrastructure, the experience can be surprisingly strange:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,7 +295,6 @@ People usually describe transformer hum as a deep buzz, drone or vibration rathe
 
 Engineers and transformer manufacturers consistently identify core vibration caused by magnetostriction as the main source of this audible hum. Additional noise can come from cooling fans, pumps and vibration in structural components, but the characteristic low-frequency buzz is closely associated with the transformer itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taishantransformer.com/noise-in-power-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taishantransformer.com">[Taishan Transformer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taishantransformer.com</span><span class="citation-popover-title">noise in power transformers</span><span class="citation-popover-snippet">Taishan TransformerWhat Causes Noise in Power Transformers &amp; How to...30 Mar 2025 — Most transformer noise originates from magnetostrict...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span> One reason the sound attracts attention is its tonal quality. Human hearing is particularly sensitive to repetitive tones. A continuous low-frequency vibration can feel more intrusive than a louder but irregular sound because the brain keeps trying to identify its source. This contributes to reports of an unseen object "hovering" nearby when the actual source is a fixed installation hidden behind buildings, trees or terrain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/twru3Ivkesc" title="The Science Behind Transformers: How They Work and Why They Matter!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=twru3Ivkesc" target="_blank" rel="noopener noreferrer">The Science Behind Transformers: How They Work and Why They Matter!</a></p><p class="youtube-embed-meta">Channel: Electrick &middot; Views: 1.2K &middot; Uploaded: August 2024 &middot; Length: 2 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=twru3Ivkesc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=twru3Ivkesc">Open on YouTube</a></p></div></div></div>
 
 ## Why Electrical Noise Can Seem Directionless
@@ -308,19 +305,17 @@ Humans locate sounds largely by comparing tiny timing and intensity differences 
 
 Around substations, several effects can make localisation even harder:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Sound reflects from buildings, walls and hard ground surfaces.
 * Multiple transformers may produce overlapping hums.
 * Weather conditions can bend or channel sound.
 * The original source may be hidden from sight.
-* Ground-borne vibration can contribute to the sensation of a pervasive hum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectLocating and reconstructing transformer low-frequency noises with a...January 15, 2025 — This paper presents diagnosis and...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+* Ground-borne vibration can contribute to the sensation of a pervasive hum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Locating and reconstructing transformer low-frequency noises with a...January 15, 2025 — This paper presents diagnosis and...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 </div>
 
 The result is an unusual perceptual effect. A listener may walk toward the apparent source and find that the sound does not become noticeably louder. In some situations it can seem to come from above because reflections and environmental acoustics obscure the true direction. This is one reason stationary electrical infrastructure sometimes becomes associated with reports of hovering craft.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-2-dark.svg" | relative_url }}" alt="Transformer Hum illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Sound Often Gets Noticed at Night
@@ -333,7 +328,6 @@ Night-time atmospheric conditions can also allow low-frequency sound to travel f
 
 This helps explain a recurring pattern in UFO-noise reports: witnesses hear a stable buzz for an extended period but never observe a corresponding object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4mfwA6I-0k0" title="Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4mfwA6I-0k0" target="_blank" rel="noopener noreferrer">Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained</a></p><p class="youtube-embed-meta">Channel: Maddox Transformer &middot; Views: 5.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4mfwA6I-0k0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4mfwA6I-0k0">Open on YouTube</a></p></div></div></div>
 
 ## How to Identify Nearby Power Infrastructure
@@ -341,7 +335,6 @@ This helps explain a recurring pattern in UFO-noise reports: witnesses hear a st
 When a strange buzz seems fixed in one area, checking for electrical infrastructure is often more productive than scanning the sky.
 
 Signs that a transformer or substation may be responsible include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -357,7 +350,6 @@ Substations are frequently concealed behind walls, vegetation or security fencin
 
 Another useful clue is consistency. Aircraft, helicopters and drones generally change position, pitch or volume over time. Transformer hum tends to remain remarkably stable unless electrical demand or cooling systems change operating conditions.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-3-dark.svg" | relative_url }}" alt="Transformer Hum illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_transformer_hum_sky_0a8cc4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Louder Buzz May Mean Something Different
 
@@ -367,11 +359,9 @@ A constant hum is normal for many transformers. However, electrical engineers no
 
 Among industrial sounds commonly mistaken for unidentified aerial activity, transformer hum is one of the strongest matches. It is continuous, electrical in character, often low in frequency and frequently difficult to locate. Because substations operate around the clock, the sound can seem permanently attached to a specific area of sky rather than moving like a conventional vehicle.
 
-For listeners who encounter the noise without seeing the infrastructure behind it, the experience can feel genuinely mysterious. Yet the mechanism is well understood: microscopic vibration inside magnetic transformer cores produces a persistent hum that, under the right acoustic conditions, can be heard far beyond the fence line of the substation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deicon.com">[Deicon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deicon.com</span><span class="citation-popover-snippet">DeiconTransformer Noise (Hum) Reduction by Air IsolationTransformer vibration (and consequently noise) is caused by the magnetostriction...</span></span></span>
-
+For listeners who encounter the noise without seeing the infrastructure behind it, the experience can feel genuinely mysterious. Yet the mechanism is well understood: microscopic vibration inside magnetic transformer cores produces a persistent hum that, under the right acoustic conditions, can be heard far beyond the fence line of the substation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deicon.com">[Deicon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deicon.com</span><span class="citation-popover-snippet">Transformer Noise (Hum) Reduction by Air IsolationTransformer vibration (and consequently noise) is caused by the magnetostriction...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mP_0Pv00gxc" title="Insulators Explained! ⚡Types &amp; Uses for Electrical Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mP_0Pv00gxc" target="_blank" rel="noopener noreferrer">Insulators Explained! ⚡Types &amp; Uses for Electrical Beginners</a></p><p class="youtube-embed-meta">Channel: Electrick &middot; Views: 175 &middot; Uploaded: March 2025 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mP_0Pv00gxc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mP_0Pv00gxc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,146 +759,146 @@ For listeners who encounter the noise without seeing the infrastructure behind i
 
 1. <a id="endnote-1"></a>
    Source: deicon.com  
-   Link: [https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf](https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeiconTransformer Noise (Hum) Reduction by Air IsolationTransformer vibration (and consequently noise) is caused by the magnetostriction...</p></details>
+   Link: <a href="https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deicon.com/wp-content/uploads/2022/04/transformer_noise-hum-reduction.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer Noise (Hum) Reduction by Air IsolationTransformer vibration (and consequently noise) is caused by the magnetostriction...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: elscotransformers.com  
-   Link: [https://elscotransformers.com/blog/why-do-transformers-hum/](https://elscotransformers.com/blog/why-do-transformers-hum/)  
+   Link: <a href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow">https://elscotransformers.com/blog/why-do-transformers-hum/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Magnetostriction](https://en.wikipedia.org/wiki/Magnetostriction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Magnetostriction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Magnetostriction</a>  
 
 4. <a id="endnote-4"></a>
    Source: npcelectric.com  
    Title: best ways to reduce transformer hum vibration isolation and soundproofing tips  
-   Link: [https://www.npcelectric.com/news/best-ways-to-reduce-transformer-hum-vibration-isolation-and-soundproofing-tips.html](https://www.npcelectric.com/news/best-ways-to-reduce-transformer-hum-vibration-isolation-and-soundproofing-tips.html)  
+   Link: <a href="https://www.npcelectric.com/news/best-ways-to-reduce-transformer-hum-vibration-isolation-and-soundproofing-tips.html" target="_blank" rel="noopener noreferrer nofollow">https://www.npcelectric.com/news/best-ways-to-reduce-transformer-hum-vibration-isolation-and-soundproofing-tips.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NPC ELECTRICReduce Transformer Hum with Vibration &amp; Noise ControlMar 26, 2026 — Transformer hum is primarily caused by magnetostriction —...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/electrical-power-distribution-ee543/30107642](https://www.slideshare.net/slideshow/electrical-power-distribution-ee543/30107642)  
+   Link: <a href="https://www.slideshare.net/slideshow/electrical-power-distribution-ee543/30107642" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/electrical-power-distribution-ee543/30107642</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise and magnetostriction phenomenonTransformers produce noise due to a phenomenon called magnetostriction. When a ferromagnetic materia...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/24/1/68](https://www.mdpi.com/1424-8220/24/1/68)  
+   Link: <a href="https://www.mdpi.com/1424-8220/24/1/68" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/1/68</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study provides a detailed classification of the methods used in the fields of...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005024](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005024)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectLocating and reconstructing transformer low-frequency noises with a...January 15, 2025 — This paper presents diagnosis and...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005024" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005024</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Locating and reconstructing transformer low-frequency noises with a...January 15, 2025 — This paper presents diagnosis and...</p></details>
    Published: January 15, 2025  
 
 8. <a id="endnote-8"></a>
    Source: wiki.testguy.net  
-   Link: [https://wiki.testguy.net/t/magnetostriction-and-transformer-noise/1278](https://wiki.testguy.net/t/magnetostriction-and-transformer-noise/1278)  
+   Link: <a href="https://wiki.testguy.net/t/magnetostriction-and-transformer-noise/1278" target="_blank" rel="noopener noreferrer nofollow">https://wiki.testguy.net/t/magnetostriction-and-transformer-noise/1278</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TestGuy Electrical Testing NetworkMagnetostriction and Transformer Noise - Electrical Testing TalkJul 5, 2023 — Excessive magnetostrictio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Mains hum  
-   Link: [https://en.wikipedia.org/wiki/Mains_hum](https://en.wikipedia.org/wiki/Mains_hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mains_hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mains_hum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mains humCauses. Electric hum around transformers is caused by stray magnetic fields causing the enclosure and accessories to vibrate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: taishantransformer.com  
    Title: noise in power transformers  
-   Link: [https://taishantransformer.com/noise-in-power-transformers/](https://taishantransformer.com/noise-in-power-transformers/)  
+   Link: <a href="https://taishantransformer.com/noise-in-power-transformers/" target="_blank" rel="noopener noreferrer nofollow">https://taishantransformer.com/noise-in-power-transformers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taishan TransformerWhat Causes Noise in Power Transformers &amp; How to...30 Mar 2025 — Most transformer noise originates from magnetostrict...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nsip-documents.planninginspectorate.gov.uk  
    Title: NSIP Documents D6  
-   Link: [https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001435-6.4.6%20D6-Noise%20and%20vibration%20%28Rev%201.0%29.pdf](https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001435-6.4.6%20D6-Noise%20and%20vibration%20%28Rev%201.0%29.pdf)  
+   Link: <a href="https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001435-6.4.6%20D6-Noise%20and%20vibration%20%28Rev%201.0%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsip-documents.planninginspectorate.gov.uk/published-documents/EN010007-001435-6.4.6%20D6-Noise%20and%20vibration%20%28Rev%201.0%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, transformer hum was not audible during the 2015 survey at properties in...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalgrid.com  
-   Link: [https://www.nationalgrid.com/document/351551/download](https://www.nationalgrid.com/document/351551/download)  
+   Link: <a href="https://www.nationalgrid.com/document/351551/download" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgrid.com/document/351551/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Environmental Information Report24 Oct 2023 — The context is a low specific noise level in a mixed rural and... transformer...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: electpower.com  
    Title: why do transformers hum  
-   Link: [https://www.electpower.com/why-do-transformers-hum/](https://www.electpower.com/why-do-transformers-hum/)  
+   Link: <a href="https://www.electpower.com/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow">https://www.electpower.com/why-do-transformers-hum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elect PowerWhy Transformers Hum and When You Should Worry?Oct 6, 2025 — Transformers hum as they work, but not all noise is safe. Learn w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nationalgrid.com  
-   Link: [https://www.nationalgrid.com/electricity-transmission/engineering-and-consultancy-solutions-ecs/ecs-case-studies/innovative-noise-solution-inner-city-substation](https://www.nationalgrid.com/electricity-transmission/engineering-and-consultancy-solutions-ecs/ecs-case-studies/innovative-noise-solution-inner-city-substation)  
+   Link: <a href="https://www.nationalgrid.com/electricity-transmission/engineering-and-consultancy-solutions-ecs/ecs-case-studies/innovative-noise-solution-inner-city-substation" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgrid.com/electricity-transmission/engineering-and-consultancy-solutions-ecs/ecs-case-studies/innovative-noise-solution-inner-city-substation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Innovative noise solution for inner city substationEstablishing a new grid supply point near Little Horsted, connected to UK Power Networ...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nationalgrid.com  
-   Link: [https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/infrastructure-projects/navenby-substation](https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/infrastructure-projects/navenby-substation)  
+   Link: <a href="https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/infrastructure-projects/navenby-substation" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/infrastructure-projects/navenby-substation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navenby SubstationNational Grid Electricity Transmission is currently investigating suitable sites close to Navenby in Lincolnshire for a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalgrid.com  
-   Link: [https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/electricity-emergencies-and-safety-advice](https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/electricity-emergencies-and-safety-advice)  
+   Link: <a href="https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/electricity-emergencies-and-safety-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/electricity-emergencies-and-safety-advice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Electricity transmission emergencies and safety adviceNational Grid Electricity Transmission is currently investigating suitable sites cl...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalgrid.com  
    Title: Llandyfaelog Operational Noise Impact Assessment Final designed PDF  
-   Link: [https://www.nationalgrid.com/sites/default/files/documents/2025-11/Llandyfaelog%20Operational%20Noise%20Impact%20Assessment%20Final%20designed%20PDF.pdf](https://www.nationalgrid.com/sites/default/files/documents/2025-11/Llandyfaelog%20Operational%20Noise%20Impact%20Assessment%20Final%20designed%20PDF.pdf)  
+   Link: <a href="https://www.nationalgrid.com/sites/default/files/documents/2025-11/Llandyfaelog%20Operational%20Noise%20Impact%20Assessment%20Final%20designed%20PDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgrid.com/sites/default/files/documents/2025-11/Llandyfaelog%20Operational%20Noise%20Impact%20Assessment%20Final%20designed%20PDF.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Llandyfaelog Substation Operational Noise Impact...13 Nov 2025 — Unmitigated noise from SGTs and SHRs is heard as a highly tonal &#x27;hum&#x27;...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/electricalengineeringandelectronics/posts/1157387667780799/](https://www.facebook.com/groups/electricalengineeringandelectronics/posts/1157387667780799/)  
+   Link: <a href="https://www.facebook.com/groups/electricalengineeringandelectronics/posts/1157387667780799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/electricalengineeringandelectronics/posts/1157387667780799/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Describe what causes transformer to ham or soundWhat causes humming sound in transformers?... In transformer, humming sound occurs due t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theiam.org  
-   Link: [https://theiam.org/media/2356/feature-article-assets-may-2020.pdf](https://theiam.org/media/2356/feature-article-assets-may-2020.pdf)  
+   Link: <a href="https://theiam.org/media/2356/feature-article-assets-may-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theiam.org/media/2356/feature-article-assets-may-2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping the noise down and the lights onUnder electrical stress, transformers produce a low frequency humming noise. Following the compla...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/shaibuibrahim_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-activity-7345417071557533696-KimH](https://www.linkedin.com/posts/shaibuibrahim_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-activity-7345417071557533696-KimH)  
+   Link: <a href="https://www.linkedin.com/posts/shaibuibrahim_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-activity-7345417071557533696-KimH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/shaibuibrahim_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-activity-7345417071557533696-KimH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do power transformers hum? | Shaibu Ibrahim PE...This effect is referred to as magnetostriction. In transformers, the alternating ma...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/11bqxlz/til_most_audio_recordings_contain_a_background/](https://www.reddit.com/r/todayilearned/comments/11bqxlz/til_most_audio_recordings_contain_a_background/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/11bqxlz/til_most_audio_recordings_contain_a_background/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/11bqxlz/til_most_audio_recordings_contain_a_background/</a>  
 
 22. <a id="endnote-22"></a>
    Source: arxiv.org  
    Title: A Steered Response Power Method for Sound Source Localization  
-   Link: [https://arxiv.org/html/2509.15702v1](https://arxiv.org/html/2509.15702v1)  
+   Link: <a href="https://arxiv.org/html/2509.15702v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.15702v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 19, 2025 — To this end, we propose a novel SRP beamforming design for localization using generic acoustic transfer functions an...</p></details>
    Published: September 19, 2025  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=twru3Ivkesc&t=31s](https://www.youtube.com/watch?v=twru3Ivkesc&t=31s)  
+   Link: <a href="https://www.youtube.com/watch?v=twru3Ivkesc&amp;t=31s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=twru3Ivkesc&amp;t=31s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insulators Explained! ⚡Types &amp; Uses for Electrical Beginners⮕[https://www.youtube.com/watch?v=mP_0Pv00gxc](https://www.youtube.com/watch?v=mP_0Pv00gxc) ➡️Electrical Arcs Explained: Wha...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kwwUTmj1DVI](https://www.youtube.com/watch?v=kwwUTmj1DVI)  
+   Link: <a href="https://www.youtube.com/watch?v=kwwUTmj1DVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kwwUTmj1DVI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>👉 Subscribe for easy explanations of electrical engineering concepts 👉 Comment your doubts or interview questions 👉 Share with friends pr...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: energeks.pl  
-   Link: [https://www.energeks.pl/updates/post/safe-distance-transformer-substation-from-house](https://www.energeks.pl/updates/post/safe-distance-transformer-substation-from-house)  
+   Link: <a href="https://www.energeks.pl/updates/post/safe-distance-transformer-substation-from-house" target="_blank" rel="noopener noreferrer nofollow">https://www.energeks.pl/updates/post/safe-distance-transformer-substation-from-house</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transformer substation near your house: distance and safetyOct 21, 2025 — How close you can live to a transformer substation...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: testbook.com  
    Title: the humming noise in a large size transformer is c 6192025d803caac56f993c7f  
-   Link: [https://testbook.com/question-answer/the-humming-noise-in-a-large-size-transformer-is-c--6192025d803caac56f993c7f](https://testbook.com/question-answer/the-humming-noise-in-a-large-size-transformer-is-c--6192025d803caac56f993c7f)  
+   Link: <a href="https://testbook.com/question-answer/the-humming-noise-in-a-large-size-transformer-is-c--6192025d803caac56f993c7f" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/the-humming-noise-in-a-large-size-transformer-is-c--6192025d803caac56f993c7f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The humming noise in a large size transformer is caused byJun 13, 2024 — &quot;The humming noise in a large size transformer is caused by&quot;...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: hal.science  
    Title: Science[PDF] Binaural Sound Localization in Noisy Environments Using  
-   Link: [https://hal.science/hal-04416143/document](https://hal.science/hal-04416143/document)  
+   Link: <a href="https://hal.science/hal-04416143/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-04416143/document</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Binaural Sound Localization in Noisy Environments Using... - HALBinaural sound source localization (BSSL) aims to locate sound as...</p></details>

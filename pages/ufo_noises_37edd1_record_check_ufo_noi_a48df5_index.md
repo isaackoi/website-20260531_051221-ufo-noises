@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-record-check-ufo-noi/
 description: Focused pages that expand on Record It.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_noises_37edd1_record_check_ufo_noi_a48df5
-parent_title: Record It | UFO Noises
+parent_title: Record It
 parent_nav_short_title: Record It
 parent_permalink: /record-it/
 ---

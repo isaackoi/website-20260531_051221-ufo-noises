@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /buzzing/
 nav_short_title: Before Sight
 title: When the Buzz Comes First
-title_full: When the Buzz Comes First | Buzzing
+title_full: When the Buzz Comes First
 display_title_short: Before Sight
 display_title: Before Sight
 heading_title: When the Buzz Comes First
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:05:42'
-parent_title: Are Buzzing UFO Sounds Really Electrical? | UFO Noises
+parent_title: Are Buzzing UFO Sounds Really Electrical?
 parent_permalink: /buzzing/
 parent_nav_short_title: Buzzing
 parent_heading_title: Are Buzzing UFO Sounds Really Electrical?
@@ -270,9 +270,8 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_
 
 Some UFO reports become unusual before any object is visible. Witnesses describe hearing a [buzzing]({{ 'buzzing/' | relative_url }}), [humming]({{ 'humming/' | relative_url }}) or electrical vibration first, then noticing a light, shape or moving object seconds later. Within UFO literature, these accounts are often treated as evidence that the sound announced the object's arrival. Yet the sequence itself raises difficult questions. A sound heard before a sighting can reflect a genuine external source, a delayed visual detection, an error in locating where the sound came from, or a memory that has been reorganised after the event.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-1-dark.svg" | relative_url }}" alt="Before Sight illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because many close-encounter stories begin with the phrase “I heard something first”, the timing of the buzz matters. It affects how investigators assess witness awareness, environmental conditions and the reliability of later recollections. The reports are interesting not because they prove an unidentified object was present, but because they reveal how people experience and interpret unexpected sounds that seem to have no visible source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
+Because many close-encounter stories begin with the phrase “I heard something first”, the timing of the buzz matters. It affects how investigators assess witness awareness, environmental conditions and the reliability of later recollections. The reports are interesting not because they prove an unidentified object was present, but because they reveal how people experience and interpret unexpected sounds that seem to have no visible source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
 
 ## When the Buzz Comes First
 
@@ -290,12 +289,11 @@ One reason these reports are difficult to evaluate is that humans are not especi
 
 ### Low-frequency hums create ambiguity
 
-Auditory localisation depends on subtle timing and intensity differences between the ears. When sounds are low-frequency, diffuse or reflected by terrain and buildings, determining their exact origin becomes much harder. Researchers studying spatial hearing note that people can accurately locate many sounds, but distance estimation and source identification become less reliable when acoustic cues are weak or degraded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
+Auditory localisation depends on subtle timing and intensity differences between the ears. When sounds are low-frequency, diffuse or reflected by terrain and buildings, determining their exact origin becomes much harder. Researchers studying spatial hearing note that people can accurately locate many sounds, but distance estimation and source identification become less reliable when acoustic cues are weak or degraded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
 
 A witness who hears a broad electrical hum may therefore know that a sound exists without knowing where it originates.
 
 This becomes particularly relevant in rural roads, fields, forests and open landscapes where many UFO encounters are reported. Electrical infrastructure, distant machinery, road traffic, wind interactions and environmental resonance can all create sounds that appear detached from obvious sources.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nUbl5HLIGkA" title="UFO hearing: Witness claims we were &quot;seconds away from WWIII&quot; in shocking testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nUbl5HLIGkA" target="_blank" rel="noopener noreferrer">UFO hearing: Witness claims we were &quot;seconds away from WWIII&quot; in shocking testimony</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 2.4M &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nUbl5HLIGkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nUbl5HLIGkA">Open on YouTube</a></p></div></div></div>
 
@@ -319,14 +317,12 @@ For UFO investigators, this creates a practical question: was the buzzing genuin
 
 The distinction is often impossible to establish from retrospective testimony alone.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-2-dark.svg" | relative_url }}" alt="Before Sight illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cases That Keep the Pattern Alive
 
 Although the evidence is uneven, several recurring types of reports keep the “buzz before sight” pattern prominent within UFO [folklore]({{ 'folklore/' | relative_url }}).
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,10 +333,9 @@ Common examples include:
 
 </div>
 
-Some archived UFO reports describe humming or vibrational sounds associated with overhead objects, including cases preserved by organisations such as NICAP. While these reports do not establish causation, they show that witnesses frequently linked unusual sounds and delayed visual recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
+Some archived UFO reports describe humming or vibrational sounds associated with overhead objects, including cases preserved by organisations such as NICAP. While these reports do not establish causation, they show that witnesses frequently linked unusual sounds and delayed visual recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
 
 What is notable is not the consistency of the objects described—those vary enormously—but the consistency of the narrative structure. The experience often begins with attention being captured by sound.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4PYI6TzqYk" title="Close Encounters of the Third Kind (6/8) Movie CLIP - Communicating with the Mothership (1977) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (6/8) Movie CLIP - Communicating with the Mothership (1977) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 2.1M &middot; Uploaded: October 2012 &middot; Length: 2 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4PYI6TzqYk">Open on YouTube</a></p></div></div></div>
 
@@ -350,10 +345,9 @@ Another complication is that some witnesses describe the buzzing as difficult to
 
 Instead of hearing a clear sound source, they report feeling vibration, pressure or resonance. Some accounts compare the sensation to standing near electrical equipment; others describe it as if the sound were inside the head rather than travelling through the environment.
 
-Researchers studying auditory perception and sound-induced bodily responses have shown that certain sounds can produce strong physical sensations, including chills, vibration-like impressions and feelings that a source is moving around the listener. These effects do not require anything paranormal. They demonstrate that sound can feel unusually immersive under particular conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Proximal binaural sound can induce subjective frisson</span><span class="citation-popover-snippet">arXivProximal binaural sound can induce subjective frissonApril 15, 2019...</span><span class="citation-popover-meta">Published: April 15, 2019</span></span></span>
+Researchers studying auditory perception and sound-induced bodily responses have shown that certain sounds can produce strong physical sensations, including chills, vibration-like impressions and feelings that a source is moving around the listener. These effects do not require anything paranormal. They demonstrate that sound can feel unusually immersive under particular conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Proximal binaural sound can induce subjective frisson</span><span class="citation-popover-snippet">Proximal binaural sound can induce subjective frissonApril 15, 2019...</span><span class="citation-popover-meta">Published: April 15, 2019</span></span></span>
 
 This possibility matters because a witness who experiences a diffuse bodily sensation may spend several seconds searching for an external cause. If an unusual light is then noticed, the two experiences can become linked even if they originated independently.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uN8JUg67B6s" title="Cognition 2 4 Auditory Perception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uN8JUg67B6s" target="_blank" rel="noopener noreferrer">Cognition 2 4 Auditory Perception</a></p><p class="youtube-embed-meta">Channel: Paul Merritt &middot; Views: 2.1K &middot; Uploaded: March 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uN8JUg67B6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uN8JUg67B6s">Open on YouTube</a></p></div></div></div>
 
@@ -362,7 +356,6 @@ This possibility matters because a witness who experiences a diffuse bodily sens
 The strongest reports are usually the ones that record details immediately rather than relying on distant memory.
 
 Investigators looking at pre-sighting buzzing accounts often benefit from a few simple questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,7 +374,6 @@ These details help separate several very different possibilities: a genuine soun
 
 Even small timing differences can change how a case is interpreted.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-3-dark.svg" | relative_url }}" alt="Before Sight illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Sequence Matters More Than the Sound
 
@@ -391,7 +383,7 @@ A humming sound heard after an object is observed may be influenced by expectati
 
 That does not make the reports stronger evidence for extraordinary objects. In many cases, the opposite is true. The absence of an immediately visible source creates more opportunities for confusion, environmental misidentification and memory reshaping. Yet it also explains why these accounts remain memorable. A strange light can be dismissed as distant aircraft or astronomy. A strange sound with no obvious source feels more personal and more difficult to ignore.
 
-For that reason, “the buzz came first” remains one of the most persistent narrative patterns within UFO sound reports: a moment when attention is captured by something heard but not yet seen, leaving witnesses to fill the gap between sensation and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</span></span></span>
+For that reason, “the buzz came first” remains one of the most persistent narrative patterns within UFO sound reports: a moment when attention is captured by something heard but not yet seen, leaving witnesses to fill the gap between sensation and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -790,127 +782,127 @@ For that reason, “the buzz came first” remains one of the most persistent na
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAuditory localization: a comprehensive practical review  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nmoer.pressbooks.pub  
-   Link: [https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/](https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/)  
+   Link: <a href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow">https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/</a>  
 
 3. <a id="endnote-3"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: [https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/](https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/)  
+   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INF HEARD IT AND COULDN&#x27;T SEE IT AT FIRST. THE INF SAYS IT DID NOT SOUND LIKE A POLICE OR ARMY HELICOPTER. 2017. THURROCK. 2 UFO&#x27;S MO...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sound localization  
-   Link: [https://en.wikipedia.org/wiki/Sound_localization](https://en.wikipedia.org/wiki/Sound_localization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/570623carmichael_dir.htm](https://www.nicap.org/570623carmichael_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
+   Link: <a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
    Published: June 23, 1957  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: UFO Chronology Produced for released  
-   Link: [https://www.nicap.org/chronos/1971fullrep.htm](https://www.nicap.org/chronos/1971fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1971fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1971fullrep.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyProduced for released: April 18, 2013. This is an 8-page chronology of UFO incidents and events for 1971. Our thanks for th...</p></details>
    Published: April 18, 2013  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Proximal binaural sound can induce subjective frisson  
-   Link: [https://arxiv.org/abs/1904.06851](https://arxiv.org/abs/1904.06851)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivProximal binaural sound can induce subjective frissonApril 15, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.06851</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proximal binaural sound can induce subjective frissonApril 15, 2019...</p></details>
    Published: April 15, 2019  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufology/ufochap4.htm](https://www.nicap.org/ufology/ufochap4.htm)  
+   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pilots. The mechanism for...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm](https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm)  
+   Link: <a href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ation that could be barely felt...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... [close encounters](&amp;#123;&amp;#123; &#x27;musical-ufos/&#x27; | relative_url &amp;#125;&amp;#125;) of the second or third kind or alien abduction. UFOs are... &quot;Gordon Cooper: No Mer...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... close encounters of the second or third kind or alien abduction. UFOs are... &quot;Gordon Cooper: No Mer...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: courses.lumenlearning.com  
-   Link: [https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/](https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Introduction to PsychologySOUND LOCALIZATION. The ability to locate sound in our environments is an important part of hearing. Localizi...</p></details>
+   Link: <a href="https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to PsychologySOUND LOCALIZATION. The ability to locate sound in our environments is an important part of hearing. Localizi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cns.nyu.edu  
-   Link: [https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html](https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html)  
+   Link: <a href="https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways and Sound LocalizationThe primary auditory pathway begins with the auditory receptors in the cochlea. These synapse on spiking n...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings](https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings)  
+   Link: <a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/](https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Sound That Accompanies UFOsWhy do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of De...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: research report april 8 1955 cherry valley rockford il ufo incidentoverviewon ap  
-   Link: [https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/](https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/)  
+   Link: <a href="https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 1955 – Cherry Valley / Rockford, IL UFO Incident...pdf nicap.org #RockfordScanner #Rockford #Illinois #paranormal #ufos #UAP #k...</p></details>
    Published: April 8, 1955  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ML0eB3HFagM](https://www.youtube.com/watch?v=ML0eB3HFagM)  
+   Link: <a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sound Effects All SoundsThe 18 Most Scary Sounds Ever Captured In Space! Darkness Beyond &amp;middot; 2.5M views; Did The Soviet Union D...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nUbl5HLIGkA](https://www.youtube.com/watch?v=nUbl5HLIGkA)  
+   Link: <a href="https://www.youtube.com/watch?v=nUbl5HLIGkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nUbl5HLIGkA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Witness claims we were &quot;seconds away from...We were a couple of seconds away from World War II starting and the UFOs were r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uN8JUg67B6s](https://www.youtube.com/watch?v=uN8JUg67B6s)  
+   Link: <a href="https://www.youtube.com/watch?v=uN8JUg67B6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uN8JUg67B6s</a>  
 
 21. <a id="endnote-21"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894It is especially important that the NICAP committee be contacted immediately in cases of reported UFO sightings where photog...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm](https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — While most of the eyewitnesses described a slow-moving V-shaped UFO, other reports said the object appeared to be...</p></details>

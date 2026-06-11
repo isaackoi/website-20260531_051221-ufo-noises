@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Infrasound
 title: Could Infrasound Explain UFO Vibrations?
-title_full: Could Infrasound Explain UFO Vibrations? | UFO Noises
+title_full: Could Infrasound Explain UFO Vibrations?
 display_title_short: Infrasound
 display_title: Infrasound
 heading_title: Could Infrasound Explain UFO Vibrations?
@@ -354,7 +354,6 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-overview-soc
 
 Many UFO sound reports are not really about sound in the ordinary sense. Witnesses often describe a pressure in the chest, a vibration through the body, a feeling of unease, or a low [humming]({{ 'humming/' | relative_url }}) sensation that seems to come from nowhere. In some cases people say they felt an object before they clearly saw or heard it. One possible explanation involves infrasound: extremely low-frequency sound waves that sit at or below the lower limit of human hearing.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-overview.webp" | relative_url }}" alt="Overview image for Infrasound" loading="eager" decoding="sync" fetchpriority="high">
 Infrasound does not automatically explain UFO encounters, and there is no evidence that all unusual aerial reports involve low-frequency acoustics. However, researchers have long known that infrasound can produce physical sensations that people sometimes struggle to identify. Because UFO witnesses frequently report vibration, pressure and bodily effects alongside strange lights or objects, infrasound has become one of the more plausible mechanisms discussed in attempts to explain at least some of these experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
@@ -363,7 +362,6 @@ Infrasound does not automatically explain UFO encounters, and there is no eviden
 The idea is straightforward. Humans hear best within a certain frequency range, but sound waves can exist below that range. Frequencies under roughly 20 hertz are generally classified as infrasound. At sufficient intensity, people may not consciously hear these frequencies as a tone, yet they can still experience physical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
 
 This matters because many UFO reports contain descriptions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -380,7 +378,6 @@ These descriptions do not prove the presence of infrasound, but they resemble ef
 
 One reason the idea remains attractive in UFO discussions is that infrasound can be difficult to localise. People may sense something is affecting them without being able to identify where it originates.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-1-dark.svg" | relative_url }}" alt="Infrasound illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Infrasound Actually Is
 
@@ -396,7 +393,6 @@ The wavelengths involved are enormous. A 10-hertz wave can extend for tens of me
 Researchers and engineers use infrasonic monitoring for earthquakes, volcanic eruptions, atmospheric events and even meteor impacts. Large explosions and bolides entering Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) can generate detectable infrasonic signatures thousands of kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
 
 That means an unusual vibration or pressure sensation does not necessarily require a nearby source. Under the right atmospheric conditions, low-frequency energy can travel remarkable distances.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z9yHKhwc2xc" title="Can Low Frequency Sound Waves Make You Sick?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z9yHKhwc2xc" target="_blank" rel="noopener noreferrer">Can Low Frequency Sound Waves Make You Sick?</a></p><p class="youtube-embed-meta">Channel: Seeker &middot; Views: 353.4K &middot; Uploaded: February 2016 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z9yHKhwc2xc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z9yHKhwc2xc">Open on YouTube</a></p></div></div></div>
 
@@ -430,7 +426,6 @@ Modern infrastructure generates low-frequency sound as well. Potential sources i
 
 The well-known [Taos Hum]({{ 'taos-hum/' | relative_url }}) illustrates how confusing such phenomena can become. Residents have described a persistent low-frequency droning sound resembling distant machinery. Investigations have struggled to identify a single definitive cause, and not everyone reports hearing it. Many descriptions focus as much on vibration and physical discomfort as on a clearly audible sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic</span><span class="citation-popover-snippet">December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</span></span></span> This overlap is important because some UFO witnesses describe sensations that sound remarkably similar to reports from people experiencing unexplained environmental hums.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-2-dark.svg" | relative_url }}" alt="Infrasound illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bodies May Feel It Even When Ears Do Not
 
@@ -438,12 +433,11 @@ The most intriguing aspect of infrasound is that perception does not depend enti
 
 Research suggests that low-frequency exposure can influence physiological and psychological responses even when people are not clearly aware of a sound source. Studies have linked exposure to reports of pressure sensations, headaches, fatigue, annoyance, concentration problems and altered emotional responses, although the strength and consistency of these effects remain debated. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
 
-Some experimental work has found measurable changes in brain activity during exposure to infrasound or very low-frequency sound. Other studies have reported changes in mood, stress responses and perception. Researchers continue to debate how strong these effects are under everyday environmental conditions, but the possibility that the body responds to low-frequency energy without a conventional hearing experience is taken seriously in acoustics research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</span></span></span>
+Some experimental work has found measurable changes in brain activity during exposure to infrasound or very low-frequency sound. Other studies have reported changes in mood, stress responses and perception. Researchers continue to debate how strong these effects are under everyday environmental conditions, but the possibility that the body responds to low-frequency energy without a conventional hearing experience is taken seriously in acoustics research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</span></span></span>
 
 This helps explain a recurring UFO witness statement: “I felt it before I heard anything.”
 
 A person experiencing low-frequency vibration may interpret the sensation as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -457,7 +451,6 @@ A person experiencing low-frequency vibration may interpret the sensation as:
 
 The interpretation depends heavily on context.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UTvr8L5v8u8" title="Infrasound: What You Can&#x27;t Hear CAN Hurt You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UTvr8L5v8u8" target="_blank" rel="noopener noreferrer">Infrasound: What You Can&#x27;t Hear CAN Hurt You</a></p><p class="youtube-embed-meta">Channel: Benn Jordan &middot; Views: 842.5K &middot; Uploaded: October 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UTvr8L5v8u8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UTvr8L5v8u8">Open on YouTube</a></p></div></div></div>
 
 ## Why Infrasound Is Often Linked to Paranormal and UFO Reports
@@ -467,7 +460,6 @@ Infrasound appears in discussions of hauntings, mysterious hums and UFO encounte
 Researchers investigating reports of haunted locations have repeatedly examined whether low-frequency sound contributes to sensations of dread, anxiety or physical discomfort. Recent experiments have suggested that infrasonic exposure can alter mood and stress responses even when participants are not consciously aware of the stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-snippet">Neuroscience NewsSound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — A new study reveals that infrasound, sound waves bel...</span></span></span>
 
 The same mechanism could influence interpretation during an unusual aerial sighting. Imagine someone notices a strange light while simultaneously experiencing:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -483,14 +475,12 @@ The combined experience may seem far more extraordinary than the visual stimulus
 
 This does not mean the sighting itself is imaginary. Rather, the sensory environment may shape how the event is experienced and remembered.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-3-dark.svg" | relative_url }}" alt="Infrasound illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Theory Falls Short
 
 Infrasound is not a universal explanation for UFO reports.
 
 Several limitations are important:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -502,8 +492,7 @@ Several limitations are important:
 
 </div>
 
-Researchers also disagree about the magnitude of infrasonic effects under normal environmental conditions. While some studies report significant impacts on mood and perception, others argue that sensational claims about infrasound have often exceeded the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Infrasound</span><span class="citation-popover-snippet">Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</span></span></span>, infrasound is best viewed as a possible contributing factor rather than a complete explanation.
-
+Researchers also disagree about the magnitude of infrasonic effects under normal environmental conditions. While some studies report significant impacts on mood and perception, others argue that sensational claims about infrasound have often exceeded the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Infrasound</span><span class="citation-popover-snippet">Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</span></span></span>, infrasound is best viewed as a possible contributing factor rather than a complete explanation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7mU7YohbK0" title="Infrasound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer">Infrasound</a></p><p class="youtube-embed-meta">Channel: ScienceWorld &middot; Views: 22.4K &middot; Uploaded: February 2022 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7mU7YohbK0">Open on YouTube</a></p></div></div></div>
 
@@ -911,142 +900,142 @@ For investigators, that makes infrasound one of the more plausible physical mech
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3417/10/15/5205](https://www.mdpi.com/2076-3417/10/15/5205)  
+   Link: <a href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/10/15/5205</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Taos Hum: New Mexico's Unexplained Acoustic  
-   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</p></details>
    Published: December 14, 2023  
 
 5. <a id="endnote-5"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: [https://www.thrillist.com/travel/nation/taos-hum-mystery](https://www.thrillist.com/travel/nation/taos-hum-mystery)  
+   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541](https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255](https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Low Freq... Brief bursts of infrasound may improve cognitive function - An fMRI study.Read mor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0022460X78903541](https://www.sciencedirect.com/science/article/pii/0022460X78903541)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022460X78903541</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low frequency noise i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Can Low Frequency Sound Waves Make You Sick?  
-   Link: [https://www.youtube.com/watch?v=z9yHKhwc2xc](https://www.youtube.com/watch?v=z9yHKhwc2xc)  
+   Link: <a href="https://www.youtube.com/watch?v=z9yHKhwc2xc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9yHKhwc2xc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=D7mU7YohbK0](https://www.youtube.com/watch?v=D7mU7YohbK0)  
+   Link: <a href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7mU7YohbK0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Silent Haunting: Infrasound and the Mechanics of Fear...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: neurosciencenews.com  
-   Link: [https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/](https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/)  
+   Link: <a href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience NewsSound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — A new study reveals that infrasound, sound waves bel...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests](https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Infrasound  
-   Link: [https://psi-encyclopedia.spr.ac.uk/articles/infrasound/](https://psi-encyclopedia.spr.ac.uk/articles/infrasound/)  
+   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/infrasound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2003/oct/16/science.farout](https://www.theguardian.com/science/2003/oct/16/science.farout)  
+   Link: <a href="https://www.theguardian.com/science/2003/oct/16/science.farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/oct/16/science.farout</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fear frequency | Science15 Oct 2003 — 19hz is in the range known as infrasound, below the range of human hearing, which begins at 20hz...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A [low frequency hum](&amp;#123;&amp;#123; &#x27;low-hums-06eda3/&#x27; | relative_url &amp;#125;&amp;#125;), almost a vibration, just on the threshold of human hearing. It&#x27;s n...</p></details>
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A low frequency hum, almost a vibration, just on the threshold of human hearing. It&#x27;s n...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf](https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OCHMO-TB-035 AcousticsThe reference sound pressure is typically the threshold of human hearing: 2 x 10-5... create possible adverse effe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans](https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans)  
+   Link: <a href="https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Determining the effects of low-frequency noise on humansNew concepts for a Large Civil Tilt Rotor vehicle under development by NASA are e...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/](https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/)  
+   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound causes anxiety and hallucinationsInfrasound frequencies around 18-19 Hz—below normal human hearing range (20-20,000 Hz)—can ca...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf](https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf)  
+   Link: <a href="https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewThe primary effect due to low frequency and infrasonic noise appears to be annoyance...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms](https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined](https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined)  
+   Link: <a href="https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring therapeutic effects of low-frequency sound on...19 Nov 2025 — Non-exhaustively, it can promote confidence, independence, conce...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum and Taos Hum are the common terms...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/](https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/</a>  
 
 26. <a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Ascone · 2021 · Cited by 35 — In a first ground-breaking study by Dommes and colleagues, exposure to low frequency and IS was ass...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Ascone · 2021 · Cited by 35 — In a first ground-breaking study by Dommes and colleagues, exposure to low frequency and IS was ass...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UTvr8L5v8u8](https://www.youtube.com/watch?v=UTvr8L5v8u8)  
+   Link: <a href="https://www.youtube.com/watch?v=UTvr8L5v8u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UTvr8L5v8u8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound: What You Can&#x27;t Hear CAN Hurt YouResearch has strongly suggested that infrasound can cause headaches, fatigue, loss of concent...</p></details>

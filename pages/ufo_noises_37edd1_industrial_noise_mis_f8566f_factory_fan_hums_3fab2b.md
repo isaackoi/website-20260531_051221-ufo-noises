@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /industry/
 nav_short_title: Factory Fans
 title: When Factory Fans Sound Like Something Overhead
-title_full: When Factory Fans Sound Like Something Overhead | Industry
+title_full: When Factory Fans Sound Like Something Overhead
 display_title_short: Factory Fans
 display_title: Factory Fans
 heading_title: When Factory Fans Sound Like Something Overhead
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:58:23'
-parent_title: Could That UFO Noise Be Machinery? | UFO Noises
+parent_title: Could That UFO Noise Be Machinery?
 parent_permalink: /industry/
 parent_nav_short_title: Industry
 parent_heading_title: Could That UFO Noise Be Machinery?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_
 
 Many reports of “[UFO noises]({{ 'ufo-noises/' | relative_url }})” begin with a sound rather than a sight: a deep, steady drone that seems to hang over a neighbourhood at night. One of the most common real-world causes is far less exotic than witnesses first assume. Large factory ventilation systems, extraction units and roof-mounted cooling fans can generate persistent low-frequency hums that travel well beyond industrial sites while remaining difficult to locate. Because the equipment is often hidden behind warehouses, mounted high above ground level or operating after dark, listeners may hear a powerful overhead-like sound without seeing any obvious source. Investigations into several long-running “hum” complaints have repeatedly pointed towards industrial fan systems as a likely explanation, particularly when the sound resembles a distant engine, hovering vibration or continuous mechanical drone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-1-dark.svg" | relative_url }}" alt="Factory Fans illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Big Fans Create Low-Frequency Hums
 
@@ -284,7 +283,7 @@ Industrial fans are designed to move enormous volumes of air through factories, 
 
 The most noticeable component is often a low-frequency tonal sound produced by rotating blades, pressure fluctuations and turbulent air movement. Unlike sharper noises that quickly fade into background sound, low-frequency tones can travel long distances and penetrate buildings more effectively. Acoustic engineers dealing with industrial fan complaints frequently describe the problem as a persistent hum or drone rather than a conventional loud noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axair-fans.co.uk/news/sound-noise-within-fan-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axair-fans.co.uk">[axair-fans.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axair-fans.co.uk</span><span class="citation-popover-title">Understanding Sound &amp; Noise Within Industrial Fan System</span><span class="citation-popover-snippet">August 16, 2022 — Generally the main contributor to the noise of an air movement system is the fan itself, Axair discuss the many reasons...</span><span class="citation-popover-meta">Published: August 16, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advanced-noise-solutions.co.uk">[Advanced Noise Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advanced-noise-solutions.co.uk</span><span class="citation-popover-snippet">Advanced Noise SolutionsAttenuate Fan Noise at Low FrequencyThe best method to attenuate fan noise at low frequency uses specialist solut...</span></span></span>
 
-Large axial fans are particularly associated with this effect. In one [industrial noise]({{ 'industry/' | relative_url }})-control case at a steelworks, eight massive extraction fans generated a distinct 112 Hz hum that remained noticeable over a wide area despite existing silencers. Investigators ultimately traced the disturbance to tonal characteristics of the fan system itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://invc.com/resources/noise-control-case-studies/fans/massive-axial-fan-noise-reduction-at-seriously-little-cost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invc.com">[invc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invc.com</span><span class="citation-popover-snippet">Massive Axial Fan Noise Reduction – at seriously little costReducing large axial fan noise (a hum from the steelworks) at source without...</span></span></span>
+Large axial fans are particularly associated with this effect. In one industrial noise-control case at a steelworks, eight massive extraction fans generated a distinct 112 Hz hum that remained noticeable over a wide area despite existing silencers. Investigators ultimately traced the disturbance to tonal characteristics of the fan system itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://invc.com/resources/noise-control-case-studies/fans/massive-axial-fan-noise-reduction-at-seriously-little-cost/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invc.com">[invc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invc.com</span><span class="citation-popover-snippet">Massive Axial Fan Noise Reduction – at seriously little costReducing large axial fan noise (a hum from the steelworks) at source without...</span></span></span>
 
 What makes these sounds especially confusing is that the listener often hears only part of the original noise. Higher frequencies fade with distance, while deeper tones remain. The result is a simplified sound signature: a distant, featureless drone that lacks the obvious mechanical clues normally associated with machinery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historicipswich.net/2024/12/02/the-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicipswich.net">[Historic Ipswich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicipswich.net</span><span class="citation-popover-title">Historic Ipswich The “Hum”</span><span class="citation-popover-snippet">Historic IpswichThe “Hum”December 2, 2024 — 2 Dec 2024 — Low-frequency noise has low attenuation, so it can reach distant locations. The...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
 
@@ -295,7 +294,6 @@ Hum complaints often involve a strange perception that the sound is floating rat
 This happens because humans are relatively poor at locating low-frequency sounds. Directional hearing depends heavily on differences between what each ear receives. Deep tones provide fewer directional cues, making it harder to identify where the sound originates. A large fan mounted on a warehouse roof may therefore seem much farther away, much larger, or even airborne. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 When multiple industrial fans operate together, their frequencies can also interact. Small changes in fan speed, airflow or atmospheric conditions may cause the hum to pulse or fluctuate. Residents sometimes describe this as a hovering object moving in and out of range when the actual source remains stationary. A bakery investigated for night-time noise complaints, for example, produced a fan hum that reportedly rose and fell in intensity over short intervals, making it especially difficult for nearby residents to ignore or trace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advanced-noise-solutions.co.uk">[Advanced Noise Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advanced-noise-solutions.co.uk</span><span class="citation-popover-snippet">Advanced Noise SolutionsAttenuate Fan Noise at Low FrequencyThe best method to attenuate fan noise at low frequency uses specialist solut...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gEdR5M5fFUA" title="The Bristol Hum, captured during coronavirus lockdown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gEdR5M5fFUA" target="_blank" rel="noopener noreferrer">The Bristol Hum, captured during coronavirus lockdown</a></p><p class="youtube-embed-meta">Channel: Karl Sadler &middot; Views: 22.6K &middot; Uploaded: April 2020 &middot; Length: 1 minute 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gEdR5M5fFUA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gEdR5M5fFUA">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +313,7 @@ This combination creates a familiar pattern in mystery-noise reports:
 * The noise seems to fill the environment rather than come from one point.
 * Different people disagree about where it is coming from.
 
-Those characteristics often match descriptions later associated with hidden industrial machinery rather than aircraft or unknown objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
-
+Those characteristics often match descriptions later associated with hidden industrial machinery rather than [aircraft]({{ 'aircraft/' | relative_url }}) or unknown objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-2-dark.svg" | relative_url }}" alt="Factory Fans illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Bristol Hum and the Fan Theory
@@ -329,7 +326,6 @@ The Bristol case illustrates an important point: even when a likely industrial s
 
 For UFO-noise discussions, Bristol became a template for how an ordinary mechanical source can acquire an extraordinary reputation once the sound becomes detached from its visible origin.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QpeKot2X_O8" title="Can You Hear A Hum? | Earth Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QpeKot2X_O8" target="_blank" rel="noopener noreferrer">Can You Hear A Hum? | Earth Science</a></p><p class="youtube-embed-meta">Channel: BBC Earth Science &middot; Views: 261.9K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QpeKot2X_O8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QpeKot2X_O8">Open on YouTube</a></p></div></div></div>
 
 ## What Investigations Usually Find
@@ -341,7 +337,6 @@ A sound may technically comply with general noise limits while still standing ou
 A recent investigation in Omagh, Northern Ireland, followed this pattern. Consultants analysing recordings identified a significant acoustic tone and concluded that it was likely associated with fan or ventilation equipment. Investigators then narrowed their search to industrial premises operating such systems around the clock. The hum reportedly disappeared after discussions with businesses, although officials stopped short of publicly identifying a single source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
 Cases like this demonstrate why mysterious hums can feel unsolved even when investigators have a strong technical explanation. Low-frequency industrial noise is difficult to measure consistently, can vary with weather conditions and may involve several overlapping sources rather than one obvious machine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-3-dark.svg" | relative_url }}" alt="Factory Fans illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_factory_fan_hums_3fab2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to Check Near Warehouses and Industrial Estates
@@ -360,9 +355,7 @@ When a persistent night-time drone seems mysterious, several clues can indicate 
 
 The key lesson is that factory fans do not merely create noise. Under the right conditions, they create a specific type of low-frequency drone that is hard to locate, easy to misinterpret and capable of sounding detached from the machinery producing it. That combination makes large ventilation systems one of the most convincing ordinary explanations for mystery hums that are later described as sounding like something overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advanced-noise-solutions.co.uk">[Advanced Noise Solutions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advanced-noise-solutions.co.uk</span><span class="citation-popover-snippet">Advanced Noise SolutionsAttenuate Fan Noise at Low FrequencyThe best method to attenuate fan noise at low frequency uses specialist solut...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBBRDZ5TZuk" title="🔴 PVC Fan Sounds For Sleeping 8 Hours Fan White Noise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBBRDZ5TZuk" target="_blank" rel="noopener noreferrer">🔴 PVC Fan Sounds For Sleeping 8 Hours Fan White Noise</a></p><p class="youtube-embed-meta">Channel: Randall&#x27;s Relaxation &middot; Views: 939.4K &middot; Uploaded: August 2019 &middot; Length: 8 hours 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBBRDZ5TZuk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBBRDZ5TZuk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -761,104 +754,104 @@ The key lesson is that factory fans do not merely create noise. Under the right 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 2. <a id="endnote-2"></a>
    Source: axair-fans.co.uk  
    Title: Understanding Sound & Noise Within Industrial Fan System  
-   Link: [https://www.axair-fans.co.uk/news/sound-noise-within-fan-systems](https://www.axair-fans.co.uk/news/sound-noise-within-fan-systems)  
+   Link: <a href="https://www.axair-fans.co.uk/news/sound-noise-within-fan-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.axair-fans.co.uk/news/sound-noise-within-fan-systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 16, 2022 — Generally the main contributor to the noise of an air movement system is the fan itself, Axair discuss the many reasons...</p></details>
    Published: August 16, 2022  
 
 3. <a id="endnote-3"></a>
    Source: invc.com  
-   Link: [https://invc.com/resources/noise-control-case-studies/fans/massive-axial-fan-noise-reduction-at-seriously-little-cost/](https://invc.com/resources/noise-control-case-studies/fans/massive-axial-fan-noise-reduction-at-seriously-little-cost/)  
+   Link: <a href="https://invc.com/resources/noise-control-case-studies/fans/massive-axial-fan-noise-reduction-at-seriously-little-cost/" target="_blank" rel="noopener noreferrer nofollow">https://invc.com/resources/noise-control-case-studies/fans/massive-axial-fan-noise-reduction-at-seriously-little-cost/</a>  
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7cb30bed915d6822361ff2/sp4-079-tr-1-e-e.pdf](https://assets.publishing.service.gov.uk/media/5a7cb30bed915d6822361ff2/sp4-079-tr-1-e-e.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7cb30bed915d6822361ff2/sp4-079-tr-1-e-e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7cb30bed915d6822361ff2/sp4-079-tr-1-e-e.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This project has considered the Best Available Techniques for the assessment and control of both noise and vibration from industrial and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</p></details>
    Published: July 7, 2021  
 
 6. <a id="endnote-6"></a>
    Source: thetimes.co.uk  
    Title: The Times [Omagh hum](&#123;&#123; 'omagh-hum/' | relative_url &#125;&#125;) mystery solved  
-   Link: [https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp](https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp)  
+   Link: <a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: advanced-noise-solutions.co.uk  
-   Link: [https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/](https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/)  
+   Link: <a href="https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.advanced-noise-solutions.co.uk/case-studies/attenuate-fan-noise/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Noise SolutionsAttenuate Fan Noise at Low FrequencyThe best method to attenuate fan noise at low frequency uses specialist solut...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: historicipswich.net  
    Title: Historic Ipswich The “Hum”  
-   Link: [https://historicipswich.net/2024/12/02/the-hum/](https://historicipswich.net/2024/12/02/the-hum/)  
+   Link: <a href="https://historicipswich.net/2024/12/02/the-hum/" target="_blank" rel="noopener noreferrer nofollow">https://historicipswich.net/2024/12/02/the-hum/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic IpswichThe “Hum”December 2, 2024 — 2 Dec 2024 — Low-frequency noise has low attenuation, so it can reach distant locations. The...</p></details>
    Published: December 2, 2024  
 
 9. <a id="endnote-9"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Works30 Nov 2023 — Hum sufferers describe a low-frequency buzz accompanied by a rumbling vibration. It&#x27;s worse at night, making it almost...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: isover-technical-insulation.com  
-   Link: [https://www.isover-technical-insulation.com/documents/brochures/accousticindustry-interactive-final.pdf](https://www.isover-technical-insulation.com/documents/brochures/accousticindustry-interactive-final.pdf)  
+   Link: <a href="https://www.isover-technical-insulation.com/documents/brochures/accousticindustry-interactive-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isover-technical-insulation.com/documents/brochures/accousticindustry-interactive-final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DESIGNING ACOUSTICS IN INDUSTRYThe number of pressure variations gives a sound its distinctive tone: a low frequency produces a low-pitch...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/](https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Worldwide Hum, The Mysterious Sound that up to 2%...Low frequency sounds have a similar throbbing characteristic that can be a...</p></details>
+   Link: <a href="https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Worldwide Hum, The Mysterious Sound that up to 2%...Low frequency sounds have a similar throbbing characteristic that can be a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359783474_Silencer_Design_for_the_Control_of_Low_Frequency_Noise_in_Ventilation_Ducts](https://www.researchgate.net/publication/359783474_Silencer_Design_for_the_Control_of_Low_Frequency_Noise_in_Ventilation_Ducts)  
+   Link: <a href="https://www.researchgate.net/publication/359783474_Silencer_Design_for_the_Control_of_Low_Frequency_Noise_in_Ventilation_Ducts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359783474_Silencer_Design_for_the_Control_of_Low_Frequency_Noise_in_Ventilation_Ducts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Silencer Design for the Control of Low Frequency Noise in...4 Apr 2022 — The control of noise propagating along ventilation system ducts...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gEdR5M5fFUA](https://www.youtube.com/watch?v=gEdR5M5fFUA)  
+   Link: <a href="https://www.youtube.com/watch?v=gEdR5M5fFUA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gEdR5M5fFUA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bristol Hum, captured during coronavirus lockdownThis [humming](&amp;#123;&amp;#123; &#x27;humming/&#x27; | relative_url &amp;#125;&amp;#125;) sound was captured during the coronavirus lock down in Bristol UK on 11...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: decibelinternational.co.uk  
    Title: designing effective acoustic enclosures for industrial machinery 8  
-   Link: [https://www.decibelinternational.co.uk/blog/designing-effective-acoustic-enclosures-for-industrial-machinery-8/](https://www.decibelinternational.co.uk/blog/designing-effective-acoustic-enclosures-for-industrial-machinery-8/)  
+   Link: <a href="https://www.decibelinternational.co.uk/blog/designing-effective-acoustic-enclosures-for-industrial-machinery-8/" target="_blank" rel="noopener noreferrer nofollow">https://www.decibelinternational.co.uk/blog/designing-effective-acoustic-enclosures-for-industrial-machinery-8/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Effective Acoustic Enclosures for Industrial Machinery10 Jun 2025 — They have a galvanised steel front with precision perforati...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html](https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bristol hum&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such as low-frequenc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wiltechacoustics.co.uk  
-   Link: [https://www.wiltechacoustics.co.uk/fan-acoustic-enclosures/](https://www.wiltechacoustics.co.uk/fan-acoustic-enclosures/)  
+   Link: <a href="https://www.wiltechacoustics.co.uk/fan-acoustic-enclosures/" target="_blank" rel="noopener noreferrer nofollow">https://www.wiltechacoustics.co.uk/fan-acoustic-enclosures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whatever sector, application or environment your customer&#x27;s fan will be installed in.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: blauberg.co.uk  
-   Link: [https://www.blauberg.co.uk/blauberg-iso-b-inline-low-noise-acoustic-centrifugal-box-fan](https://www.blauberg.co.uk/blauberg-iso-b-inline-low-noise-acoustic-centrifugal-box-fan)  
+   Link: <a href="https://www.blauberg.co.uk/blauberg-iso-b-inline-low-noise-acoustic-centrifugal-box-fan" target="_blank" rel="noopener noreferrer nofollow">https://www.blauberg.co.uk/blauberg-iso-b-inline-low-noise-acoustic-centrifugal-box-fan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Available in a range of fan impeller sizes, from 100mm to 315mm in...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: exxosforum.co.uk  
-   Link: [https://www.exxosforum.co.uk/articles/hum.html](https://www.exxosforum.co.uk/articles/hum.html)  
+   Link: <a href="https://www.exxosforum.co.uk/articles/hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exxosforum.co.uk/articles/hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesThe hum may be a result of individuals hearing internal sounds rather than an external n...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/](https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/)  
+   Link: <a href="https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed hearing this puzzling sound, but its origins remain a...</p></details>

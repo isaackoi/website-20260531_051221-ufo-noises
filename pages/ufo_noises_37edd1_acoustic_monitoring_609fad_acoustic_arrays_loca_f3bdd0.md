@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sensors/
 nav_short_title: Arrays
 title: Can Microphones Point to a UFO Sound?
-title_full: Can Microphones Point to a UFO Sound? | Sensors
+title_full: Can Microphones Point to a UFO Sound?
 display_title_short: Arrays
 display_title: Arrays
 heading_title: Can Microphones Point to a UFO Sound?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:01:53'
-parent_title: Can Sensors Catch UFO Noises? | UFO Noises
+parent_title: Can Sensors Catch UFO Noises?
 parent_permalink: /sensors/
 parent_nav_short_title: Sensors
 parent_heading_title: Can Sensors Catch UFO Noises?
@@ -268,18 +268,16 @@ image: /assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arra
 
 ## Introduction
 
-A single recording of a strange sky noise can be intriguing, but it says very little about where the sound came from. An acoustic array changes that problem. By placing multiple microphones at known positions and comparing the tiny differences in when a sound reaches each sensor, investigators can estimate the [direction]({{ 'direction/' | relative_url }}) of the source and sometimes its position in three-dimensional space. In the context of reported [UFO noises]({{ 'ufo-noises/' | relative_url }}), this matters because it turns a witness claim such as “the sound came from directly overhead” into something that can be tested against measurements. Modern arrays are already used for drone detection, military surveillance, search-and-rescue work and experimental aerial monitoring projects, making them one of the most practical tools for checking whether an unusual sound actually originated from the part of the sky where observers reported it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">The approach utilizes Time Difference of Arrival...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAcoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span>
-
+A single recording of a strange sky noise can be intriguing, but it says very little about where the sound came from. An acoustic array changes that problem. By placing multiple microphones at known positions and comparing the tiny differences in when a sound reaches each sensor, investigators can estimate the [direction]({{ 'direction/' | relative_url }}) of the source and sometimes its position in three-dimensional space. In the context of reported [UFO noises]({{ 'ufo-noises/' | relative_url }}), this matters because it turns a witness claim such as “the sound came from directly overhead” into something that can be tested against measurements. Modern arrays are already used for drone detection, military surveillance, search-and-rescue work and experimental aerial monitoring projects, making them one of the most practical tools for checking whether an unusual sound actually originated from the part of the sky where observers reported it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">The approach utilizes Time Difference of Arrival...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-1-dark.svg" | relative_url }}" alt="Arrays illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Arrival-Time Differences Reveal Direction
 
 The core idea is surprisingly simple. Sound travels at a finite speed, roughly 343 metres per second in air under typical conditions. If a distant aerial object produces a noise, the sound wave reaches one microphone slightly before another. The delay may be only fractions of a millisecond, but modern digital systems can measure those differences accurately.
 
-A microphone array uses those delays to estimate a direction of arrival, often shortened to DOA. Researchers calculate the time difference of arrival (TDOA) between microphones and compare the measured delays against the geometry of the array. The result is an estimated angle showing where the sound likely originated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAcoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">The approach utilizes Time Difference of Arrival...Read more...</span></span></span>
+A microphone array uses those delays to estimate a direction of arrival, often shortened to DOA. Researchers calculate the time difference of arrival (TDOA) between microphones and compare the measured delays against the geometry of the array. The result is an estimated angle showing where the sound likely originated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">The approach utilizes Time Difference of Arrival...Read more...</span></span></span>
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,12 +291,11 @@ This is the acoustic equivalent of how human hearing estimates where a noise ori
 
 ### Why Arrays Use More Than Two Microphones
 
-A pair of microphones can estimate only limited directional information. Real systems often use circular, tetrahedral or distributed layouts containing many [sensors]({{ 'sensors/' | relative_url }}). These arrangements reduce ambiguity and improve resistance to echoes and environmental noise. Dael <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAcoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span>
+A pair of microphones can estimate only limited directional information. Real systems often use circular, tetrahedral or distributed layouts containing many [sensors]({{ 'sensors/' | relative_url }}). These arrangements reduce ambiguity and improve resistance to echoes and environmental noise. Dael <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span>
 
-Researchers commonly combine TDOA methods with beamforming. Beamforming digitally “steers” the array toward different directions and looks for the angle where the sound energy aligns most strongly. When the timing compensation matches the incoming wavefront, the signal becomes clearer while unwanted directions are suppressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mathworks.com/help/phased/ug/acoustic-beamforming-using-a-microphone-array.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathworks.com">[MathWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathworks.com</span><span class="citation-popover-snippet">MathWorksAcoustic Beamforming Using a Microphone ArrayThe time delay beamformer compensates for the arrival time differences across the a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/7/7/405" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Placement Planning for Sound Source Tracking in Active...by T Yamada · 2023 · Cited by 12 — This paper addresses a placement planning me...</span></span></span>
+Researchers commonly combine TDOA methods with beamforming. Beamforming digitally “steers” the array toward different directions and looks for the angle where the sound energy aligns most strongly. When the timing compensation matches the incoming wavefront, the signal becomes clearer while unwanted directions are suppressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mathworks.com/help/phased/ug/acoustic-beamforming-using-a-microphone-array.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathworks.com">[MathWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathworks.com</span><span class="citation-popover-snippet">Acoustic Beamforming Using a Microphone ArrayThe time delay beamformer compensates for the arrival time differences across the a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/7/7/405" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Placement Planning for Sound Source Tracking in Active...by T Yamada · 2023 · Cited by 12 — This paper addresses a placement planning me...</span></span></span>
 
 In practical terms, beamforming helps answer a question that often appears in UFO sound reports: was the sound actually overhead, or was it coming from a distant [aircraft]({{ 'aircraft/' | relative_url }}) near the horizon?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JVGf28ckHyg" title="Transmitter Hunting using TDOA: Time Difference of Arrival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JVGf28ckHyg" target="_blank" rel="noopener noreferrer">Transmitter Hunting using TDOA: Time Difference of Arrival</a></p><p class="youtube-embed-meta">Channel: HACKADAY &middot; Views: 23.3K &middot; Uploaded: March 2014 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JVGf28ckHyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JVGf28ckHyg">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +303,7 @@ In practical terms, beamforming helps answer a question that often appears in UF
 
 Most published research on aerial acoustic localisation focuses on drones rather than unidentified objects. That is useful because drones provide a known target whose location can be independently verified.
 
-Many modern drone-detection systems use microphone arrays to identify the characteristic acoustic signatures of rotorcraft and estimate their direction. Studies have shown that arrays can determine drone bearing using TDOA, beamforming and high-resolution signal-processing techniques such as MUSIC (Multiple Signal Classification), which analyses spatial patterns in the sound field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/9/2/149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Genetic Algorithm-Based Acoustic Array Optimization for...by N Itare · 2025 · Cited by 7 — The methods are classified into three categor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIAcoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — Many studies have shown that localization...</span></span></span>
+Many modern drone-detection systems use microphone arrays to identify the characteristic acoustic signatures of rotorcraft and estimate their direction. Studies have shown that arrays can determine drone bearing using TDOA, beamforming and high-resolution signal-processing techniques such as MUSIC (Multiple Signal Classification), which analyses spatial patterns in the sound field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/9/2/149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Genetic Algorithm-Based Acoustic Array Optimization for...by N Itare · 2025 · Cited by 7 — The methods are classified into three categor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — Many studies have shown that localization...</span></span></span>
 
 Researchers have demonstrated systems that can:
 
@@ -323,8 +320,7 @@ For UFO-noise investigations, drones provide a reality check. If an acoustic sys
 
 Imagine witnesses reporting a loud [humming]({{ 'humming/' | relative_url }}) object moving from south to north.
 
-An acoustic array might reveal that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://dael.euracoustics.org/confs/fa2025/data/articles/000108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dael.euracoustics.org">[dael.euracoustics.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dael.euracoustics.org</span><span class="citation-popover-title">Dael Advancing Direction Estimation for Acoustic Drone</span><span class="citation-popover-snippet">DaelAdvancing Direction Estimation for Acoustic Drone...December 25, 2025 — by M Varela · 2025 — This means that the array can detect an...</span><span class="citation-popover-meta">Published: December 25, 2025</span></span></span>
-
+An acoustic array might reveal that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://dael.euracoustics.org/confs/fa2025/data/articles/000108.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dael.euracoustics.org">[dael.euracoustics.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dael.euracoustics.org</span><span class="citation-popover-title">Dael Advancing Direction Estimation for Acoustic Drone</span><span class="citation-popover-snippet">Advancing Direction Estimation for Acoustic Drone...December 25, 2025 — by M Varela · 2025 — This means that the array can detect an...</span><span class="citation-popover-meta">Published: December 25, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-2-dark.svg" | relative_url }}" alt="Arrays illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -347,16 +343,15 @@ Acoustic localisation is powerful, but it has limits. A sound's apparent directi
 
 Several factors complicate the analysis:
 
-**Wind and atmospheric layers.** Changes in temperature and wind speed can bend sound waves. The source may appear displaced from its actual location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+**Wind and atmospheric layers.** Changes in temperature and wind speed can bend sound waves. The source may appear displaced from its actual location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-**Echoes and reflections.** Buildings, hills and other structures can create delayed copies of a sound. Arrays must distinguish the direct path from reflected paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+**Echoes and reflections.** Buildings, hills and other structures can create delayed copies of a sound. Arrays must distinguish the direct path from reflected paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 **Distance uncertainty.** A single array often estimates direction more accurately than range. Knowing that a sound came from the western sky is easier than knowing whether it originated 300 metres away or 3 kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/6/1928" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Performance Enhancement of Drone Acoustic Source...by J Lim · 2025 · Cited by 11 — This paper presents a novel localization method that...</span></span></span>
 
 **Ambient noise.** Aircraft, traffic, wind and industrial machinery can mask weaker signals. Detecting a genuine aerial source requires separating it from background sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedsystemstechnology.com">[Unmanned Systems Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedsystemstechnology.com</span><span class="citation-popover-title">acoustic drone detection</span><span class="citation-popover-snippet">Unmanned Systems TechnologyAcoustic Drone Detection20 Nov 2025 — Acoustic drone detection technology uses arrays of microphones to pick u...</span></span></span>
 
 These challenges explain why investigators increasingly favour multiple synchronised arrays rather than isolated microphones.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kFp3fiAwZd8" title="How to Recognize Drones by Sound | MilTech Trends 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kFp3fiAwZd8" target="_blank" rel="noopener noreferrer">How to Recognize Drones by Sound | MilTech Trends 2025</a></p><p class="youtube-embed-meta">Channel: JetSoftPro: software development one-stop shop &middot; Views: 6.1K &middot; Uploaded: November 2024 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kFp3fiAwZd8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kFp3fiAwZd8">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +362,6 @@ The strongest use of acoustic arrays is not as a standalone system but as one pa
 Modern aerial-monitoring projects increasingly combine microphones with cameras, radar and environmental sensors. If several independent systems point toward the same location, confidence rises dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — The acoustic monitoring, omni-directi...</span></span></span>
 
 Consider a hypothetical report of a strange [buzzing]({{ 'buzzing/' | relative_url }}) object:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -380,23 +374,20 @@ Consider a hypothetical report of a strange [buzzing]({{ 'buzzing/' | relative_u
 
 The combined evidence is far more persuasive than any single observation.
 
-This multimodal approach is one reason projects studying unidentified aerial phenomena have invested in [acoustic monitoring]({{ 'sensors/' | relative_url }}). The Galileo Project's Acoustic Monitoring Omni-directional System (AMOS), for example, was designed to characterise aerial sounds across infrasonic, audible and ultrasonic frequencies and eventually integrate those measurements with other sensor streams. Researchers have explicitly discussed future use of multi-sensor arrays for localisation and identification of aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — The acoustic monitoring, omni-directi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">harvard.eduMulti-Band Acoustic Monitoring of Aerial SignaturesThe sensors and their capture devices allow AMOS to monitor and characteriz...</span></span></span>
-
+This multimodal approach is one reason projects studying unidentified aerial phenomena have invested in acoustic monitoring. The Galileo Project's Acoustic Monitoring Omni-directional System (AMOS), for example, was designed to characterise aerial sounds across infrasonic, audible and ultrasonic frequencies and eventually integrate those measurements with other sensor streams. Researchers have explicitly discussed future use of multi-sensor arrays for localisation and identification of aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — The acoustic monitoring, omni-directi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">harvard.eduMulti-Band Acoustic Monitoring of Aerial SignaturesThe sensors and their capture devices allow AMOS to monitor and characteriz...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-3-dark.svg" | relative_url }}" alt="Arrays illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_acoustic_arrays_loca_f3bdd0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Acoustic Arrays Can and Cannot Prove
 
 Acoustic arrays can answer a narrow but important question: did the sound actually come from the reported region of the sky?
 
-They can estimate direction, track motion and compare a signal against known acoustic patterns. They can also expose mistakes in witness perception by showing that a supposedly overhead noise originated from a conventional aircraft, a drone, distant industrial activity or another source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAcoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedsystemstechnology.com">[Unmanned Systems Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedsystemstechnology.com</span><span class="citation-popover-title">acoustic drone detection</span><span class="citation-popover-snippet">Unmanned Systems TechnologyAcoustic Drone Detection20 Nov 2025 — Acoustic drone detection technology uses arrays of microphones to pick u...</span></span></span>
+They can estimate direction, track motion and compare a signal against known acoustic patterns. They can also expose mistakes in witness perception by showing that a supposedly overhead noise originated from a conventional aircraft, a drone, distant industrial activity or another source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedsystemstechnology.com">[Unmanned Systems Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedsystemstechnology.com</span><span class="citation-popover-title">acoustic drone detection</span><span class="citation-popover-snippet">Unmanned Systems TechnologyAcoustic Drone Detection20 Nov 2025 — Acoustic drone detection technology uses arrays of microphones to pick u...</span></span></span>
 
-What they cannot do on their own is identify an object with certainty. A direction estimate is not a vehicle identification. Even an accurately localised sound may require camera imagery, radar tracks or additional sensor data before investigators can determine what produced it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+What they cannot do on their own is identify an object with certainty. A direction estimate is not a vehicle identification. Even an accurately localised sound may require camera imagery, radar tracks or additional sensor data before investigators can determine what produced it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 For reports centred on unusual aerial noises, however, microphone arrays provide something that eyewitness testimony cannot: a measurable way to test whether a mysterious sound was really coming from the sky, where it moved, and whether its behaviour matches known aerial sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acta-acustica.edpsciences.org">[Acta Acustica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acta-acustica.edpsciences.org</span><span class="citation-popover-snippet">The approach utilizes Time Difference of Arrival...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">harvard.eduMulti-Band Acoustic Monitoring of Aerial SignaturesThe sensors and their capture devices allow AMOS to monitor and characteriz...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yza-hpIubxQ" title="sound localization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yza-hpIubxQ" target="_blank" rel="noopener noreferrer">sound localization</a></p><p class="youtube-embed-meta">Channel: mantismundi &middot; Views: 90.3K &middot; Uploaded: January 2015 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yza-hpIubxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yza-hpIubxQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -794,196 +785,196 @@ For reports centred on unusual aerial noises, however, microphone arrays provide
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAcoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Estimation of the Direction of Arrival of an Unmanned...by N Itare · 2022 · Cited by 20 — Many studies have shown that local...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: [https://www.mdpi.com/2504-446X/7/7/405](https://www.mdpi.com/2504-446X/7/7/405)  
+   Link: <a href="https://www.mdpi.com/2504-446X/7/7/405" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/7/7/405</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Placement Planning for Sound Source Tracking in Active...by T Yamada · 2023 · Cited by 12 — This paper addresses a placement planning me...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Drone Detection System Using Tetrahedral...by MT Ghenescu · 2026 — The research presented in this paper validates the efficacy of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mathworks.com  
-   Link: [https://www.mathworks.com/help/phased/ug/acoustic-beamforming-using-a-microphone-array.html](https://www.mathworks.com/help/phased/ug/acoustic-beamforming-using-a-microphone-array.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MathWorksAcoustic Beamforming Using a Microphone ArrayThe time delay beamformer compensates for the arrival time differences across the a...</p></details>
+   Link: <a href="https://www.mathworks.com/help/phased/ug/acoustic-beamforming-using-a-microphone-array.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mathworks.com/help/phased/ug/acoustic-beamforming-using-a-microphone-array.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Beamforming Using a Microphone ArrayThe time delay beamformer compensates for the arrival time differences across the a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: [https://www.mdpi.com/2504-446X/9/2/149](https://www.mdpi.com/2504-446X/9/2/149)  
+   Link: <a href="https://www.mdpi.com/2504-446X/9/2/149" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/9/2/149</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic Algorithm-Based Acoustic Array Optimization for...by N Itare · 2025 · Cited by 7 — The methods are classified into three categor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCOutdoor Microphone Range Tests and Spectral Analysis of...by G Jekateryńczuk · 2025 · Cited by 1 — Within UAV acoustics, DSP-based me...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outdoor Microphone Range Tests and Spectral Analysis of...by G Jekateryńczuk · 2025 · Cited by 1 — Within UAV acoustics, DSP-based me...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/22/11/4021](https://www.mdpi.com/1424-8220/22/11/4021)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIAcoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — Many studies have shown that localization...</p></details>
+   Link: <a href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/11/4021</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — Many studies have shown that localization...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hammer.purdue.edu  
-   Link: [https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_AND_LOCALIZATION_SYSTEM_USING_AN_INTERCONNECTED_ARRAY_OF_ACOUSTIC_SENSORS_AND_MACHINE_LEARNING_ALGORITHMS/14502759](https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_AND_LOCALIZATION_SYSTEM_USING_AN_INTERCONNECTED_ARRAY_OF_ACOUSTIC_SENSORS_AND_MACHINE_LEARNING_ALGORITHMS/14502759)  
+   Link: <a href="https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_AND_LOCALIZATION_SYSTEM_USING_AN_INTERCONNECTED_ARRAY_OF_ACOUSTIC_SENSORS_AND_MACHINE_LEARNING_ALGORITHMS/14502759" target="_blank" rel="noopener noreferrer nofollow">https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_AND_LOCALIZATION_SYSTEM_USING_AN_INTERCONNECTED_ARRAY_OF_ACOUSTIC_SENSORS_AND_MACHINE_LEARNING_ALGORITHMS/14502759</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue University Graduate SchoolUAV DETECTION AND LOCALIZATION SYSTEM USING...by FRE Fagiani · 2021 · Cited by 7 — In this research, a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPerformance Enhancement of Drone Acoustic Source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Lim · 2025 · Cited by 8 — This paper presents a novel localization method that leverages two sets of distributed microphone array...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Lim · 2025 · Cited by 8 — This paper presents a novel localization method that leverages two sets of distributed microphone array...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/25/6/1928](https://www.mdpi.com/1424-8220/25/6/1928)  
+   Link: <a href="https://www.mdpi.com/1424-8220/25/6/1928" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/6/1928</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Enhancement of Drone Acoustic Source...by J Lim · 2025 · Cited by 11 — This paper presents a novel localization method that...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: [https://arxiv.org/abs/2305.18551](https://arxiv.org/abs/2305.18551)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2209.15325](https://arxiv.org/abs/2209.15325)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSymphony: Localizing Multiple Acoustic Sources with a Single Microphone ArraySeptember 30, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2209.15325" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.15325</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Symphony: Localizing Multiple Acoustic Sources with a Single Microphone ArraySeptember 30, 2022...</p></details>
    Published: September 30, 2022  
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/26/6/1778](https://www.mdpi.com/1424-8220/26/6/1778)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIAcoustic Source Drone Detection System Using...by MT Ghenescu · 2026 — Acoustic detection refers to the process of identifying sound...</p></details>
+   Link: <a href="https://www.mdpi.com/1424-8220/26/6/1778" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/26/6/1778</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Source Drone Detection System Using...by MT Ghenescu · 2026 — Acoustic detection refers to the process of identifying sound...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
    Published: May 2025  
 
 16. <a id="endnote-16"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: [https://www.mdpi.com/2504-446X/5/3/75](https://www.mdpi.com/2504-446X/5/3/75)  
+   Link: <a href="https://www.mdpi.com/2504-446X/5/3/75" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/5/3/75</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Acoustic Source Localization Method Using a Drone...by YJ Go · 2021 · Cited by 36 — We implement a system in which a drone detects ac...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
    Title: Indoor drone.Read more  
-   Link: [https://arxiv.org/pdf/2504.01297](https://arxiv.org/pdf/2504.01297)  
+   Link: <a href="https://arxiv.org/pdf/2504.01297" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2504.01297</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIM: Acoustic Inertial Measurement for Indoor Drone...by Y Sun · 2025 · Cited by 38 — We present Acoustic Inertial Measurement (AIM), a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.03466v1](https://arxiv.org/html/2507.03466v1)  
+   Link: <a href="https://arxiv.org/html/2507.03466v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.03466v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Direction Estimation of Sound Sources Using Microphone...4 Jul 2025 — Localization aims to provide precise spatial coordinates, which of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: acta-acustica.edpsciences.org  
-   Link: [https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html](https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html)  
+   Link: <a href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow">https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The approach utilizes Time Difference of Arrival...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: openaccess.thecvf.com  
-   Link: [https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/papers/Tegler_Detection_and_Localization_of_Drones_and_UAVs_Using_Sound_and_CVPRW_2025_paper.pdf](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/papers/Tegler_Detection_and_Localization_of_Drones_and_UAVs_Using_Sound_and_CVPRW_2025_paper.pdf)  
+   Link: <a href="https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/papers/Tegler_Detection_and_Localization_of_Drones_and_UAVs_Using_Sound_and_CVPRW_2025_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/papers/Tegler_Detection_and_Localization_of_Drones_and_UAVs_Using_Sound_and_CVPRW_2025_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CVF Open AccessDetection and Localization of Drones and UAVs Using Sound...by E Tegler · 2025 · Cited by 1 — We show that we can use dir...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchonline.jcu.edu.au  
-   Link: [https://researchonline.jcu.edu.au/88537/1/88537.pdf](https://researchonline.jcu.edu.au/88537/1/88537.pdf)  
+   Link: <a href="https://researchonline.jcu.edu.au/88537/1/88537.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/88537/1/88537.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JCU Research OnlineDrone-Based Sound Source Localization: A Systematic...by SF Chevtchenko · 2025 · Cited by 11 — One example is a 32-ch...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: [https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures](https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures)  
+   Link: <a href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.eduMulti-Band Acoustic Monitoring of Aerial SignaturesThe sensors and their capture devices allow AMOS to monitor and characteriz...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: unmannedsystemstechnology.com  
    Title: acoustic drone detection  
-   Link: [https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/](https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/)  
+   Link: <a href="https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedsystemstechnology.com/expo/acoustic-drone-detection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned Systems TechnologyAcoustic Drone Detection20 Nov 2025 — Acoustic drone detection technology uses arrays of microphones to pick u...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: worldscientific.com  
-   Link: [https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb](https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb)  
+   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOopwm_RpnvIv7mekctAvmTDrFh5HV6l-FlTCjCf4Bhr4zmQG6WZb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — The acoustic monitoring, omni-directi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: [https://galileo.hsites.harvard.edu/search](https://galileo.hsites.harvard.edu/search)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| The Galileo ProjectThe Galileo Project aims to shed light on the nature and characteristics of Unidentified Aerial Phenomena (UAP). We...</p></details>
+   Link: <a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectThe Galileo Project aims to shed light on the nature and characteristics of Unidentified Aerial Phenomena (UAP). We...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/](https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/)  
+   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project research team developed an original design of...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/acoustic](https://www.merriam-webster.com/dictionary/acoustic)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/acoustic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/acoustic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACOUSTIC Definition &amp; Meaning6 days ago — The meaning of ACOUSTIC is of or relating to the sense or organs of hearing, to sound, or to th...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332](https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332)  
+   Link: <a href="https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Multi-Band Acoustic Monitoring of Aerial SignaturesThe Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aids i...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: publications.sto.nato.int  
-   Link: [https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-190/MP-IST-190-34.pdf](https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-190/MP-IST-190-34.pdf)  
+   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-190/MP-IST-190-34.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-190/MP-IST-190-34.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Recognition and Localization from Flying...by A Toma · Cited by 6 — Specifically, in this work the spectral signature of the acous...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: uavcoach.com  
-   Link: [https://uavcoach.com/drone-laws-in-south-africa/](https://uavcoach.com/drone-laws-in-south-africa/)  
+   Link: <a href="https://uavcoach.com/drone-laws-in-south-africa/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-south-africa/</a>  
 
 31. <a id="endnote-31"></a>
    Source: avi-loeb.medium.com  
    Title: mystery sound of an unidentified anomalous phenomenon 09d1cb461cd2  
-   Link: [https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2](https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2)  
+   Link: <a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural and human-mad...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: joanneum.at  
    Title: akustische fruehwarnsysteme wie mikrofone den himmel ueberwachen  
-   Link: [https://www.joanneum.at/en/akustische-fruehwarnsysteme-wie-mikrofone-den-himmel-ueberwachen/](https://www.joanneum.at/en/akustische-fruehwarnsysteme-wie-mikrofone-den-himmel-ueberwachen/)  
+   Link: <a href="https://www.joanneum.at/en/akustische-fruehwarnsysteme-wie-mikrofone-den-himmel-ueberwachen/" target="_blank" rel="noopener noreferrer nofollow">https://www.joanneum.at/en/akustische-fruehwarnsysteme-wie-mikrofone-den-himmel-ueberwachen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic early warning systems: How microphones monitor...21 Oct 2025 — What the human ear can barely perceive, a microphone array can d...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: dael.euracoustics.org  
    Title: Dael Advancing Direction Estimation for Acoustic Drone  
-   Link: [https://dael.euracoustics.org/confs/fa2025/data/articles/000108.pdf](https://dael.euracoustics.org/confs/fa2025/data/articles/000108.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DaelAdvancing Direction Estimation for Acoustic Drone...December 25, 2025 — by M Varela · 2025 — This means that the array can detect an...</p></details>
+   Link: <a href="https://dael.euracoustics.org/confs/fa2025/data/articles/000108.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dael.euracoustics.org/confs/fa2025/data/articles/000108.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Direction Estimation for Acoustic Drone...December 25, 2025 — by M Varela · 2025 — This means that the array can detect an...</p></details>
    Published: December 25, 2025  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359216342_Sound_Localization_Based_on_Acoustic_Source_Using_Multiple_Microphone_Array_in_an_Indoor_Environment](https://www.researchgate.net/publication/359216342_Sound_Localization_Based_on_Acoustic_Source_Using_Multiple_Microphone_Array_in_an_Indoor_Environment)  
+   Link: <a href="https://www.researchgate.net/publication/359216342_Sound_Localization_Based_on_Acoustic_Source_Using_Multiple_Microphone_Array_in_an_Indoor_Environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359216342_Sound_Localization_Based_on_Acoustic_Source_Using_Multiple_Microphone_Array_in_an_Indoor_Environment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>time difference of arrival (TDOA) measurements is proposed in this paper.Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: api.deepai.org  
    Title: [multi band](&#123;&#123; 'multi-band/' | relative_url &#125;&#125;) acoustic monitoring of aerial signatures  
-   Link: [https://api.deepai.org/publication/multi-band-acoustic-monitoring-of-aerial-signatures](https://api.deepai.org/publication/multi-band-acoustic-monitoring-of-aerial-signatures)  
+   Link: <a href="https://api.deepai.org/publication/multi-band-acoustic-monitoring-of-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow">https://api.deepai.org/publication/multi-band-acoustic-monitoring-of-aerial-signatures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>deepai.orgMulti-Band Acoustic Monitoring of Aerial Signatures29 May 2023 — The Galileo Project&#x27;s acoustic monitoring, omni-directional sy...</p></details>
    Published: May 2023  
 
 36. <a id="endnote-36"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2667379725000555](https://www.sciencedirect.com/science/article/pii/S2667379725000555)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667379725000555" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667379725000555</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic-enhanced local bearing estimation using low-cost...by A Li · 2025 · Cited by 1 — This enables accurate Time Difference of Arriv...</p></details>

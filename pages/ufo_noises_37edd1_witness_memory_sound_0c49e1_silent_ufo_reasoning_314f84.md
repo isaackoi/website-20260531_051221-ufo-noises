@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /memory/
 nav_short_title: Silence Claims
 title: Was the UFO Silent, or Just Unexpected?
-title_full: Was the UFO Silent, or Just Unexpected? | Memory
+title_full: Was the UFO Silent, or Just Unexpected?
 display_title_short: Silence Claims
 display_title: Silence Claims
 heading_title: Was the UFO Silent, or Just Unexpected?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:09:30'
-parent_title: How Memory Changes UFO Sounds | UFO Noises
+parent_title: How Memory Changes UFO Sounds
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: How Memory Changes UFO Sounds
@@ -276,9 +276,8 @@ image: /assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_r
 
 Claims that a UFO was completely silent are among the most common and most debated features of witness testimony. Reports of black triangles, discs, hovering lights and low-flying objects frequently include the same detail: the witness expected engine noise but heard nothing. That absence of sound often becomes one of the strongest reasons the event feels extraordinary in hindsight.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-1-dark.svg" | relative_url }}" alt="Silence Claims illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, [silence]({{ 'silence/' | relative_url }}) is harder to verify than a remembered noise. A loud sound can sometimes be recorded, measured or independently confirmed. Silence is largely an interpretation. Witnesses are not only recalling what they perceived; they are often recalling what they expected to perceive and did not. That makes silence claims especially vulnerable to retrospective reasoning, where later reflection changes the meaning attached to an original sensory experience. The question is not simply whether the object was silent, but whether the witness could reliably judge what should have been audible under the conditions of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+At the same time, [silence]({{ 'silence/' | relative_url }}) is harder to verify than a remembered noise. A loud sound can sometimes be recorded, measured or independently confirmed. Silence is largely an interpretation. Witnesses are not only recalling what they perceived; they are often recalling what they expected to perceive and did not. That makes silence claims especially vulnerable to retrospective reasoning, where later reflection changes the meaning attached to an original sensory experience. The question is not simply whether the object was silent, but whether the witness could reliably judge what should have been audible under the conditions of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 ## Why Silence Is Harder to Verify Than a Remembered Noise
 
@@ -287,12 +286,11 @@ A witness can usually describe a sound in concrete terms: a hum, a buzz, a roar 
 1. The object produced no audible sound.
 2. The object should have produced audible sound.
 
-The second judgement is often overlooked. Many UFO reports involve large objects seen at night without clear distance references. If a witness misjudges how far away an object is, the expected sound level changes dramatically. An object assumed to be a low-altitude craft may later be interpreted as impossibly silent, when in reality it was much farther away than initially believed. Researchers studying witness reliability have repeatedly noted that estimating distance, scale and sensory details during unusual events is difficult even for sincere observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+The second judgement is often overlooked. Many UFO reports involve large objects seen at night without clear distance references. If a witness misjudges how far away an object is, the expected sound level changes dramatically. An object assumed to be a low-altitude craft may later be interpreted as impossibly silent, when in reality it was much farther away than initially believed. Researchers studying witness reliability have repeatedly noted that estimating distance, scale and sensory details during unusual events is difficult even for sincere observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 Silence can also be remembered more confidently than it was originally noticed. During a surprising event, a witness may focus almost entirely on the visual anomaly. Only later do they ask themselves a question such as: “Why wasn't there any engine noise?” Once that question becomes central to the [memory]({{ 'memory/' | relative_url }}), the absence of sound can grow in importance with each retelling.
 
 This does not mean the witness is inventing details. It means the memory may gradually shift from a direct recollection of perception to a recollection of interpretation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rJM9HIM5Lw4" title="004 Big Questions: &quot;How Do Memories Rewrite History?&quot; with Donna Bridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rJM9HIM5Lw4" target="_blank" rel="noopener noreferrer">004 Big Questions: &quot;How Do Memories Rewrite History?&quot; with Donna Bridge</a></p><p class="youtube-embed-meta">Channel: Robert K. Elder &middot; Views: 262 &middot; Uploaded: February 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rJM9HIM5Lw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rJM9HIM5Lw4">Open on YouTube</a></p></div></div></div>
 
@@ -304,12 +302,11 @@ When witnesses describe a large object moving slowly overhead, they often compar
 
 > Large object overhead, but no aircraft noise.
 
-Over time, that contrast may become more important than other details. Investigations into eyewitness memory frequently show that people reconstruct events around the features they find most meaningful. In UFO cases, silence often functions as a marker of anomaly rather than a purely acoustic observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+Over time, that contrast may become more important than other details. Investigations into eyewitness memory frequently show that people reconstruct events around the features they find most meaningful. In UFO cases, silence often functions as a marker of anomaly rather than a purely acoustic observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 The issue becomes more complicated when witnesses encounter later explanations. If someone learns that a conventional aircraft would normally have been loud at the reported distance, they may retrospectively become even more certain that the object was silent. Conversely, a sceptical explanation may lead a witness to reconsider whether they paid attention to sound at all.
 
 In both cases, later knowledge influences the remembered event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YhSLMzX3Mnw" title="TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer">TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 17.3K &middot; Uploaded: July 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YhSLMzX3Mnw">Open on YouTube</a></p></div></div></div>
 
@@ -347,8 +344,7 @@ If independent observations suggest the object was genuinely nearby, the absence
 
 **Immediate written records.**
 
-Statements made soon after the sighting are usually considered more reliable than descriptions produced years later after repeated [retellings]({{ 'retellings/' | relative_url }}) and media exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
-
+Statements made soon after the sighting are usually considered more reliable than descriptions produced years later after repeated [retellings]({{ 'retellings/' | relative_url }}) and media exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-2-dark.svg" | relative_url }}" alt="Silence Claims illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Context Clues That Weaken a Silence Claim
@@ -365,7 +361,7 @@ The longer the gap between the event and the first detailed account, the greater
 
 **Heavy exposure to UFO media after the sighting.**
 
-Researchers examining witness testimony have repeatedly warned that expectations, leading questions and later information can become woven into memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+Researchers examining witness testimony have repeatedly warned that expectations, leading questions and later information can become woven into memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 **Descriptions that become more dramatic over time.**
 
@@ -375,7 +371,6 @@ A witness who initially reported an unidentified light but later recalls a gigan
 
 Wind, traffic, crowds, machinery and other ambient noises can make it difficult to determine whether an aerial object was truly silent.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fzweIEvN8sc" title="Warp Drive and Aliens: Bryan Gaensler Public Lecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fzweIEvN8sc" target="_blank" rel="noopener noreferrer">Warp Drive and Aliens: Bryan Gaensler Public Lecture</a></p><p class="youtube-embed-meta">Channel: Perimeter Institute for Theoretical Physics &middot; Views: 3.5M &middot; Uploaded: February 2020 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fzweIEvN8sc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fzweIEvN8sc">Open on YouTube</a></p></div></div></div>
 
 ## The Difference Between “No Sound” and “Unexpected Sound”
@@ -384,7 +379,7 @@ An important complication is that witnesses sometimes use “silent” loosely. 
 
 This distinction matters because people often evaluate aerial objects through comparison. A helicopter that sounds unlike a helicopter may be remembered as nearly silent. A distant aircraft with unusual lighting may seem unnaturally quiet because the observer anticipated a louder engine signature.
 
-Modern research into sound perception shows that visual information strongly influences what people think they hear. Expectations derived from appearance can alter acoustic judgement. If an object appears large, close or technologically unusual, observers may form assumptions about what it should sound like before consciously evaluating the actual sound environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1512.08512" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Visually Indicated Sounds</span><span class="citation-popover-snippet">arXivVisually Indicated SoundsDecember 28, 2015...</span><span class="citation-popover-meta">Published: December 28, 2015</span></span></span>
+Modern research into sound perception shows that visual information strongly influences what people think they hear. Expectations derived from appearance can alter acoustic judgement. If an object appears large, close or technologically unusual, observers may form assumptions about what it should sound like before consciously evaluating the actual sound environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1512.08512" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Visually Indicated Sounds</span><span class="citation-popover-snippet">Visually Indicated SoundsDecember 28, 2015...</span><span class="citation-popover-meta">Published: December 28, 2015</span></span></span>
 
 ## When Silence Becomes Part of the Mystery
 
@@ -392,8 +387,7 @@ Silence occupies a unique position in UFO testimony because it is simultaneously
 
 The tension between those views explains why silence remains such a persistent feature of UFO debates. A witness may genuinely remember an object passing overhead without any obvious engine noise. Yet the significance attached to that silence can grow through later reflection, comparison with known aircraft and repeated retelling.
 
-In many reports, the most important question is not whether the witness heard nothing. It is how confidently anyone can determine what should have been heard in the first place. Silence can be a real observation, but it is also one of the sensory details most vulnerable to retrospective reasoning, expectation and the human tendency to turn a puzzling experience into a coherent story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
-
+In many reports, the most important question is not whether the witness heard nothing. It is how confidently anyone can determine what should have been heard in the first place. Silence can be a real observation, but it is also one of the sensory details most vulnerable to retrospective reasoning, expectation and the human tendency to turn a puzzling experience into a coherent story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-3-dark.svg" | relative_url }}" alt="Silence Claims illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_silent_ufo_reasoning_314f84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -793,78 +787,78 @@ In many reports, the most important question is not whether the witness heard no
 
 1. <a id="endnote-1"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: [https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29](https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Visually Indicated Sounds  
-   Link: [https://arxiv.org/abs/1512.08512](https://arxiv.org/abs/1512.08512)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivVisually Indicated SoundsDecember 28, 2015...</p></details>
+   Link: <a href="https://arxiv.org/abs/1512.08512" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1512.08512</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Indicated SoundsDecember 28, 2015...</p></details>
    Published: December 28, 2015  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesDespite claims of cover-ups, conspiracy theories about alien spaceships largely lack verifiable proof, relying...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/](https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/)  
+   Link: <a href="https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained sightings have appeared in our...UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government recently confirm...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html](https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html)  
+   Link: <a href="https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/conspiracy-of-silence-and-the-ufo-problem-1stnbsped.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: Understanding the UFO phenomenon...alien technology far in advance of anything we have or would like to...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: striking triangular object has been spotted hovering above the clouds displaying  
-   Link: [https://www.facebook.com/ancientwhispers/posts/striking-triangular-object-has-been-spotted-hovering-above-the-clouds-displaying/932212853131470/](https://www.facebook.com/ancientwhispers/posts/striking-triangular-object-has-been-spotted-hovering-above-the-clouds-displaying/932212853131470/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookStriking triangular object has been spotted hovering above...David Marler is a UFO researcher &amp; his 2013 book, Triangular UFOs...</p></details>
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/striking-triangular-object-has-been-spotted-hovering-above-the-clouds-displaying/932212853131470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/striking-triangular-object-has-been-spotted-hovering-above-the-clouds-displaying/932212853131470/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Striking triangular object has been spotted hovering above...David Marler is a UFO researcher &amp; his 2013 book, Triangular UFOs...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/whatthefacttttt/posts/a-triangle-shaped-ufo-often-appears-as-a-silent-dark-craft-with-glowing-corners-/948841711228990/](https://www.facebook.com/whatthefacttttt/posts/a-triangle-shaped-ufo-often-appears-as-a-silent-dark-craft-with-glowing-corners-/948841711228990/)  
+   Link: <a href="https://www.facebook.com/whatthefacttttt/posts/a-triangle-shaped-ufo-often-appears-as-a-silent-dark-craft-with-glowing-corners-/948841711228990/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/a-triangle-shaped-ufo-often-appears-as-a-silent-dark-craft-with-glowing-corners-/948841711228990/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced military technology? Or just a figment of people&#x27;s imaginations? Black Triangles are UFOs that have...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YhSLMzX3Mnw](https://www.youtube.com/watch?v=YhSLMzX3Mnw)  
+   Link: <a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His...Den of Geek UFO reporter Alejandro Rojas will live interview David Marler, a UFO...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports (N.M. aircraft Case 55). A number of photographs of bright, nearly stationary point sources in a day light or twilight sky ma...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/yy5rsf/i_need_helpis_anyone_here_from_poland_from_the/](https://www.reddit.com/r/UFOs/comments/yy5rsf/i_need_helpis_anyone_here_from_poland_from_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/yy5rsf/i_need_helpis_anyone_here_from_poland_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/yy5rsf/i_need_helpis_anyone_here_from_poland_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ge light in the center and a blue/white light on each tip has been...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1q0i6uu/has_anyone_else_experienced_the_silence_ive_been/](https://www.reddit.com/r/UFOs/comments/1q0i6uu/has_anyone_else_experienced_the_silence_ive_been/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1q0i6uu/has_anyone_else_experienced_the_silence_ive_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q0i6uu/has_anyone_else_experienced_the_silence_ive_been/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dumb question but which is scarier: A Quiet Place or Alien?Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: zenodo.org  
    Title: (1) Detectable Signatures of UAP Dissertation  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uk national archives. [http://www.nationalarchives.gov.uD/ufos/](http://www.nationalarchives.gov.uD/ufos/). UFOs-Pilots, police, military. (2023). [commercial]. uFo...Read more...</p></details>

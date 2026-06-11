@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /infrasound/
 nav_short_title: Hard to locate
 title: Why Some UFO Hums Seem Directionless
-title_full: Why Some UFO Hums Seem Directionless | Infrasound
+title_full: Why Some UFO Hums Seem Directionless
 display_title_short: Hard to locate
 display_title: Hard to locate
 heading_title: Why Some UFO Hums Seem Directionless
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:07:06'
-parent_title: Could Infrasound Explain UFO Vibrations? | UFO Noises
+parent_title: Could Infrasound Explain UFO Vibrations?
 parent_permalink: /infrasound/
 parent_nav_short_title: Infrasound
 parent_heading_title: Could Infrasound Explain UFO Vibrations?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionles
 
 Reports of UFO-related hums often include a peculiar detail: witnesses can hear or feel a low vibration, yet they cannot tell where it is coming from. The sound seems to fill the environment rather than travel from a specific point. This effect is one reason ordinary mechanical or environmental noise can sometimes acquire an unusual or mysterious character. When low-frequency sound or infrasound is involved, the physical properties of the waves themselves can make localisation surprisingly difficult. Rather than hearing a clear source off to the left, right, above or behind, a listener may experience a pressure-like presence that appears to come from everywhere at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localization</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-1-dark.svg" | relative_url }}" alt="Hard to locate illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In UFO investigations, that matters because a directionless hum can encourage people to associate the sensation with an object in the sky, an unseen craft, or an unknown force when the actual source may be distant, hidden, reflected, or entirely unrelated to what they are looking at. The difficulty of tracing low-frequency sound does not prove or disprove any UFO report, but it does explain why some acoustic experiences feel unusually elusive.
 
@@ -298,12 +297,11 @@ The result is a sound that may be clearly detectable but spatially vague.
 
 ### Feeling a Hum Instead of Hearing It
 
-Another complication is that very low frequencies are often experienced partly through bodily sensation rather than ordinary hearing. People may describe pressure in the chest, vibrations in walls, a sensation in the ears, or a general [environmental hum]({{ 'hum-analogues/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localization</span></span></span>
+Another complication is that very low frequencies are often experienced partly through bodily sensation rather than ordinary hearing. People may describe pressure in the chest, vibrations in walls, a sensation in the ears, or a general environmental hum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localization</span></span></span>
 
 When a stimulus is perceived as a physical vibration rather than a conventional sound, the brain receives fewer spatial clues. The experience can therefore feel detached from any obvious source. Witnesses may know something is present without knowing where it is located.
 
 This characteristic appears repeatedly in accounts of unexplained hums. The uncertainty itself can become part of the mystery. A sound that cannot be pointed toward often feels more unusual than a sound that clearly comes from a machine, road, [aircraft]({{ 'aircraft/' | relative_url }}), or building.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CqB95rj_txI" title="Interaural time difference and how to find your phone instantly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CqB95rj_txI" target="_blank" rel="noopener noreferrer">Interaural time difference and how to find your phone instantly</a></p><p class="youtube-embed-meta">Channel: Steve Mould &middot; Views: 717.2K &middot; Uploaded: March 2019 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CqB95rj_txI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CqB95rj_txI">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +325,6 @@ A person inside a house might therefore experience a vibration that appears to c
 
 In practical investigations of low-frequency noise complaints, residents frequently report hearing or feeling a hum throughout a building rather than identifying a precise point of origin. This does not necessarily indicate an exotic source. It often reflects the difficulty of tracing long-wavelength energy once it begins interacting with enclosed spaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microflown.com/products/sound-localization-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microflown.com">[Microflown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microflown.com</span><span class="citation-popover-snippet">Low-frequency noise can be a challenging problem to address, as it can be difficult to detect and mitigate large wavelength...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-2-dark.svg" | relative_url }}" alt="Hard to locate illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Atmospheric Conditions Can Mislead Witnesses
 
@@ -347,7 +344,6 @@ Directionless low-frequency hums remove that certainty.
 
 Witnesses often describe:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A sensation that the environment itself is vibrating.
@@ -357,17 +353,15 @@ Witnesses often describe:
 
 </div>
 
-These perceptions are consistent with known challenges in low-frequency localisation and do not require an unknown technology to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
+These perceptions are consistent with known challenges in low-frequency localisation and do not require an unknown technology to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
 
 At the same time, the experience can be genuinely unsettling. Humans rely heavily on directional hearing to assess their surroundings. When the brain cannot identify where a stimulus originates, the ambiguity itself can increase attention, uncertainty and perceived significance.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fa28lIGuxq8" title="Why Do Reversing Trucks Not Beep Any More?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fa28lIGuxq8" target="_blank" rel="noopener noreferrer">Why Do Reversing Trucks Not Beep Any More?</a></p><p class="youtube-embed-meta">Channel: Tom Scott &middot; Views: 1.6M &middot; Uploaded: January 2014 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fa28lIGuxq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fa28lIGuxq8">Open on YouTube</a></p></div></div></div>
 
 ## What Investigators Can and Cannot Infer
 
 A directionless hum is an interesting observation, but by itself it provides limited evidence about the source.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7-tJoSS5fmg" title="Interaural Time Difference and Interaural Level Difference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7-tJoSS5fmg" target="_blank" rel="noopener noreferrer">Interaural Time Difference and Interaural Level Difference</a></p><p class="youtube-embed-meta">Channel: Mark Anderson Audio &middot; Views: 8.6K &middot; Uploaded: August 2016 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7-tJoSS5fmg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7-tJoSS5fmg">Open on YouTube</a></p></div></div></div>
 
@@ -381,12 +375,11 @@ Reports that emphasise pressure, vibration and uncertainty about direction fit w
 
 The inability to locate a sound does not demonstrate that the source was airborne, extraordinary or related to a reported UFO. Nor does it establish that infrasound was definitely present.
 
-Many factors can produce localisation errors, including reflections, environmental noise, building resonance, hearing differences between individuals and ordinary low-frequency sources that remain unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">PMCby A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
+Many factors can produce localisation errors, including reflections, environmental noise, building resonance, hearing differences between individuals and ordinary low-frequency sources that remain unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
 
 For that reason, investigators treat a directionless hum as a clue rather than a conclusion. It may point toward the involvement of low-frequency sound, but additional evidence is needed before linking the sensation to any particular object or event.
 
 The key lesson is straightforward: when a UFO hum seems to come from nowhere, the effect may reflect the physics of low-frequency sound as much as the nature of whatever the witness believes produced it. Long wavelengths, weak directional cues, environmental propagation and structural vibrations can combine to make an ordinary source feel strangely omnipresent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.umn.edu/sensationandperception/chapter/interaural-level-difference-draft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.umn.edu">[Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.umn.edu</span><span class="citation-popover-title">Pressbooks Interaural Level Difference –</span><span class="citation-popover-snippet">High frequency sounds have short wavelengths, so the head casts an acoustic...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-3-dark.svg" | relative_url }}" alt="Hard to locate illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_directionless_ufo_hu_251f19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -787,149 +780,149 @@ The key lesson is straightforward: when a UFO hum seems to come from nowhere, th
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sound localization  
-   Link: [https://en.wikipedia.org/wiki/Sound_localization](https://en.wikipedia.org/wiki/Sound_localization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Perception of infrasound  
-   Link: [https://en.wikipedia.org/wiki/Perception_of_infrasound](https://en.wikipedia.org/wiki/Perception_of_infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perception_of_infrasound</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Interaural time difference  
-   Link: [https://en.wikipedia.org/wiki/Interaural_time_difference](https://en.wikipedia.org/wiki/Interaural_time_difference)  
+   Link: <a href="https://en.wikipedia.org/wiki/Interaural_time_difference" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Interaural_time_difference</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interaural time differenceThe interaural time difference (or ITD) when concerning humans or animals, is the difference in arrival time...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAuditory localization: a comprehensive practical review  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Carlini · 2024 · Cited by 79 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science-of-sound.net  
    Title: The Science of Sound Sound Localization Basics  
-   Link: [https://science-of-sound.net/2016/06/sound-localization-basics/](https://science-of-sound.net/2016/06/sound-localization-basics/)  
+   Link: <a href="https://science-of-sound.net/2016/06/sound-localization-basics/" target="_blank" rel="noopener noreferrer nofollow">https://science-of-sound.net/2016/06/sound-localization-basics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>At lower frequencies, when the wavelengths of sound are in the range of the head...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.cnrs.fr  
    Title: infrasound sound waves that nothing can stop  
-   Link: [https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop](https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop)  
+   Link: <a href="https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop" target="_blank" rel="noopener noreferrer nofollow">https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNRS NewsInfrasound, sound waves that nothing can stop18 Oct 2024 — Infrasound waves, very low-frequency acoustic waves below 20 hertz (H...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-4292/14/13/3181](https://www.mdpi.com/2072-4292/14/13/3181)  
+   Link: <a href="https://www.mdpi.com/2072-4292/14/13/3181" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/14/13/3181</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The infrasound waves are mainly divided into two categories...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pub.dega-akustik.de  
    Title: Dega Akustik Assessing Low-Frequency and Infrasonic Noise  
-   Link: [https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/499.pdf](https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/499.pdf)  
+   Link: <a href="https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/499.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.dega-akustik.de/DAS-DAGA_2025/files/upload/paper/499.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dega AkustikAssessing Low-Frequency and Infrasonic Noise...April 11, 2025 — by L Roskosch — Since the measured rooms do not meet the dif...</p></details>
    Published: April 11, 2025  
 
 10. <a id="endnote-10"></a>
    Source: microflown.com  
-   Link: [https://www.microflown.com/products/sound-localization-systems](https://www.microflown.com/products/sound-localization-systems)  
+   Link: <a href="https://www.microflown.com/products/sound-localization-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/products/sound-localization-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-frequency noise can be a challenging problem to address, as it can be difficult to detect and mitigate large wavelength...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: knmi.nl  
-   Link: [https://www.knmi.nl/kennis-en-datacentrum/achtergrond/infrasound-and-seismology-in-the-low-frequency-array-lofar](https://www.knmi.nl/kennis-en-datacentrum/achtergrond/infrasound-and-seismology-in-the-low-frequency-array-lofar)  
+   Link: <a href="https://www.knmi.nl/kennis-en-datacentrum/achtergrond/infrasound-and-seismology-in-the-low-frequency-array-lofar" target="_blank" rel="noopener noreferrer nofollow">https://www.knmi.nl/kennis-en-datacentrum/achtergrond/infrasound-and-seismology-in-the-low-frequency-array-lofar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>relaxation for sound waves, and hence these are called gravity waves.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InfrasoundInfrasound, sometimes referred to as low frequency sound or (sometimes ambigously) subsonic describes sound waves with a fre...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pressbooks.umn.edu  
    Title: Pressbooks Interaural Level Difference –  
-   Link: [https://pressbooks.umn.edu/sensationandperception/chapter/interaural-level-difference-draft/](https://pressbooks.umn.edu/sensationandperception/chapter/interaural-level-difference-draft/)  
+   Link: <a href="https://pressbooks.umn.edu/sensationandperception/chapter/interaural-level-difference-draft/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.umn.edu/sensationandperception/chapter/interaural-level-difference-draft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>High frequency sounds have short wavelengths, so the head casts an acoustic...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/830126946/perception-chapter-10-flash-cards/](https://quizlet.com/830126946/perception-chapter-10-flash-cards/)  
+   Link: <a href="https://quizlet.com/830126946/perception-chapter-10-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/830126946/perception-chapter-10-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 10 FlashcardsThis type of sound localization is best for low-frequency sounds because the brain may sense slight differences in t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: soundand.design  
    Title: Auditory Localization  
-   Link: [https://soundand.design/auditory-localization-e93a6e333a4a](https://soundand.design/auditory-localization-e93a6e333a4a)  
+   Link: <a href="https://soundand.design/auditory-localization-e93a6e333a4a" target="_blank" rel="noopener noreferrer nofollow">https://soundand.design/auditory-localization-e93a6e333a4a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction | by Myk EffSep 1, 2024 — For lower frequency sounds, the sound waves are relatively long compared to the size of the hea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: production-expert.com  
    Title: Sound Localisation  
-   Link: [https://www.production-expert.com/production-expert-1/sound-localisation-how-does-it-work](https://www.production-expert.com/production-expert-1/sound-localisation-how-does-it-work)  
+   Link: <a href="https://www.production-expert.com/production-expert-1/sound-localisation-how-does-it-work" target="_blank" rel="noopener noreferrer nofollow">https://www.production-expert.com/production-expert-1/sound-localisation-how-does-it-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does It Work?8 Mar 2025 — Today I&#x27;d like to walk you through the strategies of human hearing to determine from which direction a soun...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: audiocheck.net  
-   Link: [https://www.audiocheck.net/audiotests_basslocalization.php](https://www.audiocheck.net/audiotests_basslocalization.php)  
+   Link: <a href="https://www.audiocheck.net/audiotests_basslocalization.php" target="_blank" rel="noopener noreferrer nofollow">https://www.audiocheck.net/audiotests_basslocalization.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Frequency (Subwoofer) Sound Localization TestOur ears are very sensitive to phase differences, more than the inter-aural delay itself...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/272738551_Low_frequency_noise_and_infrasound_from_wind_turbines](https://www.researchgate.net/publication/272738551_Low_frequency_noise_and_infrasound_from_wind_turbines)  
+   Link: <a href="https://www.researchgate.net/publication/272738551_Low_frequency_noise_and_infrasound_from_wind_turbines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272738551_Low_frequency_noise_and_infrasound_from_wind_turbines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low frequency noise and infrasound from wind turbinesLow-frequency sound and infrasound measurement results at distances close to wind tu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: auditoryneuroscience.com  
-   Link: [https://auditoryneuroscience.com/book/export/html/54](https://auditoryneuroscience.com/book/export/html/54)  
+   Link: <a href="https://auditoryneuroscience.com/book/export/html/54" target="_blank" rel="noopener noreferrer nofollow">https://auditoryneuroscience.com/book/export/html/54</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial HearingThis page has little animations illustrating the two major binarual cues for sound source direction: Interaural Time Diffe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3937989/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3937989/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3937989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3937989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>limits on interaural time differences - PMC - NIHby WM Hartmann · 2014 · Cited by 38 — Human listeners, and other animals too, use intera...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ssoar.info  
-   Link: [https://www.ssoar.info/ssoar/bitstream/handle/document/99800/ssoar-ijerph-2023-5-erdelyi_et_al-Low-Frequency_Noise_Experiences_from_a.pdf?sequence=1](https://www.ssoar.info/ssoar/bitstream/handle/document/99800/ssoar-ijerph-2023-5-erdelyi_et_al-Low-Frequency_Noise_Experiences_from_a.pdf?sequence=1)  
+   Link: <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99800/ssoar-ijerph-2023-5-erdelyi_et_al-Low-Frequency_Noise_Experiences_from_a.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99800/ssoar-ijerph-2023-5-erdelyi_et_al-Low-Frequency_Noise_Experiences_from_a.pdf?sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences from a Low-Frequency Noise Perceiving...by KH Erdélyi · 2023 · Cited by 7 — Abstract: Although low-frequency noise (LFN) is...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 371334455 Auditory Localisation of Low Frequency Sound Sources  
-   Link: [https://www.researchgate.net/publication/371334455_Auditory_Localisation_of_Low-Frequency_Sound_Sources](https://www.researchgate.net/publication/371334455_Auditory_Localisation_of_Low-Frequency_Sound_Sources)  
+   Link: <a href="https://www.researchgate.net/publication/371334455_Auditory_Localisation_of_Low-Frequency_Sound_Sources" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371334455_Auditory_Localisation_of_Low-Frequency_Sound_Sources</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditory Localisation of Low-Frequency Sound Sources13 May 2023 — It is generally thought that humans cannot detect the direction of soun...</p></details>
    Published: May 2023  
 
 24. <a id="endnote-24"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/gji/article/229/2/1152/6496032](https://academic.oup.com/gji/article/229/2/1152/6496032)  
+   Link: <a href="https://academic.oup.com/gji/article/229/2/1152/6496032" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/gji/article/229/2/1152/6496032</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>low-frequency acoustic fields in urban environmentsby S McComas · 2022 · Cited by 10 — Infrasound data contain contributions from incoher...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Low Official Videos · Official videos from Low's long-spanning career. · Low  
-   Link: [https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw](https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw)  
+   Link: <a href="https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LowOfficial Videos · Official videos from Low&#x27;s long-spanning career. · Low - Disappearing (Official Video) · Low - Days Like These (Offi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=apwfUWVq5WM](https://www.youtube.com/watch?v=apwfUWVq5WM)  
+   Link: <a href="https://www.youtube.com/watch?v=apwfUWVq5WM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=apwfUWVq5WM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound Explained: Sound Below Human Hearing Earthquakes, Elephants &amp; More - YouTube Infrasound Explained: Sound Below Human Hearing E...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: avsforum.com  
    Title: localizability of bass frequencies in rooms.3205312  
-   Link: [https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/](https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/)  
+   Link: <a href="https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Localizability of bass frequencies in roomsJun 20, 2021 — This is an attempt to summarize the current state of understanding of our abili...</p></details>

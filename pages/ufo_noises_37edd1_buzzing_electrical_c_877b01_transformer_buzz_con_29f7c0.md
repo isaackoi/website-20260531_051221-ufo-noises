@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /buzzing/
 nav_short_title: Source Confusion
 title: Why UFO Buzzing Sounds Electrical
-title_full: Why UFO Buzzing Sounds Electrical | Buzzing
+title_full: Why UFO Buzzing Sounds Electrical
 display_title_short: Source Confusion
 display_title: Source Confusion
 heading_title: Why UFO Buzzing Sounds Electrical
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:19'
-parent_title: Are Buzzing UFO Sounds Really Electrical? | UFO Noises
+parent_title: Are Buzzing UFO Sounds Really Electrical?
 parent_permalink: /buzzing/
 parent_nav_short_title: Buzzing
 parent_heading_title: Are Buzzing UFO Sounds Really Electrical?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_
 
 Many reports of [UFO noises]({{ 'ufo-noises/' | relative_url }}) do not describe roaring engines or obvious [aircraft sounds]({{ 'aircraft-sounds/' | relative_url }}). Instead, witnesses often reach for a different comparison: a transformer, an electrical substation, a high-voltage line, or a deep electrical hum. That description can feel unusually precise, which is one reason electrical-sounding UFO reports are memorable. Yet the same comparison creates a major investigative problem. Transformer-like buzzing is one of the most common environmental sounds people misidentify because several unrelated sources can produce nearly the same auditory impression, especially at night, in rural areas, or during moments of uncertainty.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-1-dark.svg" | relative_url }}" alt="Source Confusion illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a form of source confusion. A witness may accurately describe what the sound resembled while still being mistaken about where it came from, how far away it was, or whether it was connected to the object being observed. Understanding that distinction helps explain why electrical UFO sounds can seem convincing without necessarily pointing to an unusual source.
 
@@ -293,7 +292,6 @@ Importantly, saying that a sound resembled a transformer does not mean it posses
 ## Ordinary Sources That Create the Same Impression
 
 One reason electrical UFO sounds remain difficult to evaluate is that many unrelated sources converge on the same acoustic signature.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gytclyMXmYM" title="Magnetostriction in Transformers Explained | Why do transformers make a humming noise? | MADE EASY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gytclyMXmYM" target="_blank" rel="noopener noreferrer">Magnetostriction in Transformers Explained | Why do transformers make a humming noise? | MADE EASY</a></p><p class="youtube-embed-meta">Channel: MADE EASY &middot; Views: 5.6K &middot; Uploaded: August 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gytclyMXmYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gytclyMXmYM">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +317,6 @@ Not every sound reaches a listener directly. Buildings, hillsides, valleys and t
 
 This is one reason some reports describe a buzzing sound that appears detached from any visible object or structure.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-2-dark.svg" | relative_url }}" alt="Source Confusion illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sound Direction Can Mislead Listeners
 
@@ -337,7 +334,6 @@ Sound localisation becomes more complicated when reflections are present. Resear
 
 In practical terms, a buzzing noise may appear to originate:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Above the listener.
@@ -349,17 +345,15 @@ In practical terms, a buzzing noise may appear to originate:
 
 A witness can therefore be sincere in reporting that a sound seemed connected to an observed object while still misattributing the source.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bDKnAmOTBEE" title="Corona Effect in Overhead Transmission Lines | Theory, Formula, Advantages &amp; Reduction Methods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bDKnAmOTBEE" target="_blank" rel="noopener noreferrer">Corona Effect in Overhead Transmission Lines | Theory, Formula, Advantages &amp; Reduction Methods</a></p><p class="youtube-embed-meta">Channel: Electrology &middot; Views: 3.7K &middot; Uploaded: August 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bDKnAmOTBEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bDKnAmOTBEE">Open on YouTube</a></p></div></div></div>
 
 ### Night-Time Conditions Increase Ambiguity
 
 Many electrical-sounding UFO reports occur at night, when visual references are limited.
 
-In darkness, people often use sight and sound together to construct a mental picture of an event. If an unusual light is already attracting attention, a pre-existing [environmental hum]({{ 'hum-analogues/' | relative_url }}) may become psychologically linked to it. Once that association forms, the sound can feel like evidence that the light itself is producing the noise.
+In darkness, people often use sight and sound together to construct a mental picture of an event. If an unusual light is already attracting attention, a pre-existing environmental hum may become psychologically linked to it. Once that association forms, the sound can feel like evidence that the light itself is producing the noise.
 
 The witness is not necessarily inventing the sound. The confusion occurs in the perceived relationship between the sound and the visual stimulus.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kzgom_RaxoI" title="How Sound Localization Works: Timing + Intensity Differences | 20th Week in Medical School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kzgom_RaxoI" target="_blank" rel="noopener noreferrer">How Sound Localization Works: Timing + Intensity Differences | 20th Week in Medical School</a></p><p class="youtube-embed-meta">Channel: Doctor Rex &middot; Views: 1.0K &middot; Uploaded: January 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kzgom_RaxoI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kzgom_RaxoI">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +368,6 @@ Unlike sharper sounds, low-frequency vibrations are often experienced through mu
 The effect is not unique to UFO reports. Large transformers, industrial machinery, power infrastructure and other low-frequency sources can produce similar experiences, especially when the listener is stationary and paying close attention to an unusual event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span>
 
 Because the sensation feels physical rather than purely auditory, witnesses may interpret it as evidence of proximity even when the source is relatively far away.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-3-dark.svg" | relative_url }}" alt="Source Confusion illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Electrical Buzzing Remains a Persistent UFO Motif
@@ -782,127 +775,127 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
 1. <a id="endnote-1"></a>
    Source: blogs.sw.siemens.com  
    Title: Blog Network Magnetostriction, a Source of Noise in Transformers  
-   Link: [https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/](https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/)  
+   Link: <a href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: elscotransformers.com  
-   Link: [https://elscotransformers.com/blog/why-do-transformers-hum/](https://elscotransformers.com/blog/why-do-transformers-hum/)  
+   Link: <a href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow">https://elscotransformers.com/blog/why-do-transformers-hum/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: swissgrid.ch  
-   Link: [https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html](https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html)  
+   Link: <a href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sound localization  
-   Link: [https://en.wikipedia.org/wiki/Sound_localization](https://en.wikipedia.org/wiki/Sound_localization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEffect of source spectrum on sound localization in an everyday...by A Ihlefeld · 2011 · Cited by 77 — Two experiments explored how fr...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of source spectrum on sound localization in an everyday...by A Ihlefeld · 2011 · Cited by 77 — Two experiments explored how fr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLocalization of sound in rooms  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Low (zespół muzyczny)  
-   Link: [https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29](https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29)  
+   Link: <a href="https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low (zespół muzyczny)Low – założony w 1993 indie rockowy zespół z Duluth, w amerykańskim stanie Minnesota. Jego oryginalny skład to Al...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Corona discharge  
-   Link: [https://en.wikipedia.org/wiki/Corona_discharge](https://en.wikipedia.org/wiki/Corona_discharge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Corona_discharge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corona_discharge</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Corona dischargeA corona discharge is an electrical discharge caused by the ionization of a fluid such as air surrounding a conductor...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bDKnAmOTBEE](https://www.youtube.com/watch?v=bDKnAmOTBEE)  
+   Link: <a href="https://www.youtube.com/watch?v=bDKnAmOTBEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bDKnAmOTBEE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Sounds...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Environmental Sounds  
-   Link: [https://www.youtube.com/watch?v=xumgyJrLOZc](https://www.youtube.com/watch?v=xumgyJrLOZc)  
+   Link: <a href="https://www.youtube.com/watch?v=xumgyJrLOZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xumgyJrLOZc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Noise Pollution | Environmental Science | UGC NET...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ncetest.com  
    Title: NCE explains corona discharge, weather impacts, and safety factors behind  
-   Link: [https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/](https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/)  
+   Link: <a href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow">https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/pl/dictionary/english/low](https://dictionary.cambridge.org/pl/dictionary/english/low)  
+   Link: <a href="https://dictionary.cambridge.org/pl/dictionary/english/low" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/pl/dictionary/english/low</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, definicja w Cambridge English DictionaryLOW definicja: 1. not measuring much from the base to the top: 2. close to the ground or the bo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: music.apple.com  
-   Link: [https://music.apple.com/pl/artist/low/623590193](https://music.apple.com/pl/artist/low/623590193)  
+   Link: <a href="https://music.apple.com/pl/artist/low/623590193" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/pl/artist/low/623590193</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to music by Low on Apple Music. Find top songs and albums by Low, including Beez Neez, Scossa Sismica (feat. Low &amp; JKL) and more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: hamilton-oh.gov  
-   Link: [https://www.hamilton-oh.gov/pay-utilities-taxes-parking](https://www.hamilton-oh.gov/pay-utilities-taxes-parking)  
+   Link: <a href="https://www.hamilton-oh.gov/pay-utilities-taxes-parking" target="_blank" rel="noopener noreferrer nofollow">https://www.hamilton-oh.gov/pay-utilities-taxes-parking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Utilities, Taxes, &amp; ParkingUtilityPay helps customers manage their utility account information online. Customers now can choose to en...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mgmtransformers.com  
-   Link: [https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/](https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/)  
+   Link: <a href="https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/" target="_blank" rel="noopener noreferrer nofollow">https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Reducing Transformer NoiseTransformer noise mainly results from magnetostriction, a natural effect in which magnetic ma...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/high](https://www.merriam-webster.com/dictionary/high)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
 18. <a id="endnote-18"></a>
    Source: subpop.com  
-   Link: [https://www.subpop.com/artists/low](https://www.subpop.com/artists/low)  
+   Link: <a href="https://www.subpop.com/artists/low" target="_blank" rel="noopener noreferrer nofollow">https://www.subpop.com/artists/low</a>  
 
 19. <a id="endnote-19"></a>
    Source: radioluz.pl  
-   Link: [https://radioluz.pl/low/](https://radioluz.pl/low/)  
+   Link: <a href="https://radioluz.pl/low/" target="_blank" rel="noopener noreferrer nofollow">https://radioluz.pl/low/</a>  
 
 20. <a id="endnote-20"></a>
    Source: microflown.com  
-   Link: [https://www.microflown.com/blogs/understanding-acoustic-camera](https://www.microflown.com/blogs/understanding-acoustic-camera)  
+   Link: <a href="https://www.microflown.com/blogs/understanding-acoustic-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/blogs/understanding-acoustic-camera</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical limitation of acoustic cameras is their difficulty in resolving low-frequency sounds. The ability to focus on...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/](https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/)  
+   Link: <a href="https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ll be out on a walk or a hike in the middle of nowhere and sometimes I&#x27;ll come across power lines humming extremely loudly. From...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: myutility.us  
-   Link: [https://www.myutility.us/indiana](https://www.myutility.us/indiana)  
+   Link: <a href="https://www.myutility.us/indiana" target="_blank" rel="noopener noreferrer nofollow">https://www.myutility.us/indiana</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Utilities of Indiana | My Utility - Utilities, Inc.Our online self-service portal lets you manage your utility account Anytime...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Low Official Videos · Official videos from Low's long-spanning career. · Low  
-   Link: [https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw](https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw)  
+   Link: <a href="https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LowOfficial Videos · Official videos from Low&#x27;s long-spanning career. · Low - Disappearing (Official Video) · Low - Days Like These (Offi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: avsforum.com  
    Title: localizability of bass frequencies in rooms.3205312  
-   Link: [https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/](https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/)  
+   Link: <a href="https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Localizability of bass frequencies in roomsJun 20, 2021 — This is an attempt to summarize the current state of understanding of our abili...</p></details>

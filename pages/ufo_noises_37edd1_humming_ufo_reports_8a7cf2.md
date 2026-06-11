@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Humming
 title: Why Do So Many UFOs Hum?
-title_full: Why Do So Many UFOs Hum? | UFO Noises
+title_full: Why Do So Many UFOs Hum?
 display_title_short: Humming
 display_title: Humming
 heading_title: Why Do So Many UFOs Hum?
@@ -354,14 +354,12 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-overview-soci
 
 Many UFO witnesses do not begin by describing a shape or a light. They begin with a sound. Across decades of reports, one of the most common descriptions is a low hum: a steady vibration, distant drone or mechanical resonance that seems to come from an unusual object overhead. The detail appears often enough that it has become part of UFO [folklore]({{ 'folklore/' | relative_url }}), yet it is also one of the easiest aspects of a sighting to misunderstand.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-overview.webp" | relative_url }}" alt="Overview image for Humming" loading="eager" decoding="sync" fetchpriority="high">
 A humming sound can point in several directions at once. It may indicate a conventional [aircraft]({{ 'aircraft/' | relative_url }}) heard under unusual atmospheric conditions. It may reflect low-frequency environmental noise that becomes attached to a startling visual event. It may be a genuine acoustic effect produced by machinery. Or it may reveal something about how human perception works during stressful, ambiguous encounters. The challenge is that a hum is rarely recorded, rarely measured and often reported only after the event. That makes it both a recurring feature of UFO testimony and a weak form of evidence on its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
 
 ## Why a Hum Appears So Often in UFO Reports
 
 Witnesses tend to describe remarkably similar sounds even when the visual details differ. Common descriptions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,12 +372,11 @@ Witnesses tend to describe remarkably similar sounds even when the visual detail
 
 </div>
 
-Reports from UFO archives frequently use terms such as “hum”, “vibration”, “[buzzing]({{ 'buzzing/' | relative_url }})” or “oscillating sound”. One often-cited 1957 California case archived by the National Investigations Committee on Aerial Phenomena (NICAP) describes a triangular object passing overhead accompanied by a strange high-frequency hum or vibration. The witnesses included a United States Air Force officer, which is one reason the case remains notable among researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
+Reports from UFO archives frequently use terms such as “hum”, “vibration”, “[buzzing]({{ 'buzzing/' | relative_url }})” or “oscillating sound”. One often-cited 1957 California case archived by the National Investigations Committee on Aerial Phenomena (NICAP) describes a triangular object passing overhead accompanied by a strange high-frequency hum or vibration. The witnesses included a United States Air Force officer, which is one reason the case remains notable among researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
 
 The consistency of these descriptions does not necessarily prove a common source. Humans often use familiar mechanical comparisons when describing unfamiliar sounds. A witness who cannot identify an unusual noise may naturally reach for terms such as “generator”, “transformer”, “engine” or “electrical hum” because those are among the closest everyday references.
 
 That said, the repetition of the motif is significant because it suggests that witnesses are not merely inventing random sound effects. Whether the source is conventional, psychological or genuinely unusual, the recurring pattern itself deserves explanation.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-1-dark.svg" | relative_url }}" alt="Humming illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Low-Frequency Sounds Feel Unusual
@@ -387,7 +384,6 @@ That said, the repetition of the motif is significant because it suggests that w
 Low-frequency sound behaves differently from ordinary environmental noise. It can travel long distances, pass through buildings and become difficult to locate precisely. People often report sensing it as pressure or vibration rather than as a clearly identifiable sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
 
 This matters because many UFO hum reports involve exactly those characteristics. Witnesses sometimes claim that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -401,7 +397,6 @@ This matters because many UFO hum reports involve exactly those characteristics.
 Researchers studying broader “Hum” phenomena have repeatedly found similar descriptions. Reports from places such as Taos, New Mexico, Windsor in Ontario and parts of the United Kingdom often involve low-frequency droning noises that only a minority of people perceive. Investigations have linked some cases to industrial activity, while others remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
 
 Because low-frequency sounds are difficult to record and locate, they can easily acquire a mysterious quality. A witness who already believes something unusual is happening in the sky may interpret the sound as part of the same event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ML0eB3HFagM" title="UFO Sound Effects All Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer">UFO Sound Effects All Sounds</a></p><p class="youtube-embed-meta">Channel: All Sounds &middot; Views: 374.8K &middot; Uploaded: January 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ML0eB3HFagM">Open on YouTube</a></p></div></div></div>
 
@@ -421,11 +416,10 @@ Factories, power facilities, pumps, ventilation systems, generators and heavy tr
 
 A witness observing an unusual light while such background noise is present may unconsciously combine the two experiences into a single event.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-2-dark.svg" | relative_url }}" alt="Humming illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Wind and Environmental Vibrations
 
-Wind can create resonant sounds in structures, power lines and terrain features. Research into environmental low-frequency vibration shows that wind-induced seismic and acoustic noise can be widespread and difficult to trace to a specific source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.04079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivLow coherency of wind induced seismic noise: Implications for gravitational wave detectionMay 9, 2022...</span><span class="citation-popover-meta">Published: May 9, 2022</span></span></span>
+Wind can create resonant sounds in structures, power lines and terrain features. Research into environmental low-frequency vibration shows that wind-induced seismic and acoustic noise can be widespread and difficult to trace to a specific source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.04079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Low coherency of wind induced seismic noise: Implications for gravitational wave detectionMay 9, 2022...</span><span class="citation-popover-meta">Published: May 9, 2022</span></span></span>
 
 Because these sounds often lack an obvious origin point, they can feel disconnected from normal environmental causes.
 
@@ -435,7 +429,6 @@ Some researchers argue that certain hum reports may originate within the listene
 
 This does not mean witnesses are imagining the experience. The sound can be genuinely perceived while still originating from neurological or physiological processes rather than an external object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4PYI6TzqYk" title="Close Encounters of the Third Kind (6/8) Movie CLIP - Communicating with the Mothership (1977) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (6/8) Movie CLIP - Communicating with the Mothership (1977) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 2.1M &middot; Uploaded: October 2012 &middot; Length: 2 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4PYI6TzqYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4PYI6TzqYk">Open on YouTube</a></p></div></div></div>
 
 ## When the Hum Becomes More Interesting
@@ -443,7 +436,6 @@ This does not mean witnesses are imagining the experience. The sound can be genu
 A humming sound alone is weak evidence. The evidential value changes when additional factors appear alongside it.
 
 Researchers generally pay closer attention when a reported hum is accompanied by:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -457,17 +449,16 @@ Researchers generally pay closer attention when a reported hum is accompanied by
 
 </div>
 
-Some archived UFO cases include reports of animals reacting to a humming object or witnesses feeling vibration through the ground. Such details do not prove an extraordinary explanation, but they move the report beyond a purely subjective auditory experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPcat4rephder” The witness head a rapidly oscillating humming sound... Aside from the oscillating hum, the witness also referred to a...</span></span></span>
+Some archived UFO cases include reports of animals reacting to a humming object or witnesses feeling vibration through the ground. Such details do not prove an extraordinary explanation, but they move the report beyond a purely subjective auditory experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">cat4rephder” The witness head a rapidly oscillating humming sound... Aside from the oscillating hum, the witness also referred to a...</span></span></span>
 
 The key question is whether the hum can be separated from the witness's personal interpretation. A sound that is independently measured or heard by numerous unrelated observers carries more evidential weight than a sound remembered only by a single witness years later.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-3-dark.svg" | relative_url }}" alt="Humming illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Memory Problem in UFO Sound Reports
 
 Sound is surprisingly vulnerable to distortion in [memory]({{ 'memory/' | relative_url }}).
 
-Psychological research shows that certain sounds are highly memorable and can become strongly associated with emotionally significant events. Once a person decides that an encounter was extraordinary, details such as humming, buzzing or vibration may become central features of the recollection even if they were initially vague. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.04079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivLow coherency of wind induced seismic noise: Implications for gravitational wave detectionMay 9, 2022...</span><span class="citation-popover-meta">Published: May 9, 2022</span></span></span>
+Psychological research shows that certain sounds are highly memorable and can become strongly associated with emotionally significant events. Once a person decides that an encounter was extraordinary, details such as humming, buzzing or vibration may become central features of the recollection even if they were initially vague. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2205.04079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Low coherency of wind induced seismic noise: Implications for gravitational wave detectionMay 9, 2022...</span><span class="citation-popover-meta">Published: May 9, 2022</span></span></span>
 
 This does not imply dishonesty. Human memory reconstructs experiences rather than replaying them exactly. In UFO cases, witnesses often discuss events with investigators, consume media coverage or revisit the memory repeatedly over many years. Each retelling can reinforce particular sensory details.
 
@@ -481,9 +472,7 @@ A hum suggests machinery, power generation or physical movement, which is one re
 
 As a result, humming reports rarely function as standalone proof of anything unusual. Their significance depends almost entirely on context. When a hum appears alongside multiple witnesses, corroborating observations or measurable effects, it becomes part of a larger evidential picture. When it appears alone, it usually tells investigators more about the complexity of human hearing and environmental acoustics than about the nature of the object itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/60vb44wEXyw" title="STRANGE SOUNDS HEARD AROUND THE WORLD?! Trumpets, Booms, and Robotics?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=60vb44wEXyw" target="_blank" rel="noopener noreferrer">STRANGE SOUNDS HEARD AROUND THE WORLD?! Trumpets, Booms, and Robotics?!</a></p><p class="youtube-embed-meta">Channel: Kendall Rae &middot; Views: 374.7K &middot; Uploaded: December 2017 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=60vb44wEXyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=60vb44wEXyw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -881,120 +870,120 @@ As a result, humming reports rarely function as standalone proof of anything unu
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/570623carmichael_dir.htm](https://www.nicap.org/570623carmichael_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
+   Link: <a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
    Published: June 23, 1957  
 
 2. <a id="endnote-2"></a>
    Source: podcasts.happyscribe.com  
-   Link: [https://podcasts.happyscribe.com/conspiracy-theories/mysterious-humming-pt](https://podcasts.happyscribe.com/conspiracy-theories/mysterious-humming-pt)  
+   Link: <a href="https://podcasts.happyscribe.com/conspiracy-theories/mysterious-humming-pt" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/mysterious-humming-pt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 — Conspiracy Theories TranscriptIn 2014, the Canadian government commissioned an official report on the humming, which again showed tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2205.04079](https://arxiv.org/abs/2205.04079)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLow coherency of wind induced seismic noise: Implications for gravitational wave detectionMay 9, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2205.04079" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.04079</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low coherency of wind induced seismic noise: Implications for gravitational wave detectionMay 9, 2022...</p></details>
    Published: May 9, 2022  
 
 4. <a id="endnote-4"></a>
    Source: exxosforum.co.uk  
    Title: While I respect his extensive work and contributions to this  
-   Link: [https://www.exxosforum.co.uk/articles/hum.html](https://www.exxosforum.co.uk/articles/hum.html)  
+   Link: <a href="https://www.exxosforum.co.uk/articles/hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exxosforum.co.uk/articles/hum.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesThe hum may be a result of individuals hearing internal sounds rather than an external n...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm](https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPcat4rephder” The witness head a rapidly oscillating humming sound... Aside from the oscillating hum, the witness also referred to a...</p></details>
+   Link: <a href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>cat4rephder” The witness head a rapidly oscillating humming sound... Aside from the oscillating hum, the witness also referred to a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv The Intrinsic Memorability of Everyday Sounds  
-   Link: [https://arxiv.org/abs/1811.07082](https://arxiv.org/abs/1811.07082)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Intrinsic Memorability of Everyday SoundsNovember 17, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1811.07082" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1811.07082</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Intrinsic Memorability of Everyday SoundsNovember 17, 2018...</p></details>
    Published: November 17, 2018  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufology/ufochap4.htm](https://www.nicap.org/ufology/ufochap4.htm)  
+   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pilots. The mechanism for...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: UF O Chronology Produced for released  
-   Link: [https://www.nicap.org/chronos/1971fullrep.htm](https://www.nicap.org/chronos/1971fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1971fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1971fullrep.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyProduced for released: April 18, 2013. This is an 8-page chronology of UFO incidents and events for 1971. Our thanks for th...</p></details>
    Published: April 18, 2013  
 
 9. <a id="endnote-9"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A [low frequency hum](&amp;#123;&amp;#123; &#x27;low-hums-06eda3/&#x27; | relative_url &amp;#125;&amp;#125;), almost a vibration, just on the threshold of h...</p></details>
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of h...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Hum Works30 Nov 2023 — Hum sufferers describe a low-frequency buzz accompanied by a rumbling vibration. It&#x27;s worse at night, maki...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings](https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings)  
+   Link: <a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of De...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: research report april 8 1955 cherry valley rockford il ufo incidentoverviewon ap  
-   Link: [https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/](https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/)  
+   Link: <a href="https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 1955 – Cherry Valley / Rockford, IL UFO Incident...pdf nicap.org #RockfordScanner #Rockford #Illinois #paranormal #ufos #UAP #k...</p></details>
    Published: April 8, 1955  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ML0eB3HFagM](https://www.youtube.com/watch?v=ML0eB3HFagM)  
+   Link: <a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
 
 16. <a id="endnote-16"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894It is especially important that the NICAP committee be contacted immediately in cases of reported UFO sightings where photog...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm](https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — Over the past decades, UFO sightings became synonymous with aliens. Reports from pilots, military personnel, and c...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: strange case from 1886 involving a humming noise  
-   Link: [https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/](https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and...SS: A Scientific American article about 9 witnesses witnessing a a bright, dazzling light accompanied by a humming noise.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thislocallife.com  
-   Link: [https://www.thislocallife.com/5-ufo-cases-in-ohio](https://www.thislocallife.com/5-ufo-cases-in-ohio)  
+   Link: <a href="https://www.thislocallife.com/5-ufo-cases-in-ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.thislocallife.com/5-ufo-cases-in-ohio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed in our own backyard and several of which involved...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/](https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/)  
+   Link: <a href="https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/qshi7b/the_worldwide_hum_the_mysterious_sound_that_up_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>but they don&#x27;t typically dip into the infrasound range. They...</p></details>

@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Booms
 title: What Causes Mystery Booms in the Sky?
-title_full: What Causes Mystery Booms in the Sky? | UFO Noises
+title_full: What Causes Mystery Booms in the Sky?
 display_title_short: Booms
 display_title: Booms
 heading_title: What Causes Mystery Booms in the Sky?
@@ -352,18 +352,16 @@ image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-overview-social
 
 ## Introduction
 
-Reports of sudden, explosive booms in the sky have long fuelled UFO rumours. A loud blast with no visible [aircraft]({{ 'aircraft/' | relative_url }}), storm or impact can feel deeply unsettling, especially when windows shake, pets react and local authorities initially have no explanation. In UFO culture, these events are often folded into wider stories about unidentified objects, secret technology or strange activity overhead. Yet investigations repeatedly show that many mystery booms have ordinary causes, including meteors, military aircraft, industrial explosions and unusual atmospheric conditions. The challenge is that the sound often arrives before reliable evidence does, creating a window in which speculation can spread faster than [verification]({{ 'verification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
-
+Reports of sudden, explosive booms in the sky have long fuelled UFO rumours. A loud blast with no visible [aircraft]({{ 'aircraft/' | relative_url }}), storm or impact can feel deeply unsettling, especially when windows shake, pets react and local authorities initially have no explanation. In UFO culture, these events are often folded into wider stories about unidentified objects, secret technology or strange activity overhead. Yet investigations repeatedly show that many mystery booms have ordinary causes, including meteors, military aircraft, industrial explosions and unusual atmospheric conditions. The challenge is that the sound often arrives before reliable evidence does, creating a window in which speculation can spread faster than [verification]({{ 'verification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-overview.webp" | relative_url }}" alt="Overview image for Booms" loading="eager" decoding="sync" fetchpriority="high">
 Unlike many UFO reports that focus on lights or shapes, mystery-boom cases are usually driven by timing. Witnesses hear something dramatic, search for an explanation, and often find none immediately. That gap between experience and explanation is where UFO rumours tend to flourish.
 
 ## Boom Reports in UFO Culture
 
-For decades, unexplained booms have appeared alongside UFO reports in newspapers, radio programmes, online forums and paranormal investigations. Witnesses frequently describe a cannon-like blast, a double boom, a distant explosion or a shockwave that seems to come from nowhere. Because the source is often invisible, people may assume something unusual crossed the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+For decades, unexplained booms have appeared alongside UFO reports in newspapers, radio programmes, online forums and paranormal investigations. Witnesses frequently describe a cannon-like blast, a double boom, a distant explosion or a shockwave that seems to come from nowhere. Because the source is often invisible, people may assume something unusual crossed the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
 A recurring pattern appears in many reports:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -378,7 +376,6 @@ A recurring pattern appears in many reports:
 This pattern predates the internet. Along the eastern United States, mysterious booming sounds known as “[Seneca Guns]({{ 'seneca-guns/' | relative_url }})” have been reported for centuries around lakes and coastal regions. Witnesses often compared them to artillery fire or distant naval cannon blasts. Long before modern UFO culture developed, people created [folklore]({{ 'folklore/' | relative_url }}) to explain the sounds. Today, the same kinds of reports are sometimes reframed as possible UFO activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Boom stories&#x27; abound along the U.S.&#x27;s northeast coast.Read more</span><span class="citation-popover-snippet">Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</span></span></span>
 
 The persistence of these stories demonstrates an important point: unexplained booms are not unique to the UFO era. The interpretation changes with the cultural moment. In one century, people may blame spirits or distant battleships. In another, they may suspect extraterrestrial craft.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-1-dark.svg" | relative_url }}" alt="Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Booms Feel More Mysterious Than Lights
@@ -399,12 +396,11 @@ Recent examples illustrate how easily these events can trigger speculation. In 2
 
 Meteor events are especially important in UFO-noise discussions because witnesses may hear the boom without seeing the fireball, particularly during daylight or cloudy conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zv5sBWBQvE0" title="Mysterious sonic boom rattles South Carolina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer">Mysterious sonic boom rattles South Carolina</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 109.3K &middot; Uploaded: May 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zv5sBWBQvE0">Open on YouTube</a></p></div></div></div>
 
 ### Sonic Booms from Aircraft
 
-Military aircraft remain one of the most common explanations for mystery-boom reports. When an aircraft exceeds the speed of sound, the resulting shockwave can create a powerful boom audible over a large area. Depending on weather conditions, the sound may appear detached from its source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+Military aircraft remain one of the most common explanations for mystery-boom reports. When an aircraft exceeds the speed of sound, the resulting shockwave can create a powerful boom audible over a large area. Depending on weather conditions, the sound may appear detached from its source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
 Some investigations have traced regional mystery-boom clusters to military training routes or testing activity. In other cases, officials neither confirm nor deny specific flights, allowing rumours to continue even when the sonic-boom explanation is plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
 
@@ -412,10 +408,9 @@ This uncertainty often feeds UFO narratives. If residents know aircraft exist bu
 
 ### Geological and Atmospheric Sources
 
-Not every unexplained boom comes from the sky. Researchers have examined possible contributions from shallow seismic activity, frost quakes, gas releases and unusual [atmospheric acoustics]({{ 'atmosphere/' | relative_url }}). The U.S. Geological Survey notes that some reports have natural explanations while others remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+Not every unexplained boom comes from the sky. Researchers have examined possible contributions from shallow seismic activity, frost quakes, gas releases and unusual atmospheric acoustics. The U.S. Geological Survey notes that some reports have natural explanations while others remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
-Atmospheric conditions can be particularly deceptive. Temperature inversions can channel and amplify distant sounds, making ordinary events seem much closer and more powerful than they really are. This has been proposed as one possible contributor to some coastal “Seneca Gun” reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
-
+Atmospheric conditions can be particularly deceptive. Temperature [inversions]({{ 'inversions/' | relative_url }}) can channel and amplify distant sounds, making ordinary events seem much closer and more powerful than they really are. This has been proposed as one possible contributor to some coastal “Seneca Gun” reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-2-dark.svg" | relative_url }}" alt="Booms illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Industrial and Human Activity
@@ -434,7 +429,6 @@ When witnesses report a bright streak or flash followed by a delayed boom, inves
 
 A sudden boom with no visible object does not rule out a meteor. Cloud cover, daylight conditions and viewing angle can easily hide the visual component.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lbbjO5xzQSk" title="Unexplained &#x27;Mysterious Booms&#x27; Heard Across the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer">Unexplained &#x27;Mysterious Booms&#x27; Heard Across the World</a></p><p class="youtube-embed-meta">Channel: Beyond Science &middot; Views: 220.1K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lbbjO5xzQSk">Open on YouTube</a></p></div></div></div>
 
 ### Single Boom Versus Repeated Events
@@ -443,24 +437,22 @@ A one-off boom is often easier to connect to a specific event such as a meteor o
 
 This distinction matters because UFO rumours often emerge when people assume every boom belongs to the same mystery. In reality, a region may experience several unrelated causes over time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_TTKx9ILi8" title="Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal the End of the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer">Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal the End of the World</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.8M &middot; Uploaded: October 2023 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_TTKx9ILi8">Open on YouTube</a></p></div></div></div>
 
 ### Comparing Reports Across a Region
 
-Modern investigations increasingly rely on distributed evidence. Seismic [sensors]({{ 'sensors/' | relative_url }}), weather data, flight tracking, satellite observations and public witness reports can be compared to narrow down possibilities. Events that initially appear inexplicable often become clearer once enough observations are collected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
+Modern investigations increasingly rely on distributed evidence. Seismic [sensors]({{ 'sensors/' | relative_url }}), weather data, flight tracking, satellite observations and public witness reports can be compared to narrow down possibilities. Events that initially appear inexplicable often become clearer once enough observations are collected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
 
 The 2026 New England meteor is a good example. Early reports described explosions, shaking and mysterious booms. Within hours, observations from NASA, the American Meteor Society and geological monitoring networks helped reconstruct the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-3-dark.svg" | relative_url }}" alt="Booms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some Mystery Booms Remain Unexplained
 
-Not every case reaches a satisfying conclusion. The USGS acknowledges that some boom reports have never been definitively explained. Historical “Seneca Gun” accounts remain a notable example. Centuries of reports have produced numerous theories but no single accepted cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
+Not every case reaches a satisfying conclusion. The USGS acknowledges that some boom reports have never been definitively explained. Historical “Seneca Gun” accounts remain a notable example. Centuries of reports have produced numerous theories but no single accepted cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
 
 Unexplained does not automatically mean extraterrestrial. Many boom events leave little physical evidence, occur over large areas and are reported only after the fact. Without recordings, sensor data or direct observations, investigators may simply lack enough information to identify a source confidently.
 
-This ambiguity helps explain why mystery booms occupy a durable place in UFO culture. They are dramatic enough to be memorable, rare enough to feel unusual and often difficult to verify. Most eventually point toward known natural or human causes, but a residual category of unresolved reports continues to encourage speculation, folklore and debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
+This ambiguity helps explain why mystery booms occupy a durable place in UFO culture. They are dramatic enough to be memorable, rare enough to feel unusual and often difficult to verify. Most eventually point toward known natural or human causes, but a residual category of unresolved reports continues to encourage speculation, folklore and debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -858,121 +850,121 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
 
 1. <a id="endnote-1"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds](https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USGSEarthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</p></details>
+   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: audiology.org  
    Title: [skyquakes](&#123;&#123; 'skyquakes/' | relative_url &#125;&#125;) did you hear it  
-   Link: [https://www.audiology.org/skyquakes-did-you-hear-it/](https://www.audiology.org/skyquakes-did-you-hear-it/)  
+   Link: <a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Skyquake](https://en.wikipedia.org/wiki/Skyquake)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteor air burst  
-   Link: [https://en.wikipedia.org/wiki/Meteor_air_burst](https://en.wikipedia.org/wiki/Meteor_air_burst)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
 
 5. <a id="endnote-5"></a>
    Source: sharonahill.com  
-   Link: [https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/](https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/)  
+   Link: <a href="https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HillMystery booms of 2022 - Sharon A. HillJanuary 2, 2023 — 2 Jan 2023 — 4 were definite meteor airburst/sonic booms; 3 were definite or...</p></details>
    Published: January 2, 2023  
 
 6. <a id="endnote-6"></a>
    Source: news.sky.com  
    Title: loud booms from exploding meteor heard across the us 13549426  
-   Link: [https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426](https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426)  
+   Link: <a href="https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>booms from exploding meteor heard across the USThe American Meteor Society said that the booms were caused by a meteor about three feet w...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: coastalreview.org  
    Title: Coastal Review Seneca Guns?  
-   Link: [https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/](https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/)  
+   Link: <a href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow">https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</p></details>
    Published: March 7, 2019  
 
 8. <a id="endnote-8"></a>
    Source: livescience.com  
    Title: 'Boom stories' abound along the U.S.'s northeast coast.Read more  
-   Link: [https://www.livescience.com/agu-seneca-guns-cause.html](https://www.livescience.com/agu-seneca-guns-cause.html)  
+   Link: <a href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/agu-seneca-guns-cause.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us](https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us)  
+   Link: <a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</p></details>
    Published: March 17, 2026  
 
 10. <a id="endnote-10"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844](https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844)  
+   Link: <a href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Meteor Society and NASA confirmed that a meteor, about three feet wide, entered the atmosphere around 2:06 p.m. near the New...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php](https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms](https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/](https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/)  
+   Link: <a href="https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERY SOLVED: The boom that rattled Massachusetts...MYSTERY SOLVED: The boom that rattled Massachusetts Saturday was caused by a 3-foo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zv5sBWBQvE0](https://www.youtube.com/watch?v=zv5sBWBQvE0)  
+   Link: <a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zv5sBWBQvE0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sonic boom rattles South CarolinaThe U.S. Geological Survey says the boom was not the result of an earthquake, while NASA says...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Seconds later, a loud boom is heard, followed by someone asking,  
-   Link: [https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/](https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/)  
+   Link: <a href="https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this video, what appears to be a jet or meteor can be seen...In this video, what appears to be a jet or meteor can be seen crossing t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: candidslice.com  
    Title: legend of the seneca guns mysterious booms across east coast  
-   Link: [https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/](https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/)  
+   Link: <a href="https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legend of the Seneca Guns: Mysterious Booms Across East...30 Oct 2018 — The primary legend believed by European settlers is that the boo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: Sometimes, Seneca Lake makes a sound like a cannon  
-   Link: [https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/](https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/)  
+   Link: <a href="https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite years of study, many Seneca Guns remain unexplained, with no matching seismic or weather events. For coastal residents, these boo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DY7hNitDk8F/](https://www.instagram.com/p/DY7hNitDk8F/)  
+   Link: <a href="https://www.instagram.com/p/DY7hNitDk8F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7hNitDk8F/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n caused by a meteor or space debris re-entering the atmosphere.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/](https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le traveling through our athmosphere. In the time decending...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DY8SGDSxnf3/](https://www.instagram.com/reel/DY8SGDSxnf3/)  
+   Link: <a href="https://www.instagram.com/reel/DY8SGDSxnf3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY8SGDSxnf3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>while NASA says it was not caused by a launch or meteor. NBC News&#x27;...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/](https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/)  
+   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>usually bright fireball meteors can create a sonic boom.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/](https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/)  
+   Link: <a href="https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t Andrews and was heard and felt across the Midlands on Thursday...</p></details>

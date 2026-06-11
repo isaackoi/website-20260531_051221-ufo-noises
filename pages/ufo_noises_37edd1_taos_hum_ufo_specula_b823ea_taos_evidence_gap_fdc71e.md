@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /taos-hum/
 nav_short_title: Evidence Gap
 title: What the Taos Evidence Really Leaves Open
-title_full: What the Taos Evidence Really Leaves Open | Taos Hum
+title_full: What the Taos Evidence Really Leaves Open
 display_title_short: Evidence Gap
 display_title: Evidence Gap
 heading_title: What the Taos Evidence Really Leaves Open
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:00:26'
-parent_title: Why Is the Taos Hum Linked to UFOs? | UFO Noises
+parent_title: Why Is the Taos Hum Linked to UFOs?
 parent_permalink: /taos-hum/
 parent_nav_short_title: Taos Hum
 parent_heading_title: Why Is the Taos Hum Linked to UFOs?
@@ -276,9 +276,8 @@ image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidenc
 
 The [Taos Hum]({{ 'taos-hum/' | relative_url }}) became famous not because investigators proved a strange cause, but because they failed to identify a single accepted one. That distinction matters. In discussions about [UFO noises]({{ 'ufo-noises/' | relative_url }}), the Taos case is often presented as evidence that something extraordinary was operating near Taos, New Mexico. The actual investigations reached a narrower conclusion: residents were reporting a real experience, but researchers could not find one external source that explained every report. That left an evidence gap rather than proof of aliens, secret aircraft, underground bases or other extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos humApr 16, 2017 — Many Taos residents feel that the government may somehow be involv...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gap illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding what the investigations did not prove is essential to understanding why the Taos Hum remains influential. Uncertainty can sustain speculation for decades, especially when a phenomenon is difficult to measure and only a minority of people report hearing it. The absence of a definitive answer became part of the mystery, but it did not automatically validate the most dramatic theories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">ICBENThe results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</span></span></span>
+Understanding what the investigations did not prove is essential to understanding why the Taos Hum remains influential. Uncertainty can sustain speculation for decades, especially when a phenomenon is difficult to measure and only a minority of people report hearing it. The absence of a definitive answer became part of the mystery, but it did not automatically validate the most dramatic theories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</span></span></span>
 
 ## What Formal Investigations Tried to Test
 
@@ -287,7 +286,6 @@ The best-known Taos investigation emerged after complaints from residents attrac
 Investigators also looked at the characteristics of the reports themselves. One unusual finding was that hearers did not always describe exactly the same frequency or acoustic signature. Studies associated with the Taos Hum suggested that only a small percentage of residents reported hearing the sound, and different hearers often perceived it somewhat differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 That result created a methodological problem. If there was a single external source, researchers expected a clearer and more consistent acoustic pattern. Instead, they faced a mixture of personal reports, environmental measurements and incomplete correlations between the two. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos humApr 16, 2017 — Many Taos residents feel that the government may somehow be involv...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eyIuD3yD3No" title="Mystery of The Taos Hum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer">Mystery of The Taos Hum</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 4.1K &middot; Uploaded: January 2025 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eyIuD3yD3No">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +301,7 @@ Several possibilities remained plausible after the investigations:
 * Electrical infrastructure.
 * Ventilation or mechanical systems.
 * Multiple unrelated low-frequency sources affecting different listeners.
-* Auditory or physiological factors influencing perception. HowStuffWorks Researchers never reached consensus on which explanation <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">HowStuffWorksHow the Hum WorksNov 30, 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of cours...</span></span></span>, if any, accounted for all reported cases. In practice, the investigation left open the possibility that more than one mechanism was involved. Some hearers may have been responding to environmental noise, while others may have been experiencing a different phenomenon entirely. The International Tinnitus Journal PubMed The key point is that the investigation's inability to isolate a source was not equivalent to finding evidence against conventional causes. I <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[csmonitor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Mysterious hum The hunt for a source</span><span class="citation-popover-snippet">Mysterious hum: The hunt for a source27 Jul 2013 — It&#x27;s known as the Hum, a steady, droning sound that&#x27;s heard in places as disparate as...</span></span></span> t was evidence that the available data were insufficient to produce a definitive attribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">ICBENThe results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</span></span></span>
-
+* Auditory or physiological factors influencing perception. HowStuffWorks Researchers never reached consensus on which explanation <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum WorksNov 30, 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of cours...</span></span></span>, if any, accounted for all reported cases. In practice, the investigation left open the possibility that more than one mechanism was involved. Some hearers may have been responding to environmental noise, while others may have been experiencing a different phenomenon entirely. The International Tinnitus Journal PubMed The key point is that the investigation's inability to isolate a source was not equivalent to finding evidence against conventional causes. I <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[csmonitor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Mysterious hum The hunt for a source</span><span class="citation-popover-snippet">Mysterious hum: The hunt for a source27 Jul 2013 — It&#x27;s known as the Hum, a steady, droning sound that&#x27;s heard in places as disparate as...</span></span></span> t was evidence that the available data were insufficient to produce a definitive attribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Gap illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Investigations Did Not Prove About UFOs
@@ -312,7 +309,6 @@ Several possibilities remained plausible after the investigations:
 The Taos Hum is frequently mentioned in UFO discussions because it shares a familiar pattern: unusual reports, incomplete evidence and public frustration with official explanations. Yet the formal investigations did not produce evidence linking the Hum to extraterrestrial activity, unidentified craft or any verified UFO event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticalsociety.org">[Acoustical Society of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticalsociety.org</span><span class="citation-popover-snippet">Acoustical Society of AmericaThe mystery of the Taos humApr 16, 2017 — Many Taos residents feel that the government may somehow be involv...</span></span></span>
 
 Investigators did not discover:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -326,19 +322,17 @@ Investigators did not discover:
 
 This distinction often disappears in popular [retellings]({{ 'retellings/' | relative_url }}). A mystery can become associated with UFO speculation simply because no accepted explanation exists. However, an unexplained event and a UFO-related event are not the same category of evidence. The Taos investigations left the cause unresolved, but they did not generate positive evidence for an extraterrestrial explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beyondhaunted.com/blog/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beyondhaunted.com">[BeyondHaunted.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beyondhaunted.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">The Taos Hum Mystery: Science, Theories, &amp; the Unanswered...17 Mar 2026 — There is no verified evidence that the Taos Hum was caused by...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_NJsDFR5Yh8" title="The Haunting Hymn of the Taos Hum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_NJsDFR5Yh8" target="_blank" rel="noopener noreferrer">The Haunting Hymn of the Taos Hum</a></p><p class="youtube-embed-meta">Channel: Great Big Story &middot; Views: 362.5K &middot; Uploaded: October 2017 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_NJsDFR5Yh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_NJsDFR5Yh8">Open on YouTube</a></p></div></div></div>
 
 ## How Evidence Gaps Invite Extraordinary Claims
 
 The most enduring legacy of the Taos Hum may be the way uncertainty itself became part of the story.
 
-When investigators cannot identify a source, many people interpret the gap in different ways. Some see it as evidence that science has not yet solved the problem. Others treat the absence of an explanation as evidence for a hidden one. The latter tendency has fuelled decades of speculation involving underground bases, secret military projects, mind-control experiments and UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">HowStuffWorksHow the Hum WorksNov 30, 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of cours...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...Jul 8, 2021 — When it comes to online discourse about the Hum, the boundaries between science, consp...</span></span></span>
+When investigators cannot identify a source, many people interpret the gap in different ways. Some see it as evidence that science has not yet solved the problem. Others treat the absence of an explanation as evidence for a hidden one. The latter tendency has fuelled decades of speculation involving underground bases, secret military projects, mind-control experiments and UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum WorksNov 30, 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of cours...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...Jul 8, 2021 — When it comes to online discourse about the Hum, the boundaries between science, consp...</span></span></span>
 
-Online discussions illustrate this pattern clearly. Explanations frequently move from "researchers could not identify the source" to "therefore authorities are concealing the source" or "therefore the source is non-human". Those conclusions do not follow from the available evidence. They fill a gap rather than resolve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The &quot;Taos Hum&quot; is a mysterious low-frequency</span><span class="citation-popover-snippet">RedditThe &quot;Taos Hum&quot; is a mysterious low-frequency...December 16, 2022 — The &quot;Taos Hum&quot; is a mysterious low-frequency humming noise that...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/mystery/comments/xuz9us/the_taos_hum_residents_of_taos_in_new_mexico_have/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ILFN). The most probable cause is high-pressure gas pipelines.Read more...</span></span></span>
+Online discussions illustrate this pattern clearly. Explanations frequently move from "researchers could not identify the source" to "therefore authorities are concealing the source" or "therefore the source is non-human". Those conclusions do not follow from the available evidence. They fill a gap rather than resolve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The &quot;Taos Hum&quot; is a mysterious low-frequency</span><span class="citation-popover-snippet">The &quot;Taos Hum&quot; is a mysterious low-frequency...December 16, 2022 — The &quot;Taos Hum&quot; is a mysterious low-frequency humming noise that...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/mystery/comments/xuz9us/the_taos_hum_residents_of_taos_in_new_mexico_have/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ILFN). The most probable cause is high-pressure gas pipelines.Read more...</span></span></span>
 
-The Taos case is therefore a useful example of a broader problem in UFO-related debates. A lack of explanation can increase curiosity, but it does not automatically increase evidence for any particular extraordinary theory. The mystery remains because investigators did not prove what caused the Hum, not because they proved that the cause was alien, paranormal or technologically impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">ICBENThe results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Mysterious hum The hunt for a source</span><span class="citation-popover-snippet">Mysterious hum: The hunt for a source27 Jul 2013 — It&#x27;s known as the Hum, a steady, droning sound that&#x27;s heard in places as disparate as...</span></span></span>
-
+The Taos case is therefore a useful example of a broader problem in UFO-related debates. A lack of explanation can increase curiosity, but it does not automatically increase evidence for any particular extraordinary theory. The mystery remains because investigators did not prove what caused the Hum, not because they proved that the cause was alien, paranormal or technologically impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">Mysterious hum The hunt for a source</span><span class="citation-popover-snippet">Mysterious hum: The hunt for a source27 Jul 2013 — It&#x27;s known as the Hum, a steady, droning sound that&#x27;s heard in places as disparate as...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Gap illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_evidence_gap_fdc71e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Evidence Really Leaves Open
@@ -347,11 +341,9 @@ The strongest evidence-based position on the Taos Hum is narrower than either sc
 
 The investigations support several conclusions: people genuinely reported hearing something; the reports were consistent enough to warrant study; researchers struggled to identify a single accepted source; and no investigation produced definitive evidence for a UFO connection. Acoustical Society of America <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osti.gov/biblio/6963322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">A perceived low-frequency sound in Taos, New Mexicoby JH Mullins · 1994 — Persistent complaints of an annoying low-frequency sound in Nor...</span></span></span>
 
-What remains open is whether the Hum represents an especially difficult environmental noise problem, a mixture of several unrelated causes, a phenomenon involving human perception as much as acoustics, or some combination of those factors. What remains unsupported is the leap from "unexplained" to "extraterrestrial". The Taos investigations left a genuine mystery, but they left it as a mystery rather than as proof of a UFO-related sound. The International Tinnitus Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum is a phenomenon occurring w...</span></span></span>
-
+What remains open is whether the Hum represents an especially difficult environmental noise problem, a mixture of several unrelated causes, a phenomenon involving human perception as much as acoustics, or some combination of those factors. What remains unsupported is the leap from "unexplained" to "extraterrestrial". The Taos investigations left a genuine mystery, but they left it as a mystery rather than as proof of a UFO-related sound. The International Tinnitus Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum is a phenomenon occurring w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ftUO9cGkTEY" title="The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer">The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 1.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ftUO9cGkTEY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -749,159 +741,159 @@ What remains open is whether the Hum represents an especially difficult environm
 
 1. <a id="endnote-1"></a>
    Source: osti.gov  
-   Link: [https://www.osti.gov/biblio/6963322](https://www.osti.gov/biblio/6963322)  
+   Link: <a href="https://www.osti.gov/biblio/6963322" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/biblio/6963322</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A perceived low-frequency sound in Taos, New Mexicoby JH Mullins · 1994 — Persistent complaints of an annoying low-frequency sound in Nor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: icben.ethz.ch  
-   Link: [https://icben.ethz.ch/2008/PDFs/Cowan.pdf](https://icben.ethz.ch/2008/PDFs/Cowan.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICBENThe results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</p></details>
+   Link: <a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The results of hum studies in the United Statesby JP Cowan · Cited by 4 — The most publicized of the American hum studies took place...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksHow the Hum WorksNov 30, 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of cours...</p></details>
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Hum WorksNov 30, 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of cours...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: beyondhaunted.com  
    Title: taos hum mystery  
-   Link: [https://beyondhaunted.com/blog/taos-hum-mystery](https://beyondhaunted.com/blog/taos-hum-mystery)  
+   Link: <a href="https://beyondhaunted.com/blog/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/taos-hum-mystery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Mystery: Science, Theories, &amp; the Unanswered...17 Mar 2026 — There is no verified evidence that the Taos Hum was caused by...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: The "Taos Hum" is a mysterious low-frequency  
-   Link: [https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/](https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe &quot;Taos Hum&quot; is a mysterious low-frequency...December 16, 2022 — The &quot;Taos Hum&quot; is a mysterious low-frequency [humming](&amp;#123;&amp;#123; &#x27;humming/&#x27; | relative_url &amp;#125;&amp;#125;) noise that...</p></details>
+   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Taos Hum&quot; is a mysterious low-frequency...December 16, 2022 — The &quot;Taos Hum&quot; is a mysterious low-frequency [humming](&amp;#123;&amp;#123; &#x27;humming/&#x27; | relative_url &amp;#125;&amp;#125;) noise that...</p></details>
    Published: December 16, 2022  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mystery/comments/xuz9us/the_taos_hum_residents_of_taos_in_new_mexico_have/](https://www.reddit.com/r/mystery/comments/xuz9us/the_taos_hum_residents_of_taos_in_new_mexico_have/)  
+   Link: <a href="https://www.reddit.com/r/mystery/comments/xuz9us/the_taos_hum_residents_of_taos_in_new_mexico_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/xuz9us/the_taos_hum_residents_of_taos_in_new_mexico_have/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(ILFN). The most probable cause is high-pressure gas [pipelines](&amp;#123;&amp;#123; &#x27;pipelines/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Taos, New Mexico  
-   Link: [https://en.wikipedia.org/wiki/Taos%2C_New_Mexico](https://en.wikipedia.org/wiki/Taos%2C_New_Mexico)  
+   Link: <a href="https://en.wikipedia.org/wiki/Taos%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taos%2C_New_Mexico</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New MexicoTaos (/taʊs/) is a town in Taos County, in the north-central region of New Mexico. Situated between the Rio Grande Gor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/9at26p/cracking_the_mystery_of_the_worldwide_hum/](https://www.reddit.com/r/UnresolvedMysteries/comments/9at26p/cracking_the_mystery_of_the_worldwide_hum/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/9at26p/cracking_the_mystery_of_the_worldwide_hum/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/9at26p/cracking_the_mystery_of_the_worldwide_hum/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s a distant rumbling or droning noise...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Mystery of The Taos Hum  
-   Link: [https://www.youtube.com/watch?v=eyIuD3yD3No](https://www.youtube.com/watch?v=eyIuD3yD3No)  
+   Link: <a href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eyIuD3yD3No</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ftUO9cGkTEY](https://www.youtube.com/watch?v=ftUO9cGkTEY)  
+   Link: <a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ftUO9cGkTEY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 - The Taos Hum Mystery: A Sound No One Could Explain...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: acousticalsociety.org  
-   Link: [https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf](https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf)  
+   Link: <a href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of AmericaThe mystery of the Taos humApr 16, 2017 — Many Taos residents feel that the government may somehow be involv...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: csmonitor.com  
    Title: Mysterious hum The hunt for a source  
-   Link: [https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source](https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0727/Mysterious-hum-The-hunt-for-a-source</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious hum: The hunt for a source27 Jul 2013 — It&#x27;s known as the Hum, a steady, droning sound that&#x27;s heard in places as disparate as...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27488996/](https://pubmed.ncbi.nlm.nih.gov/27488996/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum is a phenomenon occurring w...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27488996/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum is a phenomenon occurring w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...Jul 8, 2021 — When it comes to online discourse about the Hum, the boundaries between science, consp...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: [https://www.thrillist.com/travel/nation/taos-hum-mystery](https://www.thrillist.com/travel/nation/taos-hum-mystery)  
+   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — According to self-reported testimony, 2% of the area&#x27;s population is able to hear...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: Can you hear the mysterious 'global Hum'?  
-   Link: [https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do](https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do)  
+   Link: <a href="https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently...16 Mar 2019 — Up to 4% of people around the world are thought to hear the strange, low-pitched noise. Its actual source is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: astonishinglegends.com  
    Title: the taos hum  
-   Link: [https://astonishinglegends.com/astonishing-legends/2020/10/15/the-taos-hum](https://astonishinglegends.com/astonishing-legends/2020/10/15/the-taos-hum)  
+   Link: <a href="https://astonishinglegends.com/astonishing-legends/2020/10/15/the-taos-hum" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2020/10/15/the-taos-hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Oct 2020 — The residents in Taos, New Mexico noticed the constant high frequency humming noises in their town. What are they? Why has...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/31627](https://encyclopedia.pub/entry/31627)  
+   Link: <a href="https://encyclopedia.pub/entry/31627" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/31627</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hum | Encyclopedia MDPI26 Oct 2022 — A study into the Taos Hum indicated that at least two percent could hear it; each hearer at a di...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: victoriagunn.com  
-   Link: [https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum](https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum)  
+   Link: <a href="https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum" target="_blank" rel="noopener noreferrer nofollow">https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos Hum Mystery in Taos, NM | Wonders of TaosThe Taos Hum is a mysterious low-frequency sound reported by a significant number of locals...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40amanvermezy/the-enigma-of-the-taos-hum-unraveling-natures-mystery-f3350605954a](https://medium.com/%40amanvermezy/the-enigma-of-the-taos-hum-unraveling-natures-mystery-f3350605954a)  
+   Link: <a href="https://medium.com/%40amanvermezy/the-enigma-of-the-taos-hum-unraveling-natures-mystery-f3350605954a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40amanvermezy/the-enigma-of-the-taos-hum-unraveling-natures-mystery-f3350605954a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: Unraveling Nature&#x27;s MysteryThis phenomenon is a distinct audible sound that originates in the town of Taos in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672](https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672)  
+   Link: <a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Had Residents In New Mexico Convinced...5 Jul 2023 — “In the United States, the first formal study to determine the source...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist](https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist)  
+   Link: <a href="https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Low-Frequency Noise That Drives People to the Edge — and Has No Proven Source.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_NJsDFR5Yh8](https://www.youtube.com/watch?v=_NJsDFR5Yh8)  
+   Link: <a href="https://www.youtube.com/watch?v=_NJsDFR5Yh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NJsDFR5Yh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Haunting Hymn of the Taos HumIn Taos, New Mexico, a strange, low-frequency hum plagues two percent of the local population. This pers...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: latimes.com  
-   Link: [https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html](https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1993-07-18-me-14295-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Low-Level Noise Destroys Peace, Serenity of...18 Jul 1993 — A Defense Department official has emphatically denied it to a U.S...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: bonblossman.com  
    Title: the enigma of the taos hum a mysterious phenomenon  
-   Link: [https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon](https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon)  
+   Link: <a href="https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: A Mysterious PhenomenonDec 15, 2023 — The Taos Hum is described as a faint, low-frequency humming noise, akin...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: listverse.com  
-   Link: [https://listverse.com/2023/04/11/top-10-amazing-facts-about-the-taos-hum-thats-heard-worldwide/](https://listverse.com/2023/04/11/top-10-amazing-facts-about-the-taos-hum-thats-heard-worldwide/)  
+   Link: <a href="https://listverse.com/2023/04/11/top-10-amazing-facts-about-the-taos-hum-thats-heard-worldwide/" target="_blank" rel="noopener noreferrer nofollow">https://listverse.com/2023/04/11/top-10-amazing-facts-about-the-taos-hum-thats-heard-worldwide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Amazing Facts about the Taos Hum That&#x27;s Heard...Apr 11, 2023 — Some theories suggest the Hum is related to mind control or popula...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/beyond-the-stars/the-taos-hum-a-persistent-mystery-of-the-low-frequency-drone-4378755ebffd](https://medium.com/beyond-the-stars/the-taos-hum-a-persistent-mystery-of-the-low-frequency-drone-4378755ebffd)  
+   Link: <a href="https://medium.com/beyond-the-stars/the-taos-hum-a-persistent-mystery-of-the-low-frequency-drone-4378755ebffd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/beyond-the-stars/the-taos-hum-a-persistent-mystery-of-the-low-frequency-drone-4378755ebffd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>product of classified military programs or experiments, such...Read more...</p></details>

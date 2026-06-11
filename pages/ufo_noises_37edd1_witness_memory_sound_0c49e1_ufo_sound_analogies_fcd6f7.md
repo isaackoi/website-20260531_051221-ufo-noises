@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /memory/
 nav_short_title: Sound Analogies
 title: Why UFO Hums Sound Like Familiar Machines
-title_full: Why UFO Hums Sound Like Familiar Machines | Memory
+title_full: Why UFO Hums Sound Like Familiar Machines
 display_title_short: Sound Analogies
 display_title: Sound Analogies
 heading_title: Why UFO Hums Sound Like Familiar Machines
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:03:57'
-parent_title: How Memory Changes UFO Sounds | UFO Noises
+parent_title: How Memory Changes UFO Sounds
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: How Memory Changes UFO Sounds
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_an
 
 When people describe a UFO hum, they rarely leave it as an unknown sound. Instead, they reach for comparisons: a high-voltage transformer, a swarm of bees, a turbine, an electric motor, a diesel engine or a distant generator. These analogies appear throughout decades of UFO reports and reveal something important about witness [memory]({{ 'memory/' | relative_url }}). They show how people translate an unfamiliar sensory experience into language that others can understand.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-1-dark.svg" | relative_url }}" alt="Sound Analogies illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The comparisons do not necessarily tell investigators what produced the sound. A report that says a UFO “sounded like a transformer” does not prove the presence of electrical machinery any more than a description of a light “like a star” proves an object was astronomical. What the analogies do reveal is how witnesses organise ambiguous perceptions, especially when confronted with an event they consider unusual or shocking. Over time, these shared descriptions can become part of UFO culture itself, influencing how later witnesses describe what they heard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&amp;context=amst_etds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalrepository.unm.edu">[UNM Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalrepository.unm.edu</span><span class="citation-popover-snippet">witness UFO accounts may yield fruitful results in determining how schemas may ―fill-out‖ ambiguous patches of our memories in order for...</span></span></span>
 
@@ -285,7 +284,6 @@ The comparisons do not necessarily tell investigators what produced the sound. A
 Human beings are generally poor at describing sounds in purely technical terms. Most people cannot estimate frequency ranges, acoustic power or modulation patterns during a brief unexpected event. Instead, they compare an unfamiliar noise to something already stored in memory.
 
 A witness who hears a low, continuous vibration may say it sounded like:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -298,7 +296,6 @@ A witness who hears a low, continuous vibration may say it sounded like:
 </div>
 
 Someone hearing a higher-pitched sound may compare it to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -314,7 +311,6 @@ These comparisons are useful because they communicate texture rather than measur
 
 The problem is that two witnesses can hear the same sound and choose entirely different analogies. One person's “electrical hum” may become another person's “engine noise”. The comparison reflects both the original perception and the witness's own experiences with familiar sounds. Research on memory reconstruction suggests that people often fill gaps in sensory recollection by matching incomplete impressions to known categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&amp;context=amst_etds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalrepository.unm.edu">[UNM Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalrepository.unm.edu</span><span class="citation-popover-snippet">witness UFO accounts may yield fruitful results in determining how schemas may ―fill-out‖ ambiguous patches of our memories in order for...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZKQGzIddM4" title="Understanding UFOs with Dr. Michio Kaku" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZKQGzIddM4" target="_blank" rel="noopener noreferrer">Understanding UFOs with Dr. Michio Kaku</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 268.4K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZKQGzIddM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZKQGzIddM4">Open on YouTube</a></p></div></div></div>
 
 ## The Most Common Analogies in UFO Sound Reports
@@ -327,7 +323,6 @@ This analogy became especially common after the spread of large electrical infra
 
 The attraction of the transformer analogy is obvious. It combines several qualities frequently reported in UFO encounters:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * A continuous low-frequency hum.
@@ -337,7 +332,7 @@ The attraction of the transformer analogy is obvious. It combines several qualit
 
 </div>
 
-In many accounts, witnesses say they could feel the vibration through the ground or through their bodies, reinforcing the comparison with heavy electrical equipment. Some UFO researchers even speculated that electromagnetic effects might explain these reports, though the sound descriptions themselves cannot establish that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUfology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</span></span></span>
+In many accounts, witnesses say they could feel the vibration through the ground or through their bodies, reinforcing the comparison with heavy electrical equipment. Some UFO researchers even speculated that electromagnetic effects might explain these reports, though the sound descriptions themselves cannot establish that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</span></span></span>
 
 ### Bees, Insects and Swarms
 
@@ -347,14 +342,12 @@ The insect analogy is notable because it appears in many different contexts beyo
 
 The bee comparison may persist because it captures a specific acoustic quality: a layered vibration that feels alive or mobile rather than purely mechanical. A witness struggling to describe a fluctuating hum may find “swarm of bees” more expressive than a technical description.
 
-Modern online discussions show the same pattern. Witnesses and enthusiasts frequently ask whether others have heard UFO sounds resembling insect swarms, suggesting that the analogy remains culturally powerful even in contemporary reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/9lnwz6/any_ufo_reports_where_the_ufo_sounded_like_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAny UFO reports where the UFO sounded like a &quot;swarm of...Please share story/links if you have any...</span></span></span>
-
+Modern online discussions show the same pattern. Witnesses and enthusiasts frequently ask whether others have heard UFO sounds resembling insect swarms, suggesting that the analogy remains culturally powerful even in contemporary reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/9lnwz6/any_ufo_reports_where_the_ufo_sounded_like_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Any UFO reports where the UFO sounded like a &quot;swarm of...Please share story/links if you have any...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-2-dark.svg" | relative_url }}" alt="Sound Analogies illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Turbines, Engines and Generators
 
 Mechanical comparisons are equally common. Witnesses often invoke:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -370,7 +363,6 @@ These analogies usually appear when a sound seems powerful yet difficult to iden
 
 An important limitation is that many conventional machines can create similar acoustic impressions. Industrial equipment, distant aircraft, ventilation systems and power infrastructure can all produce low-frequency humming or droning sounds. Investigations of unexplained “hum” phenomena have repeatedly examined these ordinary sources because people often struggle to determine the true [direction]({{ 'direction/' | relative_url }}) and origin of persistent low-frequency sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a45853407/the-hum-what-is-mystery-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">the hum what is mystery noise</span><span class="citation-popover-snippet">Popular Mechanics&#x27;The Hum&#x27; Noise: Mystery Sound Is Invading Towns16 Nov 2023 — When asked if The Hum could be evidence of a UFO, accordin...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4wYNUP8FJDc" title="The Proof Is Out There: Strange Alien Sounds FINALLY Explained | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4wYNUP8FJDc" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Strange Alien Sounds FINALLY Explained | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 283.9K &middot; Uploaded: March 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4wYNUP8FJDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4wYNUP8FJDc">Open on YouTube</a></p></div></div></div>
 
 ## What These Comparisons Reveal
@@ -380,7 +372,6 @@ The analogies tell investigators more about perception than about propulsion.
 When multiple witnesses independently describe a sound as transformer-like, that may suggest they all noticed a similar acoustic character. However, it does not reveal the actual source. A transformer analogy identifies a resemblance, not a mechanism.
 
 The comparisons can still provide useful clues:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,7 +386,6 @@ In this sense, analogies function as a form of informal acoustic classification.
 
 At the same time, the analogies can obscure important differences. Two witnesses may both say “it sounded like a transformer” while referring to very different volumes, pitches or durations. The familiar comparison can create an illusion of precision that is not actually present in the underlying memory.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-3-dark.svg" | relative_url }}" alt="Sound Analogies illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_ufo_sound_analogies_fcd6f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How UFO Culture Shapes Later Descriptions
 
@@ -404,7 +394,6 @@ One of the most interesting features of UFO sound reports is that the language o
 Early reports may contain simple statements such as “a humming noise” or “a buzzing sound”. Later [retellings]({{ 'retellings/' | relative_url }}) sometimes become more elaborate, adding layered comparisons involving transformers, turbines or electrical systems. This does not automatically mean the witness is inventing details. Memory research shows that recollections are reconstructed over time, often incorporating new frameworks and vocabulary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&amp;context=amst_etds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalrepository.unm.edu">[UNM Digital Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalrepository.unm.edu</span><span class="citation-popover-snippet">witness UFO accounts may yield fruitful results in determining how schemas may ―fill-out‖ ambiguous patches of our memories in order for...</span></span></span>
 
 Popular culture also contributes. Science-fiction films, television programmes and UFO books have established a familiar sonic vocabulary:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -418,7 +407,6 @@ Popular culture also contributes. Science-fiction films, television programmes a
 Once these sound templates become culturally familiar, witnesses may find them easier to use when describing ambiguous experiences. A person searching for words may unconsciously borrow from existing UFO language because it feels like the closest available match.
 
 Online communities can reinforce the effect. Discussions comparing UFO sounds to transformers, insects or industrial machinery create a shared catalogue of descriptions. Later witnesses encountering similar experiences may naturally adopt the same analogies, whether or not the sounds were actually identical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Strange Sound That Accompanies UFOsWhy do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FigHs7YUXqk" title="No One Can Stop The Hum Haunting This Island - Would You Dare Visit?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FigHs7YUXqk" target="_blank" rel="noopener noreferrer">No One Can Stop The Hum Haunting This Island - Would You Dare Visit?</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 5.1K &middot; Uploaded: March 2026 &middot; Length: 2 hours 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FigHs7YUXqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FigHs7YUXqk">Open on YouTube</a></p></div></div></div>
 
@@ -826,119 +814,119 @@ What they do reveal is how people confront unfamiliar sensations. Faced with an 
 
 1. <a id="endnote-1"></a>
    Source: digitalrepository.unm.edu  
-   Link: [https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&context=amst_etds](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&context=amst_etds)  
+   Link: <a href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&amp;context=amst_etds" target="_blank" rel="noopener noreferrer nofollow">https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1009&amp;context=amst_etds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>witness UFO accounts may yield fruitful results in determining how schemas may ―fill-out‖ ambiguous patches of our memories in order for...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufology/ufochap4.htm](https://www.nicap.org/ufology/ufochap4.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUfology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</p></details>
+   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
    Title: science pesky ufos  
-   Link: [https://time.com/archive/6881438/science-pesky-ufos/](https://time.com/archive/6881438/science-pesky-ufos/)  
+   Link: <a href="https://time.com/archive/6881438/science-pesky-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6881438/science-pesky-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science: Pesky UFO&#x27;s19 Nov 1978 — They heard a humming noise, and lights around the bottom edge of the object were blinking on and off, g...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/9lnwz6/any_ufo_reports_where_the_ufo_sounded_like_a/](https://www.reddit.com/r/UFOs/comments/9lnwz6/any_ufo_reports_where_the_ufo_sounded_like_a/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAny UFO reports where the UFO sounded like a &quot;swarm of...Please share story/links if you have any...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/9lnwz6/any_ufo_reports_where_the_ufo_sounded_like_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/9lnwz6/any_ufo_reports_where_the_ufo_sounded_like_a/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Any UFO reports where the UFO sounded like a &quot;swarm of...Please share story/links if you have any...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/](https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Sound That Accompanies UFOsWhy do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/](https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditExtremely loud (UFO?) noise heard at night, anybody...r/aliens - 2006 France Rare footage of the sound of a ufo with sound... r/U...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extremely loud (UFO?) noise heard at night, anybody...r/aliens - 2006 France Rare footage of the sound of a ufo with sound... r/U...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/owhxzx/cmv_aliens_are_not_the_most_likely_explanation/](https://www.reddit.com/r/changemyview/comments/owhxzx/cmv_aliens_are_not_the_most_likely_explanation/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/owhxzx/cmv_aliens_are_not_the_most_likely_explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/owhxzx/cmv_aliens_are_not_the_most_likely_explanation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens are not the most likely explanation for UFO sightingsWe know so much more about cognitive bias, memory, selective attention, etc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1966fullrep.htm](https://www.nicap.org/chronos/1966fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 UFO ChronologySelfridge AFB reported tracking UFOs on radar over Lake Erie. (Hall, 2001, pp. 184-86; U.F.O. Investigator, Vol...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: kerrieanngardner.co.uk  
    Title: Kerrie Ann Gardner Voices from the Sky  
-   Link: [https://kerrieanngardner.co.uk/astronomy/voices-from-the-sky/](https://kerrieanngardner.co.uk/astronomy/voices-from-the-sky/)  
+   Link: <a href="https://kerrieanngardner.co.uk/astronomy/voices-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://kerrieanngardner.co.uk/astronomy/voices-from-the-sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kerrie Ann GardnerVoices from the SkyApril 27, 2023 — 27 Apr 2023 — Descriptions of the sounds heard by the residents included such thing...</p></details>
    Published: April 27, 2023  
 
 10. <a id="endnote-10"></a>
    Source: popularmechanics.com  
    Title: the hum what is mystery noise  
-   Link: [https://www.popularmechanics.com/science/a45853407/the-hum-what-is-mystery-noise/](https://www.popularmechanics.com/science/a45853407/the-hum-what-is-mystery-noise/)  
+   Link: <a href="https://www.popularmechanics.com/science/a45853407/the-hum-what-is-mystery-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a45853407/the-hum-what-is-mystery-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular Mechanics&#x27;The Hum&#x27; Noise: Mystery Sound Is Invading Towns16 Nov 2023 — When asked if The Hum could be evidence of a UFO, accordin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course, aliens. So what exactly...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of De...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: its world ufo day we want to share this photo of a ufo flying over belton lake i  
-   Link: [https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/](https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/)  
+   Link: <a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...1 (July 1975) &quot;UFO ILLUMINATES LAKE&quot; “Two men who prefer to remain anonymous sigh...</p></details>
    Published: July 1975  
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf](https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2015/01/archaeology_anthropology_and_interstellar_communication_tagged.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>istory of contact as a framework for thinking about potential contact with...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/](https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/)  
+   Link: <a href="https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part of me believes that they&#x27;re here to see what happens when sentence serves the world and then...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DR3YCwnESod/](https://www.instagram.com/reel/DR3YCwnESod/)  
+   Link: <a href="https://www.instagram.com/reel/DR3YCwnESod/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR3YCwnESod/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You know, one of the problems is that it seems that UFOs act in such absurd ways...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894reported to have attemped to run down witnesses of UFO sightings, made disturbingl3,1mcrst macabre phone calls, silenced sev...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: What’s your first reaction to this sound?  
-   Link: [https://www.facebook.com/pbs/videos/first-contact-an-alien-encounter-whats-this-sound-pbs/1133590783972603/](https://www.facebook.com/pbs/videos/first-contact-an-alien-encounter-whats-this-sound-pbs/1133590783972603/)  
+   Link: <a href="https://www.facebook.com/pbs/videos/first-contact-an-alien-encounter-whats-this-sound-pbs/1133590783972603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pbs/videos/first-contact-an-alien-encounter-whats-this-sound-pbs/1133590783972603/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think it’s a...First Contact: An Alien Encounter explores how the world might respond if we were to receive mysterious radio sign...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: The Isle of Man's first UFO sighting?  
-   Link: [https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/](https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/)  
+   Link: <a href="https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/culturevannin/posts/the-isle-of-mans-first-ufo-sightingon-this-day-in-1902-the-manx-newspapers-repor/2185042781628205/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1902...Witness described it as “pausing like thinking.” Credibility: Moderate Asterisk: Witness description metaphor-heav...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... witnesses to be alien in origin, unrelated to astrobiology or xenobiology. List of UFO religions · L...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: buriedsecretspodcast.com  
    Title: hallucinatory ufos and sound  
-   Link: [https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/](https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/)  
+   Link: <a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /humming/
 nav_short_title: NICAP Case
 title: Why One California Hum Case Still Matters
-title_full: Why One California Hum Case Still Matters | Humming
+title_full: Why One California Hum Case Still Matters
 display_title_short: NICAP Case
 display_title: NICAP Case
 heading_title: Why One California Hum Case Still Matters
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:03:09'
-parent_title: Why Do So Many UFOs Hum? | UFO Noises
+parent_title: Why Do So Many UFOs Hum?
 parent_permalink: /humming/
 parent_nav_short_title: Humming
 parent_heading_title: Why Do So Many UFOs Hum?
@@ -274,8 +274,7 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_califor
 
 ## Introduction
 
-Among the many archived reports linking UFO sightings to unusual sounds, one California case from June 1957 remains notable because it combined three elements that researchers repeatedly return to: a reported triangular object, a distinct [humming]({{ 'humming/' | relative_url }}) noise and witnesses that included a United States Air Force officer. The case was preserved by the National Investigations Committee on Aerial Phenomena (NICAP), one of the most influential civilian UFO organisations of the 1950s and 1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
-
+Among the many archived reports linking UFO sightings to unusual sounds, one California case from June 1957 remains notable because it combined three elements that researchers repeatedly return to: a reported triangular object, a distinct [humming]({{ 'humming/' | relative_url }}) noise and witnesses that included a United States Air Force officer. The case was preserved by the National Investigations Committee on Aerial Phenomena (NICAP), one of the most influential civilian UFO organisations of the 1950s and 1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-1-dark.svg" | relative_url }}" alt="NICAP Case illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The sighting does not provide proof of an extraordinary craft. No physical evidence emerged, and the event rests largely on witness testimony. Yet it continues to attract attention because it illustrates how sound details can elevate a report from a simple light-in-the-sky account into a more complex case involving perceived structure, motion and acoustics. Within discussions of [UFO noises]({{ 'ufo-noises/' | relative_url }}), the Carmichael, California report is often cited as an example of a witness describing a hum as an integral part of the experience rather than as an afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</span></span></span>
@@ -288,7 +287,6 @@ The feature that keeps the case relevant in discussions of UFO sounds is the rep
 
 Several aspects of the account stand out when compared with more ordinary aerial observations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The sound was linked directly to the object's movement.
@@ -300,17 +298,15 @@ Several aspects of the account stand out when compared with more ordinary aerial
 
 That combination helps explain why the report is still referenced when researchers compare recurring descriptions of UFO-associated humming sounds.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qTiaxUhfmVY" title="U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer">U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 132.1K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qTiaxUhfmVY">Open on YouTube</a></p></div></div></div>
 
 ## Why the USAF Officer Detail Drew Attention
 
-Many UFO reports gain visibility not because of what was seen but because of who reported it. In this case, researchers highlighted that one of the witnesses was a United States Air Force officer. The presence of military personnel has long been treated by UFO investigators as potentially significant because such individuals are presumed to have at least some familiarity with aircraft, flight operations and common aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
+Many UFO reports gain visibility not because of what was seen but because of who reported it. In this case, researchers highlighted that one of the witnesses was a United States Air Force officer. The presence of military personnel has long been treated by UFO investigators as potentially significant because such individuals are presumed to have at least some familiarity with aircraft, flight operations and common aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
 
 NICAP was especially interested in reports involving military witnesses. During the organisation's peak years, it frequently argued that pilots, radar operators and service members deserved greater credibility than casual observers. The group's leadership included former military officers and actively collected reports from serving and retired personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Investigations Committee On Aerial Phenomena</span><span class="citation-popover-snippet">National Investigations Committee On Aerial Phenomena</span></span></span>
 
 That does not mean the officer's presence proves the sighting was extraordinary. A military witness can still misidentify an aircraft, atmospheric effect or other stimulus. However, within UFO research culture, the Air Force connection helped the Carmichael report survive in catalogues and case summaries long after countless ordinary sightings were forgotten. The witness background gave later investigators a reason to treat the account as more than a routine civilian observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-3-dark.svg" | relative_url }}" alt="NICAP Case illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Hum Matters More Than the Triangle
@@ -334,14 +330,12 @@ For researchers studying patterns in UFO testimony, this matters because recurri
 
 The Carmichael report is often grouped with these accounts because it provides both a visual and an auditory component. Even sceptical analysts acknowledge that sound descriptions can sometimes reveal more about witness perception than shape descriptions alone.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-2-dark.svg" | relative_url }}" alt="NICAP Case illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Can and Cannot Prove
 
 The strongest argument for the case is not that it demonstrates an unknown technology. Rather, it shows that detailed hum reports were being documented well before later waves of triangular UFO sightings became popular in public culture.
 
 [The case provides evidence that:](#endnote-7 "Snippet: Nicap6 Apr 2014 — <strong>The</strong> Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i")
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,7 +352,6 @@ There are no publicly available recordings of the sound. No physical traces were
 
 Another challenge is that humming sounds are not unique to alleged UFOs. Aircraft heard under unusual atmospheric conditions, distant industrial activity and other environmental noises can all produce perceptions that witnesses describe as buzzing or humming. Without direct measurements, it is impossible to determine whether the reported sound originated from the observed object or from an unrelated source that became associated with it during the event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ssvszeR4VoM" title="Amazing! Triangular Shaped UFO Filmed Over California Military Base!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ssvszeR4VoM" target="_blank" rel="noopener noreferrer">Amazing! Triangular Shaped UFO Filmed Over California Military Base!</a></p><p class="youtube-embed-meta">Channel: JayTee RC &middot; Views: 8.6K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ssvszeR4VoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ssvszeR4VoM">Open on YouTube</a></p></div></div></div>
 
 ## Why One California Hum Case Still Matters
@@ -367,9 +360,7 @@ The Carmichael report remains useful less as proof and more as a reference point
 
 At the same time, the case demonstrates the limits of historical UFO evidence. The account is intriguing precisely because it contains details that are difficult to verify decades later. The humming sound makes the report memorable, but it also highlights the central problem facing investigators: a sound can be vividly described, repeatedly recalled and widely discussed while still remaining impossible to test after the fact. In that sense, the 1957 California hum case serves as both an interesting data point and a reminder of how much UFO sound evidence depends on human observation rather than measurable records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3MjsfuLGYw" title="The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer">The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 620.2K &middot; Uploaded: March 2023 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3MjsfuLGYw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -767,92 +758,92 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/570623carmichael_dir.htm](https://www.nicap.org/570623carmichael_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</p></details>
+   Link: <a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Investigations Committee On Aerial Phenomena  
-   Link: [https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena](https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Donald Keyhoe  
-   Link: [https://en.wikipedia.org/wiki/Donald_Keyhoe](https://en.wikipedia.org/wiki/Donald_Keyhoe)  
+   Link: <a href="https://en.wikipedia.org/wiki/Donald_Keyhoe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Keyhoe</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/570623carmichael_report.htm](https://www.nicap.org/reports/570623carmichael_report.htm)  
+   Link: <a href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/570623carmichael_report.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1957fullrep.htm](https://www.nicap.org/chronos/1957fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1957fullrep.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
    Title: 570502edwardsafb dir  
-   Link: [https://www.nicap.org/570502edwardsafb_dir.htm](https://www.nicap.org/570502edwardsafb_dir.htm)  
+   Link: <a href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570502edwardsafb_dir.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: yumpu.com  
    Title: The UFO Evidence  
-   Link: [https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap](https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap)  
+   Link: <a href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nicap6 Apr 2014 — &lt;strong&gt;The&lt;/strong&gt; Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...NICAP Member Jack Varnell listened from the next table. The Air Force officer&#x27;s opening impli...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;... California, UFO as observed by two witnesses and reported to Blue Book.... higher...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: upload.wikimedia.org  
    Title: UFOs and Related Subjects, An Annotated Bibliography, AD0688332, edit  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf](https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force. Princeton, R, J.. Van Nostrand, 1960. 164 p. Author, a former USAF public information officer on UFOs, discusses UFO.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler](https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler)  
+   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are taken every year and enthusiasts believe many of them...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/](https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/)  
+   Link: <a href="https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>911 lines trying to report UFOs that were actually just planets...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byUFOs; special ~l&#x27;iefings on UFO activity; public reaction to UFOs; Air Force... Author, a former USAF public informati...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ssvszeR4VoM](https://www.youtube.com/watch?v=ssvszeR4VoM)  
+   Link: <a href="https://www.youtube.com/watch?v=ssvszeR4VoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssvszeR4VoM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>over California military base for 10 minutes before Vanishing...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sohp.us  
    Title: GROSS 1957 Nov 3 5  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1957: November 3–5Activity being reported by the newswires was so great a NICAP secretary wondered out loud if the Air F...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted by. Officers...Read more...</p></details>

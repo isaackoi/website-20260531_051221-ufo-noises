@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /record-it/
 nav_short_title: Phone Audio
 title: Phone Mistakes That Bury Strange Sky Sounds
-title_full: Phone Mistakes That Bury Strange Sky Sounds | Record It
+title_full: Phone Mistakes That Bury Strange Sky Sounds
 display_title_short: Phone Audio
 display_title: Phone Audio
 heading_title: Phone Mistakes That Bury Strange Sky Sounds
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:07:38'
-parent_title: How Should You Record a UFO Noise? | UFO Noises
+parent_title: How Should You Record a UFO Noise?
 parent_permalink: /record-it/
 parent_nav_short_title: Record It
 parent_heading_title: How Should You Record a UFO Noise?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_record
 
 Many UFO noise reports begin with a phone recording made under poor conditions: a witness hears an unusual hum, roar, metallic vibration or pulsing sound, grabs a smartphone, records a few seconds, then uploads an edited clip hours later. By that point, the evidence may already be damaged.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-dark.svg" | relative_url }}" alt="Phone Audio illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The biggest problem is not usually audio quality. It is lost context. Investigators, sound engineers and digital-forensics specialists often find that a recording cannot be properly checked because the witness stopped and restarted repeatedly, blocked the microphone, filtered the sound, or discarded the original file. A strange sky noise does not have to be extraordinary to be worth documenting, but it does need to be recorded in a way that allows later [verification]({{ 'verification/' | relative_url }}). Small mistakes can remove exactly the clues needed to identify [aircraft]({{ 'aircraft/' | relative_url }}), drones, atmospheric effects or genuinely unusual sound behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">Eclipse Forensics Audio Forensics in the Digital Age: Challenges and Solutions</span><span class="citation-popover-snippet">Always maintain a copy of the original audio file to ensure that subsequent analysis does not alter the evidence.Read more...</span></span></span>
 
@@ -281,7 +280,6 @@ One of the most common failures in outdoor recordings is accidental noise create
 Modern phones use highly sensitive microphones. Finger movement across the casing, clothing brushing the device, shifting grip pressure and tapping the screen can generate low-frequency thumps and scraping sounds that later listeners may mistake for part of the event. Field-recording specialists routinely warn that handling noise can overwhelm the sound a recorder is trying to capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citiesandmemory.com">[Cities &amp; Memory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citiesandmemory.com</span><span class="citation-popover-title">Cities &amp; Memory Ten top simple field recording tips</span><span class="citation-popover-snippet">3. Verbal ID every take and rename your files something useful – this will save you loads of time later.Read more...</span></span></span>
 
 A common UFO-report pattern looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,11 +301,11 @@ Witnesses often underestimate wind because it may feel mild where they are stand
 
 Even light airflow across a phone microphone can produce deep rumbling, distortion and bursts that mask other sounds. Field-recording guides repeatedly identify wind as one of the most destructive outdoor recording problems, and experienced recordists often treat wind protection as essential rather than optional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citiesandmemory.com">[Cities &amp; Memory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citiesandmemory.com</span><span class="citation-popover-title">Cities &amp; Memory Ten top simple field recording tips</span><span class="citation-popover-snippet">3. Verbal ID every take and rename your files something useful – this will save you loads of time later.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.videomaker.com/how-to/audio-how-to/audio-recording/11-ways-to-combat-wind-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: videomaker.com">[videomaker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">videomaker.com</span><span class="citation-popover-snippet">11 ways to combat wind noiseFoam windscreens are snug fitting pieces that slide over the microphone chassis. They use open cell foam to h...</span></span></span> An important misunderstanding is that wind noise can simply be removed later.
 
-In many cases it cannot. Heavy wind striking the microphone can create distortion that permanently overlaps the original sound. Audio engineers frequently note that once severe wind contamination is recorded, filtering may reduce the rumble but cannot fully recover the lost signal underneath it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/fieldrecording/comments/y6stj8/best_ways_to_reduce_handling_noise_on_my_h2n/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditBest ways to reduce handling noise on my H2N?By far the best way to deal with wind noise is to eliminate it at the source with a wi...</span></span></span>
+In many cases it cannot. Heavy wind striking the microphone can create distortion that permanently overlaps the original sound. Audio engineers frequently note that once severe wind contamination is recorded, filtering may reduce the rumble but cannot fully recover the lost signal underneath it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/fieldrecording/comments/y6stj8/best_ways_to_reduce_handling_noise_on_my_h2n/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Best ways to reduce handling noise on my H2N?By far the best way to deal with wind noise is to eliminate it at the source with a wi...</span></span></span>
 
 Several mistakes make this worse:
 
-* Holding the phone directly into the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/videography/comments/vklvmg/how_would_i_be_able_to_get_rid_of_or_to_minimise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Make sure that other holes on your phone are not covered.Read more</span><span class="citation-popover-snippet">RedditHow would I be able to get rid of or to minimise wind noise...June 25, 2022 — Look for thirdparty mics that pmug into your phone&#x27;s...</span><span class="citation-popover-meta">Published: June 25, 2022</span></span></span>
+* Holding the phone directly into the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/videography/comments/vklvmg/how_would_i_be_able_to_get_rid_of_or_to_minimise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Make sure that other holes on your phone are not covered.Read more</span><span class="citation-popover-snippet">How would I be able to get rid of or to minimise wind noise...June 25, 2022 — Look for thirdparty mics that pmug into your phone&#x27;s...</span><span class="citation-popover-meta">Published: June 25, 2022</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,7 +317,6 @@ Several mistakes make this worse:
 </div>
 
 A better approach is to use natural wind barriers such as buildings, vehicles or trees while keeping the microphone pointed toward the sound source. Even slight shelter can dramatically improve a recording.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pk6_3Rnb1IU" title="From Field to Studio: Production Sound and Field Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pk6_3Rnb1IU" target="_blank" rel="noopener noreferrer">From Field to Studio: Production Sound and Field Recording</a></p><p class="youtube-embed-meta">Channel: Full Sail University &middot; Views: 2.4K &middot; Uploaded: February 2018 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pk6_3Rnb1IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pk6_3Rnb1IU">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +341,6 @@ Before recording outdoors, it is worth taking a moment to identify microphone lo
 
 Witnesses often record in bursts:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Record ten seconds.
@@ -365,7 +361,6 @@ Continuous recording also preserves environmental references. Distant traffic, c
 
 A five-minute uninterrupted recording is often more useful than ten separate clips totalling the same length.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-dark.svg" | relative_url }}" alt="Phone Audio illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Damage Caused by Editing Too Early
 
@@ -376,7 +371,6 @@ Witnesses often trim [silence]({{ 'silence/' | relative_url }}), boost volume, a
 Digital-forensics guidance consistently recommends preserving original recordings because metadata, file structure and unaltered audio can all become relevant during later analysis. Once a file is edited and exported, some of that information may be lost permanently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">Eclipse Forensics Audio Forensics in the Digital Age: Challenges and Solutions</span><span class="citation-popover-snippet">Always maintain a copy of the original audio file to ensure that subsequent analysis does not alter the evidence.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bcsth.ca/digitalevidencetoolkit/how-to-preserve-an-audio-recording-as-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcsth.ca">[BC Society of Transition Houses]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcsth.ca</span><span class="citation-popover-snippet">Safety Check Before you capture audio evidence, always think...Read more...</span></span></span>
 
 Common problems include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -392,7 +386,6 @@ Noise reduction is especially risky. A filter may remove wind, but it can also r
 
 The safest workflow is simple:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Keep the original file untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.proaxissolutions.com/blog/audio-video-forensics-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proaxissolutions.com">[proaxissolutions.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proaxissolutions.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -404,7 +397,6 @@ The safest workflow is simple:
 
 That approach allows later reviewers to compare the processed version against the source material.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3StgxXMYOc8" title="Are You Making This Field Recording Mistake? Forgetting Wind Protection!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3StgxXMYOc8" target="_blank" rel="noopener noreferrer">Are You Making This Field Recording Mistake? Forgetting Wind Protection!</a></p><p class="youtube-embed-meta">Channel: Free To Use Sounds &middot; Views: 11.8K &middot; Uploaded: May 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3StgxXMYOc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3StgxXMYOc8">Open on YouTube</a></p></div></div></div>
 
 ## Digital Zoom and Automatic Processing Can Mislead Listeners
@@ -413,10 +405,9 @@ People often assume that zooming in while recording helps capture distant sounds
 
 With most phones, digital zoom primarily affects the image, not the distant sound itself. In some recording modes, the device may also apply automatic processing intended for speech, video calls or social-media content rather than evidence collection.
 
-Modern smartphones increasingly use computational audio systems that automatically suppress noise, enhance voices and adjust recording levels. These features are useful for everyday communication but can alter unusual sounds in unpredictable ways. Research into smartphone audio processing and directional sound extraction shows how heavily modern devices can manipulate incoming audio signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.10793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivSonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic MicrostructuresApril 15, 2025...</span><span class="citation-popover-meta">Published: April 15, 2025</span></span></span>
+Modern smartphones increasingly use computational audio systems that automatically suppress noise, enhance voices and adjust recording levels. These features are useful for everyday communication but can alter unusual sounds in unpredictable ways. Research into smartphone audio processing and directional sound extraction shows how heavily modern devices can manipulate incoming audio signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2504.10793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic MicrostructuresApril 15, 2025...</span><span class="citation-popover-meta">Published: April 15, 2025</span></span></span>
 
 A witness may therefore record:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -427,7 +418,6 @@ A witness may therefore record:
 </div>
 
 The recording is still valuable, but listeners should remember that the phone may not be reproducing the sound exactly as it existed in the environment.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-dark.svg" | relative_url }}" alt="Phone Audio illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5_phone_recording_mist_0f37d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Uploading Through Apps Can Strip Away Useful Information
@@ -453,7 +443,6 @@ For unusual sky-noise reports, the strongest evidence package is usually:
 * Screenshots or notes made immediately after recording.
 
 Without the original file, later verification becomes significantly harder.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J-fiVpcYM1E" title="DIY, Cheap and Easy Way to Block Wind Noise While Recording Video on a Smartphone Windscreen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J-fiVpcYM1E" target="_blank" rel="noopener noreferrer">DIY, Cheap and Easy Way to Block Wind Noise While Recording Video on a Smartphone Windscreen</a></p><p class="youtube-embed-meta">Channel: John Daniels &middot; Views: 34.5K &middot; Uploaded: September 2020 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J-fiVpcYM1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J-fiVpcYM1E">Open on YouTube</a></p></div></div></div>
 
@@ -551,142 +540,448 @@ That does not mean every strange sky sound has a simple explanation. It means th
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Happy Family How it Should Be Frame Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hCkAAeSwHRZp1TGn/s-l225.jpg" alt="Listing image for Happy Family How it Should Be Frame Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer">Happy Family How it Should Be Frame Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how should poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INSPIRAL CARPETS+HOW IT SHOULD BE+FRAMED ORIGINAL MUSIC PRESS AD POSTER+1993"><img src="https://i.ebayimg.com/images/g/PGMAAOSwuwdfZkRR/s-l225.jpg" alt="Listing image for INSPIRAL CARPETS+HOW IT SHOULD BE+FRAMED ORIGINAL MUSIC PRESS AD POSTER+1993" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer">INSPIRAL CARPETS+HOW IT SHOULD BE+FRAMED ORIGINAL MUSIC PRESS AD POSTER+1993</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how should poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How Many Days A Week Should You Go Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/XAsAAeSw3ABp1TCq/s-l225.jpg" alt="Listing image for How Many Days A Week Should You Go Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer">How Many Days A Week Should You Go Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how should poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspiral Carpets - How It Should Be - Mini Poster/Magazine Clipping"><img src="https://i.ebayimg.com/images/g/rCAAAOSwO0hmM239/s-l225.jpg" alt="Listing image for Inspiral Carpets - How It Should Be - Mini Poster/Magazine Clipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer">Inspiral Carpets - How It Should Be - Mini Poster/Magazine Clipping</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how should poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how should poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+should+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-mistakes-that-bury-strange-sky-sounds-how-should-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how should poster" data-ebay-reference="phone-mistakes-that-bury-strange-sky-sounds-how-should-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fieldrecording/comments/y6stj8/best_ways_to_reduce_handling_noise_on_my_h2n/](https://www.reddit.com/r/fieldrecording/comments/y6stj8/best_ways_to_reduce_handling_noise_on_my_h2n/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBest ways to reduce handling noise on my H2N?By far the best way to deal with wind noise is to eliminate it at the source with a wi...</p></details>
+   Link: <a href="https://www.reddit.com/r/fieldrecording/comments/y6stj8/best_ways_to_reduce_handling_noise_on_my_h2n/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fieldrecording/comments/y6stj8/best_ways_to_reduce_handling_noise_on_my_h2n/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best ways to reduce handling noise on my H2N?By far the best way to deal with wind noise is to eliminate it at the source with a wi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: videomaker.com  
-   Link: [https://www.videomaker.com/how-to/audio-how-to/audio-recording/11-ways-to-combat-wind-noise/](https://www.videomaker.com/how-to/audio-how-to/audio-recording/11-ways-to-combat-wind-noise/)  
+   Link: <a href="https://www.videomaker.com/how-to/audio-how-to/audio-recording/11-ways-to-combat-wind-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.videomaker.com/how-to/audio-how-to/audio-recording/11-ways-to-combat-wind-noise/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 ways to combat wind noiseFoam windscreens are snug fitting pieces that slide over the microphone chassis. They use open cell foam to h...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fieldrecording/comments/1j7lw59/best_hi_pass_filter_settings_for_field_recordings/](https://www.reddit.com/r/fieldrecording/comments/1j7lw59/best_hi_pass_filter_settings_for_field_recordings/)  
+   Link: <a href="https://www.reddit.com/r/fieldrecording/comments/1j7lw59/best_hi_pass_filter_settings_for_field_recordings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fieldrecording/comments/1j7lw59/best_hi_pass_filter_settings_for_field_recordings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ered locations or close to the ground, and by using the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Make sure that other holes on your phone are not covered.Read more  
-   Link: [https://www.reddit.com/r/videography/comments/vklvmg/how_would_i_be_able_to_get_rid_of_or_to_minimise/](https://www.reddit.com/r/videography/comments/vklvmg/how_would_i_be_able_to_get_rid_of_or_to_minimise/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHow would I be able to get rid of or to minimise wind noise...June 25, 2022 — Look for thirdparty mics that pmug into your phone&#x27;s...</p></details>
+   Link: <a href="https://www.reddit.com/r/videography/comments/vklvmg/how_would_i_be_able_to_get_rid_of_or_to_minimise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videography/comments/vklvmg/how_would_i_be_able_to_get_rid_of_or_to_minimise/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How would I be able to get rid of or to minimise wind noise...June 25, 2022 — Look for thirdparty mics that pmug into your phone&#x27;s...</p></details>
    Published: June 25, 2022  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.10793](https://arxiv.org/abs/2504.10793)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic MicrostructuresApril 15, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2504.10793" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.10793</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic MicrostructuresApril 15, 2025...</p></details>
    Published: April 15, 2025  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Visualizing Sound Directivity via Smartphone [Sensors](&#123;&#123; 'sensors/' | relative_url &#125;&#125;)  
-   Link: [https://arxiv.org/abs/1702.06072](https://arxiv.org/abs/1702.06072)  
+   Link: <a href="https://arxiv.org/abs/1702.06072" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.06072</a>  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/audioengineering/comments/13ee75f/is_there_a_mic_for_reducing_background_noise/](https://www.reddit.com/r/audioengineering/comments/13ee75f/is_there_a_mic_for_reducing_background_noise/)  
+   Link: <a href="https://www.reddit.com/r/audioengineering/comments/13ee75f/is_there_a_mic_for_reducing_background_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/audioengineering/comments/13ee75f/is_there_a_mic_for_reducing_background_noise/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uce background sounds is proximity. If your lav is three...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/datarecovery/comments/1jc08ji/trying_to_recover_an_original_recording_from_a/](https://www.reddit.com/r/datarecovery/comments/1jc08ji/trying_to_recover_an_original_recording_from_a/)  
+   Link: <a href="https://www.reddit.com/r/datarecovery/comments/1jc08ji/trying_to_recover_an_original_recording_from_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/datarecovery/comments/1jc08ji/trying_to_recover_an_original_recording_from_a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opposing has submitted a recording into evidence that I believe was edited. It&#x27;s extremely short and ends oddly.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fieldrecording/comments/1878t14/reducing_wind_rumble_and_handling_noise_with/](https://www.reddit.com/r/fieldrecording/comments/1878t14/reducing_wind_rumble_and_handling_noise_with/)  
+   Link: <a href="https://www.reddit.com/r/fieldrecording/comments/1878t14/reducing_wind_rumble_and_handling_noise_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fieldrecording/comments/1878t14/reducing_wind_rumble_and_handling_noise_with/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndalone spectral editor, pasting in healthy segments in place of...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fieldrecording/comments/tgw8j9/getting_rid_of_wind_noise/](https://www.reddit.com/r/fieldrecording/comments/tgw8j9/getting_rid_of_wind_noise/)  
+   Link: <a href="https://www.reddit.com/r/fieldrecording/comments/tgw8j9/getting_rid_of_wind_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fieldrecording/comments/tgw8j9/getting_rid_of_wind_noise/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/audioengineering/comments/1jfr93w/when_recording_on_an_iphone_on_a_windy_day_should/](https://www.reddit.com/r/audioengineering/comments/1jfr93w/when_recording_on_an_iphone_on_a_windy_day_should/)  
+   Link: <a href="https://www.reddit.com/r/audioengineering/comments/1jfr93w/when_recording_on_an_iphone_on_a_windy_day_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/audioengineering/comments/1jfr93w/when_recording_on_an_iphone_on_a_windy_day_should/</a>  
 
 12. <a id="endnote-12"></a>
    Source: resemble.ai  
    Title: authenticate audio recordings evidence  
-   Link: [https://www.resemble.ai/resources/authenticate-audio-recordings-evidence](https://www.resemble.ai/resources/authenticate-audio-recordings-evidence)  
+   Link: <a href="https://www.resemble.ai/resources/authenticate-audio-recordings-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.resemble.ai/resources/authenticate-audio-recordings-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Authenticate an Audio Recording That Sounds Real10 Feb 2026 — This guide explains the practical steps used to verify whether an au...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: eclipseforensics.com  
    Title: Eclipse Forensics Audio Forensics in the Digital Age: Challenges and Solutions  
-   Link: [https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/](https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/)  
+   Link: <a href="https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/audio-forensics-in-the-digital-age-challenges-and-solutions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Always maintain a copy of the original audio file to ensure that subsequent analysis does not alter the evidence.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: robertheaton.com  
-   Link: [https://robertheaton.com/enf/](https://robertheaton.com/enf/)  
+   Link: <a href="https://robertheaton.com/enf/" target="_blank" rel="noopener noreferrer nofollow">https://robertheaton.com/enf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert HeatonHow to date a recording using background electrical noise25 Oct 2022 — We can timestamp a clip by comparing its ENF series t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: citiesandmemory.com  
    Title: Cities & [Memory](&#123;&#123; 'memory/' | relative_url &#125;&#125;) Ten top simple field recording tips  
-   Link: [https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/](https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/)  
+   Link: <a href="https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/" target="_blank" rel="noopener noreferrer nofollow">https://citiesandmemory.com/2014/03/ten-top-simple-field-recording-tips/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Verbal ID every take and rename your files something useful – this will save you loads of time later.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bcsth.ca  
-   Link: [https://bcsth.ca/digitalevidencetoolkit/how-to-preserve-an-audio-recording-as-evidence/](https://bcsth.ca/digitalevidencetoolkit/how-to-preserve-an-audio-recording-as-evidence/)  
+   Link: <a href="https://bcsth.ca/digitalevidencetoolkit/how-to-preserve-an-audio-recording-as-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://bcsth.ca/digitalevidencetoolkit/how-to-preserve-an-audio-recording-as-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Check Before you capture audio evidence, always think...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: techsafety.ca  
-   Link: [https://techsafety.ca/resources/toolkits/preserving-audio-recordings-as-digital-evidence](https://techsafety.ca/resources/toolkits/preserving-audio-recordings-as-digital-evidence)  
+   Link: <a href="https://techsafety.ca/resources/toolkits/preserving-audio-recordings-as-digital-evidence" target="_blank" rel="noopener noreferrer nofollow">https://techsafety.ca/resources/toolkits/preserving-audio-recordings-as-digital-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3.11 Preserving Audio Recordings as Digital EvidenceThis document provides information on how to preserve audio recordings as evidence in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: proaxissolutions.com  
-   Link: [https://www.proaxissolutions.com/blog/audio-video-forensics-analysis](https://www.proaxissolutions.com/blog/audio-video-forensics-analysis)  
+   Link: <a href="https://www.proaxissolutions.com/blog/audio-video-forensics-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.proaxissolutions.com/blog/audio-video-forensics-analysis</a>  
 
 19. <a id="endnote-19"></a>
    Source: learnaboutcats.co.uk  
-   Link: [https://www.learnaboutcats.co.uk/chapters/7-measuring-behaviour/b-choosing-the-most-appropriate-recording-methods/3-recording-methods.html](https://www.learnaboutcats.co.uk/chapters/7-measuring-behaviour/b-choosing-the-most-appropriate-recording-methods/3-recording-methods.html)  
+   Link: <a href="https://www.learnaboutcats.co.uk/chapters/7-measuring-behaviour/b-choosing-the-most-appropriate-recording-methods/3-recording-methods.html" target="_blank" rel="noopener noreferrer nofollow">https://www.learnaboutcats.co.uk/chapters/7-measuring-behaviour/b-choosing-the-most-appropriate-recording-methods/3-recording-methods.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recording methodsVideo recording allows playback many times so the observer has the opportunity to watch and identify the behaviour more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pk6_3Rnb1IU](https://www.youtube.com/watch?v=pk6_3Rnb1IU)  
+   Link: <a href="https://www.youtube.com/watch?v=pk6_3Rnb1IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pk6_3Rnb1IU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Field to Studio: Production Sound and Field RecordingFour Full Sail grads will discuss their process of recording sounds in the fiel...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/85_9CyOQsy0](https://youtu.be/85_9CyOQsy0)  
+   Link: <a href="https://youtu.be/85_9CyOQsy0" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/85_9CyOQsy0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this tutorial, I&#x27;ll show you the exact settings and hardware needed to make your Android phone sound like a high-end podcasting setup...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/playlist?list=PL7YrIUsALZVe8gHpqln0h9w96cMM6Cn9l](https://www.youtube.com/playlist?list=PL7YrIUsALZVe8gHpqln0h9w96cMM6Cn9l)  
+   Link: <a href="https://www.youtube.com/playlist?list=PL7YrIUsALZVe8gHpqln0h9w96cMM6Cn9l" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL7YrIUsALZVe8gHpqln0h9w96cMM6Cn9l</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WIND PROTECTION FOR FIELD RECORDINGDiscover essential techniques and equipment to shield your recordings from wind noise and enhance audi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gotranscript.com  
    Title: archiving oral history audio transcripts metadata file formats checklist  
-   Link: [https://gotranscript.com/en/blog/archiving-oral-history-audio-transcripts-metadata-file-formats-checklist](https://gotranscript.com/en/blog/archiving-oral-history-audio-transcripts-metadata-file-formats-checklist)  
+   Link: <a href="https://gotranscript.com/en/blog/archiving-oral-history-audio-transcripts-metadata-file-formats-checklist" target="_blank" rel="noopener noreferrer nofollow">https://gotranscript.com/en/blog/archiving-oral-history-audio-transcripts-metadata-file-formats-checklist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archiving Oral History Audio and Transcripts: Metadata +...21 Feb 2026 — To archive oral history audio and transcripts well, save stable...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: wildlifeacoustics.com  
    Title: 3 tips to prevent wind noise from ruining your recordings  
-   Link: [https://www.wildlifeacoustics.com/resources/blog/3-tips-to-prevent-wind-noise-from-ruining-your-recordings](https://www.wildlifeacoustics.com/resources/blog/3-tips-to-prevent-wind-noise-from-ruining-your-recordings)  
+   Link: <a href="https://www.wildlifeacoustics.com/resources/blog/3-tips-to-prevent-wind-noise-from-ruining-your-recordings" target="_blank" rel="noopener noreferrer nofollow">https://www.wildlifeacoustics.com/resources/blog/3-tips-to-prevent-wind-noise-from-ruining-your-recordings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Tips to Prevent Wind Noise from Ruining Your Recording27 Aug 2018 — If you know the direction that most of the wind is traveling, you c...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thekanoonadvisors.com  
-   Link: [https://thekanoonadvisors.com/7-rules-for-call-recording-evidence-to-be-admissible-in-court/](https://thekanoonadvisors.com/7-rules-for-call-recording-evidence-to-be-admissible-in-court/)  
+   Link: <a href="https://thekanoonadvisors.com/7-rules-for-call-recording-evidence-to-be-admissible-in-court/" target="_blank" rel="noopener noreferrer nofollow">https://thekanoonadvisors.com/7-rules-for-call-recording-evidence-to-be-admissible-in-court/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Rules for Call Recording Evidence to Be Admissible in...19 Dec 2025 — As soon as a conversation is recorded, the primary goal is prese...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ijetch.org  
    Title: IO S “Voice Memo” Audio Files Originality Authentication  
-   Link: [https://www.ijetch.org/vol15/1214-IJET-MS041.pdf](https://www.ijetch.org/vol15/1214-IJET-MS041.pdf)  
+   Link: <a href="https://www.ijetch.org/vol15/1214-IJET-MS041.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijetch.org/vol15/1214-IJET-MS041.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IOS “Voice Memo” Audio Files Originality AuthenticationAbstract—In this paper, we modify the audio files recorded by IOS “Voice Memo” by...</p></details>

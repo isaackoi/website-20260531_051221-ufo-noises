@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-acoustic-monitoring/
 description: Focused pages that expand on Sensors.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_noises_37edd1_acoustic_monitoring_609fad
-parent_title: Sensors | UFO Noises
+parent_title: Sensors
 parent_nav_short_title: Sensors
 parent_permalink: /sensors/
 ---

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sky-trumpets/
 nav_short_title: Skyquakes
 title: Skyquakes Before the Viral Video Era
-title_full: Skyquakes Before the Viral Video Era | Sky Trumpets
+title_full: Skyquakes Before the Viral Video Era
 display_title_short: Skyquakes
 display_title: Skyquakes
 heading_title: Skyquakes Before the Viral Video Era
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:00:44'
-parent_title: What Are Sky Trumpet Sounds? | UFO Noises
+parent_title: What Are Sky Trumpet Sounds?
 parent_permalink: /sky-trumpets/
 parent_nav_short_title: Sky Trumpets
 parent_heading_title: What Are Sky Trumpet Sounds?
@@ -270,9 +270,8 @@ image: /assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_histo
 
 Long before YouTube compilations, UFO channels and viral “sky trumpet” recordings, people were already reporting unexplained sounds that seemed to come from the sky. Across North America, Europe and Asia, witnesses described cannon-like [booms]({{ 'booms/' | relative_url }}), distant metallic rumbling, trumpet-like tones and explosive cracks with no obvious source. These events are now often grouped under the term “skyquakes”: mysterious sounds heard overhead or across the landscape that cannot immediately be linked to storms, earthquakes or human activity.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-1-dark.svg" | relative_url }}" alt="Skyquakes illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This older history matters because it shows that modern UFO-related sound claims did not appear from nowhere. Viral [sky trumpet videos]({{ 'sky-trumpets/' | relative_url }}) belong to a much longer tradition of reports that stretch back centuries. While some cases have since received partial geological or atmospheric explanations, many remained unexplained at the time, helping create local legends long before internet conspiracy culture existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This older history matters because it shows that modern UFO-related sound claims did not appear from nowhere. Viral sky trumpet videos belong to a much longer tradition of reports that stretch back centuries. While some cases have since received partial geological or atmospheric explanations, many remained unexplained at the time, helping create local legends long before internet conspiracy culture existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Older Reports of Mysterious Booms and Sky Noises
 
@@ -286,7 +285,6 @@ Connecticut developed its own version, known as the **Moodus Noises**. The pheno
 
 Similar traditions appeared elsewhere:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Mistpoeffers** in Belgium and the Netherlands.
@@ -298,7 +296,6 @@ Similar traditions appeared elsewhere:
 </div>
 
 The geographic spread is one reason skyquakes remained difficult to explain. The reports occurred in different climates, landscapes and cultures, making a single global cause unlikely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Barisal_guns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barisal guns</span><span class="citation-popover-snippet">Barisal guns</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nVHQ9GKXoGc" title="The Ocean’s Mysterious Hum - And Other Rare Natural Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nVHQ9GKXoGc" target="_blank" rel="noopener noreferrer">The Ocean’s Mysterious Hum - And Other Rare Natural Events</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 7.8K &middot; Uploaded: March 2025 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nVHQ9GKXoGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nVHQ9GKXoGc">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +313,6 @@ The underlying reports therefore reveal a recurring human tendency: unusual soun
 
 Although internet videos often present [sky trumpets]({{ 'sky-trumpets/' | relative_url }}) as a unique phenomenon, historical skyquake accounts differ in several important ways.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-2-dark.svg" | relative_url }}" alt="Skyquakes illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Most Historical Reports Described Booms Rather Than Musical Tones
 
@@ -330,7 +326,6 @@ Many famous skyquake traditions developed over decades or centuries. Entire comm
 
 Internet-era clips often rely on a single recording whose origin, editing history or location may be difficult to verify. Once copied and reposted, the same audio can appear under multiple location claims. This makes historical testimony and modern viral evidence fundamentally different kinds of records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P6_a314KiZo" title="What Are the Mystery Booms, Hums and &quot;Trumpets&quot; in the Sky? | Make This Make Sense" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P6_a314KiZo" target="_blank" rel="noopener noreferrer">What Are the Mystery Booms, Hums and &quot;Trumpets&quot; in the Sky? | Make This Make Sense</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 20.1K &middot; Uploaded: April 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P6_a314KiZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P6_a314KiZo">Open on YouTube</a></p></div></div></div>
 
 ### Earlier Reports Were Not Driven by Online Amplification
@@ -338,7 +333,6 @@ Internet-era clips often rely on a single recording whose origin, editing histor
 A nineteenth-century boom heard near a lake remained a local mystery. Today, a strange sound can become a worldwide story within hours.
 
 This difference affects perception. Historical skyquakes accumulated slowly through newspapers, scientific correspondence and oral accounts. Modern sky trumpet narratives spread through algorithms that reward dramatic interpretations, especially those linked to UFOs or end-times themes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jh8FLSBmBgM" title="Mysterious noise, shaking rattles Moodus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jh8FLSBmBgM" target="_blank" rel="noopener noreferrer">Mysterious noise, shaking rattles Moodus</a></p><p class="youtube-embed-meta">Channel: WFSB 3 &middot; Views: 8.6K &middot; Uploaded: March 2024 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jh8FLSBmBgM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jh8FLSBmBgM">Open on YouTube</a></p></div></div></div>
 
@@ -355,8 +349,7 @@ Several explanations appear repeatedly in scientific discussions:
 * Distant thunder carried unusually far by atmospheric conditions.
 * Ocean waves and coastal acoustics.
 * Gas releases from lake or seabed sediments.
-* Local topography amplifying ordinary sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/davidbressan/2020/12/22/seismologists-investigate-unexplained-skyquakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">seismologists investigate unexplained skyquakes</span><span class="citation-popover-snippet">ForbesSeismologists Investigate Unexplained Skyquakes22 Dec 2020 — A lot of supposed mystery booms have, over the years, turned out to be...</span></span></span> The Moodus Noises provide an example of partial progress. Modern geologists have linked many local reports to shallow seismic movements and unusual acoustic conditions, though some details remain uncertain. That case suggests that at least some historical skyquakes may have natural geological origins even when witnesses perceive the sound as coming from the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/d32323aa48c633a5adf8ba80d82ca9ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The noises are believed to result from small but shallow seismic displacements within a strong and brittle crust, amplified by rock fract...</span></span></span>
-
+* Local topography amplifying ordinary sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/davidbressan/2020/12/22/seismologists-investigate-unexplained-skyquakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">seismologists investigate unexplained skyquakes</span><span class="citation-popover-snippet">Seismologists Investigate Unexplained Skyquakes22 Dec 2020 — A lot of supposed mystery booms have, over the years, turned out to be...</span></span></span> The Moodus Noises provide an example of partial progress. Modern geologists have linked many local reports to shallow seismic movements and unusual acoustic conditions, though some details remain uncertain. That case suggests that at least some historical skyquakes may have natural geological origins even when witnesses perceive the sound as coming from the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/d32323aa48c633a5adf8ba80d82ca9ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The noises are believed to result from small but shallow seismic displacements within a strong and brittle crust, amplified by rock fract...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-3-dark.svg" | relative_url }}" alt="Skyquakes illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_skyquake_history_ufo_e785ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What History Adds to Modern UFO Sound Claims
@@ -765,137 +758,137 @@ At the same time, the persistence of skyquake reports explains why modern UFO in
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Skyquake](https://en.wikipedia.org/wiki/Skyquake)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
 
 2. <a id="endnote-2"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds](https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds)  
+   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world for hu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Barisal guns  
-   Link: [https://en.wikipedia.org/wiki/Barisal_guns](https://en.wikipedia.org/wiki/Barisal_guns)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barisal_guns" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barisal_guns</a>  
 
 4. <a id="endnote-4"></a>
    Source: forbes.com  
    Title: seismologists investigate unexplained skyquakes  
-   Link: [https://www.forbes.com/sites/davidbressan/2020/12/22/seismologists-investigate-unexplained-skyquakes/](https://www.forbes.com/sites/davidbressan/2020/12/22/seismologists-investigate-unexplained-skyquakes/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesSeismologists Investigate Unexplained Skyquakes22 Dec 2020 — A lot of supposed [mystery booms](&amp;#123;&amp;#123; &#x27;booms/&#x27; | relative_url &amp;#125;&amp;#125;) have, over the years, turned out to be...</p></details>
+   Link: <a href="https://www.forbes.com/sites/davidbressan/2020/12/22/seismologists-investigate-unexplained-skyquakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidbressan/2020/12/22/seismologists-investigate-unexplained-skyquakes/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seismologists Investigate Unexplained Skyquakes22 Dec 2020 — A lot of supposed mystery booms have, over the years, turned out to be...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jh8FLSBmBgM](https://www.youtube.com/watch?v=Jh8FLSBmBgM)  
+   Link: <a href="https://www.youtube.com/watch?v=Jh8FLSBmBgM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jh8FLSBmBgM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious noise, shaking rattles MoodusReports of noise and shaking rattled East Hampton this morning it&#x27;s what geologists call Moodus n...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P6_a314KiZo](https://www.youtube.com/watch?v=P6_a314KiZo)  
+   Link: <a href="https://www.youtube.com/watch?v=P6_a314KiZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P6_a314KiZo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Boom Everyone Heard… But Nothing Was There...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Boom Everyone Heard… But Nothing Was There  
-   Link: [https://www.youtube.com/watch?v=nz26F1uLUiY](https://www.youtube.com/watch?v=nz26F1uLUiY)  
+   Link: <a href="https://www.youtube.com/watch?v=nz26F1uLUiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nz26F1uLUiY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Olde New England Earthquakes - Episode 7: The Moodus Noises...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Olde New England Earthquakes  
-   Link: [https://www.youtube.com/watch?v=S2IorbuoyhQ](https://www.youtube.com/watch?v=S2IorbuoyhQ)  
+   Link: <a href="https://www.youtube.com/watch?v=S2IorbuoyhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S2IorbuoyhQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ocean&#x27;s Mysterious Hum - And Other Rare Natural Events...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Ocean's Mysterious Hum  
-   Link: [https://www.youtube.com/watch?v=nVHQ9GKXoGc](https://www.youtube.com/watch?v=nVHQ9GKXoGc)  
+   Link: <a href="https://www.youtube.com/watch?v=nVHQ9GKXoGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nVHQ9GKXoGc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prime Suspect Earth (Season 2) - Trailer...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Prime Suspect Earth (Season 2)  
-   Link: [https://www.youtube.com/watch?v=Kx4d_EUoZeE](https://www.youtube.com/watch?v=Kx4d_EUoZeE)  
+   Link: <a href="https://www.youtube.com/watch?v=Kx4d_EUoZeE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kx4d_EUoZeE</a>  
 
 11. <a id="endnote-11"></a>
    Source: newenglandhistoricalsociety.com  
    Title: Today, we know what causes them  
-   Link: [https://newenglandhistoricalsociety.com/the-mysterious-moodus-noises-of-connecticut/](https://newenglandhistoricalsociety.com/the-mysterious-moodus-noises-of-connecticut/)  
+   Link: <a href="https://newenglandhistoricalsociety.com/the-mysterious-moodus-noises-of-connecticut/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandhistoricalsociety.com/the-mysterious-moodus-noises-of-connecticut/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Historical SocietyThe Mysterious Moodus Noises of ConnecticutJanuary 11, 2019 — For centuries the strange Moodus noises frigh...</p></details>
    Published: January 11, 2019  
 
 12. <a id="endnote-12"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/d32323aa48c633a5adf8ba80d82ca9ac](https://apnews.com/article/d32323aa48c633a5adf8ba80d82ca9ac)  
+   Link: <a href="https://apnews.com/article/d32323aa48c633a5adf8ba80d82ca9ac" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/d32323aa48c633a5adf8ba80d82ca9ac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The noises are believed to result from small but shallow seismic displacements within a strong and brittle crust, amplified by rock fract...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: candidslice.com  
    Title: legend of the seneca guns mysterious booms across east coast  
-   Link: [https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/](https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/)  
+   Link: <a href="https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Candid SliceLegend of the Seneca Guns: Mysterious Booms Across East...30 Oct 2018 — The primary legend believed by European settlers is...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: vocal.media  
    Title: Barisal Guns | Horror  
-   Link: [https://vocal.media/horror/barisal-guns](https://vocal.media/horror/barisal-guns)  
+   Link: <a href="https://vocal.media/horror/barisal-guns" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/barisal-guns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loud sonic booms and cannon like noises were reported. No sign of earthquakes, just the sound, which many experts are calling...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/mysterious-skyquake-noises-heard-around-the-world-and-nobody-knows-what-they-are-76195](https://www.iflscience.com/mysterious-skyquake-noises-heard-around-the-world-and-nobody-knows-what-they-are-76195)  
+   Link: <a href="https://www.iflscience.com/mysterious-skyquake-noises-heard-around-the-world-and-nobody-knows-what-they-are-76195" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/mysterious-skyquake-noises-heard-around-the-world-and-nobody-knows-what-they-are-76195</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &quot;Skyquake&quot; Noises Heard Around The World...Oct 3, 2024 — One promising possibility is bolides in the upper [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) – meteo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: accuweather.com  
    Title: mysterious skyquakes continue across the world with few answers to their origins  
-   Link: [https://www.accuweather.com/en/weather-news/mysterious-skyquakes-continue-across-the-world-with-few-answers-to-their-origins/354459](https://www.accuweather.com/en/weather-news/mysterious-skyquakes-continue-across-the-world-with-few-answers-to-their-origins/354459)  
+   Link: <a href="https://www.accuweather.com/en/weather-news/mysterious-skyquakes-continue-across-the-world-with-few-answers-to-their-origins/354459" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/mysterious-skyquakes-continue-across-the-world-with-few-answers-to-their-origins/354459</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;skyquakes&#x27; continue across the world with few...7 Dec 2017 — More than 64 different incidents involving loud, unexplained bo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iflscience.com  
    Title: mystery of the moodus noises that baffled connecticut for centuries 73358  
-   Link: [https://www.iflscience.com/mystery-of-the-moodus-noises-that-baffled-connecticut-for-centuries-73358](https://www.iflscience.com/mystery-of-the-moodus-noises-that-baffled-connecticut-for-centuries-73358)  
+   Link: <a href="https://www.iflscience.com/mystery-of-the-moodus-noises-that-baffled-connecticut-for-centuries-73358" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/mystery-of-the-moodus-noises-that-baffled-connecticut-for-centuries-73358</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Of The Moodus Noises That Baffled Connecticut...13 Mar 2024 — For centuries, people living in what is now south-central Connecti...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencefocus.com  
    Title: mystery skyquakes are ripping through the world and nobody knows why  
-   Link: [https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why](https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why)  
+   Link: <a href="https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/planet-earth/mystery-skyquakes-are-ripping-through-the-world-and-nobody-knows-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery &#x27;skyquakes&#x27; are ripping through the world. And...12 Apr 2026 — Mysterious booming noises coming from the sky could be skyquakes...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: Sometimes, Seneca Lake makes a sound like a cannon  
-   Link: [https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/](https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/)  
+   Link: <a href="https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thunder could explain some reports, but it doesn&#x27;t fit the historical pattern very well.... Seneca Guns and Skyquakes. Todd Bannor and 7...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: #bangladesh #barisal #barishal #gunsofbarisal #  
-   Link: [https://www.facebook.com/infogrambd/videos/an-unusual-event-occurred-in-barishal-and-its-surrounding-areas-in-the-early-hou/419384940867984/](https://www.facebook.com/infogrambd/videos/an-unusual-event-occurred-in-barishal-and-its-surrounding-areas-in-the-early-hou/419384940867984/)  
+   Link: <a href="https://www.facebook.com/infogrambd/videos/an-unusual-event-occurred-in-barishal-and-its-surrounding-areas-in-the-early-hou/419384940867984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/infogrambd/videos/an-unusual-event-occurred-in-barishal-and-its-surrounding-areas-in-the-early-hou/419384940867984/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An unusual event occurred in Barishal and its surrounding...The phenomenon is now classified as a skyquake, a sonic boom without a corre...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: discoveryuk.com  
    Title: skyquake the mysterious sounds from the sky  
-   Link: [https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/](https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Documented reports of skyquakes date back to at least the early nine...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: explorersweb.com  
    Title: scientists grapple to explain mysterious skyquake noises heard across the world  
-   Link: [https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/](https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/)  
+   Link: <a href="https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The peculiar noises are not new; they were first reported in 1811 in...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40markeetafrydrychova/barisal-guns-mystery-will-we-ever-solve-this-mystery-72bf5604ec08](https://medium.com/%40markeetafrydrychova/barisal-guns-mystery-will-we-ever-solve-this-mystery-72bf5604ec08)  
+   Link: <a href="https://medium.com/%40markeetafrydrychova/barisal-guns-mystery-will-we-ever-solve-this-mystery-72bf5604ec08" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40markeetafrydrychova/barisal-guns-mystery-will-we-ever-solve-this-mystery-72bf5604ec08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>here. Furthermore, there is the hypothesis of a...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thedailystar.net  
    Title: the mystery the barisal guns 1534687  
-   Link: [https://www.thedailystar.net/star-weekend/strange-history/the-mystery-the-barisal-guns-1534687](https://www.thedailystar.net/star-weekend/strange-history/the-mystery-the-barisal-guns-1534687)  
+   Link: <a href="https://www.thedailystar.net/star-weekend/strange-history/the-mystery-the-barisal-guns-1534687" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailystar.net/star-weekend/strange-history/the-mystery-the-barisal-guns-1534687</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Barisal Guns15 Feb 2018 — This incident is now considered as an example of skyquake—which refers to an unexplained son...</p></details>

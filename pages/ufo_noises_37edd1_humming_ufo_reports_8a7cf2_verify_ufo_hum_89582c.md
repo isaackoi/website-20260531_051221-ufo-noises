@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /humming/
 nav_short_title: Verify Hums
 title: What Makes a UFO Hum Worth Checking
-title_full: What Makes a UFO Hum Worth Checking | Humming
+title_full: What Makes a UFO Hum Worth Checking
 display_title_short: Verify Hums
 display_title: Verify Hums
 heading_title: What Makes a UFO Hum Worth Checking
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:57:46'
-parent_title: Why Do So Many UFOs Hum? | UFO Noises
+parent_title: Why Do So Many UFOs Hum?
 parent_permalink: /humming/
 parent_nav_short_title: Humming
 parent_heading_title: Why Do So Many UFOs Hum?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hu
 
 A [humming]({{ 'humming/' | relative_url }}) sound alone is weak evidence in a UFO report. People regularly misjudge the [direction]({{ 'direction/' | relative_url }}), distance and source of low-frequency sounds, especially at night or during unusual atmospheric conditions. Yet a reported hum becomes more interesting when several independent pieces of evidence point to the same event. A recording, multiple witnesses who describe similar sounds separately, unusual animal reactions, aviation data, weather information and timing records can all help determine whether a reported UFO hum reflects a real external sound or a misidentified experience.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-1-dark.svg" | relative_url }}" alt="Verify Hums illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether a witness heard something strange. It is whether the sound can be verified outside the witness's [memory]({{ 'memory/' | relative_url }}). Most reported UFO hums remain anecdotal because investigators cannot connect them to measurable evidence. The cases that attract serious attention are the ones where several lines of information support each other rather than relying on a single person's recollection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
 
@@ -309,7 +308,6 @@ Reports associated with broader "Hum" phenomena have repeatedly highlighted the 
 
 A recording becomes more valuable when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The original file is preserved.
@@ -321,7 +319,6 @@ A recording becomes more valuable when:
 </div>
 
 Even then, a recording mainly confirms that a sound existed. It does not automatically identify its source.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0FqCRPpg57c" title="Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer">Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 65.9K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0FqCRPpg57c">Open on YouTube</a></p></div></div></div>
 
@@ -341,11 +338,10 @@ Many reported UFO hums occur near flight corridors. Atmospheric conditions can m
 
 For that reason, investigators often compare reports with:
 
+<div class="content-enhancement content-enhancement--decision" markdown="1">
+
 * Civil aviation tracking records.
-* [Military training]({{ 'military-roars/' | relative_url }}) schedules when available.
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
-
+* Military training schedules when available.
 * Helicopter activity.
 * Airport departure and arrival logs.
 * Known drone operations.
@@ -353,7 +349,6 @@ For that reason, investigators often compare reports with:
 </div>
 
 A hum that appears mysterious in isolation may line up exactly with aircraft activity once timing data are examined.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-2-dark.svg" | relative_url }}" alt="Verify Hums illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Single-Witness Memory Can Mislead
@@ -368,7 +363,6 @@ This does not mean witnesses are fabricating experiences. It means perception ca
 
 Common memory problems include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Overestimating how long a sound lasted.
@@ -380,7 +374,6 @@ Common memory problems include:
 </div>
 
 For verification purposes, notes made immediately after an event are usually more reliable than recollections recorded weeks or months later.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wkgzBmQSO70" title="The Hum The Global Mystery Noise That No One Can Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wkgzBmQSO70" target="_blank" rel="noopener noreferrer">The Hum The Global Mystery Noise That No One Can Explain</a></p><p class="youtube-embed-meta">Channel: Beneath the Echo &middot; Views: 677 &middot; Uploaded: October 2025 &middot; Length: 4 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wkgzBmQSO70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wkgzBmQSO70">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +395,6 @@ Low-frequency hums frequently originate from ordinary equipment, including:
 
 These sources can produce sounds that travel long distances and become difficult to localise, especially at night.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-3-dark.svg" | relative_url }}" alt="Verify Hums illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_verify_ufo_hum_89582c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Look at weather conditions
 
@@ -418,7 +410,6 @@ Reports should also be compared with documented low-frequency hum cases.
 
 The Taos Hum and similar reports from the United Kingdom, Canada and elsewhere show recurring patterns: low-frequency droning sounds, selective audibility, difficulty locating the source and inconsistent instrumental detection. These similarities do not explain a UFO hum, but they provide a useful baseline for understanding how unusual acoustic experiences can occur without a clearly identified source. The International Tinnitus Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the taos hum new mexicos unexplained acoustic phenomenon</span><span class="citation-popover-snippet">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibra...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sJ1EvdmGEAk" title="What is The Mysterious Hum That Only Some Hears? The Unseen Noise That Torments Millions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sJ1EvdmGEAk" target="_blank" rel="noopener noreferrer">What is The Mysterious Hum That Only Some Hears? The Unseen Noise That Torments Millions</a></p><p class="youtube-embed-meta">Channel: Puzzling Mysteries Podcast &middot; Views: 3 &middot; Uploaded: September 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sJ1EvdmGEAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sJ1EvdmGEAk">Open on YouTube</a></p></div></div></div>
 
 ## When a Hum Becomes More Than an Anecdote
@@ -426,7 +417,6 @@ The Taos Hum and similar reports from the United Kingdom, Canada and elsewhere s
 A UFO hum becomes genuinely worth investigating when several independent strands of evidence align.
 
 The most persuasive pattern is not a dramatic story but a convergence of ordinary facts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -841,80 +831,80 @@ That distinction is important. The goal of verification is not to prove a UFO ca
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 2. <a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: the taos hum new mexicos unexplained acoustic phenomenon  
-   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibra...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ft.com  
    Title: Financial Times The international mystery of 'the Hum'  
-   Link: [https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483](https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483)  
+   Link: <a href="https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms](https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: newsweek.com  
    Title: pilots instructed maneuver around oregon ufo alleged audio leak 1999176  
-   Link: [https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176](https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176)  
+   Link: <a href="https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Told to &#x27;Maneuver&#x27; Around Oregon &#x27;UFO&#x27; in Leaked...11 Dec 2024 — Two pilots described seeing UFOs &quot;zipping&quot; through the sky west...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: artangel.org.uk  
-   Link: [https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/](https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/)  
+   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As an eyewitness, shepherd Trantos Karatranjos told me, suddenly the troubled UFO lost altitude...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/](https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443597534020399/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewBedford #Massachusetts towards the sunrise, about 1 week ago or...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bonblossman.com  
    Title: the enigma of the taos hum a mysterious phenomenon  
-   Link: [https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon](https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon)  
+   Link: <a href="https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: A Mysterious Phenomenon15 Dec 2023 — The Taos Hum is described as a faint, low-frequency humming noise, akin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KARE11/posts/recently-declassified-ufo-documents-included-a-reported-sighting-by-police-in-th/1561128512723583/](https://www.facebook.com/KARE11/posts/recently-declassified-ufo-documents-included-a-reported-sighting-by-police-in-th/1561128512723583/)  
+   Link: <a href="https://www.facebook.com/KARE11/posts/recently-declassified-ufo-documents-included-a-reported-sighting-by-police-in-th/1561128512723583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/recently-declassified-ufo-documents-included-a-reported-sighting-by-police-in-th/1561128512723583/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings can eventually be linked to atmospheric effects...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/10newsplus/posts/the-pentagon-has-released-another-batch-of-ufo-files-theyre-previously-classifie/122167486958899199/](https://www.facebook.com/10newsplus/posts/the-pentagon-has-released-another-batch-of-ufo-files-theyre-previously-classifie/122167486958899199/)  
+   Link: <a href="https://www.facebook.com/10newsplus/posts/the-pentagon-has-released-another-batch-of-ufo-files-theyre-previously-classifie/122167486958899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/the-pentagon-has-released-another-batch-of-ufo-files-theyre-previously-classifie/122167486958899199/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>asn&#x27;t held a public hearing on UFOs since the US Air Force...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AstonishingLegends/comments/1si5k53/the_hum_a_lowfrequency_sound_heard_in_dozens_of/](https://www.reddit.com/r/AstonishingLegends/comments/1si5k53/the_hum_a_lowfrequency_sound_heard_in_dozens_of/)  
+   Link: <a href="https://www.reddit.com/r/AstonishingLegends/comments/1si5k53/the_hum_a_lowfrequency_sound_heard_in_dozens_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AstonishingLegends/comments/1si5k53/the_hum_a_lowfrequency_sound_heard_in_dozens_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the sound. The other 98 percent heard nothing. The complaints were...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1483824148637897/posts/2857889297898035/](https://www.facebook.com/groups/1483824148637897/posts/2857889297898035/)  
+   Link: <a href="https://www.facebook.com/groups/1483824148637897/posts/2857889297898035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1483824148637897/posts/2857889297898035/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>now where it&#x27;s coming from and it&#x27;s driving me crazy. Not sure...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: komonews.com  
-   Link: [https://komonews.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://komonews.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://komonews.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://komonews.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Team: Pentagon releases new UFO files, but...1 day ago — Fact Check Team: Pentagon releases new UFO files, but no evidence of...</p></details>

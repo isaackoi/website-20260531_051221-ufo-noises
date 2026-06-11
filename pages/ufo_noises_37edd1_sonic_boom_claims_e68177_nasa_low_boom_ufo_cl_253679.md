@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sonic-booms/
 nav_short_title: Low Boom Jets
 title: What Quiet Supersonic Jets Mean for UFO Claims
-title_full: What Quiet Supersonic Jets Mean for UFO Claims | Sonic Booms
+title_full: What Quiet Supersonic Jets Mean for UFO Claims
 display_title_short: Low Boom Jets
 display_title: Low Boom Jets
 heading_title: What Quiet Supersonic Jets Mean for UFO Claims
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:00:08'
-parent_title: Can UFOs Break Sound Without Booms? | UFO Noises
+parent_title: Can UFOs Break Sound Without Booms?
 parent_permalink: /sonic-booms/
 parent_nav_short_title: Sonic Booms
 parent_heading_title: Can UFOs Break Sound Without Booms?
@@ -274,18 +274,16 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_u
 
 ## Introduction
 
-One of the most common arguments in UFO discussions is that a reported object appeared to move at extreme speed without producing the sonic boom expected from conventional physics. NASA's X-59 and the wider Quesst low-boom research programme matter because they show that the relationship between supersonic flight and ground-level noise is more complicated than many people assume. Modern [aircraft]({{ 'aircraft/' | relative_url }}) design can reshape shock waves, reduce perceived boom intensity and turn a sharp crack into something closer to a muted thump. That does not prove UFO reports are secretly advanced aircraft, but it does weaken the simple claim that “fast plus silent” automatically requires unknown technology. At the same time, NASA's work also highlights an important limit: quieter supersonic flight is not the same thing as completely silent flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/quesst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAQuesst15 Apr 2026 — NASA&#x27;s Quesst mission, which features the one-of-a-kind X-59 aircraft, will demonstrate technology to fly superso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
-
+One of the most common arguments in UFO discussions is that a reported object appeared to move at extreme speed without producing the sonic boom expected from conventional physics. NASA's X-59 and the wider Quesst low-boom research programme matter because they show that the relationship between supersonic flight and ground-level noise is more complicated than many people assume. Modern [aircraft]({{ 'aircraft/' | relative_url }}) design can reshape shock waves, reduce perceived boom intensity and turn a sharp crack into something closer to a muted thump. That does not prove UFO reports are secretly advanced aircraft, but it does weaken the simple claim that “fast plus silent” automatically requires unknown technology. At the same time, NASA's work also highlights an important limit: quieter supersonic flight is not the same thing as completely silent flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/quesst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Quesst15 Apr 2026 — NASA&#x27;s Quesst mission, which features the one-of-a-kind X-59 aircraft, will demonstrate technology to fly superso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-1-dark.svg" | relative_url }}" alt="Low Boom Jets illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Aircraft Design Reshapes Shock Waves
 
-Traditional sonic [booms]({{ 'booms/' | relative_url }}) occur because pressure waves generated by a supersonic aircraft merge into powerful shock fronts. The classic double-boom associated with military jets and Concorde comes from the aircraft's overall shape, with shock waves from different parts of the airframe combining as they travel through the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">lockheed martin reveal x 59 quiet supersonic aircraft</span><span class="citation-popover-snippet">NASANASA, Lockheed Martin Reveal X-59 Quiet Supersonic...12 Jan 2024 — The X-59&#x27;s thin, tapered nose accounts for almost a third of its...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Quesst: The AircraftNASA will use the experimental X-59 to provide data that will help establish acceptable noise thresholds for superson...</span></span></span>
+Traditional sonic [booms]({{ 'booms/' | relative_url }}) occur because pressure waves generated by a supersonic aircraft merge into powerful shock fronts. The classic double-boom associated with military jets and Concorde comes from the aircraft's overall shape, with shock waves from different parts of the airframe combining as they travel through the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">lockheed martin reveal x 59 quiet supersonic aircraft</span><span class="citation-popover-snippet">NASA, Lockheed Martin Reveal X-59 Quiet Supersonic...12 Jan 2024 — The X-59&#x27;s thin, tapered nose accounts for almost a third of its...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Quesst: The AircraftNASA will use the experimental X-59 to provide data that will help establish acceptable noise thresholds for superson...</span></span></span>
 
 NASA's X-59 was designed specifically to prevent that merging process. Instead of allowing multiple strong shock waves to combine into a loud boom, the aircraft stretches and redistributes them into a sequence of weaker pressure changes. The aircraft's unusually long nose, which makes up roughly a third of its length, is a central part of this approach. NASA states that the nose helps break up shock waves that would otherwise produce a conventional boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-quesst-for-low-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">the quesst for low sonic booms</span><span class="citation-popover-snippet">21 Jun 2024 — Aerospace engineers discuss NASA&#x27;s Quesst mission and the X-59 aircraft designed to fly faster than the speed of sound and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">x 59 nose makes an appearance 2</span><span class="citation-popover-snippet">X-59 Nose Makes an Appearance22 Sept 2021 —... length and will be essential in shaping shock waves during supersonic flight, resulting i...</span></span></span>
 
 Several design choices contribute to the effect:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -296,10 +294,9 @@ Several design choices contribute to the effect:
 
 </div>
 
-The goal is not to eliminate shock waves. Supersonic flight still generates them. Instead, the objective is to alter how those waves combine and how people experience them on the ground. NASA's programme repeatedly describes the intended result as a quieter sonic "thump" rather than the explosive boom traditionally associated with breaking the sound barrier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www3.nasa.gov/specials/Quesst/how-x59-designed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www3.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www3.nasa.gov</span><span class="citation-popover-snippet">NASAHow is the X-59 designed to quiet the boom?Engineers incorporated several innovative design features into the X-59 to make it quieter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASALatest NASA X-59 Flights Go Higher and FasterApr 17, 2026 — The experimental supersonic jet is designed with technology that reduces...</span></span></span>
+The goal is not to eliminate shock waves. Supersonic flight still generates them. Instead, the objective is to alter how those waves combine and how people experience them on the ground. NASA's programme repeatedly describes the intended result as a quieter sonic "thump" rather than the explosive boom traditionally associated with breaking the sound barrier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www3.nasa.gov/specials/Quesst/how-x59-designed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www3.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www3.nasa.gov</span><span class="citation-popover-snippet">How is the X-59 designed to quiet the boom?Engineers incorporated several innovative design features into the X-59 to make it quieter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Latest NASA X-59 Flights Go Higher and FasterApr 17, 2026 — The experimental supersonic jet is designed with technology that reduces...</span></span></span>
 
 This distinction is important when comparing aerospace engineering with UFO reports. The existence of low-boom technology demonstrates that loud sonic booms are not an unavoidable consequence of every supersonic aircraft design.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKXSMlgv_Qw" title="This Is the World&#x27;s Most Advanced Jet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKXSMlgv_Qw" target="_blank" rel="noopener noreferrer">This Is the World&#x27;s Most Advanced Jet</a></p><p class="youtube-embed-meta">Channel: MegaBuilds &middot; Views: 2.2M &middot; Uploaded: September 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKXSMlgv_Qw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKXSMlgv_Qw">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +304,7 @@ This distinction is important when comparing aerospace engineering with UFO repo
 
 The strongest UFO claims often involve objects allegedly travelling at extraordinary speed while producing no audible noise at all. NASA's research does not support that scenario.
 
-The X-59 is frequently described in popular media as a jet that flies "without a sonic boom", but NASA's own language is more precise. The aircraft is intended to reduce the boom to a much lower-intensity acoustic signature that people on the ground may perceive as a soft thump. The sound remains real; it is simply less disruptive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to test technology for x 59s unique shock wave measurements</span><span class="citation-popover-snippet">NASANASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — The X-59 is designed to divert those shock waves, reducing the l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">s x 59 flight tests pick up speed with two flight days</span><span class="citation-popover-snippet">s x 59 flight tests pick up speed with two flight days</span></span></span>
+The X-59 is frequently described in popular media as a jet that flies "without a sonic boom", but NASA's own language is more precise. The aircraft is intended to reduce the boom to a much lower-intensity acoustic signature that people on the ground may perceive as a soft thump. The sound remains real; it is simply less disruptive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to test technology for x 59s unique shock wave measurements</span><span class="citation-popover-snippet">NASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — The X-59 is designed to divert those shock waves, reducing the l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">s x 59 flight tests pick up speed with two flight days</span><span class="citation-popover-snippet">s x 59 flight tests pick up speed with two flight days</span></span></span>
 
 That difference matters because some UFO discussions treat sonic booms as a binary issue:
 
@@ -318,8 +315,7 @@ Real aerodynamics operates on a spectrum. Shock waves vary in intensity, propaga
 
 This creates a more nuanced framework for analysing UFO reports. If a witness reports a distant fast-moving object and no obvious boom, low-boom research shows that the absence of a dramatic shock wave is not necessarily impossible within known aerospace engineering. However, claims of complete silence during alleged extreme manoeuvres remain a much larger challenge.
 
-The distinction becomes even clearer when looking at NASA's measurements. The agency is investing heavily in instrumentation, flight testing and public surveys precisely because even reduced booms remain measurable physical events. Researchers are not claiming that the atmosphere ceases to respond to supersonic motion. They are attempting to manage and reshape that response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/quesst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAQuesst15 Apr 2026 — NASA&#x27;s Quesst mission, which features the one-of-a-kind X-59 aircraft, will demonstrate technology to fly superso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
-
+The distinction becomes even clearer when looking at NASA's measurements. The agency is investing heavily in instrumentation, flight testing and public surveys precisely because even reduced booms remain measurable physical events. Researchers are not claiming that the atmosphere ceases to respond to supersonic motion. They are attempting to manage and reshape that response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/quesst/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Quesst15 Apr 2026 — NASA&#x27;s Quesst mission, which features the one-of-a-kind X-59 aircraft, will demonstrate technology to fly superso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-2-dark.svg" | relative_url }}" alt="Low Boom Jets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why X-59 Evidence Has Limits for UFO Reports
@@ -330,7 +326,6 @@ First, the X-59 remains an aircraft operating within conventional aerodynamics. 
 
 Second, most dramatic UFO reports describe behaviour that goes well beyond ordinary supersonic flight. Witnesses sometimes claim:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Instant acceleration from a standstill.
@@ -340,17 +335,15 @@ Second, most dramatic UFO reports describe behaviour that goes well beyond ordin
 
 </div>
 
-NASA's low-boom research does not address such claims. It only demonstrates that one specific expectation—the inevitability of a loud sonic boom—can be modified through careful design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">lockheed martin reveal x 59 quiet supersonic aircraft</span><span class="citation-popover-snippet">NASANASA, Lockheed Martin Reveal X-59 Quiet Supersonic...12 Jan 2024 — The X-59&#x27;s thin, tapered nose accounts for almost a third of its...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Quesst: The AircraftNASA will use the experimental X-59 to provide data that will help establish acceptable noise thresholds for superson...</span></span></span>
+NASA's low-boom research does not address such claims. It only demonstrates that one specific expectation—the inevitability of a loud sonic boom—can be modified through careful design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">lockheed martin reveal x 59 quiet supersonic aircraft</span><span class="citation-popover-snippet">NASA, Lockheed Martin Reveal X-59 Quiet Supersonic...12 Jan 2024 — The X-59&#x27;s thin, tapered nose accounts for almost a third of its...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/quesst-the-aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Quesst: The AircraftNASA will use the experimental X-59 to provide data that will help establish acceptable noise thresholds for superson...</span></span></span>
 
 Third, there is a scaling issue. The X-59 achieves quieter flight through a highly specialised shape developed over decades of aerodynamic research and computational modelling. Engineers continue to conduct detailed shock-wave measurements because even small changes in geometry affect the resulting acoustic signature. The programme's existence underscores how difficult low-boom flight actually is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-quesst-for-low-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">the quesst for low sonic booms</span><span class="citation-popover-snippet">21 Jun 2024 — Aerospace engineers discuss NASA&#x27;s Quesst mission and the X-59 aircraft designed to fly faster than the speed of sound and...</span></span></span>
 
 As a result, NASA's work cuts against two simplistic positions at once.
 
-For sceptics, it shows that "no loud boom" is not a definitive argument against every report of a fast-moving object. Supersonic signatures can be reduced and altered. For believers, it shows that quieter flight does not automatically imply exotic propulsion. Known aerospace engineering can already reshape sonic-boom behaviour in ways that would have sounded improbable decades ago. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">x 59 nose makes an appearance 2</span><span class="citation-popover-snippet">X-59 Nose Makes an Appearance22 Sept 2021 —... length and will be essential in shaping shock waves during supersonic flight, resulting i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www3.nasa.gov/specials/Quesst/how-x59-designed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www3.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www3.nasa.gov</span><span class="citation-popover-snippet">NASAHow is the X-59 designed to quiet the boom?Engineers incorporated several innovative design features into the X-59 to make it quieter...</span></span></span>
-
+For sceptics, it shows that "no loud boom" is not a definitive argument against every report of a fast-moving object. Supersonic signatures can be reduced and altered. For believers, it shows that quieter flight does not automatically imply exotic propulsion. Known aerospace engineering can already reshape sonic-boom behaviour in ways that would have sounded improbable decades ago. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">x 59 nose makes an appearance 2</span><span class="citation-popover-snippet">X-59 Nose Makes an Appearance22 Sept 2021 —... length and will be essential in shaping shock waves during supersonic flight, resulting i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www3.nasa.gov/specials/Quesst/how-x59-designed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www3.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www3.nasa.gov</span><span class="citation-popover-snippet">How is the X-59 designed to quiet the boom?Engineers incorporated several innovative design features into the X-59 to make it quieter...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJxc_gPZA9s" title="60 Second Science - Quieting the Boom: Meet the X-59" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJxc_gPZA9s" target="_blank" rel="noopener noreferrer">60 Second Science - Quieting the Boom: Meet the X-59</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 24.8K &middot; Uploaded: January 2024 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJxc_gPZA9s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJxc_gPZA9s">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PRn_vpjHkOM" title="NASA Tests &quot;Quiet&quot; Supersonic X-59 Jet to End Sonic Booms | Vantage with Palki Sharma | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PRn_vpjHkOM" target="_blank" rel="noopener noreferrer">NASA Tests &quot;Quiet&quot; Supersonic X-59 Jet to End Sonic Booms | Vantage with Palki Sharma | N18G</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 471.7K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PRn_vpjHkOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PRn_vpjHkOM">Open on YouTube</a></p></div></div></div>
 
@@ -358,10 +351,9 @@ For sceptics, it shows that "no loud boom" is not a definitive argument against 
 
 The most useful lesson from NASA's Quesst programme is not that UFO reports have been explained. It is that expectations about sonic booms need to be more precise.
 
-Before modern low-boom research, many discussions treated the absence of a window-rattling shock wave as decisive evidence that a reported object could not have been a conventional aircraft. The X-59 demonstrates that aircraft designers can manipulate how shock waves form and how people perceive them on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASALatest NASA X-59 Flights Go Higher and FasterApr 17, 2026 — The experimental supersonic jet is designed with technology that reduces...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to test technology for x 59s unique shock wave measurements</span><span class="citation-popover-snippet">NASANASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — The X-59 is designed to divert those shock waves, reducing the l...</span></span></span>
+Before modern low-boom research, many discussions treated the absence of a window-rattling shock wave as decisive evidence that a reported object could not have been a conventional aircraft. The X-59 demonstrates that aircraft designers can manipulate how shock waves form and how people perceive them on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Latest NASA X-59 Flights Go Higher and FasterApr 17, 2026 — The experimental supersonic jet is designed with technology that reduces...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to test technology for x 59s unique shock wave measurements</span><span class="citation-popover-snippet">NASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — The X-59 is designed to divert those shock waves, reducing the l...</span></span></span>
 
 That means investigators evaluating reports of silent high-speed objects should ask more detailed questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,7 +366,6 @@ That means investigators evaluating reports of silent high-speed objects should 
 </div>
 
 NASA's research does not eliminate the mystery in unusual reports, but it narrows one common argument. The choice is not simply between a deafening sonic boom and impossible silence. Modern aeronautics shows that there is a middle ground, where supersonic flight remains detectable yet sounds very different from what many witnesses expect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">s x 59 flight tests pick up speed with two flight days</span><span class="citation-popover-snippet">s x 59 flight tests pick up speed with two flight days</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plus.nasa.gov/video/x-59-nasas-quest-for-quiet-supersonic-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plus.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plus.nasa.gov</span><span class="citation-popover-title">x 59 nasas quest for quiet supersonic flight</span><span class="citation-popover-snippet">nasa.govX-59: NASA’s “Quesst” for Quiet Supersonic FlightThe X-59 aircraft builds on decades of supersonic flight research and is the cen...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-3-dark.svg" | relative_url }}" alt="Low Boom Jets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_nasa_low_boom_ufo_cl_253679-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -774,141 +765,141 @@ NASA's research does not eliminate the mystery in unusual reports, but it narrow
 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/mission/quesst/](https://www.nasa.gov/mission/quesst/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAQuesst15 Apr 2026 — NASA&#x27;s Quesst mission, which features the one-of-a-kind X-59 aircraft, will demonstrate technology to fly superso...</p></details>
+   Link: <a href="https://www.nasa.gov/mission/quesst/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/quesst/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quesst15 Apr 2026 — NASA&#x27;s Quesst mission, which features the one-of-a-kind X-59 aircraft, will demonstrate technology to fly superso...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/quesst-the-mission/](https://www.nasa.gov/quesst-the-mission/)  
+   Link: <a href="https://www.nasa.gov/quesst-the-mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/quesst-the-mission/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: lockheed martin reveal x 59 quiet supersonic aircraft  
-   Link: [https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/](https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA, Lockheed Martin Reveal X-59 Quiet Supersonic...12 Jan 2024 — The X-59&#x27;s thin, tapered nose accounts for almost a third of its...</p></details>
+   Link: <a href="https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-lockheed-martin-reveal-x-59-quiet-supersonic-aircraft/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA, Lockheed Martin Reveal X-59 Quiet Supersonic...12 Jan 2024 — The X-59&#x27;s thin, tapered nose accounts for almost a third of its...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/quesst-the-aircraft/](https://www.nasa.gov/quesst-the-aircraft/)  
+   Link: <a href="https://www.nasa.gov/quesst-the-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/quesst-the-aircraft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quesst: The AircraftNASA will use the experimental X-59 to provide data that will help establish acceptable noise thresholds for superson...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: the quesst for low sonic booms  
-   Link: [https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-quesst-for-low-sonic-booms/](https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-quesst-for-low-sonic-booms/)  
+   Link: <a href="https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-quesst-for-low-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-quesst-for-low-sonic-booms/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jun 2024 — Aerospace engineers discuss NASA&#x27;s Quesst mission and the X-59 aircraft designed to fly faster than the speed of sound and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
    Title: x 59 nose makes an appearance 2  
-   Link: [https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/](https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/)  
+   Link: <a href="https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/x-59-nose-makes-an-appearance-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X-59 Nose Makes an Appearance22 Sept 2021 —... length and will be essential in shaping shock waves during supersonic flight, resulting i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: www3.nasa.gov  
-   Link: [https://www3.nasa.gov/specials/Quesst/how-x59-designed.html](https://www3.nasa.gov/specials/Quesst/how-x59-designed.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAHow is the X-59 designed to quiet the boom?Engineers incorporated several innovative design features into the X-59 to make it quieter...</p></details>
+   Link: <a href="https://www3.nasa.gov/specials/Quesst/how-x59-designed.html" target="_blank" rel="noopener noreferrer nofollow">https://www3.nasa.gov/specials/Quesst/how-x59-designed.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How is the X-59 designed to quiet the boom?Engineers incorporated several innovative design features into the X-59 to make it quieter...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/](https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASALatest NASA X-59 Flights Go Higher and FasterApr 17, 2026 — The experimental supersonic jet is designed with technology that reduces...</p></details>
+   Link: <a href="https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/quesst/2026/04/17/x-59-update-041726/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest NASA X-59 Flights Go Higher and FasterApr 17, 2026 — The experimental supersonic jet is designed with technology that reduces...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nasa.gov  
    Title: to test technology for x 59s unique shock wave measurements  
-   Link: [https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/](https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — The X-59 is designed to divert those shock waves, reducing the l...</p></details>
+   Link: <a href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — The X-59 is designed to divert those shock waves, reducing the l...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: nasas x 59 quiet supersonic jet makes historic 1st flight photos  
-   Link: [https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos](https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos)  
+   Link: <a href="https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/technology/aerospace/nasas-x-59-quiet-supersonic-jet-makes-historic-1st-flight-photos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s X-59 &#x27;quiet&#x27; supersonic jet makes historic 1st flight (...28 Oct 2025 — The X-59 was designed from the wheels up to be able to fl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: s x 59 flight tests pick up speed with two flight days  
-   Link: [https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/](https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/)  
+   Link: <a href="https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/quesst/2026/05/08/nasas-x-59-flight-tests-pick-up-speed-with-two-flight-days/</a>  
 
 12. <a id="endnote-12"></a>
    Source: plus.nasa.gov  
    Title: x 59 nasas quest for quiet supersonic flight  
-   Link: [https://plus.nasa.gov/video/x-59-nasas-quest-for-quiet-supersonic-flight/](https://plus.nasa.gov/video/x-59-nasas-quest-for-quiet-supersonic-flight/)  
+   Link: <a href="https://plus.nasa.gov/video/x-59-nasas-quest-for-quiet-supersonic-flight/" target="_blank" rel="noopener noreferrer nofollow">https://plus.nasa.gov/video/x-59-nasas-quest-for-quiet-supersonic-flight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govX-59: NASA’s “Quesst” for Quiet Supersonic FlightThe X-59 aircraft builds on decades of supersonic flight research and is the cen...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/directorates/armd/iasp/lbfd/](https://www.nasa.gov/directorates/armd/iasp/lbfd/)  
+   Link: <a href="https://www.nasa.gov/directorates/armd/iasp/lbfd/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/directorates/armd/iasp/lbfd/</a>  
 
 14. <a id="endnote-14"></a>
    Source: space.com  
-   Link: [https://www.space.com/declassified-ufo-sightings](https://www.space.com/declassified-ufo-sightings)  
+   Link: <a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic boom...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rdworldonline.com  
    Title: how nasa designed the x 59 to eliminate the sonic boom  
-   Link: [https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/](https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/)  
+   Link: <a href="https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The airframe is designed to prevent shock waves from...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: supersonic thump  
-   Link: [https://aerospaceamerica.aiaa.org/features/supersonic-thump/](https://aerospaceamerica.aiaa.org/features/supersonic-thump/)  
+   Link: <a href="https://aerospaceamerica.aiaa.org/features/supersonic-thump/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/features/supersonic-thump/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>thump - Aerospace America - AIAA1 Nov 2019 — The X-59&#x27;s extremely long, thin design, which dulls the supersonic boom to a thump by breaki...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PRn_vpjHkOM](https://www.youtube.com/watch?v=PRn_vpjHkOM)  
+   Link: <a href="https://www.youtube.com/watch?v=PRn_vpjHkOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PRn_vpjHkOM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Tests &quot;Quiet&quot; Supersonic X-59 Jet to End Sonic Booms...NASA has begun testing the X-59, a new experimental jet designed to fly fast...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uKXSMlgv_Qw](https://www.youtube.com/watch?v=uKXSMlgv_Qw)  
+   Link: <a href="https://www.youtube.com/watch?v=uKXSMlgv_Qw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKXSMlgv_Qw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Is the World&#x27;s Most Advanced JetNASA&#x27;s X59 is about to achieve what many thought impossible supersonic flight with a sound no louder...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aerotime.aero  
    Title: nasa x59 will reduce sonic booms first wheels up flight  
-   Link: [https://www.aerotime.aero/articles/nasa-x59-will-reduce-sonic-booms-first-wheels-up-flight](https://www.aerotime.aero/articles/nasa-x59-will-reduce-sonic-booms-first-wheels-up-flight)  
+   Link: <a href="https://www.aerotime.aero/articles/nasa-x59-will-reduce-sonic-booms-first-wheels-up-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/nasa-x59-will-reduce-sonic-booms-first-wheels-up-flight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shows how supersonic X-59 will reduce sonic boom16 Apr 2026 — The aircraft profile is a key design element ensuring the X-59 can fly...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/1993qyh/nasas_x59_quiet_supersonic_plane_unveiled_for_the/](https://www.reddit.com/r/nasa/comments/1993qyh/nasas_x59_quiet_supersonic_plane_unveiled_for_the/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/1993qyh/nasas_x59_quiet_supersonic_plane_unveiled_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/1993qyh/nasas_x59_quiet_supersonic_plane_unveiled_for_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d will break up the shock waves that would ordinarily result in a...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/](https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/)  
+   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as confirmed the loud boom heard Tuesday morning in parts...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: aerospaceglobalnews.com  
    Title: nasa x59 supersonic flight shockwave tests  
-   Link: [https://aerospaceglobalnews.com/news/nasa-x59-supersonic-flight-shockwave-tests/](https://aerospaceglobalnews.com/news/nasa-x59-supersonic-flight-shockwave-tests/)  
+   Link: <a href="https://aerospaceglobalnews.com/news/nasa-x59-supersonic-flight-shockwave-tests/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceglobalnews.com/news/nasa-x59-supersonic-flight-shockwave-tests/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AGNNASA X-59 tests quiet supersonic flight at Mach 1.414 Jul 2025 — The NASA X-59 does this by disrupting shockwaves to prevent them merg...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/](https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lanations. Anybody know how it works? Sources appreciated. Thanks...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: Supersonic travel without the sonic boom?  
-   Link: [https://www.facebook.com/nasaarmstrong/posts/supersonic-travel-without-the-sonic-boom-thats-the-vision-behind-nasas-x-59-%EF%B8%8Fexp/1383952837099238/](https://www.facebook.com/nasaarmstrong/posts/supersonic-travel-without-the-sonic-boom-thats-the-vision-behind-nasas-x-59-%EF%B8%8Fexp/1383952837099238/)  
+   Link: <a href="https://www.facebook.com/nasaarmstrong/posts/supersonic-travel-without-the-sonic-boom-thats-the-vision-behind-nasas-x-59-%EF%B8%8Fexp/1383952837099238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nasaarmstrong/posts/supersonic-travel-without-the-sonic-boom-thats-the-vision-behind-nasas-x-59-%EF%B8%8Fexp/1383952837099238/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s the vision...The X-59 is designed to produce a much quieter &quot;thump&quot; — a noise that would be much less noticeable to people on the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/](https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whats your current viewpoint on the UFO phenomenon?Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/](https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/)  
+   Link: <a href="https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ircraft went supersonic, and the sound bounced for miles...</p></details>

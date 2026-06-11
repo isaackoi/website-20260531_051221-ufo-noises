@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Sensors
 title: Can Sensors Catch UFO Noises?
-title_full: Can Sensors Catch UFO Noises? | UFO Noises
+title_full: Can Sensors Catch UFO Noises?
 display_title_short: Sensors
 display_title: Sensors
 heading_title: Can Sensors Catch UFO Noises?
@@ -354,7 +354,6 @@ image: /assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-overview-soci
 
 Can sensors catch [UFO noises]({{ 'ufo-noises/' | relative_url }})? In a limited but increasingly measurable sense, yes. Modern acoustic monitoring systems can record sounds linked to unusual aerial events, including ordinary [aircraft]({{ 'aircraft/' | relative_url }}), drones, meteors, atmospheric explosions and other objects moving through the sky. Instead of relying entirely on witness descriptions of humming, buzzing or strange low-frequency vibrations, investigators can now collect digital recordings across multiple frequency bands and compare them with known acoustic signatures. The result is not proof of unidentified craft, but a stronger evidence base than memory alone.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-overview.webp" | relative_url }}" alt="Overview image for Sensors" loading="eager" decoding="sync" fetchpriority="high">
 The most important shift is that modern systems do not listen only for sounds humans can hear. They also monitor infrasound, which falls below the normal hearing range, and in some cases ultrasound, which lies above it. Multi-band monitoring allows researchers to capture events that might otherwise seem silent or inexplicable to nearby observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoo_jPSmZvW9Gj97LymnUejzYbzuGwNvpDi3KgmQYtLLgslMRIxo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — A passive, multi-band, field micropho...</span></span></span>
 
@@ -363,7 +362,6 @@ The most important shift is that modern systems do not listen only for sounds hu
 Traditional microphones record audible sound, roughly between 20 hertz and 20 kilohertz. Modern aerial monitoring projects increasingly combine several sensor types to cover a much wider spectrum.
 
 A typical multi-band system may include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[semanticscholar.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">PDF] Multi-Band Acoustic Monitoring of Aerial SignaturesThe Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aids i...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -393,7 +391,6 @@ The goal is not merely to hear a sound. Researchers want to determine:
 
 This turns a subjective report such as "a strange [humming]({{ 'humming/' | relative_url }}) object passed overhead" into a measurable dataset.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-1-dark.svg" | relative_url }}" alt="Sensors illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Multiple Frequency Bands Matter
 
@@ -405,24 +402,18 @@ Multi-band monitoring exists partly because important aerial events often genera
 
 Infrasound is especially important because low-frequency sound travels much farther than higher-frequency noise. Atmospheric conditions can channel these waves across hundreds or even thousands of kilometres.
 
-The global infrasound network operated by the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) was built to detect atmospheric nuclear explosions, but it routinely records other aerial phenomena. The system includes dozens of specialised stations that measure tiny pressure fluctuations in the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTOInfrasound monitoringInfrasound technology can therefore help to identify a nuclear explosion in the atmosphere, and can work in syn...</span></span></span>
+The global infrasound network operated by the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) was built to detect atmospheric nuclear explosions, but it routinely records other aerial phenomena. The system includes dozens of specialised stations that measure tiny pressure fluctuations in the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringInfrasound technology can therefore help to identify a nuclear explosion in the atmosphere, and can work in syn...</span></span></span>
 
 Meteor explosions provide one of the clearest demonstrations of the technology's capabilities. When the [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) meteor exploded over Russia in 2013, infrasonic waves were detected by numerous CTBTO stations around the world. Some signals travelled across continents and were recorded thousands of kilometres from the source. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">AGU PublicationsThe 2013 Russian fireball largest ever detected by CTBTO...Jun 9, 2013 — It generated infrasound returns, after circling...</span></span></span>
 
 This matters for UFO investigations because some reports involve:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Bright aerial objects.
-* Sudden booms.
+* Sudden [booms]({{ 'booms/' | relative_url }}).
 * Apparent explosions.
 * Large-scale atmospheric disturbances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navisp.esa.int/opportunity/details/145/show" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navisp.esa.int">[navisp.esa.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navisp.esa.int</span><span class="citation-popover-snippet">Acoustic arrays for Drones localization and identificationThis activity proposes a large-scale acoustic array—thousands of sensors—to det...</span></span></span>
 
-</div>
-
 If an event is energetic enough, infrasound systems may record it even when ordinary microphones do not.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4IlpBEXvHm8" title="Infrasound Monitoring Networks for Tracking Atmospheric Re-entry Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4IlpBEXvHm8" target="_blank" rel="noopener noreferrer">Infrasound Monitoring Networks for Tracking Atmospheric Re-entry Events</a></p><p class="youtube-embed-meta">Channel: g Fun Facts online &middot; Views: 18 &middot; Uploaded: May 2025 &middot; Length: 4 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4IlpBEXvHm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4IlpBEXvHm8">Open on YouTube</a></p></div></div></div>
 
@@ -455,7 +446,6 @@ Such descriptions are difficult to verify after the fact.
 
 Instrument recordings change the situation by allowing investigators to examine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Spectrograms showing frequency content over time.
@@ -466,8 +456,7 @@ Instrument recordings change the situation by allowing investigators to examine:
 
 </div>
 
-The broader scientific push toward multimodal observation reflects this logic. Proposed UAP observatories increasingly combine cameras, radio sensors, environmental instruments and microphones so that any unusual event can be analysed through multiple independent measurements rather than a single witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://authors.library.caltech.edu/records/rcjwj-zr809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authors.library.caltech.edu">[CaltechAUTHORS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authors.library.caltech.edu</span><span class="citation-popover-snippet">CaltechAUTHORSThe Scientific Investigation of Unidentified Aerial...May 31, 2023 — by WA Watters · Cited by 45 — Here we present key mot...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
-
+The broader scientific push toward multimodal observation reflects this logic. Proposed UAP observatories increasingly combine cameras, radio sensors, environmental instruments and microphones so that any unusual event can be analysed through multiple independent measurements rather than a single witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://authors.library.caltech.edu/records/rcjwj-zr809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: authors.library.caltech.edu">[CaltechAUTHORS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">authors.library.caltech.edu</span><span class="citation-popover-snippet">AUTHORSThe Scientific Investigation of Unidentified Aerial...May 31, 2023 — by WA Watters · Cited by 45 — Here we present key mot...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-2-dark.svg" | relative_url }}" alt="Sensors illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Acoustic Arrays Can Estimate Location
@@ -476,10 +465,9 @@ A single microphone can record a sound. An array of microphones can often estima
 
 Modern acoustic localisation works by comparing tiny differences in arrival time between sensors. Software calculates the most likely direction of the source and, in some configurations, its approximate position.
 
-This approach is already used in drone detection research. Acoustic arrays can identify the characteristic signatures of unmanned aerial vehicles and estimate their location even when visibility is poor. European Space Agency-supported projects and other research groups have explored large-scale arrays specifically for aerial object localisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navisp.esa.int/opportunity/details/145/show" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navisp.esa.int">[NAVISP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navisp.esa.int</span><span class="citation-popover-snippet">Acoustic arrays for Drones localization and identificationThis activity proposes a large-scale acoustic array—thousands of sensors—to det...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDevelopment of an Acoustic System for UAV Detection</span><span class="citation-popover-snippet">PMCby C Dumitrescu · 2020 · Cited by 117 — The purpose of this paper is to investigate the possibility of developing and using an intelli...</span></span></span>
+This approach is already used in drone detection research. Acoustic arrays can identify the characteristic signatures of unmanned aerial vehicles and estimate their location even when visibility is poor. European Space Agency-supported projects and other research groups have explored large-scale arrays specifically for aerial object localisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navisp.esa.int/opportunity/details/145/show" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navisp.esa.int">[NAVISP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navisp.esa.int</span><span class="citation-popover-snippet">Acoustic arrays for Drones localization and identificationThis activity proposes a large-scale acoustic array—thousands of sensors—to det...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDevelopment of an Acoustic System for UAV Detection</span><span class="citation-popover-snippet">by C Dumitrescu · 2020 · Cited by 117 — The purpose of this paper is to investigate the possibility of developing and using an intelli...</span></span></span>
 
 For unusual aerial events, localisation offers an important advantage. A recorded sound can potentially be compared against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -492,7 +480,6 @@ For unusual aerial events, localisation offers an important advantage. A recorde
 
 That comparison can either strengthen or weaken a UFO interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tswEWuairYs" title="Extreme Infrasound w/ Dr Milton Garces" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tswEWuairYs" target="_blank" rel="noopener noreferrer">Extreme Infrasound w/ Dr Milton Garces</a></p><p class="youtube-embed-meta">Channel: UCA SPS &middot; Views: 1.6K &middot; Uploaded: September 2015 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tswEWuairYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tswEWuairYs">Open on YouTube</a></p></div></div></div>
 
 ## What Recorded Data Has Actually Captured
@@ -503,12 +490,11 @@ Meteor and bolide explosions are among the best documented examples. Infrasound 
 
 Volcanic eruptions offer another example. Explosive eruptions generate infrasonic signatures that can be detected remotely and analysed alongside seismic and satellite observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthobservatory.sg/research/volcano/magma-transport-dynamics/volcanic-eruption-location-and-characterization-using-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthobservatory.sg">[Earth Observatory of Singapore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthobservatory.sg</span><span class="citation-popover-snippet">Earth Observatory of SingaporeVolcanic Eruption: Location and Characterization using...Therefore, long-range infrasonic monitoring may h...</span></span></span>
 
-These cases do not demonstrate extraterrestrial craft. What they demonstrate is that modern [atmospheric acoustics]({{ 'atmosphere/' | relative_url }}) can successfully detect, classify and reconstruct unusual aerial events that would once have depended almost entirely on eyewitness testimony.
+These cases do not demonstrate extraterrestrial craft. What they demonstrate is that modern atmospheric acoustics can successfully detect, classify and reconstruct unusual aerial events that would once have depended almost entirely on eyewitness testimony.
 
 ## Limits of Instrument Data
 
 Acoustic monitoring has significant constraints, and these limits are often overlooked in popular discussions of UFO evidence.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-3-dark.svg" | relative_url }}" alt="Sensors illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Silence Is Difficult to Interpret
@@ -516,7 +502,6 @@ Acoustic monitoring has significant constraints, and these limits are often over
 Many UFO reports emphasise an apparent absence of sound. Instrumentation struggles with this claim because proving a negative is difficult.
 
 If no sound is detected, several explanations are possible:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -536,12 +521,13 @@ Temperature layers, wind patterns, humidity and terrain can all alter sound prop
 
 A source may appear louder or quieter than expected. Frequencies may be filtered out. Direction estimates can become less reliable over long distances. Researchers working with meteor and infrasound data routinely account for these atmospheric effects because they strongly influence what reaches a sensor array. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/11/1847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Sound Source Localization for Unmanned Aerial Vehicles...by S Wu · 2024 · Cited by 23 — This paper proposes a deep learning-based sound...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RTutGclzmKw" title="Infrasound (Science@SOEST)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RTutGclzmKw" target="_blank" rel="noopener noreferrer">Infrasound (Science@SOEST)</a></p><p class="youtube-embed-meta">Channel: ThinkTech Hawaii &middot; Views: 132 &middot; Uploaded: April 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RTutGclzmKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RTutGclzmKw">Open on YouTube</a></p></div></div></div>
 
 ### Urban Environments Create Noise
 
 Cities generate enormous amounts of acoustic clutter:
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Traffic.
 * Industrial machinery.
@@ -549,7 +535,9 @@ Cities generate enormous amounts of acoustic clutter:
 * Aircraft.
 * Wind effects around buildings.
 
-Separating an unusual aerial sound from this background can be challenging. Even sophisticated systems must use filtering, pattern recognition and statistical analysis to distinguish meaningful signals from ordinary environmental noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDevelopment of an Acoustic System for UAV Detection</span><span class="citation-popover-snippet">PMCby C Dumitrescu · 2020 · Cited by 117 — The purpose of this paper is to investigate the possibility of developing and using an intelli...</span></span></span>
+</div>
+
+Separating an unusual aerial sound from this background can be challenging. Even sophisticated systems must use filtering, pattern recognition and statistical analysis to distinguish meaningful signals from ordinary environmental noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDevelopment of an Acoustic System for UAV Detection</span><span class="citation-popover-snippet">by C Dumitrescu · 2020 · Cited by 117 — The purpose of this paper is to investigate the possibility of developing and using an intelli...</span></span></span>
 
 ### Acoustic Data Alone Rarely Identifies an Object
 
@@ -964,197 +952,197 @@ For reports involving unusual sounds, this represents a major shift. Instead of 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: [https://arxiv.org/abs/2305.18551](https://arxiv.org/abs/2305.18551)  
+   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 3. <a id="endnote-3"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTOInfrasound monitoringInfrasound technology can therefore help to identify a nuclear explosion in the atmosphere, and can work in syn...</p></details>
+   Link: <a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound monitoringInfrasound technology can therefore help to identify a nuclear explosion in the atmosphere, and can work in syn...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/international-monitoring-system](https://www.ctbto.org/our-work/international-monitoring-system)  
+   Link: <a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
 
 5. <a id="endnote-5"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast](https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTOCTBTO Infrasound Stations Detect Russian Meteorite BlastThe low frequency sound waves from the blast were detected at 03:22 GMT by t...</p></details>
+   Link: <a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastThe low frequency sound waves from the blast were detected at 03:22 GMT by t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound](https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound)  
+   Link: <a href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor that broke up over Russia&#x27;s Ural mountains. A visual...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: Examines Advanced Air Mobility Noise  
-   Link: [https://www.nasa.gov/centers-and-facilities/ames/science-of-sound-nasa-examines-advanced-air-mobility-noise/](https://www.nasa.gov/centers-and-facilities/ames/science-of-sound-nasa-examines-advanced-air-mobility-noise/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA Examines Advanced Air Mobility NoiseMay 10, 2022 — 10 May 2022 — NASA&#x27;s Mobile Acoustics Facility and an array of more than 50 m...</p></details>
+   Link: <a href="https://www.nasa.gov/centers-and-facilities/ames/science-of-sound-nasa-examines-advanced-air-mobility-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/ames/science-of-sound-nasa-examines-advanced-air-mobility-noise/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Examines Advanced Air Mobility NoiseMay 10, 2022 — 10 May 2022 — NASA&#x27;s Mobile Acoustics Facility and an array of more than 50 m...</p></details>
    Published: May 10, 2022  
 
 8. <a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20180002208/downloads/20180002208.pdf](https://ntrs.nasa.gov/api/citations/20180002208/downloads/20180002208.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20180002208/downloads/20180002208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180002208/downloads/20180002208.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerA Summary of NASA Research Exploring the Acoustics of...by NS Zawodny · 2018 · Cited by 61 — The paper summ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20220016894/downloads/221117%20AIAA%20HRS%20Tech%20Talk_v2a.pdf](https://ntrs.nasa.gov/api/citations/20220016894/downloads/221117%20AIAA%20HRS%20Tech%20Talk_v2a.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20220016894/downloads/221117%20AIAA%20HRS%20Tech%20Talk_v2a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20220016894/downloads/221117%20AIAA%20HRS%20Tech%20Talk_v2a.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerCharacterization of urban air mobility vehicle operational...by SA Rizzi · 2022 · Cited by 1 — Three differ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDevelopment of an Acoustic System for UAV Detection  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Dumitrescu · 2020 · Cited by 117 — The purpose of this paper is to investigate the possibility of developing and using an intelli...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7506852/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dumitrescu · 2020 · Cited by 117 — The purpose of this paper is to investigate the possibility of developing and using an intelli...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-4292/16/11/1847](https://www.mdpi.com/2072-4292/16/11/1847)  
+   Link: <a href="https://www.mdpi.com/2072-4292/16/11/1847" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/16/11/1847</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Source Localization for Unmanned Aerial Vehicles...by S Wu · 2024 · Cited by 23 — This paper proposes a deep learning-based sound...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S209099771630075X](https://www.sciencedirect.com/science/article/pii/S209099771630075X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S209099771630075X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IMS of the CTBTO have recorded several events from meteoritic sources. Analyzing infrasound...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-4292/16/19/3628](https://www.mdpi.com/2072-4292/16/19/3628)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIPerspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 13 — Infrasound sensing plays a critical role in t...</p></details>
+   Link: <a href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/16/19/3628</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 13 — Infrasound sensing plays a critical role in t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ctbto.org  
    Title: beyond nuclear test detection ctbto and hunga tonga hunga haapai eruption  
-   Link: [https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption](https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond nuclear test detection: CTBTO and Hunga Tonga-...Jun 24, 2024 — Months before the eruption, the system&#x27;s strategically placed sta...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1270963823004340](https://www.sciencedirect.com/science/article/pii/S1270963823004340)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1270963823004340" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1270963823004340</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On-field noise measurements and acoustic...by C Ramos-Romero · 2023 · Cited by 64 — This paper presents a measurement and analysis frame...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: conferences.ctbto.org  
-   Link: [https://conferences.ctbto.org/event/30/contributions/6124/](https://conferences.ctbto.org/event/30/contributions/6124/)  
+   Link: <a href="https://conferences.ctbto.org/event/30/contributions/6124/" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/contributions/6124/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctbto.orgCTBT: Science and Technology Conference 2025Sep 8, 2025 — Moreover, detecting meteoroid explosions with infrasound arrays is cru...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: flies drones in aircraft noise test  
-   Link: [https://www.nasa.gov/aeronautics/nasa-flies-drones-in-aircraft-noise-test/](https://www.nasa.gov/aeronautics/nasa-flies-drones-in-aircraft-noise-test/)  
+   Link: <a href="https://www.nasa.gov/aeronautics/nasa-flies-drones-in-aircraft-noise-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/nasa-flies-drones-in-aircraft-noise-test/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Jan 2016 — Engineers from NASA&#x27;s Langley Research Center used unmanned aircraft to check out a giant microphone array that will be used...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2072-4292/15/5/1455](https://www.mdpi.com/2072-4292/15/5/1455)  
+   Link: <a href="https://www.mdpi.com/2072-4292/15/5/1455" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/5/1455</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound and Low-Audible Acoustic Detections from a...by TC Wilson · 2023 · Cited by 22 — This study presents a new dataset of acousti...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0019103526001727](https://www.sciencedirect.com/science/article/pii/S0019103526001727)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0019103526001727" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0019103526001727</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ations with the goal of global detection of any nuclear detonations...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2305.18551](https://arxiv.org/pdf/2305.18551)  
+   Link: <a href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18551</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — Atmospheric researchers use ground- based infrasound...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: space.com  
    Title: 19860 russia meteor explosion largest detected  
-   Link: [https://www.space.com/19860-russia-meteor-explosion-largest-detected.html](https://www.space.com/19860-russia-meteor-explosion-largest-detected.html)  
+   Link: <a href="https://www.space.com/19860-russia-meteor-explosion-largest-detected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19860-russia-meteor-explosion-largest-detected.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia Meteor Blast Largest Seen by Nuclear Detection GridFeb 19, 2013 — When the space rock detonated, the blast was detected by 17 infr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: worldscientific.com  
-   Link: [https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoo_jPSmZvW9Gj97LymnUejzYbzuGwNvpDi3KgmQYtLLgslMRIxo](https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoo_jPSmZvW9Gj97LymnUejzYbzuGwNvpDi3KgmQYtLLgslMRIxo)  
+   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoo_jPSmZvW9Gj97LymnUejzYbzuGwNvpDi3KgmQYtLLgslMRIxo" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOoo_jPSmZvW9Gj97LymnUejzYbzuGwNvpDi3KgmQYtLLgslMRIxo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — A passive, multi-band, field micropho...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: agupubs.onlinelibrary.wiley.com  
-   Link: [https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50619](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50619)  
+   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50619" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/10.1002/grl.50619</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AGU PublicationsThe 2013 Russian fireball largest ever detected by CTBTO...Jun 9, 2013 — It generated infrasound returns, after circling...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: authors.library.caltech.edu  
-   Link: [https://authors.library.caltech.edu/records/rcjwj-zr809](https://authors.library.caltech.edu/records/rcjwj-zr809)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CaltechAUTHORSThe Scientific Investigation of Unidentified Aerial...May 31, 2023 — by WA Watters · Cited by 45 — Here we present key mot...</p></details>
+   Link: <a href="https://authors.library.caltech.edu/records/rcjwj-zr809" target="_blank" rel="noopener noreferrer nofollow">https://authors.library.caltech.edu/records/rcjwj-zr809</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AUTHORSThe Scientific Investigation of Unidentified Aerial...May 31, 2023 — by WA Watters · Cited by 45 — Here we present key mot...</p></details>
    Published: May 31, 2023  
 
 25. <a id="endnote-25"></a>
    Source: navisp.esa.int  
-   Link: [https://navisp.esa.int/opportunity/details/145/show](https://navisp.esa.int/opportunity/details/145/show)  
+   Link: <a href="https://navisp.esa.int/opportunity/details/145/show" target="_blank" rel="noopener noreferrer nofollow">https://navisp.esa.int/opportunity/details/145/show</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic arrays for Drones localization and identificationThis activity proposes a large-scale acoustic array—thousands of sensors—to det...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: aanda.org  
    Title: aa41106 21  
-   Link: [https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html](https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html)  
+   Link: <a href="https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A&amp;A OnlineInfrasound signals of fireballs detected by the...by T Ott · 2021 · Cited by 13 — One infrasound data source is the Internatio...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: earthobservatory.sg  
-   Link: [https://earthobservatory.sg/research/volcano/magma-transport-dynamics/volcanic-eruption-location-and-characterization-using-infrasound](https://earthobservatory.sg/research/volcano/magma-transport-dynamics/volcanic-eruption-location-and-characterization-using-infrasound)  
+   Link: <a href="https://earthobservatory.sg/research/volcano/magma-transport-dynamics/volcanic-eruption-location-and-characterization-using-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://earthobservatory.sg/research/volcano/magma-transport-dynamics/volcanic-eruption-location-and-characterization-using-infrasound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Observatory of SingaporeVolcanic Eruption: Location and Characterization using...Therefore, long-range infrasonic monitoring may h...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/404785475_Acoustic_detection_and_directional_localization_of_unmanned_aerial_vehicles_using_a_microphone_dome_array](https://www.researchgate.net/publication/404785475_Acoustic_detection_and_directional_localization_of_unmanned_aerial_vehicles_using_a_microphone_dome_array)  
+   Link: <a href="https://www.researchgate.net/publication/404785475_Acoustic_detection_and_directional_localization_of_unmanned_aerial_vehicles_using_a_microphone_dome_array" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404785475_Acoustic_detection_and_directional_localization_of_unmanned_aerial_vehicles_using_a_microphone_dome_array</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic detection and directional localization of...14 May 2026 — Microphone array installed on unmanned aerial vehicles (UAV) can be u...</p></details>
    Published: May 2026  
 
 29. <a id="endnote-29"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332](https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332)  
+   Link: <a href="https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Multi-Band Acoustic Monitoring of Aerial SignaturesThe Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aids i...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CTBTO/posts/-on-intl-asteroidday-were-highlighting-how-ctbtos-international-monitoring-syste/1155565023268680/](https://www.facebook.com/CTBTO/posts/-on-intl-asteroidday-were-highlighting-how-ctbtos-international-monitoring-syste/1155565023268680/)  
+   Link: <a href="https://www.facebook.com/CTBTO/posts/-on-intl-asteroidday-were-highlighting-how-ctbtos-international-monitoring-syste/1155565023268680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CTBTO/posts/-on-intl-asteroidday-were-highlighting-how-ctbtos-international-monitoring-syste/1155565023268680/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🌍 On Intl. #AsteroidDay, we&#x27;re highlighting how #CTBTO&#x27;s...#AsteroidDay, we&#x27;re highlighting how #CTBTO&#x27;s International Monitoring System...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: sbgf.org.br  
    Title: 101920210305011054Preliminary analysis of infrasound  
-   Link: [https://sbgf.org.br/mysbgf/eventos/expanded_abstracts/17th_CISBGf/101920210305011054Preliminary_analysis_of_infrasound.pdf](https://sbgf.org.br/mysbgf/eventos/expanded_abstracts/17th_CISBGf/101920210305011054Preliminary_analysis_of_infrasound.pdf)  
+   Link: <a href="https://sbgf.org.br/mysbgf/eventos/expanded_abstracts/17th_CISBGf/101920210305011054Preliminary_analysis_of_infrasound.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbgf.org.br/mysbgf/eventos/expanded_abstracts/17th_CISBGf/101920210305011054Preliminary_analysis_of_infrasound.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary analysis of infrasound generated by the...Nov 29, 2020 — The infrasonic waves generated by the explosion were detected by in...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: phys.org  
    Title: 2013 02 russian fireball largest ctbto infrasound  
-   Link: [https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html](https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html)  
+   Link: <a href="https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian fireball largest ever detected by CTBTO&#x27;s...Feb 19, 2013 — (Phys.org)—Infrasonic waves from the meteor that broke up over Russia...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pubs.aip.org  
    Title: On the prediction of noise generated by urban air  
-   Link: [https://pubs.aip.org/aip/pof/article/34/11/116118/2848326/On-the-prediction-of-noise-generated-by-urban-air](https://pubs.aip.org/aip/pof/article/34/11/116118/2848326/On-the-prediction-of-noise-generated-by-urban-air)  
+   Link: <a href="https://pubs.aip.org/aip/pof/article/34/11/116118/2848326/On-the-prediction-of-noise-generated-by-urban-air" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aip/pof/article/34/11/116118/2848326/On-the-prediction-of-noise-generated-by-urban-air</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the prediction of noise generated by urban air mobility...by V Ahuja · 2022 · Cited by 25 — This study focuses on the integration of est...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358521393_Acoustic_detection_of_unmanned_aerial_vehicles_using_biologically_inspired_vision_processing](https://www.researchgate.net/publication/358521393_Acoustic_detection_of_unmanned_aerial_vehicles_using_biologically_inspired_vision_processing)  
+   Link: <a href="https://www.researchgate.net/publication/358521393_Acoustic_detection_of_unmanned_aerial_vehicles_using_biologically_inspired_vision_processing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358521393_Acoustic_detection_of_unmanned_aerial_vehicles_using_biologically_inspired_vision_processing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic detection of unmanned aerial vehicles using...17 Feb 2022 — Robust detection of acoustically quiet, slow-moving, small unmanned...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: karmaka.de  
-   Link: [https://karmaka.de/?p=41354](https://karmaka.de/?p=41354)  
+   Link: <a href="https://karmaka.de/?p=41354" target="_blank" rel="noopener noreferrer nofollow">https://karmaka.de/?p=41354</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alls using the six hydrophone stations operated as part of the...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Infrasound Monitoring Networks for Tracking Atmospheric Re-entry Events  
-   Link: [http://www.youtube.com/watch?v=4IlpBEXvHm8](http://www.youtube.com/watch?v=4IlpBEXvHm8)  
+   Link: <a href="http://www.youtube.com/watch?v=4IlpBEXvHm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4IlpBEXvHm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ezra Kelderman: Galileo Project | EXOQUEST Archives EXOQUEST · 122 views...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: sciencedaily.com  
-   Link: [https://www.sciencedaily.com/releases/2013/02/130219121214.htm](https://www.sciencedaily.com/releases/2013/02/130219121214.htm)  
+   Link: <a href="https://www.sciencedaily.com/releases/2013/02/130219121214.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2013/02/130219121214.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Test&amp;#8209;Ban Treaty Organization&#x27;s infrasound sensorsFeb 19, 2013 — There are currently 45 infrasound stations in the CTBTO&#x27;s network t...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /folklore/
 nav_short_title: Musical UFOs
 title: When UFO Sounds Became a Language
-title_full: When UFO Sounds Became a Language | Folklore
+title_full: When UFO Sounds Became a Language
 display_title_short: Musical UFOs
 display_title: Musical UFOs
 heading_title: When UFO Sounds Became a Language
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:01:32'
-parent_title: How UFO Sounds Became Folklore | UFO Noises
+parent_title: How UFO Sounds Became Folklore
 parent_permalink: /folklore/
 parent_nav_short_title: Folklore
 parent_heading_title: How UFO Sounds Became Folklore
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounte
 
 When Steven Spielberg’s 1977 film *Close Encounters of the Third Kind* arrived, it changed more than the look of cinematic UFOs. It changed how audiences imagined they sounded. Earlier science-fiction films often treated alien craft as threatening machines, accompanied by harsh electronic effects, mechanical drones or ominous noises. *Close Encounters* introduced a different idea: that UFO sounds might be meaningful rather than merely mechanical. The film’s most famous innovation was a simple five-note musical phrase used as a form of communication between humans and extraterrestrials. That motif became one of the most recognisable sounds in science-fiction history and helped shift UFO [folklore]({{ 'folklore/' | relative_url }}) from fear and invasion toward contact, intelligence and wonder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”Jan 3, 2020 — With its depiction of the long-awaited visit of the r...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-1-dark.svg" | relative_url }}" alt="Musical UFOs illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader culture of [UFO noises]({{ 'ufo-noises/' | relative_url }}), the film stands as a turning point. Instead of treating strange sounds as evidence of engines, weapons or menace, it suggested that sound itself could function as language.
 
@@ -287,7 +286,6 @@ The centrepiece of the film is the sequence in which scientists and extraterrest
 Composer John Williams developed numerous possible motifs before settling on the famous sequence. Spielberg later explained that he wanted communication with aliens to involve patterns and structure rather than ordinary speech. Williams eventually found a phrase that felt both memorable and unfinished, allowing it to function like a question and answer. According to later discussions by Spielberg and Williams, the motif worked because it sounded conversational rather than purely musical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</span></span></span>
 
 The sequence operates on several levels at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ The sequence operates on several levels at once:
 This last point is important. The humans do not simply decode an alien language, and the aliens do not simply learn English. Instead, both sides participate in creating a common communicative space through sound.
 
 The motif became so culturally influential that it escaped the film itself. It appeared in advertisements, comedy sketches, television references and later discussions of extraterrestrial communication. For many people, those five notes effectively became the sound of peaceful alien contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind (soundtrack</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (soundtrack</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nkykqyMEarA" title="Close Encounters of the Third Kind: Communicating with music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind: Communicating with music</a></p><p class="youtube-embed-meta">Channel: Binge Society &middot; Views: 222.8K &middot; Uploaded: February 2022 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nkykqyMEarA">Open on YouTube</a></p></div></div></div>
 
@@ -317,13 +314,12 @@ Interestingly, Spielberg and Williams reportedly experimented with more futurist
 
 This creative choice helped reshape audience expectations. After *Close Encounters*, alien sound could signify intelligence, curiosity and communication rather than merely power.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-2-dark.svg" | relative_url }}" alt="Musical UFOs illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Tones Changed UFO Storytelling
 
 The film’s influence extended well beyond its own narrative. It offered a new model for how first contact stories could work.
 
-Traditional invasion narratives often depend on misunderstanding. Aliens arrive, communication fails and conflict follows. *Close Encounters* instead treats communication as the central dramatic goal. The suspense comes not from preparing for war but from trying to understand another form of intelligence. Sound becomes the bridge between worlds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbiff.org">[SBIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbiff.org</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">SBIFFClose Encounters of the Third Kind | SBIFFApr 16, 2020 — Government agents have close encounters of the second kind – discovering ph...</span></span></span>
+Traditional invasion narratives often depend on misunderstanding. Aliens arrive, communication fails and conflict follows. *Close Encounters* instead treats communication as the central dramatic goal. The suspense comes not from preparing for war but from trying to understand another form of intelligence. Sound becomes the bridge between worlds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sbiff.org">[SBIFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sbiff.org</span><span class="citation-popover-title">close encounters of the third kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind &#124; SBIFFApr 16, 2020 — Government agents have close encounters of the second kind – discovering ph...</span></span></span>
 
 That shift had several lasting effects on UFO storytelling:
 
@@ -345,7 +341,6 @@ Later films exploring extraterrestrial language often echoed ideas popularised b
 
 The result was a broader cultural shift in how UFO noises could be imagined. A hum or tone might still be eerie, but it could also carry meaning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eCBF8XeCZC4" title="Close Encounters of the Third Kind • Soundtrack Suite • John Williams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eCBF8XeCZC4" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind • Soundtrack Suite • John Williams</a></p><p class="youtube-embed-meta">Channel: HD Film Tributes &middot; Views: 35.2K &middot; Uploaded: April 2025 &middot; Length: 4 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eCBF8XeCZC4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eCBF8XeCZC4">Open on YouTube</a></p></div></div></div>
 
 ## Why the Musical UFO Endured
@@ -356,15 +351,13 @@ The film never claims that music is a universal language in a scientific sense. 
 
 That idea fit neatly into existing UFO folklore. Witness reports had long described strange [humming]({{ 'humming/' | relative_url }}), [buzzing]({{ 'buzzing/' | relative_url }}) and tonal sounds associated with unidentified craft. *Close Encounters* transformed those noises from mysterious by-products into something potentially communicative. The sound was no longer just what the UFO made. It could be what the UFO was saying.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m2JL0xABlrQ" title="Close Encounters of the Third Kind — &quot;Tones&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind — &quot;Tones&quot;</a></p><p class="youtube-embed-meta">Channel: Moist Cut &middot; Views: 948.3K &middot; Uploaded: March 2014 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m2JL0xABlrQ">Open on YouTube</a></p></div></div></div>
 
 ## A Lasting Sound in UFO Culture
 
 Among all the noises linked to UFO mythology, few have had a greater cultural impact than the five-note phrase from *Close Encounters of the Third Kind*. The film helped redefine extraterrestrial sound from mechanical disturbance to meaningful expression. Its UFOs did not merely arrive with strange noises; they spoke through them.
 
-That change left a lasting mark on popular culture. In the decades that followed, audiences became accustomed to the possibility that alien sounds might function as messages, languages or forms of consciousness. Within the wider history of [UFO noise folklore]({{ 'folklore/' | relative_url }}), *Close Encounters* stands as the moment when the mysterious hum of the flying saucer became a conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”Jan 3, 2020 — With its depiction of the long-awaited visit of the r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmtracks.com">[Filmtracks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmtracks.com</span><span class="citation-popover-snippet">Williams allows the wonder of the aliens to inspire the true primary identity...Read more...</span></span></span>
-
+That change left a lasting mark on popular culture. In the decades that followed, audiences became accustomed to the possibility that alien sounds might function as messages, languages or forms of consciousness. Within the wider history of UFO noise folklore, *Close Encounters* stands as the moment when the mysterious hum of the flying saucer became a conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelistenersclub.com">[The Listeners&#x27; Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelistenersclub.com</span><span class="citation-popover-title">john williams close encounters of the third kind a cinematic tone poem</span><span class="citation-popover-snippet">The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”Jan 3, 2020 — With its depiction of the long-awaited visit of the r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmtracks.com">[Filmtracks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmtracks.com</span><span class="citation-popover-snippet">Williams allows the wonder of the aliens to inspire the true primary identity...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-3-dark.svg" | relative_url }}" alt="Musical UFOs illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_close_encounters_mus_cbba53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -765,66 +758,66 @@ That change left a lasting mark on popular culture. In the decades that followed
 1. <a id="endnote-1"></a>
    Source: johnloomis.org  
    Title: Close Encounters of the Third Kind  
-   Link: [https://johnloomis.org/ece303L/notes/music/Close_Encounters.html](https://johnloomis.org/ece303L/notes/music/Close_Encounters.html)  
+   Link: <a href="https://johnloomis.org/ece303L/notes/music/Close_Encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://johnloomis.org/ece303L/notes/music/Close_Encounters.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aliens communicate though lights, colours and notes. The...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind (soundtrack)  
-   Link: [https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29](https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: filmtracks.com  
-   Link: [https://www.filmtracks.com/titles/close_encounters.html](https://www.filmtracks.com/titles/close_encounters.html)  
+   Link: <a href="https://www.filmtracks.com/titles/close_encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmtracks.com/titles/close_encounters.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Williams allows the wonder of the aliens to inspire the true primary identity...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sbiff.org  
    Title: close encounters of the third kind  
-   Link: [https://sbiff.org/close-encounters-of-the-third-kind/](https://sbiff.org/close-encounters-of-the-third-kind/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SBIFFClose Encounters of the Third Kind | SBIFFApr 16, 2020 — Government agents have close encounters of the second kind – discovering ph...</p></details>
+   Link: <a href="https://sbiff.org/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://sbiff.org/close-encounters-of-the-third-kind/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind | SBIFFApr 16, 2020 — Government agents have close encounters of the second kind – discovering ph...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/356257998_The_Role_of_Experimenting_with_the_Human_Voice_in_Film_Music_in_the_Representation_of_the_HumanAlien_Divide_the_Case_of_Arrival_2016](https://www.researchgate.net/publication/356257998_The_Role_of_Experimenting_with_the_Human_Voice_in_Film_Music_in_the_Representation_of_the_HumanAlien_Divide_the_Case_of_Arrival_2016)  
+   Link: <a href="https://www.researchgate.net/publication/356257998_The_Role_of_Experimenting_with_the_Human_Voice_in_Film_Music_in_the_Representation_of_the_HumanAlien_Divide_the_Case_of_Arrival_2016" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356257998_The_Role_of_Experimenting_with_the_Human_Voice_in_Film_Music_in_the_Representation_of_the_HumanAlien_Divide_the_Case_of_Arrival_2016</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Experimenting with the Human Voice in Film Music in the Representation of the Human/Alien Divide: the Case of Arrival (2016)...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1899413/FULLTEXT02.pdf](https://www.diva-portal.org/smash/get/diva2%3A1899413/FULLTEXT02.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1899413/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1899413/FULLTEXT02.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multispecies communication in popular cultureby T Martens — In Cheyne&#x27;s (2008) discussion on representation of constructed alien language...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ars-nova.com  
-   Link: [https://www.ars-nova.com/Theory%20Q%26A/Q35.html](https://www.ars-nova.com/Theory%20Q%26A/Q35.html)  
+   Link: <a href="https://www.ars-nova.com/Theory%20Q%26A/Q35.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ars-nova.com/Theory%20Q%26A/Q35.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars NovaWhere do the 5 tones with hand symbols in the movie &quot;...Learn the signs for Do, Re, Mi, and So, perform the second Do lower, aro...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: close.com  
-   Link: [https://close.com/](https://close.com/)  
+   Link: <a href="https://close.com/" target="_blank" rel="noopener noreferrer nofollow">https://close.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close CRM — The Sales CRM That Does the Work For YouClose is a sales CRM with built-in calling, email, SMS, and Chloe — an AI sales agent...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Close (2022 film)  
-   Link: [https://en.wikipedia.org/wiki/Close_%282022_film%29](https://en.wikipedia.org/wiki/Close_%282022_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Close_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_%282022_film%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close (2022 film)It follows two teenage boys whose close friendship is thrown into disarray when their schoolmates notice their intima...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Sweet Fulfillment  
-   Link: [https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind](https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind)  
+   Link: <a href="https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274149978_Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams%27s_Close_Encounters_of_the_Third_Kind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the melody now descends by whole step to a “familiar” diatonic fourth. This subtle...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thelistenersclub.com  
    Title: john williams close encounters of the third kind a cinematic tone poem  
-   Link: [https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/](https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/)  
+   Link: <a href="https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/" target="_blank" rel="noopener noreferrer nofollow">https://thelistenersclub.com/2020/01/03/john-williams-close-encounters-of-the-third-kind-a-cinematic-tone-poem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Listeners&#x27; ClubJohn Williams&#x27; “Close Encounters of the Third Kind”Jan 3, 2020 — With its depiction of the long-awaited visit of the r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vanityfair.com  
-   Link: [https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration](https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration)  
+   Link: <a href="https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/01/steven-spielberg-john-williams-50-years-movie-collaboration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This event, hosted by the American Cinematheque, took place in front of a packed theater. Williams, who recently turned 90, and Spielberg...</p></details>
 
 ### Additional References
@@ -832,54 +825,54 @@ That change left a lasting mark on popular culture. In the decades that followed
 13. <a id="endnote-13"></a>
    Source: read.dukeupress.edu  
    Title: The Politics of Alien Listening  
-   Link: [https://read.dukeupress.edu/boundary-2/article/51/4/129/392170/The-Politics-of-Alien-Listening](https://read.dukeupress.edu/boundary-2/article/51/4/129/392170/The-Politics-of-Alien-Listening)  
+   Link: <a href="https://read.dukeupress.edu/boundary-2/article/51/4/129/392170/The-Politics-of-Alien-Listening" target="_blank" rel="noopener noreferrer nofollow">https://read.dukeupress.edu/boundary-2/article/51/4/129/392170/The-Politics-of-Alien-Listening</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Politics of Alien Listening | boundary 2Nov 1, 2024 — They title their music philosophy an “exomusicology,” which they define as a field...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jwfan.com  
-   Link: [https://jwfan.com/?p=11012](https://jwfan.com/?p=11012)  
+   Link: <a href="https://jwfan.com/?p=11012" target="_blank" rel="noopener noreferrer nofollow">https://jwfan.com/?p=11012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Review: &#x27;Close Encounters of the Third Kind&#x27; – 40th...Jun 30, 2018 — The score starts with atonality at the aliens&#x27; first appearance...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pbs.org  
    Title: john williams great performances theme song and interview  
-   Link: [https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/](https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/)  
+   Link: <a href="https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wnet/gperf/john-williams-great-performances-theme-song-and-interview/4075/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Williams&#x27; Great Performances Theme Song and...In March 2009, John Williams&#x27; composition for Great Performances premiered as its the...</p></details>
    Published: March 2009  
 
 16. <a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03058298221128069](https://journals.sagepub.com/doi/10.1177/03058298221128069)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03058298221128069" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03058298221128069</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kind of alien red weed in the sites they conquer. In Independence Day, the aliens&#x27; intentions are stated explicitly: their plan for human...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dspace.stir.ac.uk  
    Title: MAI Revised Resubmission The Arrival of Yonic Sci Fi and its heretical  
-   Link: [https://dspace.stir.ac.uk/bitstream/1893/31569/1/MAI_Revised_Resubmission_The%20Arrival%20of%20Yonic%20Sci%20Fi%20and%20its%20heretical.pdf](https://dspace.stir.ac.uk/bitstream/1893/31569/1/MAI_Revised_Resubmission_The%20Arrival%20of%20Yonic%20Sci%20Fi%20and%20its%20heretical.pdf)  
+   Link: <a href="https://dspace.stir.ac.uk/bitstream/1893/31569/1/MAI_Revised_Resubmission_The%20Arrival%20of%20Yonic%20Sci%20Fi%20and%20its%20heretical.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.stir.ac.uk/bitstream/1893/31569/1/MAI_Revised_Resubmission_The%20Arrival%20of%20Yonic%20Sci%20Fi%20and%20its%20heretical.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Visual Culture The Arrival of Yonic Sci Fi...by P Zurawska · 2020 — As a final point on this alien language and its convergences wit...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchcatalogue.net  
    Title: The Imagined Sounds of Outer Space by James Wierzbicki  
-   Link: [https://www.researchcatalogue.net/view/109621/109622](https://www.researchcatalogue.net/view/109621/109622)  
+   Link: <a href="https://www.researchcatalogue.net/view/109621/109622" target="_blank" rel="noopener noreferrer nofollow">https://www.researchcatalogue.net/view/109621/109622</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>films denote the “alien” nature of distant planets or their creatures.... music – into extraterrestrial space. Even though they are not...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gwU6VC1JxMQ](https://www.youtube.com/watch?v=gwU6VC1JxMQ)  
+   Link: <a href="https://www.youtube.com/watch?v=gwU6VC1JxMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwU6VC1JxMQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (John Williams) - Film Symphony Orchestra...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m2JL0xABlrQ](https://www.youtube.com/watch?v=m2JL0xABlrQ)  
+   Link: <a href="https://www.youtube.com/watch?v=m2JL0xABlrQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m2JL0xABlrQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Third Kind: He leaves Earth with the aliens...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eCBF8XeCZC4](https://www.youtube.com/watch?v=eCBF8XeCZC4)  
+   Link: <a href="https://www.youtube.com/watch?v=eCBF8XeCZC4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eCBF8XeCZC4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind • Soundtrack Suite • John...From the 1977 Steven Spielberg film &quot;Close Encounters of the Third Kind&quot;...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nkykqyMEarA](https://www.youtube.com/watch?v=nkykqyMEarA)  
+   Link: <a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with musicHumans and aliens try to communicate with each other with music... This Migh...</p></details>

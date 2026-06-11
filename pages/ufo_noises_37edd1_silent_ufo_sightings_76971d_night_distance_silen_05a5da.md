@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /silence/
 nav_short_title: Distance Errors
 title: When Faraway Lights Seem Silent
-title_full: When Faraway Lights Seem Silent | Silence
+title_full: When Faraway Lights Seem Silent
 display_title_short: Distance Errors
 display_title: Distance Errors
 heading_title: When Faraway Lights Seem Silent
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:08:30'
-parent_title: Why Are Some UFOs Reported Silent? | UFO Noises
+parent_title: Why Are Some UFOs Reported Silent?
 parent_permalink: /silence/
 parent_nav_short_title: Silence
 parent_heading_title: Why Are Some UFOs Reported Silent?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distan
 
 Many reports of silent UFOs begin with a simple perceptual problem: people are surprisingly poor at judging the distance of lights in a dark sky. A bright light that appears low, large and nearby may actually be a conventional [aircraft]({{ 'aircraft/' | relative_url }}) several kilometres away. Once that distance is misjudged, the expected sound no longer matches the visual impression. What seems like a huge craft gliding silently overhead can instead be a distant aircraft whose engine noise is faint, delayed or redirected by atmospheric conditions.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-1-dark.svg" | relative_url }}" alt="Distance Errors illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism does not explain every silent-craft report, but it explains why [silence]({{ 'silence/' | relative_url }}) is such a common feature in night-time sightings. The witness is often comparing what they see with what they think they should hear. If the object is much farther away than assumed, that comparison breaks down from the start.
 
@@ -287,7 +286,6 @@ Human distance judgement relies heavily on visual references. During the day, bu
 Aviation safety literature has long warned that darkness creates serious visual illusions. Pilots themselves can misjudge position, altitude and movement at night when normal reference points vanish. The Federal Aviation Administration and flight-safety organisations describe multiple night-time illusions caused by isolated lights, featureless backgrounds and false visual references. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</span><span class="citation-popover-meta">Published: September 15, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</span><span class="citation-popover-meta">Published: September 15, 2016</span></span></span>
 
 For ground observers, several effects are especially relevant to [silent UFO reports]({{ 'silent-craft/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ For ground observers, several effects are especially relevant to [silent UFO rep
 Military and aviation training materials specifically note that bright lights at night are frequently perceived as closer than they actually are, creating size-distance errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinook-helicopter.com">[chinook-helicopter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinook-helicopter.com</span><span class="citation-popover-title">Visual Illusions</span><span class="citation-popover-snippet">A bright light may be perceived to be closer than dimly lit lights...Read more...</span></span></span>
 
 This is important because reports of silent triangular craft often begin with statements such as “it looked enormous” or “it seemed just above the rooftops”. If the estimated distance is wrong by even a factor of three or four, the implied size and expected noise level change dramatically.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9DN5mAAVLwY" title="FROM THE ARCHIVES | Spatial Disorientation (2001)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9DN5mAAVLwY" target="_blank" rel="noopener noreferrer">FROM THE ARCHIVES | Spatial Disorientation (2001)</a></p><p class="youtube-embed-meta">Channel: Air Safety Institute &middot; Views: 48.1K &middot; Uploaded: March 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9DN5mAAVLwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9DN5mAAVLwY">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +314,6 @@ Imagine an aircraft that appears to glide silently across part of the sky. If it
 
 This mismatch can create several classic UFO impressions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A craft that appears silent despite visible movement.
@@ -328,7 +324,6 @@ This mismatch can create several classic UFO impressions:
 </div>
 
 The problem is not that the aircraft made no noise. The problem is that the observer's estimate of distance generated unrealistic expectations about when that noise should have been heard.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-2-dark.svg" | relative_url }}" alt="Distance Errors illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Atmosphere Hides or Redirects Aircraft Noise
@@ -355,7 +350,6 @@ Cloud layers and atmospheric conditions can reflect or redirect sound energy, pr
 
 A witness who already believes a light is close may interpret these acoustic effects as evidence that the object itself was unusually quiet.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqqMj_tLBzI" title="Night Flying - Everything You Need To Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqqMj_tLBzI" target="_blank" rel="noopener noreferrer">Night Flying - Everything You Need To Know</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 12.5K &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqqMj_tLBzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqqMj_tLBzI">Open on YouTube</a></p></div></div></div>
 
 ## Why Motion Can Also Be Misread
@@ -366,7 +360,6 @@ A distant aircraft can appear to drift slowly across the sky because its angular
 
 Night-time visual illusions can also make stationary or distant lights appear to move unpredictably. Aviation specialists refer to one common effect as autokinesis, in which prolonged viewing of a single light against a dark background creates an impression of motion even when the light is stationary. Bright stars, planets and distant aircraft lights can all trigger this illusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/night-flying-airplanes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">Pilot Institute How Can Pilots Fly at Night?</span><span class="citation-popover-snippet">See What&#x27;s RequiredDecember 31, 2025 — 31 Dec 2025 — Fog and haze can also confuse your perception. When you fly into a thin layer, the s...</span><span class="citation-popover-meta">Published: December 31, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span> When apparent motion combines with missing sound, witnesses may conclude that they observed a [silent craft]({{ 'silent-craft/' | relative_url }}) manoeuvring in ways conventional aircraft cannot.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/649-jr2oomc" title="FAA AFH 11: Night Operations (Chapter 11)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=649-jr2oomc" target="_blank" rel="noopener noreferrer">FAA AFH 11: Night Operations (Chapter 11)</a></p><p class="youtube-embed-meta">Channel: FlyingForHours &middot; Views: 36 &middot; Uploaded: March 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=649-jr2oomc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=649-jr2oomc">Open on YouTube</a></p></div></div></div>
 
 ## Clues That Separate Distance Error From True Quiet
@@ -374,7 +367,6 @@ Night-time visual illusions can also make stationary or distant lights appear to
 Distance-related misidentification leaves patterns that investigators often look for.
 
 A report is more consistent with a distance error when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +382,6 @@ A report is more consistent with a distance error when:
 Reports become harder to explain through distance alone when multiple independent witnesses observe a clearly structured object at close range from different locations and consistently describe the same geometry, altitude and acoustic behaviour.
 
 Even then, investigators usually try to resolve distance and perception issues before treating silence as evidence of unusual technology. Night-time size and distance errors are common enough that they remain one of the first explanations examined in silent-craft cases.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-3-dark.svg" | relative_url }}" alt="Distance Errors illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_night_distance_silen_05a5da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Mechanism Appears So Often in UFO Noise Reports
@@ -798,74 +789,74 @@ That does not require a hoax, faulty [memory]({{ 'memory/' | relative_url }}) or
 1. <a id="endnote-1"></a>
    Source: chinook-helicopter.com  
    Title: Visual Illusions  
-   Link: [https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html](https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html)  
+   Link: <a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A bright light may be perceived to be closer than dimly lit lights...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reports.nlr.nl  
-   Link: [https://reports.nlr.nl/bitstream/10921/1017/1/TP-2015-286.pdf](https://reports.nlr.nl/bitstream/10921/1017/1/TP-2015-286.pdf)  
+   Link: <a href="https://reports.nlr.nl/bitstream/10921/1017/1/TP-2015-286.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reports.nlr.nl/bitstream/10921/1017/1/TP-2015-286.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Aircraft Noise, Meteorological effects...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dael.euracoustics.org  
-   Link: [https://dael.euracoustics.org/landing_pages/aaua/65295.html](https://dael.euracoustics.org/landing_pages/aaua/65295.html)  
+   Link: <a href="https://dael.euracoustics.org/landing_pages/aaua/65295.html" target="_blank" rel="noopener noreferrer nofollow">https://dael.euracoustics.org/landing_pages/aaua/65295.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documenta Acustica ELectronicaSo the sound propagation models of common aircraft noise calculation tools, like the German AzBor the Integ...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: tampaairport.com  
-   Link: [https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise](https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise)  
+   Link: <a href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial Disorientation: Visual Illusions  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSpatial Disorientation: Visual IllusionsSeptember 15, 2016 — False Visual Reference Illusions may cause yo...</p></details>
    Published: September 15, 2016  
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 13: Night OperationsIsolated ground lights can appear as stars and could lead to the illusion that the helicopter is in a nose-hi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/policy_guidance/noise/community](https://www.faa.gov/regulations_policies/policy_guidance/noise/community)  
+   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCommunity Response to NoiseMar 29, 2022 — Weather also plays a large role, since sound attenuates (dissipa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: trid.trb.org  
-   Link: [https://trid.trb.org/View/29195](https://trid.trb.org/View/29195)  
+   Link: <a href="https://trid.trb.org/View/29195" target="_blank" rel="noopener noreferrer nofollow">https://trid.trb.org/View/29195</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This report presents the results of a test program conducted to measure the effect of...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pilotinstitute.com  
    Title: Pilot Institute How Can Pilots Fly at Night?  
-   Link: [https://pilotinstitute.com/night-flying-airplanes/](https://pilotinstitute.com/night-flying-airplanes/)  
+   Link: <a href="https://pilotinstitute.com/night-flying-airplanes/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/night-flying-airplanes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See What&#x27;s RequiredDecember 31, 2025 — 31 Dec 2025 — Fog and haze can also confuse your perception. When you fly into a thin layer, the s...</p></details>
    Published: December 31, 2025  
 
 11. <a id="endnote-11"></a>
    Source: pilotinstitute.com  
    Title: Pilot Institute The 8 Types of Illusions Explained  
-   Link: [https://pilotinstitute.com/illusions-explained/](https://pilotinstitute.com/illusions-explained/)  
+   Link: <a href="https://pilotinstitute.com/illusions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/illusions-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You might think another airplane is moving when it&#x27;s not, or you...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: [https://www.faa.gov/noise/aircraft_noise](https://www.faa.gov/noise/aircraft_noise)  
+   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 31, 2025 — day-night average sound level over 24 hours... You can read an FAA fact sheet to learn more about noise reduction and sou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pilotinstitute.com  
    Title: how do pilots see at night  
-   Link: [https://pilotinstitute.com/how-do-pilots-see-at-night/](https://pilotinstitute.com/how-do-pilots-see-at-night/)  
+   Link: <a href="https://pilotinstitute.com/how-do-pilots-see-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/how-do-pilots-see-at-night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 May 2022 — Whether flying at night or during the day, pilots need to see some kind of horizon. They use this to determine the airplane&#x27;...</p></details>
    Published: May 2022  
 
@@ -873,54 +864,54 @@ That does not require a hoax, faulty [memory]({{ 'memory/' | relative_url }}) or
 
 14. <a id="endnote-14"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+   Link: <a href="https://sky-lens.com/guide" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Observer&#x27;s Field GuideA practical handbook for identifying lights, sounds, and movement in the sky — and understanding why your...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: portofportland.com  
-   Link: [https://www.portofportland.com/noisemanagement?culture=es](https://www.portofportland.com/noisemanagement?culture=es)  
+   Link: <a href="https://www.portofportland.com/noisemanagement?culture=es" target="_blank" rel="noopener noreferrer nofollow">https://www.portofportland.com/noisemanagement?culture=es</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise ManagementMany atmospheric phenomena can vary the intensity of aircraft noise from day to day at a given location. Noise propagatio...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/348704483442978/posts/754579669522122/](https://www.facebook.com/groups/348704483442978/posts/754579669522122/)  
+   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/754579669522122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/754579669522122/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ground level is 800 feet the plane went nearly right over my house at 1200 😱 sounded different than any other landing plane before so I h...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: eazypilot.com  
    Title: night illusions while flying what every pilot should know  
-   Link: [https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/](https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/)  
+   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Illusions While Flying: What Every Pilot Should Know10 Aug 2025 — Night illusions are visual and sensory misinterpretations that ca...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: icben.org  
-   Link: [https://www.icben.org/2008/PDFs/Lundberg.pdf](https://www.icben.org/2008/PDFs/Lundberg.pdf)  
+   Link: <a href="https://www.icben.org/2008/PDFs/Lundberg.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icben.org/2008/PDFs/Lundberg.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of science-based noise control laws, standards and...by WR Lundberg — The FAA prescribes it explicitly in US aviation regulation...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: faa.gov  
    Title: 150 5000 9B Sound Insulation 2022  
-   Link: [https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5000-9B-Sound-Insulation-2022.pdf](https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5000-9B-Sound-Insulation-2022.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5000-9B-Sound-Insulation-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Advisory_Circular/150-5000-9B-Sound-Insulation-2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 150/5000-9B, Guidelines for Sound Insulation of...06 Aug 2022 — Purpose. This advisory circular (AC) provides guidelines to develop a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/](https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/)  
+   Link: <a href="https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1979612345859315/posts/2255549451598935/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>because your brain is trying to interpret limited visual data...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: flydulles.com  
-   Link: [https://www.flydulles.com/about-airport/aircraft-noise-information/iad-dulles-intl-aircraft-noise-faq](https://www.flydulles.com/about-airport/aircraft-noise-information/iad-dulles-intl-aircraft-noise-faq)  
+   Link: <a href="https://www.flydulles.com/about-airport/aircraft-noise-information/iad-dulles-intl-aircraft-noise-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.flydulles.com/about-airport/aircraft-noise-information/iad-dulles-intl-aircraft-noise-faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IAD Dulles Int&#x27;l - Aircraft Noise FAQHot &amp; Humid Weather: Diminishes aircraft performance and may reduce aircraft climb rates...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: flighttrainingcentral.com  
    Title: be aware of these 5 night flying deceptions  
-   Link: [https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/](https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/)  
+   Link: <a href="https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Dec 2022 — Ground Lighting Illusions – Lights along a straight path, such as a road or lights on moving trains, can be mistaken for ru...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pilotmall.com  
    Title: night flying illusions explained in detail  
-   Link: [https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOoqhutR31e7PUlaVePP52Y_UjXkWWI53i0hsMJMVm31ZgOeQ48v-](https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOoqhutR31e7PUlaVePP52Y_UjXkWWI53i0hsMJMVm31ZgOeQ48v-)  
+   Link: <a href="https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOoqhutR31e7PUlaVePP52Y_UjXkWWI53i0hsMJMVm31ZgOeQ48v-" target="_blank" rel="noopener noreferrer nofollow">https://www.pilotmall.com/blogs/news/night-flying-illusions-explained-in-detail?srsltid=AfmBOoqhutR31e7PUlaVePP52Y_UjXkWWI53i0hsMJMVm31ZgOeQ48v-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Flying Illusions Explained (In Detail)28 Jul 2023 — Night flying illusions: Understand how sensory perceptions can mislead pilots d...</p></details>

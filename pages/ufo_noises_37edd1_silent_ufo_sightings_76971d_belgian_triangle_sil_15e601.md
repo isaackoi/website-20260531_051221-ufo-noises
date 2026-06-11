@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /silence/
 nav_short_title: Belgian Triangles
 title: Why Were Belgium's Triangles So Quiet?
-title_full: Why Were Belgium's Triangles So Quiet? | Silence
+title_full: Why Were Belgium's Triangles So Quiet?
 display_title_short: Belgian Triangles
 display_title: Belgian Triangles
 heading_title: Why Were Belgium's Triangles So Quiet?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:08:11'
-parent_title: Why Are Some UFOs Reported Silent? | UFO Noises
+parent_title: Why Are Some UFOs Reported Silent?
 parent_permalink: /silence/
 parent_nav_short_title: Silence
 parent_heading_title: Why Are Some UFOs Reported Silent?
@@ -270,16 +270,14 @@ image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_tria
 
 The Belgian UFO wave of 1989–1990 became one of the most influential sources of the modern “black triangle” UFO image: a large triangular craft, low in the sky, carrying bright lights and apparently moving with little or no sound. For many witnesses, the [silence]({{ 'silence/' | relative_url }}) was as striking as the shape itself. Reports repeatedly described objects that seemed too large and too close to be quiet, yet produced no obvious engine noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[2irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-snippet">On some occassions...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-1-dark.svg" | relative_url }}" alt="Belgian Triangles illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, Belgium also became a lesson in how difficult such observations can be to interpret. Thousands of reports created the impression of a coherent phenomenon, but later investigations revealed hoaxes, mistaken identifications and disputed evidence. The most famous image associated with the wave, the Petit-Rechain triangle photograph, was eventually admitted to be a fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 07 belgium ufo puzzled nasa polystyrene</span><span class="citation-popover-snippet">Belgium UFO that puzzled NASA was polystyrene fake26 Jul 2011 — An unidentified flying object photographed high in the Belgian sky that p...</span></span></span>
+At the same time, Belgium also became a lesson in how difficult such observations can be to interpret. Thousands of reports created the impression of a coherent phenomenon, but later investigations revealed hoaxes, mistaken identifications and disputed evidence. The most famous image associated with the wave, the Petit-Rechain triangle photograph, was eventually admitted to be a fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 07 belgium ufo puzzled nasa polystyrene</span><span class="citation-popover-snippet">Belgium UFO that puzzled NASA was polystyrene fake26 Jul 2011 — An unidentified flying object photographed high in the Belgian sky that p...</span></span></span>
 
 The result is a case that remains central to discussions of silent UFOs: not because it proved the existence of extraordinary [aircraft]({{ 'aircraft/' | relative_url }}), but because it showed how powerful and persistent reports of apparently quiet triangular objects can be.
 
 ## What Witnesses Reported During the Wave
 
 The Belgian wave began in late 1989 and generated thousands of reports over many months. Although descriptions varied, many accounts shared several recurring features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ Some accounts described objects moving slowly over roads, neighbourhoods or open
 
 However, the entire mystery depends on the accuracy of those estimates. At night, humans are notoriously poor at judging the distance, size and altitude of lights. A conventional aircraft viewed under unusual conditions can appear dramatically closer than it really is. If an object is much farther away than assumed, weak or absent sound becomes far less surprising.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wblYKwcpMbc" title="Man claims: Belgian UFO picture is a hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer">Man claims: Belgian UFO picture is a hoax</a></p><p class="youtube-embed-meta">Channel: zerwas2ky &middot; Views: 3.3K &middot; Uploaded: July 2011 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wblYKwcpMbc">Open on YouTube</a></p></div></div></div>
 
 ## The Petit-Rechain Photograph and Later Doubts
@@ -319,7 +316,7 @@ For believers, the image seemed to provide visual support for the many reports o
 
 The problem emerged more than two decades later.
 
-In 2011, the photographer publicly stated that the image had been staged using a small model constructed from painted polystyrene and fitted with lights. Reuters reported the confession, and Belgian media widely covered the revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span>
+In 2011, the photographer publicly stated that the image had been staged using a small model constructed from painted polystyrene and fitted with lights. Reuters reported the confession, and Belgian media widely covered the revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span>
 
 According to the admission, the object was not an unknown craft at all but a fabricated model suspended for photographic effect. The confession severely damaged the photograph's credibility and removed what many people had considered the strongest visual evidence from the entire wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://badufos.blogspot.com/2011/07/classic-ufo-photo-from-belgian-wave.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-snippet">Classic&quot; UFO Photo from Belgian Wave - the Hoaxer...26 Jul 2011 — July 27: The head of the Belgian UFO group COBEPS acknowledges that t...</span></span></span>
 
@@ -332,7 +329,6 @@ Even sceptical commentators generally distinguish between the photograph and the
 What the hoax did demonstrate was how a compelling visual can reinforce a narrative. Once the public had a concrete image of a silent black triangle, later reports could be interpreted through that visual template. Researchers studying UFO waves often note that media coverage can influence how witnesses describe ambiguous experiences.
 
 In that sense, the photograph became important not because it proved a silent triangular craft existed, but because it showed how easily a striking image can shape collective expectations.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-2-dark.svg" | relative_url }}" alt="Belgian Triangles illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conventional Explanations for Quiet Triangle Sightings
@@ -353,7 +349,6 @@ Sound behaves differently from light. Wind [direction]({{ 'direction/' | relativ
 
 This matters because many Belgian sightings occurred at night, when visual references were limited and atmospheric conditions could make aircraft seem quieter than expected. A witness might see bright lights clearly while hearing little from the source. This does not require an aircraft to be genuinely silent; it only requires sound not to reach the observer in the expected way.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
 
 ### Expectation and Perceptual Grouping
@@ -372,7 +367,6 @@ The timing of the wave overlapped with public awareness of stealth technology. A
 
 The difficulty is that no specific aircraft has been conclusively linked to the Belgian sightings, and many reported manoeuvres remain disputed because they rely primarily on witness testimony.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-3-dark.svg" | relative_url }}" alt="Belgian Triangles illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_belgian_triangle_sil_15e601-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Radar Question and the Noise Mystery
 
@@ -388,13 +382,11 @@ As a result, the noise issue remains largely dependent on eyewitness testimony r
 
 The Belgian UFO wave remains one of the most cited examples of apparently silent triangular UFOs because it combined several unusual ingredients: large numbers of witnesses, repeated descriptions of triangular shapes, official attention from the Belgian Air Force and persistent reports of little or no engine noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irdial.com">[2irdial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irdial.com</span><span class="citation-popover-snippet">On some occassions...Read more...</span></span></span>
 
-Yet the same case also illustrates the limits of eyewitness evidence. The collapse of the Petit-Rechain photograph as reliable proof, the possibility of misidentifications and the uncertainty surrounding night-time distance estimates all complicate straightforward interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 07 belgium ufo puzzled nasa polystyrene</span><span class="citation-popover-snippet">Belgium UFO that puzzled NASA was polystyrene fake26 Jul 2011 — An unidentified flying object photographed high in the Belgian sky that p...</span></span></span>
+Yet the same case also illustrates the limits of eyewitness evidence. The collapse of the Petit-Rechain photograph as reliable proof, the possibility of misidentifications and the uncertainty surrounding night-time distance estimates all complicate straightforward interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">hit ufo image was polystyrene says forger id USTRE76Q3MI</span><span class="citation-popover-snippet">Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 07 belgium ufo puzzled nasa polystyrene</span><span class="citation-popover-snippet">Belgium UFO that puzzled NASA was polystyrene fake26 Jul 2011 — An unidentified flying object photographed high in the Belgian sky that p...</span></span></span>
 
 For the specific question of [UFO noises]({{ 'ufo-noises/' | relative_url }}), Belgium is important because it demonstrates both sides of the debate. Witnesses genuinely and repeatedly reported large triangular objects that seemed remarkably quiet. At the same time, the strongest visual evidence associated with those reports turned out to be a hoax, and conventional explanations remain plausible for at least part of the wave. The Belgian triangles therefore occupy a unique place in UFO history: a famous silence claim that remains influential precisely because it is still argued over rather than decisively resolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.2K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -793,190 +785,190 @@ For the specific question of [UFO noises]({{ 'ufo-noises/' | relative_url }}), B
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2026 — Patrick Maréchal hoax photograph... Released at the height of the wave, the photo was widely seen in newspapers and o...</p></details>
    Published: February 1, 2026  
 
 2. <a id="endnote-2"></a>
    Source: irdial.com  
-   Link: [https://irdial.com/triangle_1.htm](https://irdial.com/triangle_1.htm)  
+   Link: <a href="https://irdial.com/triangle_1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irdial.com/triangle_1.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On some occassions...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Title: hit ufo image was polystyrene says forger id USTRE76Q3MI  
-   Link: [https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/](https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersHit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</p></details>
+   Link: <a href="https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/hit-ufo-image-was-polystyrene-says-forger-idUSTRE76Q3MI/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hit UFO image was polystyrene, says forger27 Jul 2011 — A Belgian UFO photograph that became a worldwide hit was faked with a piec...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: phys.org  
    Title: 2011 07 belgium ufo puzzled nasa polystyrene  
-   Link: [https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html](https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html)  
+   Link: <a href="https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2011-07-belgium-ufo-puzzled-nasa-polystyrene.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium UFO that puzzled NASA was polystyrene fake26 Jul 2011 — An unidentified flying object photographed high in the Belgian sky that p...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Original F-16 radar lock-on footage of a UFO & interview  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ddtflz/original_f16_radar_lockon_footage_of_a_ufo/](https://www.reddit.com/r/UFOs/comments/1ddtflz/original_f16_radar_lockon_footage_of_a_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ddtflz/original_f16_radar_lockon_footage_of_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ddtflz/original_f16_radar_lockon_footage_of_a_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The events of November 29 would be documented by no less than thirty different groups of witnesses, and three...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographsReleased at the height of the wave, the photo was widely seen in newspapers and other sources, known as the &quot;Petit-Rech...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: badufos.blogspot.com  
-   Link: [https://badufos.blogspot.com/2011/07/classic-ufo-photo-from-belgian-wave.html](https://badufos.blogspot.com/2011/07/classic-ufo-photo-from-belgian-wave.html)  
+   Link: <a href="https://badufos.blogspot.com/2011/07/classic-ufo-photo-from-belgian-wave.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2011/07/classic-ufo-photo-from-belgian-wave.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Classic&quot; UFO Photo from Belgian Wave - the Hoaxer...26 Jul 2011 — July 27: The head of the Belgian UFO group COBEPS acknowledges that t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: discoveryuk.com  
    Title: the belgian ufo wave close encounter or mass hysteria  
-   Link: [https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/](https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKThe Belgian UFO Wave: Close Encounter or Mass Hysteria?3 Sept 2024 — For example, the photograph taken by Patrick Maréchal wa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlights GuideThe files reveal how in March 1990 the Belgian Air. Force scrambled F-16 fighters to intercept UFOs reported by police of...</p></details>
    Published: March 1990  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/](https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/vu2g6a/worlds_most_famous_ufo_photograph_is_not_a_hoax/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ht Once More. In 1990, during the Belgian UFO flap...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: The famous "Belgian UFO" photograph is real!  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/](https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h4m99q/the_famous_belgian_ufo_photograph_is_real_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The author...Worlds Most Famous UFO photograph is NOT a Hoax (Belgian Petit-Rechain UFO) in Spotlight Once More. 6. 26. UFO Picture take...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: worlds most famous ufo photograph is not a hoax  
-   Link: [https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/](https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vu2ews/worlds_most_famous_ufo_photograph_is_not_a_hoax/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1990, during the Belgian UFO flap, one of the most famous UFO photographs ever taken, occurred over a village called Petit-Rechain.Rea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: the belgium ufo wave 19891990 13500 witnesses two  
-   Link: [https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/](https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave (1989–1990)On the night of March 30–31, 1990, the jets got radar lock, and lost it. Whatever they were tracking acce...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: some of the most credible and widespread  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/](https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the most credible and widespread sightings of UFO were made in 1989 in Belgium. It was later titled &quot;The Belgian UFO...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: a forger admitted to creating a hoax ufo photo  
-   Link: [https://www.reddit.com/r/ufo/comments/1g6o0cy/a_forger_admitted_to_creating_a_hoax_ufo_photo/](https://www.reddit.com/r/ufo/comments/1g6o0cy/a_forger_admitted_to_creating_a_hoax_ufo_photo/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1g6o0cy/a_forger_admitted_to_creating_a_hoax_ufo_photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g6o0cy/a_forger_admitted_to_creating_a_hoax_ufo_photo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness accounts from the Belgian UFO wave. Radar evidence during the Belgian UFO wave. Most...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: belgian ufo wave 19891990 imagine authenticity  
-   Link: [https://www.reddit.com/r/UFOs/comments/10pienf/belgian_ufo_wave_19891990_imagine_authenticity/](https://www.reddit.com/r/UFOs/comments/10pienf/belgian_ufo_wave_19891990_imagine_authenticity/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/10pienf/belgian_ufo_wave_19891990_imagine_authenticity/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10pienf/belgian_ufo_wave_19891990_imagine_authenticity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave 1989-1990 Imagine Authenticity?Some witnesses described a mothership type UFO that looked like “an upside down aircraft...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: ufo wave in belgium 1990 see comments  
-   Link: [https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/](https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/mz2svw/ufo_wave_in_belgium_1990_see_comments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO wave in Belgium 1990? (See comments): r/aliensHe observed three bright lights from his home there that appeared to be changing color...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencetechniz.com  
-   Link: [https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html](https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html)  
+   Link: <a href="https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium Declassified UFO Historical ArchivesOne of the most notable incidents occurred in March 1990, when Belgian Air Force F-16 fighter...</p></details>
    Published: March 1990  
 
 19. <a id="endnote-19"></a>
    Source: unsolved.com  
    Title: Mysteries Belgian UFO  
-   Link: [https://unsolved.com/gallery/belgian-ufo/](https://unsolved.com/gallery/belgian-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points of light forming...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: michaelshermer.com  
-   Link: [https://michaelshermer.com/sciam-columns/ufos-uaps-and-craps/](https://michaelshermer.com/sciam-columns/ufos-uaps-and-craps/)  
+   Link: <a href="https://michaelshermer.com/sciam-columns/ufos-uaps-and-craps/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/sciam-columns/ufos-uaps-and-craps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael ShermerUFOs, UAPs and CRAPs - Michael ShermerThe Belgian wave of sightings mentioned was a classic outbreak of local UFO hysteria...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Lt  
-   Link: [https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31](https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31)  
+   Link: <a href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Col. Salmon F-16 Radar Trace Report — Night of 30–31 March...Official Belgian Air Force report by Lt. Col. Salmon on F-16 radar contacts...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cobeps.org  
-   Link: [https://www.cobeps.org/pdf/belgian_wave_130310.pdf](https://www.cobeps.org/pdf/belgian_wave_130310.pdf)  
+   Link: <a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian Ufo waveOn July 26, 2011, the news that the famous Petit Rechain picture was a fake made the headlines around the Ufo world and e...</p></details>
    Published: July 26, 2011  
 
 23. <a id="endnote-23"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Belgium UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO](https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Unsolved Mysteries Wiki | FandomTwo Belgian Air Force F-16s immediately were sent out to locate the object.... To this day, nobody...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: das-ufo-phaenomen.de  
-   Link: [https://www.das-ufo-phaenomen.de/app/download/5789262574/Belgian_UFO_Report.pdf](https://www.das-ufo-phaenomen.de/app/download/5789262574/Belgian_UFO_Report.pdf)  
+   Link: <a href="https://www.das-ufo-phaenomen.de/app/download/5789262574/Belgian_UFO_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.das-ufo-phaenomen.de/app/download/5789262574/Belgian_UFO_Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO-ReportThe observations, visual and radar, were of such a nature that the take off of two. F-16 of the 1 J Wing has been decid...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1682737155701503/posts/1751881208787097/](https://www.facebook.com/groups/1682737155701503/posts/1751881208787097/)  
+   Link: <a href="https://www.facebook.com/groups/1682737155701503/posts/1751881208787097/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1682737155701503/posts/1751881208787097/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious triangular ufo over BelgiumThe image shows a mysterious triangular-shaped object photographed over the valley of Petit-Rechain...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: x.com  
-   Link: [https://x.com/rosscoulthart/status/1863796156301803656](https://x.com/rosscoulthart/status/1863796156301803656)  
+   Link: <a href="https://x.com/rosscoulthart/status/1863796156301803656" target="_blank" rel="noopener noreferrer nofollow">https://x.com/rosscoulthart/status/1863796156301803656</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diligent Australian @mufon investigator @RogerStankovic...investigator @RogerStankovic has grave Qs for those who use the Petit Rechain...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6](https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6)  
+   Link: <a href="https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingBelgian UAP WaveSome of the objects were tracked by both airborne and ground radar and even chased by...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/](https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/)  
+   Link: <a href="https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrusselsTimes/posts/the-belgian-ufo-reporting-centre-has-been-analysing-strange-aerial-phenomena-in-/1349348273899074/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Reporting Centre has been analysing...It began in November 1989. Residents across Belgium started reporting enormous bla...</p></details>
    Published: November 1989  
 
 29. <a id="endnote-29"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: [https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave](https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave)  
+   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The WeekThe Belgian UFO wave, 30 years later30 Mar 2020 — For example, a classic photograph of the triangle-shaped aircraft, known as the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wblYKwcpMbc](https://www.youtube.com/watch?v=wblYKwcpMbc)  
+   Link: <a href="https://www.youtube.com/watch?v=wblYKwcpMbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wblYKwcpMbc</a>  
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
    Title: tr 3b black triangle ufo reverse engineering or sdi legacy 948e6cb35751  
-   Link: [https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751](https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751)  
+   Link: <a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The modern Black Triangle narrative ignites in late-1989 Belgium, where police lo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292](https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292)  
+   Link: <a href="https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 1990, two Belgian Air Force F-16s were dispatched to intercept unknown objects. Despite radar locks, the crafts demonstrated...</p></details>
    Published: March 30, 1990  
 
 33. <a id="endnote-33"></a>
    Source: conspirafy.com  
-   Link: [https://conspirafy.com/conspiracies/belgian-ufo-wave-1989-1990](https://conspirafy.com/conspiracies/belgian-ufo-wave-1989-1990)  
+   Link: <a href="https://conspirafy.com/conspiracies/belgian-ufo-wave-1989-1990" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/belgian-ufo-wave-1989-1990</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO wave (29 Nov 1989 - Apr 1990) | ConspirafyMay 12, 2026 — The iconic Petit-Rechain photo was a polystyrene model, admitted hoa...</p></details>
-   Published: May 12, 2026  
+   Published: May 12, 2026

@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Industry
 title: Could That UFO Noise Be Machinery?
-title_full: Could That UFO Noise Be Machinery? | UFO Noises
+title_full: Could That UFO Noise Be Machinery?
 display_title_short: Industry
 display_title: Industry
 heading_title: Could That UFO Noise Be Machinery?
@@ -354,9 +354,8 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-overview-soc
 
 Many reported “[UFO noises]({{ 'ufo-noises/' | relative_url }})” turn out to have a much more ordinary source: industry. Low-frequency hums, metallic vibrations, electrical buzzing and distant droning sounds can travel surprisingly far from factories, substations, ventilation systems, [pipelines]({{ 'pipelines/' | relative_url }}), quarries and construction sites. At night, when background traffic falls and atmospheric conditions change, these sounds can seem detached from their true origin and appear to come from the sky or an unknown object.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-overview.webp" | relative_url }}" alt="Overview image for Industry" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every unusual sound report has been solved. Some long-running “hum” cases remain disputed. However, investigations into mysterious noises repeatedly find that industrial equipment, infrastructure and environmental acoustics can create experiences that feel genuinely strange, especially when the source is hidden from view. Understanding how these sounds behave helps explain why some UFO-related noise reports sound mysterious even when no unusual [aircraft]({{ 'aircraft/' | relative_url }}) or object is involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">HowStuffWorksHow the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
+This does not mean every unusual sound report has been solved. Some long-running “hum” cases remain disputed. However, investigations into mysterious noises repeatedly find that industrial equipment, infrastructure and environmental acoustics can create experiences that feel genuinely strange, especially when the source is hidden from view. Understanding how these sounds behave helps explain why some UFO-related noise reports sound mysterious even when no unusual [aircraft]({{ 'aircraft/' | relative_url }}) or object is involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 
 ## Industrial Sources of Strange Hums
 
@@ -378,8 +377,7 @@ Common industrial sources include:
 
 </div>
 
-Low-frequency sound is especially important because humans locate it poorly. A high-pitched alarm can usually be traced to a specific direction, but a deep hum may seem to come from everywhere at once. Noise experts investigating persistent hum complaints have repeatedly pointed to industrial fans, machinery and electrical infrastructure as plausible sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">HowStuffWorksHow the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> Wikipedia One reason these noises enter UFO discussions is that witnesses often describe them in terms similar to reported UFO sounds: a distant engine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>, a hovering vibration, an electrical buzz or a powerful humming presence. The overlap in descriptions can make an ordinary source seem extraordinary when the equipment itself is hidden behind buildings, terrain or darkness.
-
+Low-frequency sound is especially important because humans locate it poorly. A high-pitched alarm can usually be traced to a specific direction, but a deep hum may seem to come from everywhere at once. Noise experts investigating persistent hum complaints have repeatedly pointed to industrial fans, machinery and electrical infrastructure as plausible sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> Wikipedia One reason these noises enter UFO discussions is that witnesses often describe them in terms similar to reported UFO sounds: a distant engine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>, a hovering vibration, an electrical buzz or a powerful humming presence. The overlap in descriptions can make an ordinary source seem extraordinary when the equipment itself is hidden behind buildings, terrain or darkness.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-1-dark.svg" | relative_url }}" alt="Industry illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Night Makes Sources Harder to Find
@@ -404,7 +402,6 @@ The result is an experience that can feel deeply confusing:
 
 These effects help explain why witnesses sometimes describe hearing a hovering object even when the actual source is stationary industrial equipment. Acoustic researchers studying persistent hum complaints have noted that low-frequency environmental noise is notoriously difficult both to locate and to measure consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the taos hum new mexicos unexplained acoustic phenomenon</span><span class="citation-popover-snippet">The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_TTKx9ILi8" title="Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal the End of the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer">Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal the End of the World</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.8M &middot; Uploaded: October 2023 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_TTKx9ILi8">Open on YouTube</a></p></div></div></div>
 
 ## The “Hum” Phenomenon and Industrial Explanations
@@ -427,14 +424,12 @@ Recent research on infrasound—frequencies below normal hearing range—suggest
 
 This does not imply that witnesses are imagining the experience. The sound or vibration may be real. The misunderstanding often concerns the source rather than the perception itself.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-2-dark.svg" | relative_url }}" alt="Industry illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Signs a UFO Noise May Have an Industrial Origin
 
 Certain clues make a conventional explanation more likely.
 
 A noise is more likely to be industrial when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -449,7 +444,6 @@ A noise is more likely to be industrial when:
 
 By contrast, a brief sound tied to a moving visual object requires a different investigation. The presence of a genuine sound does not automatically support a UFO interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vul4SYL4QiQ" title="The Source Behind a Mystery Sound Heard Around the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer">The Source Behind a Mystery Sound Heard Around the World</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 9.4M &middot; Uploaded: January 2018 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vul4SYL4QiQ">Open on YouTube</a></p></div></div></div>
 
 ## How to Check Local Explanations
@@ -459,7 +453,6 @@ When a mysterious hum or metallic noise seems connected to possible UFO activity
 ### Look at Nearby Infrastructure
 
 Maps often reveal overlooked sources such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -475,7 +468,6 @@ Maps often reveal overlooked sources such as:
 
 Many people are surprised to discover how much heavy equipment operates continuously, including overnight.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-3-dark.svg" | relative_url }}" alt="Industry illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compare Reports Across Neighbourhoods
 
@@ -484,7 +476,6 @@ If the same sound is reported across a broad area, the source may be distant rat
 ### Note Timing and Weather
 
 Keep track of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -497,7 +488,6 @@ Keep track of:
 
 A noise that appears only under specific atmospheric conditions is often consistent with sound propagation effects rather than a moving object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eIIj6sypQ_g" title="&#x27;The silence is gone&#x27;: Iowans search for solution regarding noise from wind turbines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eIIj6sypQ_g" target="_blank" rel="noopener noreferrer">&#x27;The silence is gone&#x27;: Iowans search for solution regarding noise from wind turbines</a></p><p class="youtube-embed-meta">Channel: KCCI &middot; Views: 1.3K &middot; Uploaded: January 2020 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eIIj6sypQ_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eIIj6sypQ_g">Open on YouTube</a></p></div></div></div>
 
 ### Record What You Can
@@ -508,7 +498,7 @@ Phone recordings rarely capture deep low-frequency hums accurately, but repeated
 
 Industrial noise remains one of the strongest conventional explanations for mysterious humming and [buzzing]({{ 'buzzing/' | relative_url }}) reports because it matches several recurring features of UFO sound accounts: the source is often unseen, the sound can seem detached from its origin, and low frequencies are difficult for humans to locate accurately.
 
-The mystery is often amplified by darkness, atmospheric conditions and the psychological impact of hearing something unusual without a visible cause. In many documented hum investigations, the most plausible explanations involve infrastructure, machinery or environmental acoustics rather than unidentified craft. Even in cases where investigators never identify a single source, industrial activity usually remains among the leading possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">HowStuffWorksHow the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
+The mystery is often amplified by darkness, atmospheric conditions and the psychological impact of hearing something unusual without a visible cause. In many documented hum investigations, the most plausible explanations involve infrastructure, machinery or environmental acoustics rather than unidentified craft. Even in cases where investigators never identify a single source, industrial activity usually remains among the leading possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -907,130 +897,130 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
 1. <a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksHow the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</p></details>
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 3. <a id="endnote-3"></a>
    Source: icben.ethz.ch  
-   Link: [https://icben.ethz.ch/2008/PDFs/Cowan.pdf](https://icben.ethz.ch/2008/PDFs/Cowan.pdf)  
+   Link: <a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: discoveryuk.com  
    Title: the [taos hum](&#123;&#123; 'taos-hum/' | relative_url &#125;&#125;) new mexicos unexplained acoustic phenomenon  
-   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: [https://www.thrillist.com/travel/nation/taos-hum-mystery](https://www.thrillist.com/travel/nation/taos-hum-mystery)  
+   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: taos.org  
    Title: From the Gorge Bridge to Taos Pueblo to the Earthships & more!Read more  
-   Link: [https://taos.org/](https://taos.org/)  
+   Link: <a href="https://taos.org/" target="_blank" rel="noopener noreferrer nofollow">https://taos.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New Mexico - Visit Taos and Discover New MexicoCome experience Taos&#x27; landmark sites and see some of the amazing places that make Ta...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Taos, New Mexico  
-   Link: [https://en.wikipedia.org/wiki/Taos%2C_New_Mexico](https://en.wikipedia.org/wiki/Taos%2C_New_Mexico)  
+   Link: <a href="https://en.wikipedia.org/wiki/Taos%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taos%2C_New_Mexico</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New MexicoTaos is a town in Taos County, in the north-central region of New Mexico. Situated between the Rio Grande Gorge and th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Volkswagen Taos  
-   Link: [https://en.wikipedia.org/wiki/Volkswagen_Taos](https://en.wikipedia.org/wiki/Volkswagen_Taos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Volkswagen_Taos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Volkswagen_Taos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volkswagen TaosThe Volkswagen Taos is a compact crossover SUV marketed by Volkswagen. It was first released in October 2018 as the Vol...</p></details>
    Published: October 2018  
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the [Bristol Hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;) originated from large industrial fans used...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thetimes.co.uk  
    Title: The Times Omagh hum mystery solved  
-   Link: [https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp](https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp)  
+   Link: <a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: [https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0](https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0)  
+   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</p></details>
    Published: April 27, 2026  
 
 12. <a id="endnote-12"></a>
    Source: harmonicnotes.co.uk  
    Title: The Hum  
-   Link: [https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/](https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/)  
+   Link: <a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: vw.com  
-   Link: [https://www.vw.com/en/models/taos.html](https://www.vw.com/en/models/taos.html)  
+   Link: <a href="https://www.vw.com/en/models/taos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vw.com/en/models/taos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 VW Taos: Our 5-seat Compact SUVConquer the road with the 2026 Volkswagen Taos, our small SUV that&#x27;s powerful, comfortable, and anyth...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: taosnm.gov  
-   Link: [https://taosnm.gov/](https://taosnm.gov/)  
+   Link: <a href="https://taosnm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://taosnm.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, NM | Official WebsitePublic Meetings Livestream and Archive · Get Town Alerts by Email or Text · View the Taos Water Outage Map · L...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: repository.lboro.ac.uk  
-   Link: [https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf](https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf)  
+   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of environmental low-frequency noiseby VV Krylov · Cited by 3 — The present paper describes the methodology and some of the results of ou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum and Taos Hum are the common terms...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: newmexico.org  
-   Link: [https://www.newmexico.org/places-to-visit/regions/northcentral/taos/](https://www.newmexico.org/places-to-visit/regions/northcentral/taos/)  
+   Link: <a href="https://www.newmexico.org/places-to-visit/regions/northcentral/taos/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexico.org/places-to-visit/regions/northcentral/taos/</a>  
 
 18. <a id="endnote-18"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672](https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672)  
+   Link: <a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Had Residents In New Mexico Convinced...5 Jul 2023 — The Taos Hum is one of many hum studies explored by James Cowan in a 2...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist](https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist)  
+   Link: <a href="https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Low-Frequency Noise That Drives People to the Edge — and Has No Proven Source.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum](https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum)  
+   Link: <a href="https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c, seismic or electromagnetic origin, prompting researchers to shift their...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: exxosforum.co.uk  
    Title: Turbulence within these pipelines can create pressure  
-   Link: [https://www.exxosforum.co.uk/articles/hum.html](https://www.exxosforum.co.uk/articles/hum.html)  
+   Link: <a href="https://www.exxosforum.co.uk/articles/hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exxosforum.co.uk/articles/hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesPotential causes include environmental factors like gas pipelines and electrical infrast...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bonblossman.com  
    Title: the enigma of the taos hum a mysterious phenomenon  
-   Link: [https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon](https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon)  
+   Link: <a href="https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: A Mysterious PhenomenonDec 15, 2023 — The Taos Hum is described as a faint, low-frequency humming noise, akin...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tripadvisor.com  
    Title: Tourism g47224 Taos Taos County New Mexico Vacations  
-   Link: [https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html](https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html)  
+   Link: <a href="https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Its rugged beauty, majestic mountains, wild Rio Grande river and unique blend of cultures - Spanish, Native American and AngloRead more...</p></details>

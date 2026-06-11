@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-industrial-noise-mis/
 description: Focused pages that expand on Industry.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_noises_37edd1_industrial_noise_mis_f8566f
-parent_title: Industry | UFO Noises
+parent_title: Industry
 parent_nav_short_title: Industry
 parent_permalink: /industry/
 ---

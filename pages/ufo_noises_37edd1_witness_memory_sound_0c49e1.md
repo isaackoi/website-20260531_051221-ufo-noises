@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Memory
 title: How Memory Changes UFO Sounds
-title_full: How Memory Changes UFO Sounds | UFO Noises
+title_full: How Memory Changes UFO Sounds
 display_title_short: Memory
 display_title: Memory
 heading_title: How Memory Changes UFO Sounds
@@ -352,11 +352,10 @@ image: /assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-overview-soc
 
 ## Introduction
 
-People who report unusual aerial phenomena often remember the sound as vividly as the object itself. A witness may describe a deep hum, a metallic buzz, a pulsing vibration or, just as strikingly, complete [silence]({{ 'silence/' | relative_url }}). Yet sound descriptions are also among the most vulnerable parts of a UFO account. Cognitive research shows that memory is not a fixed recording. It is reconstructed each time it is recalled, especially when the original event was surprising, emotional or difficult to interpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
-
+People who report unusual aerial phenomena often remember the sound as vividly as the object itself. A witness may describe a deep hum, a metallic buzz, a pulsing vibration or, just as strikingly, complete [silence]({{ 'silence/' | relative_url }}). Yet sound descriptions are also among the most vulnerable parts of a UFO account. Cognitive research shows that memory is not a fixed recording. It is reconstructed each time it is recalled, especially when the original event was surprising, emotional or difficult to interpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-overview.webp" | relative_url }}" alt="Overview image for Memory" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many UFO reports depend heavily on witness testimony. Investigators may have no recording of the reported noise, no physical trace and no independent acoustic measurement. What remains is a remembered sensory experience. Understanding how memory changes UFO sound descriptions does not automatically disprove a report, but it does explain why accounts can become more detailed, more dramatic or more internally consistent years after the event than they were immediately afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span>
+This matters because many UFO reports depend heavily on witness testimony. Investigators may have no recording of the reported noise, no physical trace and no independent acoustic measurement. What remains is a remembered sensory experience. Understanding how memory changes UFO sound descriptions does not automatically disprove a report, but it does explain why accounts can become more detailed, more dramatic or more internally consistent years after the event than they were immediately afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Predicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span>
 
 ## Stress Changes What People Notice and Remember
 
@@ -365,7 +364,6 @@ Unexpected events place witnesses under unusual psychological conditions. Whethe
 Research on eyewitness testimony has repeatedly found that stress can narrow focus. People often remember the central, emotionally important part of an event while losing detail about surrounding information. In a UFO sighting, attention may lock onto the shape, movement or brightness of an object, leaving the witness with only a fragmented memory of accompanying sounds. Later recollection can fill those gaps with interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyEyewitness Testimony in Psychologyby S McLeod · Cited by 1 — Eyewitness testimony is a legal term that refers to an acco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-snippet">Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</span></span></span>
 
 Sound is especially vulnerable because people rarely analyse it consciously during a startling experience. A witness might initially remember only that there was “a noise” or “a vibration”. During later interviews, that vague memory can become a more specific description such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -376,15 +374,14 @@ Sound is especially vulnerable because people rarely analyse it consciously duri
 
 </div>
 
-These descriptions may reflect genuine perception, but they may also represent the brain's attempt to organise an incomplete sensory memory into something meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">ScienceDirectMisinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness...</span></span></span>
+These descriptions may reflect genuine perception, but they may also represent the brain's attempt to organise an incomplete sensory memory into something meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness...</span></span></span>
 
 Another complication is that unusual sounds are difficult to estimate accurately. People routinely struggle to judge volume, distance and [direction]({{ 'direction/' | relative_url }}) during unexpected events. A noise remembered as coming from an object overhead may actually have originated from a more distant source whose location was misjudged in the moment.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-1-dark.svg" | relative_url }}" alt="Memory illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO Sounds Often Become More Detailed Over Time
 
-One of the most consistent findings in memory research is that recollections are reconstructed rather than replayed. Each retelling creates an opportunity for details to be added, removed or reshaped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is an expert on human m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
+One of the most consistent findings in memory research is that recollections are reconstructed rather than replayed. Each retelling creates an opportunity for details to be added, removed or reshaped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is an expert on human m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</span></span></span>
 
 This helps explain a pattern seen in some UFO case files. Early reports sometimes contain simple descriptions:
 
@@ -394,16 +391,15 @@ Months or years later, the same witness may recall:
 
 > “It sounded like a giant electrical transformer mixed with a turbine.”
 
-The later account is not necessarily dishonest. The witness may sincerely believe the richer description is more accurate. Memory researchers describe this process through concepts such as reconstruction and the misinformation effect, in which later information becomes integrated into an original memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</span></span></span> Several influences can contribute:
+The later account is not necessarily dishonest. The witness may sincerely believe the richer description is more accurate. Memory researchers describe this process through concepts such as reconstruction and the misinformation effect, in which later information becomes integrated into an original memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Misinformation effect &#124; Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</span></span></span> Several influences can contribute:
 
 **Discussion with other witnesses.** People naturally compare experiences after unusual events. Over time, individual memories can become aligned, even when witnesses originally noticed different things. Studies of eyewitness testimony show that co-witness discussions can alter recall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-snippet">Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</span></span></span>
 
 **Media exposure.** News reports, documentaries, books and online discussions provide ready-made descriptions. A witness who repeatedly encounters references to “electrical humming” UFOs may unconsciously adopt that language when recalling their own experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is an expert on human m...</span></span></span>
 
-**Narrative completion.** Humans prefer coherent stories. If a remembered object seemed technological, the brain may later associate it with technological sounds even if the original auditory impression was weak or uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span>
+**Narrative completion.** Humans prefer coherent stories. If a remembered object seemed technological, the brain may later associate it with technological sounds even if the original auditory impression was weak or uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Predicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span>
 
 **Repeated interviews.** Repeated questioning can strengthen confidence in details regardless of their accuracy. Memory researchers have documented how recall changes as people repeatedly revisit an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-title">initial eyewitness confidence reliably predicts eyewitness identi</span><span class="citation-popover-snippet">WashU Research ProfilesInitial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 295 — Eyewitness memory is widel...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3RKDVB6qizA" title="The misinformation effect | Elizabeth Loftus | Nobel Prize Summit 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3RKDVB6qizA" target="_blank" rel="noopener noreferrer">The misinformation effect | Elizabeth Loftus | Nobel Prize Summit 2023</a></p><p class="youtube-embed-meta">Channel: Nobel Prize &middot; Views: 34.6K &middot; Uploaded: May 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3RKDVB6qizA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3RKDVB6qizA">Open on YouTube</a></p></div></div></div>
 
@@ -411,12 +407,11 @@ The later account is not necessarily dishonest. The witness may sincerely believ
 
 One of the most famous themes in UFO testimony is not noise but its absence.
 
-Witnesses frequently describe large objects moving overhead without any audible engine sound. Reports of silent triangles, silent discs and silent lights appear throughout UFO archives. Some cases specifically emphasise that the lack of noise was more remarkable than the appearance itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
+Witnesses frequently describe large objects moving overhead without any audible engine sound. Reports of silent triangles, silent discs and silent lights appear throughout UFO archives. Some cases specifically emphasise that the lack of noise was more remarkable than the appearance itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
 
 From a memory perspective, silence creates its own difficulties.
 
 People often notice silence only after comparing what happened with what they expected to hear. A witness may later think:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -430,14 +425,12 @@ This comparison can become stronger with time. The remembered silence may reflec
 
 Investigators therefore treat claims of silence differently from claims of a specific sound. A remembered hum can sometimes be compared with known aircraft or environmental sources. A remembered absence of sound is harder to verify because it depends heavily on expectation and context.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-2-dark.svg" | relative_url }}" alt="Memory illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Witnesses Compare UFO Sounds to Familiar Objects
 
 A striking feature of UFO reports is how often witnesses use analogies.
 
 Common comparisons include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -457,7 +450,6 @@ Historical UFO archives contain numerous examples of reported humming and vibrat
 
 The repetition is intriguing, but it does not necessarily prove that witnesses heard the same thing. Shared cultural language can produce similar descriptions even when the underlying experiences differ. Once a phrase such as “electrical hum” becomes common in UFO literature, later witnesses may be more likely to use it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
 
 ## False Memories and Extraordinary Claims
@@ -472,7 +464,6 @@ The issue becomes even more complicated in communities where people regularly sh
 
 That possibility does not mean every unusual detail is false. It means investigators must separate what was reported immediately from what emerged later.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdf9CCEypFk" title="The UFO Evidence I&#x27;m Taking Seriously" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer">The UFO Evidence I&#x27;m Taking Seriously</a></p><p class="youtube-embed-meta">Channel: Astrum Extra &middot; Views: 493.0K &middot; Uploaded: October 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdf9CCEypFk">Open on YouTube</a></p></div></div></div>
 
 ## How Investigators Handle Uncertainty
@@ -485,14 +476,13 @@ Several practices help reduce memory contamination:
 
 **Separating witnesses.** Independent interviews reduce the chance that people will influence one another's memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-snippet">Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</span></span></span>
 
-**Avoiding leading questions.** Questions such as “Did it make a humming sound?” can unintentionally introduce information. Investigators instead prefer open-ended prompts such as “What did you hear?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">ScienceDirectMisinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness...</span></span></span>
+**Avoiding leading questions.** Questions such as “Did it make a humming sound?” can unintentionally introduce information. Investigators instead prefer open-ended prompts such as “What did you hear?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness...</span></span></span>
 
 **Comparing versions over time.** Differences between early and later statements can reveal where memory reconstruction may have occurred.
 
 **Looking for corroboration.** Reports gain strength when multiple independent witnesses describe similar sounds before discussing the event together, or when environmental data supports the account.
 
 Many historical UFO files contain notes about witness confidence, timing of interviews and consistency between statements because investigators recognise that memory quality is often as important as the reported phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 section 10</span><span class="citation-popover-snippet">U.S. Department of War62- /HQ-83894It is especially important that the NICAP committee be contacted immediately in cases of reported UFO...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-3-dark.svg" | relative_url }}" alt="Memory illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Memory Remains Central to UFO Sound Reports
@@ -899,207 +889,207 @@ That tension explains why UFO sound testimony remains both valuable and controve
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Abducted by a UFO: Prevalence information...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: [https://en.wikipedia.org/wiki/Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/neuroscience/misinformation-effect](https://www.sciencedirect.com/topics/neuroscience/misinformation-effect)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMisinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect](https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/570623carmichael_dir.htm](https://www.nicap.org/570623carmichael_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
+   Link: <a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
    Published: June 23, 1957  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsAt least three UFOs that looked like missiles but emitted no noise were spotted over Harbour Mille. 2010...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm](https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm)  
+   Link: <a href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation that could be barely felt...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Elizabeth Loftus  
-   Link: [https://en.wikipedia.org/wiki/Elizabeth_Loftus](https://en.wikipedia.org/wiki/Elizabeth_Loftus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War62- /HQ-83894It is especially important that the NICAP committee be contacted immediately in cases of reported UFO...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1975fullrep.htm](https://www.nicap.org/chronos/1975fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1975fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1975fullrep.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1975 UFO Chronology15 Jun 2007 — Map prepared by Center for UFO Studies shows MUFON and CUFOS investigators.. January - March, 1975; Alge...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufology/ufochap4.htm](https://www.nicap.org/ufology/ufochap4.htm)  
+   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pilots. The mechanism for...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nicap.org  
    Title: UF O Chronology Produced for released  
-   Link: [https://www.nicap.org/chronos/1971fullrep.htm](https://www.nicap.org/chronos/1971fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1971fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1971fullrep.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyProduced for released: April 18, 2013. This is an 8-page chronology of UFO incidents and events for 1971. Our thanks for th...</p></details>
    Published: April 18, 2013  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: [https://en.wikipedia.org/wiki/Eyewitness_testimony](https://en.wikipedia.org/wiki/Eyewitness_testimony)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness testimonyEyewitness testimony is the account a bystander or victim gives in the courtroom, describing what that person obse...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
    Title: Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/psychology/misinformation-effect](https://www.sciencedirect.com/topics/psychology/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/psychology/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewIn many instances the false memories look like true memories, as is the case with “rich” false memories (Loftus and Bernstein...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S014976342100066X](https://www.sciencedirect.com/science/article/pii/S014976342100066X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S014976342100066X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S014976342100066X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of alcohol and other drug effects on false memory...by L Kloft · 2021 · Cited by 74 — Abducted by a UFO: prevalence information...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224](https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2008, Cortex. Citation Excerpt: Previous research has shown that sizeable minorities of respondents...Read m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewOne of the most popular paradigms for studying reconstructive processes in memory was developed by Elizabeth Loftus and her co...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022096598924675](https://www.sciencedirect.com/science/article/pii/S0022096598924675)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022096598924675" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022096598924675</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Misinformation Alters Memoriesby DB Wright · 1998 · Cited by 127 — Over the past quarter of a century, hundreds of studies have demon...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m6aY9Wr-xjI](https://www.youtube.com/watch?v=m6aY9Wr-xjI)  
+   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Eyewitness Memory | John Wixted | TED...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated](https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow memory can be manipulated, with Elizabeth Loftus, PhDElizabeth Loftus, PhD, is an expert on human m...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/eyewitness-testimony.html](https://www.simplypsychology.org/eyewitness-testimony.html)  
+   Link: <a href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/eyewitness-testimony.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyEyewitness Testimony in Psychologyby S McLeod · Cited by 1 — Eyewitness testimony is a legal term that refers to an acco...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: verywellmind.com  
-   Link: [https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757](https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757)  
+   Link: <a href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thedecisionlab.com  
    Title: the misinformation effect  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect](https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1970s, researcher Elizabeth Loftus conducted a now-famous experiment on memory malleability using police tapes of car accidents.3...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: profiles.wustl.edu  
    Title: initial eyewitness confidence reliably predicts eyewitness identi  
-   Link: [https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/](https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/)  
+   Link: <a href="https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesInitial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 295 — Eyewitness memory is widel...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: support.gorilla.sc  
    Title: sc The Misinformation Effect  
-   Link: [https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect](https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect)  
+   Link: <a href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event questions can influenc...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: [https://www.simplypsychology.org/loftus-palmer.html](https://www.simplypsychology.org/loftus-palmer.html)  
+   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If someone is exposed to new information during...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3RKDVB6qizA](https://www.youtube.com/watch?v=3RKDVB6qizA)  
+   Link: <a href="https://www.youtube.com/watch?v=3RKDVB6qizA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3RKDVB6qizA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>those paradigms is called the misinformation Paradigm...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)  
+   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesThe misinformation in these studies has led people to incorrectly remember everything from small bu...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fis-international.com  
-   Link: [https://www.fis-international.com/assets/Uploads/resources/PEACE-A-Different-Approach.pdf](https://www.fis-international.com/assets/Uploads/resources/PEACE-A-Different-Approach.pdf)  
+   Link: <a href="https://www.fis-international.com/assets/Uploads/resources/PEACE-A-Different-Approach.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fis-international.com/assets/Uploads/resources/PEACE-A-Different-Approach.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is important to explain to the witness what is to be expected from them, as for most witnesses an investigative interview is an alien sit...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/](https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Sound That Accompanies UFOsWhy do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: onlineacademiccommunity.uvic.ca  
-   Link: [https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf](https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf)  
+   Link: <a href="https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/10/Lindsay-SM-Chap-4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Monitoring AppliedWas that claim about Obama being an alien in the New York Times or in the. National Enquirer? Did I see a stop s...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/memory/eye-witness-testimony](https://www.psychstory.co.uk/memory/eye-witness-testimony)  
+   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyThe study by Loftus and Pickrell is often cited to argue that external factors can...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf](https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/175787/3/Eyewitness%20Testimony%2C%20Misinformation%20Effect%20and%20Reasonable%20Doubt.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>testimony, the misinformation effect and...by C Bennett · 2021 · Cited by 1 — Sometimes we can have memories suggested to us about event...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: psichi.org  
-   Link: [https://www.psichi.org/page/214EyeSum17dLoftus](https://www.psichi.org/page/214EyeSum17dLoftus)  
+   Link: <a href="https://www.psichi.org/page/214EyeSum17dLoftus" target="_blank" rel="noopener noreferrer nofollow">https://www.psichi.org/page/214EyeSum17dLoftus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Loftus first became involved in studying false memory in the 1970s after doing theoretical studies of memory in graduate...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
    Title: research report april 8 1955 cherry valley rockford il ufo incidentoverviewon ap  
-   Link: [https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/](https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/)  
+   Link: <a href="https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 1955 – Cherry Valley / Rockford, IL UFO Incident...pdf nicap.org #RockfordScanner #Rockford #Illinois #paranormal #ufos #UAP #k...</p></details>
    Published: April 8, 1955  
 
 37. <a id="endnote-37"></a>
    Source: criminallegalnews.org  
-   Link: [https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/](https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/)  
+   Link: <a href="https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus, in their article, “Past-life identities, UFO abductions, and...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: ahotcupofjoe.net  
-   Link: [https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/](https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/)  
+   Link: <a href="https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Embellishments of memory: the unreliable nature...by CP EU — ABSTRACT: In news of the past: UFO study finds no sign of aliens...</p></details>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /infrasound/
 nav_short_title: Chest pressure
 title: Why UFO Witnesses Report Chest Pressure
-title_full: Why UFO Witnesses Report Chest Pressure | Infrasound
+title_full: Why UFO Witnesses Report Chest Pressure
 display_title_short: Chest pressure
 display_title: Chest pressure
 heading_title: Why UFO Witnesses Report Chest Pressure
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:56'
-parent_title: Could Infrasound Explain UFO Vibrations? | UFO Noises
+parent_title: Could Infrasound Explain UFO Vibrations?
 parent_permalink: /infrasound/
 parent_nav_short_title: Infrasound
 parent_heading_title: Could Infrasound Explain UFO Vibrations?
@@ -276,14 +276,12 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressu
 
 Many UFO witnesses describe a sensation that feels less like hearing a sound and more like being physically affected by something in the air. One of the most common reports is pressure in the chest: a feeling of heaviness, vibration, tightness, internal resonance or an invisible force pressing against the body. In some accounts, this sensation appears before a witness notices any obvious noise at all.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-1-dark.svg" | relative_url }}" alt="Chest pressure illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Low-frequency sound, especially infrasound below about 20 hertz, is often discussed as a possible explanation. Researchers have shown that very low-frequency vibrations can affect the body even when people do not consciously hear them. The idea does not prove that UFO sightings are caused by sound waves, nor does it explain every report. However, it offers a plausible mechanism for why some witnesses describe chest pressure, unease and a powerful sense of presence during unusual aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What Chest Pressure Reports Usually Describe
 
 In UFO narratives, chest pressure is rarely described as ordinary pain. Witnesses more often report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,21 +298,19 @@ What makes these reports notable is that the sensation often seems mechanical ra
 
 This distinction is one reason infrasound has attracted attention in discussions of UFO-related bodily effects. Low-frequency sound can be experienced as vibration, pressure or movement rather than as a conventional audible tone. At high enough intensities, people may feel the sound through the body before they consciously recognise it as noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gJVzp-21yuw" title="Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer">Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 318.2K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gJVzp-21yuw">Open on YouTube</a></p></div></div></div>
 
 ## How Low-Frequency Sound Can Affect the Body
 
 The proposed mechanism centres on the unusual behaviour of long-wavelength sound waves.
 
-Infrasound occupies frequencies below the normal hearing range. Human hearing becomes progressively less sensitive as frequency drops, meaning that a powerful infrasonic signal may be sensed physically even when it is barely audible. Researchers studying low-frequency noise have documented reports of pressure sensations, bodily vibration, annoyance, discomfort and stress responses during exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
+Infrasound occupies frequencies below the normal hearing range. Human hearing becomes progressively less sensitive as frequency drops, meaning that a powerful infrasonic signal may be sensed physically even when it is barely audible. Researchers studying low-frequency noise have documented reports of pressure sensations, bodily vibration, annoyance, discomfort and stress responses during exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
 
 Some scientists have suggested that low-frequency sound can interact with natural resonances within the body. Research on infrasound and human physiology notes that many bodily vibrations occur within similar frequency ranges, roughly between 5 and 40 hertz. Because of this overlap, certain frequencies may be perceived more strongly than ordinary sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11069-013-0827-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</span></span></span>
 
 The chest is particularly relevant because it is a large cavity containing air-filled lungs and constantly moving tissues. Experimental research on low-frequency noise has reported chest resonance effects during exposure to strong low-frequency sound fields. Aviation and industrial studies have also documented sensations of vibration or pressure in the thoracic region under certain acoustic conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: movingforwardnetwork.org">[Moving Forward Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">movingforwardnetwork.org</span><span class="citation-popover-title">Moving Forward Network Effects of Low Frequency Noise and Vibrations</span><span class="citation-popover-snippet">Moving Forward NetworkEffects of Low Frequency Noise and VibrationsApril 20, 2023 — 6 Oct 2017 — A marked resonance around 60 Hz of the c...</span><span class="citation-popover-meta">Published: April 20, 2023</span></span></span>
 
 This does not mean that every low-frequency sound produces chest pressure. The effect depends on factors such as frequency, sound intensity, duration, individual sensitivity and the surrounding environment. Nevertheless, the mechanism offers a concrete explanation for why a witness might feel a bodily force without identifying a conventional source.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-2-dark.svg" | relative_url }}" alt="Chest pressure illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Chest Pressure Often Appears Alongside a Felt Presence
@@ -329,7 +325,6 @@ The result can be a powerful impression that the object itself is exerting an in
 
 Researchers investigating allegedly haunted environments have proposed a similar process. In these cases, unexplained bodily sensations can become attached to paranormal interpretations because people seek an explanation for a physical feeling they cannot identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[Wind Watch Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-title">Wind Watch Documentation Something in the Cellar</span><span class="citation-popover-snippet">Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgs.ph.ed.ac.uk">[The Higgs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgs.ph.ed.ac.uk</span><span class="citation-popover-snippet">The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</span></span></span> Centre for Theoretical Physics
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g_sXydyZwDs" title="Rural UFO Encounters That Defy Logic | UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g_sXydyZwDs" target="_blank" rel="noopener noreferrer">Rural UFO Encounters That Defy Logic | UFO Files</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 128.2K &middot; Uploaded: May 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g_sXydyZwDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g_sXydyZwDs">Open on YouTube</a></p></div></div></div>
 
 ## The Vic Tandy Example and the Resonance Hypothesis
@@ -342,7 +337,6 @@ Popular [retellings]({{ 'retellings/' | relative_url }}) often focus on the visu
 
 The Tandy case is not evidence that UFO encounters are caused by infrasound. However, it remains influential because it demonstrates how low-frequency environmental conditions can create physical sensations that people struggle to explain in the moment.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-3-dark.svg" | relative_url }}" alt="Chest pressure illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Explanation Becomes Uncertain
 
@@ -352,10 +346,9 @@ First, many UFO reports provide no acoustic measurements. Once an event is over,
 
 Second, researchers continue to debate the extent of infrasound's effects on human perception. While studies support links to discomfort, stress responses and pressure sensations, stronger claims involving dramatic hallucinations or complex visual experiences remain controversial. Some psychologists consider the evidence for effects such as vibrating eyeballs and full apparitional experiences much weaker than popular accounts suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span>
 
-Third, chest pressure can arise from many unrelated causes. Anxiety, adrenaline surges, hyperventilation, environmental stress, vibration from vehicles, [industrial noise]({{ 'industry/' | relative_url }}) and ordinary medical conditions can all create similar sensations. A witness describing chest heaviness during a UFO sighting does not automatically indicate an acoustic mechanism.
+Third, chest pressure can arise from many unrelated causes. Anxiety, adrenaline surges, hyperventilation, environmental stress, vibration from vehicles, industrial noise and ordinary medical conditions can all create similar sensations. A witness describing chest heaviness during a UFO sighting does not automatically indicate an acoustic mechanism.
 
-Finally, even when low-frequency sound is present, identifying its source can be difficult. Natural events, distant machinery, atmospheric phenomena and structural vibrations can all generate low-frequency energy. The existence of chest pressure does not reveal whether the source was mundane, unusual or connected to the reported object at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
-
+Finally, even when low-frequency sound is present, identifying its source can be difficult. Natural events, distant machinery, atmospheric phenomena and structural vibrations can all generate low-frequency energy. The existence of chest pressure does not reveal whether the source was mundane, unusual or connected to the reported object at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z6rbaLXf8rQ" title="Edwin Fuhr and the 1974 Langenburg, Saskatchewan UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z6rbaLXf8rQ" target="_blank" rel="noopener noreferrer">Edwin Fuhr and the 1974 Langenburg, Saskatchewan UFO Event</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts &middot; Views: 215 &middot; Uploaded: March 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z6rbaLXf8rQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z6rbaLXf8rQ">Open on YouTube</a></p></div></div></div>
 
@@ -763,100 +756,100 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11069-013-0827-3](https://link.springer.com/article/10.1007/s11069-013-0827-3)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11069-013-0827-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11069-013-0827-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: docs.wind-watch.org  
    Title: Wind Watch Documentation Something in the Cellar  
-   Link: [https://docs.wind-watch.org/Something-in-the-Cellar.pdf](https://docs.wind-watch.org/Something-in-the-Cellar.pdf)  
+   Link: <a href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Something-in-the-Cellar.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</p></details>
    Published: April 26, 2005  
 
 5. <a id="endnote-5"></a>
    Source: movingforwardnetwork.org  
    Title: Moving Forward Network Effects of Low Frequency Noise and Vibrations  
-   Link: [https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf](https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf)  
+   Link: <a href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Forward NetworkEffects of Low Frequency Noise and VibrationsApril 20, 2023 — 6 Oct 2017 — A marked resonance around 60 Hz of the c...</p></details>
    Published: April 20, 2023  
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests](https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: higgs.ph.ed.ac.uk  
-   Link: [https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency](https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency)  
+   Link: <a href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow">https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2003/oct/16/science.farout](https://www.theguardian.com/science/2003/oct/16/science.farout)  
+   Link: <a href="https://www.theguardian.com/science/2003/oct/16/science.farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/oct/16/science.farout</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fear frequency | Science15 Oct 2003 — The key here is frequency: 19hz is in the range known as infrasound, below the range of human h...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3](https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3)  
+   Link: <a href="https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There Is a Frequency That Makes You See GhostsDocumented effects of infrasound exposure at sufficient intensity include feelings of anxie...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: przyrbwn.icm.edu.pl  
-   Link: [https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf](https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf)  
+   Link: <a href="https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Infrasounds on the Electrocardiograph...by C Kasprzak · Cited by 12 — Research work has now established that low–frequency...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 400423776 Infrasound and Human Health Mechanisms Effects and Applications  
-   Link: [https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications](https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications)  
+   Link: <a href="https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrasound and Human Health: Mechanisms, Effects...14 Mar 2026 — Experimental studies demonstrate that infrasound can modulate mec...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: a new study links a certain kind of sound to paranormal experiences  
-   Link: [https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/](https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/)  
+   Link: <a href="https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A new study links a certain kind of sound to paranormal...One of the most famous cases of infrasound-induced hauntings happened in 1998...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govin Vitro Controlled Experiment” by Chaban R  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et al. (Noise...by F van den Berg · 2022 · Cited by 3 — Chaban et al. state that “the human body itself does not shield against infrasou...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/](https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>low-frequency sound that. mysteriousuniverse. TIL many UFO sightings are psychologically explained by the brain&#x27;s tendency toward Pareido...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.lww.com  
    Title: a study on the contribution of body vibrations to.2.aspx  
-   Link: [https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx](https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx)  
+   Link: <a href="https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lippincott JournalsA study on the contribution of body vibrations to the...by Y Takahashi · 2011 · Cited by 12 — A study on the contribut...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39](https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39)  
+   Link: <a href="https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound, Vibration, and Entity Perception: How Low-...Infrasound around 19 hertz is notorious for producing visual disturbances...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYCmNlAlD2m/](https://www.instagram.com/p/DYCmNlAlD2m/)  
+   Link: <a href="https://www.instagram.com/p/DYCmNlAlD2m/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYCmNlAlD2m/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nown as being fast, so it may be that the UFO...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: [https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0](https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0)  
+   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</p></details>

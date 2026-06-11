@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aircraft/
 nav_short_title: Military Roars
 title: When Military Flights Sound Like UFOs
-title_full: When Military Flights Sound Like UFOs | Aircraft
+title_full: When Military Flights Sound Like UFOs
 display_title_short: Military Roars
 display_title: Military Roars
 heading_title: When Military Flights Sound Like UFOs
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:04:38'
-parent_title: When Aircraft Sounds Become UFO Stories | UFO Noises
+parent_title: When Aircraft Sounds Become UFO Stories
 parent_permalink: /aircraft/
 parent_nav_short_title: Aircraft
 parent_heading_title: When Aircraft Sounds Become UFO Stories
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_tra
 
 Reports of “[UFO noises]({{ 'ufo-noises/' | relative_url }})” often focus on mysterious lights, but some of the most convincing cases begin with sound alone: a deep roar, a distant metallic rumble, or a low-frequency vibration that seems too large, too persistent, or too directionless to match an ordinary [aircraft]({{ 'aircraft/' | relative_url }}). Military training flights are a recurring source of these reports. Unlike scheduled passenger traffic, military aircraft may fly at unusual hours, follow unfamiliar routes, operate without obvious lighting patterns, or conduct repeated manoeuvres over the same area. When those operations combine with atmospheric conditions that bend or carry sound in unexpected ways, residents can hear what feels like an unexplained aerial phenomenon even when the source is entirely conventional. The confusion is not simply a matter of mistaken identity. Military aircraft often generate sound profiles and flight behaviours that differ significantly from what most people expect from everyday aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aircraft noise</span><span class="citation-popover-snippet">Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Aircraft and airport noise are complex issues that have been studied for decad...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">out about low flying in your areaContact the Low Flying Complaints and Enquiries Unit to complain or enquire about low flying in your are...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-1-dark.svg" | relative_url }}" alt="Military Roars illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Military Routes Surprise Local Listeners
 
@@ -281,7 +280,6 @@ Training flights may occur at night, use temporary routes, practise low-level na
 This mismatch between expectation and reality matters. A passenger jet heard at 2 p.m. near a major airport is rarely perceived as mysterious. A large military aircraft producing a sustained low-frequency roar at midnight over a rural area is far more likely to trigger speculation because listeners lack a familiar reference point.
 
 Several factors increase the likelihood of misidentification:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,7 +292,6 @@ Several factors increase the likelihood of misidentification:
 
 The result is a situation in which a real aircraft is heard clearly, but its identity remains hidden behind unfamiliar operating patterns.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iDea0NmHgmI" title="FAA Noise Policy Review - Aviation Noise Basics - Noise Metrics Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iDea0NmHgmI" target="_blank" rel="noopener noreferrer">FAA Noise Policy Review - Aviation Noise Basics - Noise Metrics Part 1</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 1.1K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iDea0NmHgmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iDea0NmHgmI">Open on YouTube</a></p></div></div></div>
 
 ## How Training Aircraft Differ from Passenger Traffic
@@ -303,10 +300,9 @@ The aircraft involved in military exercises are not necessarily louder than civi
 
 Large military aircraft such as airborne surveillance platforms, aerial refuelling tankers and transports often maintain long periods of steady power while flying racetrack patterns or wide holding circuits. Rather than the brief rise and fall of a commercial departure, listeners may hear a prolonged rumble that seems detached from any visible object.
 
-Sound propagation further complicates perception. Aviation-noise research and airport noise guidance consistently show that wind, temperature gradients, humidity, cloud cover and atmospheric layering can alter how aircraft noise travels. Under some conditions, sound can be refracted, focused or carried much farther than expected, causing an aircraft to sound closer, louder or differently positioned than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">cambridge.org17 Aircraft Noise: PropagationNoise propagation involves all of the physical events that take place between the noise source...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portseattle.org">[Port Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portseattle.org</span><span class="citation-popover-snippet">Port SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be influe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmmh.com">[HMMH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmmh.com</span><span class="citation-popover-snippet">HMMHWeather Effects on the Propagation of Aircraft Noise | HMMHincrease in aircraft noise in the 360 Community and, if feasible, make noise...</span></span></span>
+Sound propagation further complicates perception. Aviation-noise research and airport noise guidance consistently show that wind, temperature gradients, humidity, cloud cover and atmospheric layering can alter how aircraft noise travels. Under some conditions, sound can be refracted, focused or carried much farther than expected, causing an aircraft to sound closer, louder or differently positioned than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">cambridge.org17 Aircraft Noise: PropagationNoise propagation involves all of the physical events that take place between the noise source...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portseattle.org">[Port Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portseattle.org</span><span class="citation-popover-snippet">Port SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be influe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmmh.com">[HMMH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmmh.com</span><span class="citation-popover-snippet">Weather Effects on the Propagation of Aircraft Noise &#124; HMMHincrease in aircraft noise in the 360 Community and, if feasible, make noise...</span></span></span>
 
 For military operations, this creates a particular problem. A training aircraft may be:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +317,6 @@ Research into aircraft-noise propagation and low-frequency aviation sound has fo
 
 This helps explain why witnesses sometimes describe a “sky hum” or “mystery roar” rather than recognising an aircraft engine.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-2-dark.svg" | relative_url }}" alt="Military Roars illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Night Exercises Create UFO-Style Reports
 
@@ -335,7 +330,6 @@ Military exercises can intensify this effect because aircraft may dim or alter e
 
 Atmospheric conditions can also become more favourable for long-distance sound transmission after sunset. Temperature [inversions]({{ 'inversions/' | relative_url }}) and other night-time conditions may redirect sound toward the ground, increasing the chance that distant aircraft are heard unusually clearly. Studies of aircraft-noise propagation repeatedly identify weather and atmospheric structure as major factors affecting how aviation noise is perceived at ground level. WSU S3 <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[Eagle Pubs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Eagle Pubs Aeroacoustics of Flight Vehicles –</span><span class="citation-popover-snippet">The propagation of aircraft noise depends on atmospheric conditions, wind...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portseattle.org">[Port Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portseattle.org</span><span class="citation-popover-snippet">Port SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be influe...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BA207LUT-wE" title="Aircraft Noise 101: Introduction to Noise Science and Modeling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BA207LUT-wE" target="_blank" rel="noopener noreferrer">Aircraft Noise 101: Introduction to Noise Science and Modeling</a></p><p class="youtube-embed-meta">Channel: Naval Safety Center Archives &middot; Views: 413 &middot; Uploaded: September 2015 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BA207LUT-wE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BA207LUT-wE">Open on YouTube</a></p></div></div></div>
 
 ## The Texas AWACS Sound Report
@@ -348,7 +342,6 @@ What makes the Longview case useful is not that it was extraordinary, but that i
 
 Several ingredients were present:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A sound that many residents did not recognise.
@@ -359,7 +352,6 @@ Several ingredients were present:
 </div>
 
 Once aviation officials connected the reports to AWACS training activity, the event shifted from a mystery narrative to an aviation explanation. Yet the original witness accounts remained understandable. People genuinely heard an unusual sound; they simply lacked the contextual information needed to identify it.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-3-dark.svg" | relative_url }}" alt="Military Roars illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_military_training_ro_4c122d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risk of Over-Interpreting Mystery Roars
@@ -372,9 +364,7 @@ For investigators examining reports of unexplained aerial sounds, military activ
 
 The lesson from cases such as the Texas AWACS report is not that witnesses are careless. It is that military aircraft can create genuine acoustic surprises. A deep nocturnal roar may sound extraordinary from the ground while still originating from a conventional training mission occurring far above the listener.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z6G3-zuC1ao" title="Locals Trying to Shut Down Air Station Because of Jet Noise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z6G3-zuC1ao" target="_blank" rel="noopener noreferrer">Locals Trying to Shut Down Air Station Because of Jet Noise</a></p><p class="youtube-embed-meta">Channel: Ward Carroll &middot; Views: 111.0K &middot; Uploaded: April 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z6G3-zuC1ao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z6G3-zuC1ao">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -772,144 +762,144 @@ The lesson from cases such as the Texas AWACS report is not that witnesses are c
 
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area](https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area)  
+   Link: <a href="https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/low-flying-in-your-area/find-out-about-low-flying-in-your-area</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>out about low flying in your areaContact the Low Flying Complaints and Enquiries Unit to complain or enquire about low flying in your are...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable](https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable)  
+   Link: <a href="https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/military-low-flying-raf-operational-low-flying-training-timetable</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF operational low flying training timetableAugust 1, 2011 — Timetables for operational low flying (OLF) training by RAF fast jets and...</p></details>
    Published: August 1, 2011  
 
 3. <a id="endnote-3"></a>
    Source: hmmh.com  
-   Link: [https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf](https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HMMHWeather Effects on the Propagation of Aircraft Noise | HMMHincrease in aircraft noise in the 360 Community and, if feasible, make noise...</p></details>
+   Link: <a href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Effects on the Propagation of Aircraft Noise | HMMHincrease in aircraft noise in the 360 Community and, if feasible, make noise...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: resolve.cambridge.org  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.org17 Aircraft Noise: PropagationNoise propagation involves all of the physical events that take place between the noise source...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ascent.aero  
    Title: Project 1 | Low Frequency Noise Study  
-   Link: [https://ascent.aero/partner-1/](https://ascent.aero/partner-1/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AscentProject 1 | Low Frequency Noise Study - AscentThe Low Frequency Noise Study evaluated the perceptual impact of low frequency aircra...</p></details>
+   Link: <a href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/partner-1/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1 | Low Frequency Noise Study - AscentThe Low Frequency Noise Study evaluated the perceptual impact of low frequency aircra...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: s3.wp.wsu.edu  
-   Link: [https://s3.wp.wsu.edu/uploads/sites/2479/2021/04/ASCENT-P40_2021-04.pdf](https://s3.wp.wsu.edu/uploads/sites/2479/2021/04/ASCENT-P40_2021-04.pdf)  
+   Link: <a href="https://s3.wp.wsu.edu/uploads/sites/2479/2021/04/ASCENT-P40_2021-04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.wp.wsu.edu/uploads/sites/2479/2021/04/ASCENT-P40_2021-04.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncertainties in Aircraft Noise Prediction in RealNeed to account for uncertainties in modeling of the aircraft noise (source), meteorolo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: texas.gov  
-   Link: [https://www.texas.gov/](https://www.texas.gov/)  
+   Link: <a href="https://www.texas.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.texas.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website of the State of TexasTexas.gov is the official website of the State of Texas. From here, we&#x27;ll guide you to online s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ascent.aero  
-   Link: [https://ascent.aero/documents/2019/10/october-2019-ascent-040.pdf](https://ascent.aero/documents/2019/10/october-2019-ascent-040.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ascent22 Oct 2019 — Use subtraction method to minimize source uncertainties. 3. Use sound exposure level (top 10 dB exposure level) to an...</p></details>
+   Link: <a href="https://ascent.aero/documents/2019/10/october-2019-ascent-040.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/documents/2019/10/october-2019-ascent-040.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Oct 2019 — Use subtraction method to minimize source uncertainties. 3. Use sound exposure level (top 10 dB exposure level) to an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf](https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a807c8740f0b62302693cb1/20170215-Low_Flying_Leaflet_-_Master_v3_Final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enquiries Unit. RAF Wittering. Peterborough. PE8 6HB. Tel: 01780 417558. E-mail: swk-lowflying@mod.uk. Military...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: [https://www.faa.gov/noise/aircraft_noise](https://www.faa.gov/noise/aircraft_noise)  
+   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Aircraft and airport noise are complex issues that have been studied for decad...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: portseattle.org  
-   Link: [https://www.portseattle.org/faq/what-are-effects-weather-noise](https://www.portseattle.org/faq/what-are-effects-weather-noise)  
+   Link: <a href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.portseattle.org/faq/what-are-effects-weather-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Port SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be influe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: eaglepubs.erau.edu  
    Title: Eagle Pubs Aeroacoustics of Flight Vehicles –  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The propagation of aircraft noise depends on atmospheric conditions, wind...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/policy_guidance/noise/basics](https://www.faa.gov/regulations_policies/policy_guidance/noise/basics)  
+   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/basics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Noise and Sound29 Mar 2022 — The A weighted noise level has been adopted by the FAA as the accepted measure to consider a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Texas](https://en.wikipedia.org/wiki/Texas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Texas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TexasTexas has a coastline on the Gulf of Mexico to the southeast. Covering 268,596 square miles (695,660 km 2) and with an estimated...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: eanab.chekov.thelane.io  
    Title: io Aviation Noise  
-   Link: [https://eanab.chekov.thelane.io/noise/aviation-noise/](https://eanab.chekov.thelane.io/noise/aviation-noise/)  
+   Link: <a href="https://eanab.chekov.thelane.io/noise/aviation-noise/" target="_blank" rel="noopener noreferrer nofollow">https://eanab.chekov.thelane.io/noise/aviation-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise - EANABTemperature, humidity, rain, cloud and wind speed all affect the sound produced by an aircraft in flight and how we perceive...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kids.nationalgeographic.com  
-   Link: [https://kids.nationalgeographic.com/geography/states/article/texas](https://kids.nationalgeographic.com/geography/states/article/texas)  
+   Link: <a href="https://kids.nationalgeographic.com/geography/states/article/texas" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/states/article/texas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pictures and FactsFast Facts · Nickname: The Lone Star State · Statehood: 1845; 28th state · Population (as of July 2015): 27,469,114 · C...</p></details>
    Published: July 2015  
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Texas-state](https://www.britannica.com/place/Texas-state)  
+   Link: <a href="https://www.britannica.com/place/Texas-state" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Texas-state</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It became the 28th state of the union in 1845. It is bordered on the north by Oklahoma, on the northeast by...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: traveltexas.com  
-   Link: [https://www.traveltexas.com/](https://www.traveltexas.com/)  
+   Link: <a href="https://www.traveltexas.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.traveltexas.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Vacations | Travel Planning &amp; InspirationWelcome to the state of Texas. Here you&#x27;ll find a variety of things to do throughout our 7...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: visittheusa.com  
-   Link: [https://www.visittheusa.com/destinations/texas/](https://www.visittheusa.com/destinations/texas/)  
+   Link: <a href="https://www.visittheusa.com/destinations/texas/" target="_blank" rel="noopener noreferrer nofollow">https://www.visittheusa.com/destinations/texas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Things To Do in TexasDiscover culturally rich cities, tour historic sites like the Alamo or take a stroll along sandy beaches; there&#x27;s no...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aef.org.uk  
-   Link: [https://www.aef.org.uk/guides/understanding-aircraft-noise/](https://www.aef.org.uk/guides/understanding-aircraft-noise/)  
+   Link: <a href="https://www.aef.org.uk/guides/understanding-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aef.org.uk/guides/understanding-aircraft-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding aircraft noiseNoise emerged as the biggest single issue with 83% of respondents reporting noise problems during the day, an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/about-us/make-a-report-or-complaint/make-a-complaint/aircraft-noise-complaints-and-enquiries/](https://www.caa.co.uk/about-us/make-a-report-or-complaint/make-a-complaint/aircraft-noise-complaints-and-enquiries/)  
+   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/make-a-complaint/aircraft-noise-complaints-and-enquiries/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/make-a-complaint/aircraft-noise-complaints-and-enquiries/</a>  
 
 22. <a id="endnote-22"></a>
    Source: data.parliament.uk  
-   Link: [https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf](https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data ParliamentMilitary Low Flying in the United KingdomFor some years, operations have shown that the ability to operate effectively at...</p></details>
+   Link: <a href="https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.parliament.uk/DepositedPapers/Files/DEP2013-0280/LowFlying2009-2010-20100622.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Low Flying in the United KingdomFor some years, operations have shown that the ability to operate effectively at...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/hulltrafficandtrave/posts/4682663211757547/](https://www.facebook.com/groups/hulltrafficandtrave/posts/4682663211757547/)  
+   Link: <a href="https://www.facebook.com/groups/hulltrafficandtrave/posts/4682663211757547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/hulltrafficandtrave/posts/4682663211757547/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>her we fly using just plain eye sight or on night vision goggles.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Steffan.LibDem/posts/people-in-north-norfolk-shouldnt-have-to-put-up-with-constant-noise-and-disturba/1209336247683577/](https://www.facebook.com/Steffan.LibDem/posts/people-in-north-norfolk-shouldnt-have-to-put-up-with-constant-noise-and-disturba/1209336247683577/)  
+   Link: <a href="https://www.facebook.com/Steffan.LibDem/posts/people-in-north-norfolk-shouldnt-have-to-put-up-with-constant-noise-and-disturba/1209336247683577/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Steffan.LibDem/posts/people-in-north-norfolk-shouldnt-have-to-put-up-with-constant-noise-and-disturba/1209336247683577/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ance from low-flying RAF and US military training exercises...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: law.cornell.edu  
    Title: edu14 CFR Appendix A to Part 36  
-   Link: [https://www.law.cornell.edu/cfr/text/14/appendix-A_to_part_36](https://www.law.cornell.edu/cfr/text/14/appendix-A_to_part_36)  
+   Link: <a href="https://www.law.cornell.edu/cfr/text/14/appendix-A_to_part_36" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/cfr/text/14/appendix-A_to_part_36</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cornell.edu14 CFR Appendix A to Part 36 - Aircraft Noise Measurement and...1.1 This appendix prescribes the conditions under which airpl...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: noisequest.psu.edu  
    Title: noisebasics weathereffects  
-   Link: [https://www.noisequest.psu.edu/noisebasics-weathereffects.html](https://www.noisequest.psu.edu/noisebasics-weathereffects.html)  
+   Link: <a href="https://www.noisequest.psu.edu/noisebasics-weathereffects.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noisequest.psu.edu/noisebasics-weathereffects.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics - PSU Noisequest - Penn StateThey often want to know why aircraft noise varies so much from day to day. Varying weather conditions...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medrxiv.org  
-   Link: [https://www.medrxiv.org/content/10.64898/2026.04.14.26350904v1](https://www.medrxiv.org/content/10.64898/2026.04.14.26350904v1)  
+   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.04.14.26350904v1" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.04.14.26350904v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Complaint Data Reveals Impacts of Military Aviation16 Apr 2026 — The predominance of low-frequency noise and repetitive training ca...</p></details>

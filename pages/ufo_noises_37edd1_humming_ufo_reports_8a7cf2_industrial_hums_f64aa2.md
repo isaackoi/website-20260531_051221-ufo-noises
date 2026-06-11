@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /humming/
 nav_short_title: Industrial Hums
 title: The Machinery Behind Some Mystery Hums
-title_full: The Machinery Behind Some Mystery Hums | Humming
+title_full: The Machinery Behind Some Mystery Hums
 display_title_short: Industrial Hums
 display_title: Industrial Hums
 heading_title: The Machinery Behind Some Mystery Hums
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:58:03'
-parent_title: Why Do So Many UFOs Hum? | UFO Noises
+parent_title: Why Do So Many UFOs Hum?
 parent_permalink: /humming/
 parent_nav_short_title: Humming
 parent_heading_title: Why Do So Many UFOs Hum?
@@ -276,15 +276,14 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hu
 
 Not every [humming]({{ 'humming/' | relative_url }}) UFO report begins with a mysterious craft. In some cases, the sound itself may come from factories, steel plants, ventilation systems, generators or other heavy infrastructure operating nearby. When a strange light, distant [aircraft]({{ 'aircraft/' | relative_url }}) or poorly understood visual event appears at the same time, witnesses can connect the two into a single experience. The result is a UFO account in which the hum feels as important as the object overhead.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-1-dark.svg" | relative_url }}" alt="Industrial Hums illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean witnesses are inventing what they heard. Low-frequency [industrial noise]({{ 'industry/' | relative_url }}) is real, can travel surprising distances and is often difficult to locate. In several well-known “mystery hum” cases, investigators eventually traced at least part of the problem to industrial activity. These examples help explain why some UFO reports include deep drones, vibrations and mechanical resonances that seem far stranger than their actual source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ioa.org.uk">[ioa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ioa.org.uk</span><span class="citation-popover-title">Low Frequency Noise Annoyance</span><span class="citation-popover-snippet">LFN can cause irritation and annoyance, disturb sleep, and make people uncomfortable in their homes.Read more...</span></span></span>
+This does not mean witnesses are inventing what they heard. Low-frequency industrial noise is real, can travel surprising distances and is often difficult to locate. In several well-known “mystery hum” cases, investigators eventually traced at least part of the problem to industrial activity. These examples help explain why some UFO reports include deep drones, vibrations and mechanical resonances that seem far stranger than their actual source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ioa.org.uk">[ioa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ioa.org.uk</span><span class="citation-popover-title">Low Frequency Noise Annoyance</span><span class="citation-popover-snippet">LFN can cause irritation and annoyance, disturb sleep, and make people uncomfortable in their homes.Read more...</span></span></span>
 
 ## Common Industrial Sources of Low Drones
 
 Many industrial systems generate low-frequency noise, sometimes below the range where people perceive it as an ordinary sound. Instead, it may feel like pressure, vibration or a distant engine running somewhere beyond sight.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/8642114/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Common sources include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">and effects of low-frequency noiseby B Berglund · 1996 · Cited by 837 — Low-frequency noise is common as background noise in urban enviro...</span></span></span>
+Common sources include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/8642114/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">and effects of low-frequency noiseby B Berglund · 1996 · Cited by 837 — Low-frequency noise is common as background noise in urban enviro...</span></span></span>
 
 * Large industrial fans and ventilation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 * Blast furnaces and steel-production equipment.
@@ -300,8 +299,7 @@ Many industrial systems generate low-frequency noise, sometimes below the range 
 
 Acoustic specialists note that low-frequency noise can travel long distances and penetrate buildings more effectively than higher-pitched sounds. A person indoors may therefore hear a hum more clearly than someone standing outside nearby. This creates an unsettling effect in which the sound seems detached from any obvious source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ioa.org.uk">[ioa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ioa.org.uk</span><span class="citation-popover-title">Low Frequency Noise Annoyance</span><span class="citation-popover-snippet">LFN can cause irritation and annoyance, disturb sleep, and make people uncomfortable in their homes.Read more...</span></span></span>
 
-The descriptions often overlap with classic UFO testimony. Witnesses frequently compare the noise to transformers, generators, distant machinery or a diesel engine idling somewhere out of view. Because those sounds already resemble industrial acoustics, the boundary between a genuine [environmental hum]({{ 'hum-analogues/' | relative_url }}) and an apparently anomalous aerial sound can become blurred.
-
+The descriptions often overlap with classic UFO testimony. Witnesses frequently compare the noise to transformers, generators, distant machinery or a diesel engine idling somewhere out of view. Because those sounds already resemble industrial acoustics, the boundary between a genuine environmental hum and an apparently anomalous aerial sound can become blurred.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7ogWiHKgU98" title="The Proof Is Out There: Simulation Theory Reveals CRACKS in Reality (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7ogWiHKgU98" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Simulation Theory Reveals CRACKS in Reality (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 166.9K &middot; Uploaded: May 2023 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7ogWiHKgU98" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7ogWiHKgU98">Open on YouTube</a></p></div></div></div>
 
@@ -319,8 +317,7 @@ Several factors make this especially likely:
 * **Night-time environments reduce competing sounds.** A distant industrial source may become unusually noticeable after dark.
 * **Unusual lights encourage causal connections.** Once something in the sky seems unexplained, surrounding sounds can become part of the same narrative.
 
-Researchers studying environmental hum phenomena repeatedly encounter reports from people who describe a sound as being “everywhere” rather than coming from a single direction. That same description appears regularly in UFO accounts involving humming objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">April 21, 2026 — The Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, peo...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
-
+Researchers studying environmental hum phenomena repeatedly encounter reports from people who describe a sound as being “everywhere” rather than coming from a single [direction]({{ 'direction/' | relative_url }}). That same description appears regularly in UFO accounts involving humming objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">April 21, 2026 — The Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, peo...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-2-dark.svg" | relative_url }}" alt="Industrial Hums illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Windsor Hum Suggests
@@ -329,7 +326,7 @@ One of the strongest examples of industrial noise being mistaken for something m
 
 Beginning around 2011, residents of Windsor reported a persistent low-frequency vibration. People described hearing a distant droning sound, feeling vibrations in their homes and suffering sleep disruption. Because the source was unclear, speculation flourished. Some residents proposed military activity, underground construction projects and even UFO-related explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://macleans.ca/society/life/whats-keeping-windsor-awake-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macleans.ca">[Macleans.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macleans.ca</span><span class="citation-popover-title">What&#x27;s keeping Windsor awake at night?</span><span class="citation-popover-snippet">November 24, 2011 — 24 Nov 2011 — Some people insisted it was alien spaceships, says Southern, a leading voice on the Windsor Hum Faceboo...</span><span class="citation-popover-meta">Published: November 24, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ripleys.com/stories/windsor-hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ripleys.com">[Ripley&#x27;s]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ripleys.com</span><span class="citation-popover-title">windsor hum</span><span class="citation-popover-snippet">They think the hum originated from a U.S. Steel mill across...Read more...</span></span></span>
 
-Canadian investigations confirmed that the hum existed and repeatedly pointed toward Zug Island, a heavily industrialised area across the Detroit River containing steel-production facilities. Government summaries reported that measurements placed the source in the vicinity of the island, although investigators faced access limitations that prevented a completely definitive confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; ResultsMay 23, 2014 — A previous study confirmed the existence of the low frequency excitation and est...</span><span class="citation-popover-meta">Published: May 23, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/225841343/Windsor-Hum-Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Investigation of the Windsor Hum | PDF | NoiseAnalysis of the data shows that the major contributor to the overall sound power level from...</span></span></span> Later reporting strengthened the industrial explanation. Researchers linked the characteristics of the sound to blast-furnace operations, and some accounts noted that the hum diminished when major steel operations shut down during the pandemic period. HowStuffWorks CapRadio The Windsor case is important for UFO-sound discussions because it demonstrates several recurring features: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capradio.org">[capradio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capradio.org</span><span class="citation-popover-snippet">Steel facility shut down. Transcript. RACHEL MARTIN, HOST: For a decade, Canadians...Read more...</span></span></span>
+Canadian investigations confirmed that the hum existed and repeatedly pointed toward Zug Island, a heavily industrialised area across the Detroit River containing steel-production facilities. Government summaries reported that measurements placed the source in the vicinity of the island, although investigators faced access limitations that prevented a completely definitive confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; ResultsMay 23, 2014 — A previous study confirmed the existence of the low frequency excitation and est...</span><span class="citation-popover-meta">Published: May 23, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/225841343/Windsor-Hum-Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Investigation of the Windsor Hum &#124; PDF &#124; NoiseAnalysis of the data shows that the major contributor to the overall sound power level from...</span></span></span> Later reporting strengthened the industrial explanation. Researchers linked the characteristics of the sound to blast-furnace operations, and some accounts noted that the hum diminished when major steel operations shut down during the pandemic period. HowStuffWorks CapRadio The Windsor case is important for UFO-sound discussions because it demonstrates several recurring features: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capradio.org">[capradio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capradio.org</span><span class="citation-popover-snippet">Steel facility shut down. Transcript. RACHEL MARTIN, HOST: For a decade, Canadians...Read more...</span></span></span>
 
 * A genuine low-frequency hum existed.
 * Many people heard it differently or not at all.
@@ -338,7 +335,6 @@ Canadian investigations confirmed that the hum existed and repeatedly pointed to
 * Heavy [industry]({{ 'industry/' | relative_url }}) ultimately became the leading explanation.
 
 That pattern resembles many lesser-known reports in which a mysterious hum initially appears extraordinary but later proves connected to infrastructure operating beyond the awareness of nearby residents.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tcOao4B13vA" title="The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer">The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds</a></p><p class="youtube-embed-meta">Channel: NerdAlert &middot; Views: 86.7K &middot; Uploaded: August 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tcOao4B13vA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tcOao4B13vA">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +348,6 @@ Another complication is that not everyone hears the same frequencies equally wel
 
 For UFO researchers, this creates a recurring challenge. A witness may accurately report a genuine hum while incorrectly identifying its source. The sound is real, but its connection to the observed object remains uncertain.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-3-dark.svg" | relative_url }}" alt="Industrial Hums illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_industrial_hums_f64aa2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Industrial Hums Mean for UFO Reports
 
@@ -360,9 +355,7 @@ Industrial explanations do not account for every humming UFO story. Some reports
 
 The key lesson is that a humming sound, by itself, is weak evidence for an unusual aerial object. Factories, power systems, large fans and heavy industrial processes can generate exactly the sort of droning, vibrating acoustics that witnesses later associate with something strange in the sky. The Windsor Hum illustrates how easily a real environmental noise can acquire a reputation for mystery before careful investigation points back toward machinery rather than extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.gc.ca">[Global Affairs Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.gc.ca</span><span class="citation-popover-snippet">Summary of the &#x27;Windsor Hum Study&#x27; ResultsMay 23, 2014 — A previous study confirmed the existence of the low frequency excitation and est...</span><span class="citation-popover-meta">Published: May 23, 2014</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course, aliens. So what exactly...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PoWeBwNVBL0" title="Kokomo Hum: How to find it yourself" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PoWeBwNVBL0" target="_blank" rel="noopener noreferrer">Kokomo Hum: How to find it yourself</a></p><p class="youtube-embed-meta">Channel: AVL Designs &middot; Views: 2.3K &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PoWeBwNVBL0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PoWeBwNVBL0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -761,134 +754,134 @@ The key lesson is that a humming sound, by itself, is weak evidence for an unusu
 1. <a id="endnote-1"></a>
    Source: ioa.org.uk  
    Title: Low Frequency Noise Annoyance  
-   Link: [https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note](https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note)  
+   Link: <a href="https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note" target="_blank" rel="noopener noreferrer nofollow">https://www.ioa.org.uk/news/low-frequency-noise-annoyance-new-briefing-note</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LFN can cause irritation and annoyance, disturb sleep, and make people uncomfortable in their homes.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course, aliens. So what exactly...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 21, 2026 — The Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, peo...</p></details>
    Published: April 21, 2026  
 
 4. <a id="endnote-4"></a>
    Source: macleans.ca  
    Title: What's keeping Windsor awake at night?  
-   Link: [https://macleans.ca/society/life/whats-keeping-windsor-awake-at-night/](https://macleans.ca/society/life/whats-keeping-windsor-awake-at-night/)  
+   Link: <a href="https://macleans.ca/society/life/whats-keeping-windsor-awake-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/society/life/whats-keeping-windsor-awake-at-night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 24, 2011 — 24 Nov 2011 — Some people insisted it was alien spaceships, says Southern, a leading voice on the Windsor Hum Faceboo...</p></details>
    Published: November 24, 2011  
 
 5. <a id="endnote-5"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/225841343/Windsor-Hum-Report](https://www.scribd.com/document/225841343/Windsor-Hum-Report)  
+   Link: <a href="https://www.scribd.com/document/225841343/Windsor-Hum-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/225841343/Windsor-Hum-Report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of the Windsor Hum | PDF | NoiseAnalysis of the data shows that the major contributor to the overall sound power level from...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/zug-island-mysterious-spot-likely-behind-windsor-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/zug-island-mysterious-spot-likely-behind-windsor-hum.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksWhat&#x27;s Going on With Detroit&#x27;s Mysterious Zug Island?Mar 12, 2024 — Researchers in Windsor, Ontario, isolated a local hum to...</p></details>
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/zug-island-mysterious-spot-likely-behind-windsor-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/zug-island-mysterious-spot-likely-behind-windsor-hum.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Going on With Detroit&#x27;s Mysterious Zug Island?Mar 12, 2024 — Researchers in Windsor, Ontario, isolated a local hum to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: capradio.org  
-   Link: [https://www.capradio.org/news/npr/story?storyid=898853311](https://www.capradio.org/news/npr/story?storyid=898853311)  
+   Link: <a href="https://www.capradio.org/news/npr/story?storyid=898853311" target="_blank" rel="noopener noreferrer nofollow">https://www.capradio.org/news/npr/story?storyid=898853311</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steel facility shut down. Transcript. RACHEL MARTIN, HOST: For a decade, Canadians...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: windsor.ai  
-   Link: [https://windsor.ai/](https://windsor.ai/)  
+   Link: <a href="https://windsor.ai/" target="_blank" rel="noopener noreferrer nofollow">https://windsor.ai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No-Code Data Integration Platform for BI...Windsor.ai automates cross-platform data integration with a no-code ETL/ELT platform that han...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: House of Windsor  
-   Link: [https://en.wikipedia.org/wiki/House_of_Windsor](https://en.wikipedia.org/wiki/House_of_Windsor)  
+   Link: <a href="https://en.wikipedia.org/wiki/House_of_Windsor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/House_of_Windsor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of WindsorThe House of Windsor is the current royal house of the United Kingdom and other Commonwealth realms. The house&#x27;s name...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ripleys.com  
    Title: windsor hum  
-   Link: [https://www.ripleys.com/stories/windsor-hum](https://www.ripleys.com/stories/windsor-hum)  
+   Link: <a href="https://www.ripleys.com/stories/windsor-hum" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/windsor-hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They think the hum originated from a U.S. Steel mill across...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: international.gc.ca  
    Title: Global Affairs Canada  
-   Link: [https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng](https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng)  
+   Link: <a href="https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng" target="_blank" rel="noopener noreferrer nofollow">https://www.international.gc.ca/department-ministere/windsor_hum_results-bourdonnement_windsor_resultats.aspx?lang=eng</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the &#x27;Windsor Hum Study&#x27; ResultsMay 23, 2014 — A previous study confirmed the existence of the low frequency excitation and est...</p></details>
    Published: May 23, 2014  
 
 12. <a id="endnote-12"></a>
    Source: repository.lboro.ac.uk  
-   Link: [https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf](https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf)  
+   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: windsorstore.com  
    Title: Explore curated collections for Prom, weddings & every occasion in-store,  
-   Link: [https://www.windsorstore.com/?srsltid=AfmBOopIjKY_rNztwkp3g9nnwBqgsgE6Ua2K22NXQPgBrsASXTd-Bsph](https://www.windsorstore.com/?srsltid=AfmBOopIjKY_rNztwkp3g9nnwBqgsgE6Ua2K22NXQPgBrsASXTd-Bsph)  
+   Link: <a href="https://www.windsorstore.com/?srsltid=AfmBOopIjKY_rNztwkp3g9nnwBqgsgE6Ua2K22NXQPgBrsASXTd-Bsph" target="_blank" rel="noopener noreferrer nofollow">https://www.windsorstore.com/?srsltid=AfmBOopIjKY_rNztwkp3g9nnwBqgsgE6Ua2K22NXQPgBrsASXTd-Bsph</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Windsor | Shop Dresses, Tops, Skirts, Denim, Shoes &amp; Trendy...Shop the latest trends in women&#x27;s dresses, tops, denim, skirts &amp; shoes at...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: harmonicnotes.co.uk  
    Title: The Hum  
-   Link: [https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/](https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/)  
+   Link: <a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: windsorct.gov  
-   Link: [https://www.windsorct.gov/](https://www.windsorct.gov/)  
+   Link: <a href="https://www.windsorct.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.windsorct.gov/</a>  
 
 16. <a id="endnote-16"></a>
    Source: windsorpubliclibrary.com  
-   Link: [https://www.windsorpubliclibrary.com/windsor-hum/](https://www.windsorpubliclibrary.com/windsor-hum/)  
+   Link: <a href="https://www.windsorpubliclibrary.com/windsor-hum/" target="_blank" rel="noopener noreferrer nofollow">https://www.windsorpubliclibrary.com/windsor-hum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Windsor HumHowever, due to limited access to Zug Island, those studying the noise have been unable to confirm that it is the source. Many...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: windsor hum canada zug island united states  
-   Link: [https://www.theguardian.com/world/2016/jun/07/windsor-hum-canada-zug-island-united-states](https://www.theguardian.com/world/2016/jun/07/windsor-hum-canada-zug-island-united-states)  
+   Link: <a href="https://www.theguardian.com/world/2016/jun/07/windsor-hum-canada-zug-island-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2016/jun/07/windsor-hum-canada-zug-island-united-states</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hum to UFOs or covert tunneling by the Canadian military. Studies... Home to a US Steel plant and a coke battery owned by the local...R...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/8642114/](https://pubmed.ncbi.nlm.nih.gov/8642114/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8642114/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8642114/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and effects of low-frequency noiseby B Berglund · 1996 · Cited by 837 — Low-frequency noise is common as background noise in urban enviro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/windsor/?hl=en](https://www.instagram.com/windsor/?hl=en)  
+   Link: <a href="https://www.instagram.com/windsor/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/windsor/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>windsor. Follow. Message. Inside the journey.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: TI L the origin of The Windsor Hum  
-   Link: [https://www.reddit.com/r/todayilearned/comments/123ovgv/til_the_origin_of_the_windsor_hum_a_mysterious/](https://www.reddit.com/r/todayilearned/comments/123ovgv/til_the_origin_of_the_windsor_hum_a_mysterious/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/123ovgv/til_the_origin_of_the_windsor_hum_a_mysterious/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/123ovgv/til_the_origin_of_the_windsor_hum_a_mysterious/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL the origin of The Windsor Hum - a mysterious low...A mysterious low-frequency hum that plagued the city of Windsor for years, turned...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: amusingplanet.com  
-   Link: [https://www.amusingplanet.com/2020/04/the-mysterious-hum-nobody-can-explain.html](https://www.amusingplanet.com/2020/04/the-mysterious-hum-nobody-can-explain.html)  
+   Link: <a href="https://www.amusingplanet.com/2020/04/the-mysterious-hum-nobody-can-explain.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2020/04/the-mysterious-hum-nobody-can-explain.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amusing PlanetThe Mysterious Hum Nobody Can ExplainApr 28, 2020 — Experts believe that the blast furnaces are responsible for the 35Hz no...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
    Title: Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the [Bristol Hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;) originated from large industrial fans used...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7ogWiHKgU98](https://www.youtube.com/watch?v=7ogWiHKgU98)  
+   Link: <a href="https://www.youtube.com/watch?v=7ogWiHKgU98" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7ogWiHKgU98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious &#x27;Hum&#x27; and Other &#x27;Unexplained&#x27; Sounds...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: exxosforum.co.uk  
-   Link: [https://www.exxosforum.co.uk/articles/hum.html](https://www.exxosforum.co.uk/articles/hum.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesPotential causes include environmental factors like gas pipelines and electrical infrast...</p></details>
+   Link: <a href="https://www.exxosforum.co.uk/articles/hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exxosforum.co.uk/articles/hum.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesPotential causes include environmental factors like gas [pipelines](&amp;#123;&amp;#123; &#x27;pipelines/&#x27; | relative_url &amp;#125;&amp;#125;) and electrical infrast...</p></details>

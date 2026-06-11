@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /memory/
 nav_short_title: Shared Memories
 title: How Witness Groups Can Merge UFO Sound Memories
-title_full: How Witness Groups Can Merge UFO Sound Memories | Memory
+title_full: How Witness Groups Can Merge UFO Sound Memories
 display_title_short: Shared Memories
 display_title: Shared Memories
 heading_title: How Witness Groups Can Merge UFO Sound Memories
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:09:23'
-parent_title: How Memory Changes UFO Sounds | UFO Noises
+parent_title: How Memory Changes UFO Sounds
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: How Memory Changes UFO Sounds
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_so
 
 When several people report seeing the same unidentified aerial object, matching descriptions are often treated as powerful evidence. If multiple witnesses independently describe the same [humming]({{ 'humming/' | relative_url }}), [buzzing]({{ 'buzzing/' | relative_url }}) or vibrating sound, the account can appear especially persuasive. The problem is that witness memories are not always independent by the time investigators hear them.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-1-dark.svg" | relative_url }}" alt="Shared Memories illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Psychological research has repeatedly shown that people who discuss an event after it happens can unintentionally influence one another's memories. Details that began as uncertain impressions can become shared recollections, including descriptions of sound. In UFO cases, where unusual noises are often brief, ambiguous or difficult to identify, post-event discussion can make separate memories converge into a single group narrative. That does not mean witnesses are lying. In many cases, people sincerely remember a sound that became reinforced through conversation, repeated interviews or exposure to other accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/13218710802620380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Participants viewed crime videos and then after a delay (20 min or...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-snippet">Abertay UniversityMemory conformity: can eyewitnesses influence each...by F Gabbert · 2003 · Cited by 630 — A significant proportion (71...</span></span></span>
 
@@ -296,7 +295,6 @@ This effect is especially relevant to UFO sound reports because sound is often l
 
 For example, a group may initially describe an object as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Silent.
@@ -308,7 +306,7 @@ For example, a group may initially describe an object as:
 
 After discussion, the group's descriptions may gradually align around a specific characterisation such as an electrical buzzing sound, a transformer-like hum or a low-frequency vibration.
 
-The resulting agreement can feel convincing because every witness genuinely believes the memory is their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">PMCby M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident (e.g., a crime) and then tal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The present study investigated the impact...</span></span></span>
+The resulting agreement can feel convincing because every witness genuinely believes the memory is their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident (e.g., a crime) and then tal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The present study investigated the impact...</span></span></span>
 
 ## Why Matching Sound Accounts Are Not Always Independent Evidence
 
@@ -325,7 +323,6 @@ Several factors make this especially likely:
 * **Repeated retelling.** Every retelling offers another opportunity for memory alignment.
 * **Desire for consistency.** People often assume others noticed details they themselves missed and adjust their recollections accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht UniversityThe effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — Co-witness confi- denc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect A witness who initially says]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The present study examined whether an...Read more...</span></span></span>, “I think there was a faint noise,” may later report, “The object produced a deep electrical hum,” not because of deception, but because repeated exposure to the group's version gradually reshaped the original memory.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/epXmFjTqWeU" title="False Memories and the Misinformation Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer">False Memories and the Misinformation Effect</a></p><p class="youtube-embed-meta">Channel: Bite-Sized Psychology &middot; Views: 14.3K &middot; Uploaded: July 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=epXmFjTqWeU">Open on YouTube</a></p></div></div></div>
 
 ## How Sound Descriptions Become More Specific
@@ -333,7 +330,6 @@ Several factors make this especially likely:
 One striking pattern in witness accounts is increasing sensory detail over time.
 
 Immediately after an event, witnesses often provide broad descriptions:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -346,7 +342,6 @@ Immediately after an event, witnesses often provide broad descriptions:
 
 Months later, the same account may contain highly specific comparisons:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Like a high-voltage transformer.
@@ -356,7 +351,7 @@ Months later, the same account may contain highly specific comparisons:
 
 </div>
 
-Memory research suggests that reconstructed recollections naturally become more coherent and detailed as people repeatedly retrieve and discuss them. Information from conversations can merge with genuine perception until the distinction disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS Psych Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS Psych HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">PMCby R O’Donnell · 2023 · Cited by 1 — Below, we first review the literature regarding the effect of repetition of misinformation on sug...</span></span></span>
+Memory research suggests that reconstructed recollections naturally become more coherent and detailed as people repeatedly retrieve and discuss them. Information from conversations can merge with genuine perception until the distinction disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS Psych Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">BPS Psych Hub The history of an idea: The misinformation effect</span><span class="citation-popover-snippet">BPS Psych HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pre...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExperimental and meta-analytic evidence that source</span><span class="citation-popover-snippet">by R O’Donnell · 2023 · Cited by 1 — Below, we first review the literature regarding the effect of repetition of misinformation on sug...</span></span></span>
 
 In UFO investigations, this creates a particular challenge. A detailed sound description may appear more credible than a vague one, yet the more elaborate account may actually be the product of later reconstruction rather than a more accurate record of the original experience.
 
@@ -381,13 +376,12 @@ Unusual sounds are difficult to categorise. Witnesses frequently compare them to
 
 Once a group settles on a comparison, it can become the accepted memory framework. Later interviews may reveal striking agreement, even though the agreement developed after the event.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-2-dark.svg" | relative_url }}" alt="Shared Memories illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Community Reinforcement
 
 Some UFO cases develop local communities of discussion. Witnesses may attend meetings, participate in online forums or speak with investigators who already know other accounts.
 
-In these environments, a sound description can spread through the witness network and become part of the accepted narrative. Later witnesses may unknowingly absorb those details when reconstructing their own memories. The broader misinformation literature shows that repeated exposure to information can increase acceptance and integration into memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">PMCby M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident (e.g., a crime) and then tal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The present study examined whether an...Read more...</span></span></span>
+In these environments, a sound description can spread through the witness network and become part of the accepted narrative. Later witnesses may unknowingly absorb those details when reconstructing their own memories. The broader misinformation literature shows that repeated exposure to information can increase acceptance and integration into memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident (e.g., a crime) and then tal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The present study examined whether an...Read more...</span></span></span>
 
 ## The Difference Between Agreement and Independence
 
@@ -406,7 +400,6 @@ Three witnesses discuss the event together for an hour before being interviewed.
 The final reports may appear equally consistent, yet their evidential value differs substantially. The first reflects independent corroboration. The second may largely reflect memory conformity.
 
 This distinction is well recognised in eyewitness research, where agreement between witnesses is not automatically treated as proof of accuracy. Shared errors can spread through discussion just as easily as correct observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-snippet">Abertay UniversityMemory conformity: can eyewitnesses influence each...by F Gabbert · 2003 · Cited by 630 — A significant proportion (71...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
 
@@ -436,7 +429,6 @@ contains valuable information that may be lost if later transformed into:
 
 Keeping original descriptions allows investigators to track how memories evolve over time.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-3-dark.svg" | relative_url }}" alt="Shared Memories illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_cowitness_sound_memo_2f56f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Ask Open Questions
 
@@ -456,7 +448,6 @@ Open-ended prompts generally produce cleaner evidence:
 
 These approaches reduce the risk of introducing new memory content. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Eyewitness Testimony in Psychologyby S McLeod · Cited by 1 — Eyewitness testimony is a legal term that refers to an account given by peop...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqn5skNmi14" title="Factors affecting the accuracy of eyewitness testimony [AQA ALevel]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer">Factors affecting the accuracy of eyewitness testimony [AQA ALevel]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 113.2K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqn5skNmi14" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqn5skNmi14">Open on YouTube</a></p></div></div></div>
 
 ### Compare Timelines of Statements
@@ -464,7 +455,6 @@ These approaches reduce the risk of introducing new memory content. ScienceDirec
 Later consistency is easier to evaluate when early statements have been preserved.
 
 Investigators can examine:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -881,169 +871,169 @@ For investigators, the most valuable sound evidence is usually the earliest vers
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline misinformation can distort witnesses' memories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident (e.g., a crime) and then tal...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident (e.g., a crime) and then tal...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6762151/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of perceived memory ability on memory conformity...by LA Monds · 2019 · Cited by 19 — The present study investigated the impact...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515](https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691806000515</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The present study examined whether an...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExperimental and meta-analytic evidence that source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby R O’Donnell · 2023 · Cited by 1 — Below, we first review the literature regarding the effect of repetition of misinformation on sug...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10492197/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by R O’Donnell · 2023 · Cited by 1 — Below, we first review the literature regarding the effect of repetition of misinformation on sug...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211368114000230](https://www.sciencedirect.com/science/article/abs/pii/S2211368114000230)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHow to protect eyewitness memory against the...by H Blank · 2014 · Cited by 280 — The main message of this meta-analysis is...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368114000230" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368114000230</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to protect eyewitness memory against the...by H Blank · 2014 · Cited by 280 — The main message of this meta-analysis is...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0001691807000893](https://www.sciencedirect.com/science/article/abs/pii/S0001691807000893)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691807000893" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691807000893</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of co-witness relationship in susceptibility to...by L Hope · 2008 · Cited by 186 — The current study examined the role of co-w...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: False Memories and the Misinformation Effect  
-   Link: [https://www.youtube.com/watch?v=epXmFjTqWeU](https://www.youtube.com/watch?v=epXmFjTqWeU)  
+   Link: <a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epXmFjTqWeU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology - Eyewitness Testimony...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m6aY9Wr-xjI](https://www.youtube.com/watch?v=m6aY9Wr-xjI)  
+   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony | Memory | A Level Psychology...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Eyewitness Testimony | Memory | A Level Psychology  
-   Link: [https://www.youtube.com/watch?v=wcaYTGnuqXI](https://www.youtube.com/watch?v=wcaYTGnuqXI)  
+   Link: <a href="https://www.youtube.com/watch?v=wcaYTGnuqXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wcaYTGnuqXI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth F. Loftus - False Memories...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/13218710802620380](https://www.tandfonline.com/doi/abs/10.1080/13218710802620380)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/13218710802620380" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13218710802620380</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Participants viewed crime videos and then after a delay (20 min or...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: rke.abertay.ac.uk  
-   Link: [https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories](https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories)  
+   Link: <a href="https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories" target="_blank" rel="noopener noreferrer nofollow">https://rke.abertay.ac.uk/en/publications/memory-conformity-can-eyewitnesses-influence-each-others-memories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abertay UniversityMemory conformity: can eyewitnesses influence each...by F Gabbert · 2003 · Cited by 630 — A significant proportion (71...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: digitalcommons.unl.edu  
-   Link: [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&context=ajacourtreview](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&context=ajacourtreview)  
+   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: abdn.elsevierpure.com  
    Title: from the archive memory conformity can eyewitnesses influence eac  
-   Link: [https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/](https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/)  
+   Link: <a href="https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/from-the-archive-memory-conformity-can-eyewitnesses-influence-eac/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalCan eyewitnesses influence each other&#x27;s memories for an...by F Gabbert · 2011 — The paper was the first to exten...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cris.maastrichtuniversity.nl  
-   Link: [https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf](https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf)  
+   Link: <a href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht UniversityThe effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — Co-witness confi- denc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
    Title: BPS Psych Hub The history of an idea: The misinformation effect  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020)  
+   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Misinformation effects in eyewitness memory: The pre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/eyewitness-testimony.html](https://www.simplypsychology.org/eyewitness-testimony.html)  
+   Link: <a href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/eyewitness-testimony.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony in Psychologyby S McLeod · Cited by 1 — Eyewitness testimony is a legal term that refers to an account given by peop...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/group](https://dictionary.cambridge.org/dictionary/english/group)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya number of people or things that are put together or considered as a unit: group of I&#x27;m meeting...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/group" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/group</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya number of people or things that are put together or considered as a unit: group of I&#x27;m meeting...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: [https://en.wikipedia.org/wiki/Eyewitness_testimony](https://en.wikipedia.org/wiki/Eyewitness_testimony)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness testimonyEyewitness testimony is the account a bystander or victim gives in the courtroom, describing what that person obse...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: [https://en.wikipedia.org/wiki/Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Memory conformity  
-   Link: [https://en.wikipedia.org/wiki/Memory_conformity](https://en.wikipedia.org/wiki/Memory_conformity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Memory_conformity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory_conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory conformity&quot;How eyewitnesses resist misinformation: Social postwarnings and the monitoring of memory characteristics&quot;. Memory &amp;...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: support.gorilla.sc  
    Title: sc The Misinformation Effect  
-   Link: [https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect](https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect)  
+   Link: <a href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event questions can influenc...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory](https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
 
 23. <a id="endnote-23"></a>
    Source: pjp.psychreg.org  
-   Link: [https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf](https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf)  
+   Link: <a href="https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychreg Journal of PsychologyMemory conformity during co-witness discussionsIf co-witnesses hold differing recollections of the event, a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: themadscientistpodcast.com  
-   Link: [https://www.themadscientistpodcast.com/the-betty-and-barney-hill-case](https://www.themadscientistpodcast.com/the-betty-and-barney-hill-case)  
+   Link: <a href="https://www.themadscientistpodcast.com/the-betty-and-barney-hill-case" target="_blank" rel="noopener noreferrer nofollow">https://www.themadscientistpodcast.com/the-betty-and-barney-hill-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Betty and Barney Hill CaseTo many people, the simple bulk of reports of alien abductions or UFO encounters validates the experience a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed](https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed)  
+   Link: <a href="https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Reports Read Like Corrupted DataSome UFO reports include attempted communication. Beings emerge from craft. Witnesses describe in...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/memory/eye-witness-testimony](https://www.psychstory.co.uk/memory/eye-witness-testimony)  
+   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
 
 27. <a id="endnote-27"></a>
    Source: wrap.warwick.ac.uk  
    Title: WRAP eyewitness memory distortion following discussion countries Wade 2018  
-   Link: [https://wrap.warwick.ac.uk/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf](https://wrap.warwick.ac.uk/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf)  
+   Link: <a href="https://wrap.warwick.ac.uk/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wrap.warwick.ac.uk/108300/7/WRAP-eyewitness-memory-distortion-following-discussion-countries-Wade-2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>et al co-witness memory multilab study JARMAC_Accepted...by H Ito · 2019 · Cited by 45 — Research shows that misinformation gleaned from...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: psychologicalscience.org  
    Title: when eyewitnesses talk justice is distorted  
-   Link: [https://www.psychologicalscience.org/news/releases/when-eyewitnesses-talk-justice-is-distorted.html](https://www.psychologicalscience.org/news/releases/when-eyewitnesses-talk-justice-is-distorted.html)  
+   Link: <a href="https://www.psychologicalscience.org/news/releases/when-eyewitnesses-talk-justice-is-distorted.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/when-eyewitnesses-talk-justice-is-distorted.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Eyewitnesses Talk, Justice Is DistortedJul 1, 2009 — A research report explains how eyewitnesses&#x27; memories can become distorted afte...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pure.port.ac.uk  
    Title: port.ac.uk1 The effects of co-witness discussion on confidence  
-   Link: [https://pure.port.ac.uk/ws/portalfiles/portal/8833070/Rechdan_et_al._18.1.18_2.pdf](https://pure.port.ac.uk/ws/portalfiles/portal/8833070/Rechdan_et_al._18.1.18_2.pdf)  
+   Link: <a href="https://pure.port.ac.uk/ws/portalfiles/portal/8833070/Rechdan_et_al._18.1.18_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/8833070/Rechdan_et_al._18.1.18_2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Staffby J Rechdan · Cited by 17 — We were interested in examining the effects of disagreement or agreement with a co- witness—not exposur...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thejusticegap.com  
    Title: misinformation effect multiple eye witnesses can make mistake  
-   Link: [https://www.thejusticegap.com/misinformation-effect-multiple-eye-witnesses-can-make-mistake/](https://www.thejusticegap.com/misinformation-effect-multiple-eye-witnesses-can-make-mistake/)  
+   Link: <a href="https://www.thejusticegap.com/misinformation-effect-multiple-eye-witnesses-can-make-mistake/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejusticegap.com/misinformation-effect-multiple-eye-witnesses-can-make-mistake/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how multiple eye witnesses can make the same mistake19 Dec 2016 — Instead they would be convinced that they witness the misinformation fi...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: frontiersin.org  
    Title: Online misinformation can distort witnesses' memories  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident, then talk to each other about...</p></details>

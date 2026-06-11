@@ -291,7 +291,6 @@ image: /assets/images/ufo_noises_37edd1-overview-social.jpg
 
 The difficulty is that sound is one of the hardest parts of a UFO report to verify. Visual evidence can sometimes be photographed, radar data can occasionally be obtained, but many unusual sounds leave no recording and no measurable trace. As a result, UFO noises remain one of the most intriguing and least conclusive parts of the broader UFO phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1-overview.webp" | relative_url }}" alt="Overview image for UFO Noises" loading="eager" decoding="sync" fetchpriority="high">
 ## What UFO Witnesses Commonly Hear
 
@@ -300,22 +299,16 @@ Across decades of reports, certain descriptions appear repeatedly.
 Witnesses often describe:
 
 * A low [humming]({{ 'humming/' | relative_url }}) or vibrating sound, similar to distant machinery.
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * A buzzing noise, sometimes compared to electrical equipment.
 * A high-pitched whine or flute-like tone.
 * A rushing or whooshing sound.
 * Pulsing vibrations felt as much as heard.
-* Sudden explosive booms.
+* Sudden explosive [booms]({{ 'booms/' | relative_url }}).
 * Total silence despite apparent high speed or large size.
 
-</div>
-
-The consistency of some descriptions is notable. Researchers and UFO catalogues have documented reports in which witnesses independently describe a similar buzzing or humming quality. In some cases, the sound is reported before the object is seen; in others, people report feeling vibration through the ground or their bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditWha is the significance of the buzzing or flute sound...February 27, 2023 — Wha is the significance of the buzzing or flute sound...</span><span class="citation-popover-meta">Published: February 27, 2023</span></span></span>
+The consistency of some descriptions is notable. Researchers and UFO catalogues have documented reports in which witnesses independently describe a similar buzzing or humming quality. In some cases, the sound is reported before the object is seen; in others, people report feeling vibration through the ground or their bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Wha is the significance of the buzzing or flute sound...February 27, 2023 — Wha is the significance of the buzzing or flute sound...</span><span class="citation-popover-meta">Published: February 27, 2023</span></span></span>
 
 A key complication is that human [memory]({{ 'memory/' | relative_url }}) often reconstructs sensory experiences after unusual events. Sound descriptions can therefore become more dramatic over time, particularly when witnesses discuss incidents with others or consume media about UFO encounters.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1-Illustration-1-dark.svg" | relative_url }}" alt="UFO Noises illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hum, Sky Trumpets and Other Sounds Linked to UFO Theories
@@ -330,15 +323,13 @@ One of the most famous examples is the Taos Hum in New Mexico. Since at least th
 
 Internet videos have popularised reports of loud metallic groans, trumpet-like blasts and other strange sounds apparently coming from the sky. These recordings are often labelled “sky trumpets”.
 
-Most investigated cases have conventional explanations, including industrial machinery, construction activity, atmospheric acoustics, trains, aircraft and audio manipulation. Yet the dramatic nature of the sounds has made them a frequent component of UFO and paranormal discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramFrom the “Taos hum” to “sky trumpets,” people around...From the “Taos hum” to “sky trumpets,” people around the world are heari...</span></span></span>
-
+Most investigated cases have conventional explanations, including industrial machinery, construction activity, atmospheric acoustics, trains, aircraft and audio manipulation. Yet the dramatic nature of the sounds has made them a frequent component of UFO and paranormal discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">From the “Taos hum” to “sky trumpets,” people around...From the “Taos hum” to “sky trumpets,” people around the world are heari...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ML0eB3HFagM" title="UFO Sound Effects All Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer">UFO Sound Effects All Sounds</a></p><p class="youtube-embed-meta">Channel: All Sounds &middot; Views: 374.8K &middot; Uploaded: January 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ML0eB3HFagM">Open on YouTube</a></p></div></div></div>
 
 ### Why These Sounds Become Associated with UFOs
 
 Several factors encourage a UFO interpretation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,7 +351,6 @@ Many classic UFO reports include descriptions of buzzing or vibrating sounds. Wi
 
 One reason these descriptions attract attention is that they differ from the familiar sound profile of conventional aircraft. Helicopters produce rhythmic rotor noise, jets create distinctive turbine sounds and propeller aircraft generate recognisable engine patterns. Witnesses who insist the sound was unlike any known aircraft often view that difference as evidence of something unusual.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1-Illustration-2-dark.svg" | relative_url }}" alt="UFO Noises illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reports of Silence
 
@@ -374,10 +364,9 @@ From a conventional standpoint, silence can result from distance, atmospheric co
 
 One recurring theme in UFO discussions is the apparent absence of sonic booms.
 
-Objects travelling faster than sound normally produce shock waves that are heard as sonic booms. Yet some witnesses report observing rapid movement without hearing any boom at all. Former intelligence officials and military-related discussions surrounding modern UAP reports have occasionally highlighted this puzzle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceTo be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic...</span></span></span>
+Objects travelling faster than sound normally produce shock waves that are heard as sonic booms. Yet some witnesses report observing rapid movement without hearing any boom at all. Former intelligence officials and military-related discussions surrounding modern UAP reports have occasionally highlighted this puzzle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">To be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic...</span></span></span>
 
 Sceptics note that accurately judging speed and distance is extremely difficult during brief aerial observations. If the object was farther away than assumed, the apparent contradiction may disappear. Nonetheless, the claimed absence of expected acoustic effects remains a central feature of many UFO narratives.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/61f4u1yC6kk" title="The sound of UFOs: authentic audio recordings and eyewitness descriptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=61f4u1yC6kk" target="_blank" rel="noopener noreferrer">The sound of UFOs: authentic audio recordings and eyewitness descriptions</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 39.6K &middot; Uploaded: January 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=61f4u1yC6kk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=61f4u1yC6kk">Open on YouTube</a></p></div></div></div>
 
@@ -395,10 +384,9 @@ This helps explain why witnesses sometimes struggle to identify the source of a 
 
 Infrasound refers to sound below the normal range of human hearing.
 
-Natural events such as storms, earthquakes, volcanic activity and meteor entries can generate infrasonic waves. These frequencies can create sensations of pressure, unease or vibration without producing a clearly audible sound. Researchers studying aerial phenomena increasingly monitor infrasonic frequencies because they can reveal activity invisible to ordinary microphones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Natural events such as storms, earthquakes, volcanic activity and meteor entries can generate infrasonic waves. These frequencies can create sensations of pressure, unease or vibration without producing a clearly audible sound. Researchers studying aerial phenomena increasingly monitor infrasonic frequencies because they can reveal activity invisible to ordinary microphones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 Some scientists have suggested that certain reports of mysterious humming or physical sensations may involve infrasound rather than conventional audible noise.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1-Illustration-3-dark.svg" | relative_url }}" alt="UFO Noises illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Human Perception Is Imperfect
@@ -413,12 +401,11 @@ This does not mean witnesses are dishonest. It means that extraordinary experien
 
 For most of UFO history, investigators depended almost entirely on witness testimony. That is beginning to change.
 
-Projects studying unidentified aerial phenomena increasingly deploy acoustic [sensors]({{ 'sensors/' | relative_url }}) alongside cameras, radar and other instruments. Researchers involved in efforts such as the Galileo Project have developed systems capable of monitoring audible, ultrasonic and infrasonic signatures from aerial objects. The goal is to distinguish known aircraft, environmental phenomena and genuinely unidentified events using measurable data rather than anecdotal descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Projects studying unidentified aerial phenomena increasingly deploy acoustic [sensors]({{ 'sensors/' | relative_url }}) alongside cameras, radar and other instruments. Researchers involved in efforts such as the Galileo Project have developed systems capable of monitoring audible, ultrasonic and infrasonic signatures from aerial objects. The goal is to distinguish known aircraft, environmental phenomena and genuinely unidentified events using measurable data rather than anecdotal descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 Acoustic monitoring is particularly useful because many aerial objects leave characteristic sound signatures. Even when visual evidence is poor, sound data can help identify aircraft, drones, atmospheric events or other known sources.
 
 The challenge is that background noise is everywhere. Wind, traffic, animals, industry and weather can all contaminate recordings. Researchers therefore need large datasets and careful analysis before drawing conclusions from unusual sounds.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ftUO9cGkTEY" title="The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer">The Taos Hum Mystery | Why Only Some People Hear This Unexplained Sound in New Mexico</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 1.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ftUO9cGkTEY">Open on YouTube</a></p></div></div></div>
 
@@ -824,134 +811,134 @@ Many witnesses describe similar humming, buzzing or vibrating sensations. Some r
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/](https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWha is the significance of the buzzing or flute sound...February 27, 2023 — Wha is the significance of the buzzing or flute sound...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wha is the significance of the buzzing or flute sound...February 27, 2023 — Wha is the significance of the buzzing or flute sound...</p></details>
    Published: February 27, 2023  
 
 2. <a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Taos Hum: New Mexico's Unexplained Acoustic  
-   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — 14 Dec 2023 — The Taos Hum phenomenon is not just a local curiosity, but one of several unexplained hums heard in var...</p></details>
    Published: December 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: [https://www.thrillist.com/travel/nation/taos-hum-mystery](https://www.thrillist.com/travel/nation/taos-hum-mystery)  
+   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en](https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramFrom the “Taos hum” to “sky trumpets,” people around...From the “Taos hum” to “sky trumpets,” people around the world are heari...</p></details>
+   Link: <a href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>From the “Taos hum” to “sky trumpets,” people around...From the “Taos hum” to “sky trumpets,” people around the world are heari...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works The 10 Most Legitimate Cases of U.F.O  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm](https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — Over the past decades, UFO sightings became synonymous with aliens. Reports from pilots, military personnel, and c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/declassified-ufo-sightings](https://www.space.com/declassified-ufo-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTo be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic...</p></details>
+   Link: <a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>To be declassified: UFO broke sound barrier with no sonic...24 Mar 2021 — To be declassified: UFO broke sound barrier with no sonic...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: [https://arxiv.org/abs/2305.18551](https://arxiv.org/abs/2305.18551)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.03119](https://arxiv.org/abs/2512.03119)  
+   Link: <a href="https://arxiv.org/abs/2512.03119" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.03119</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://arxiv.org/abs/2502.06794](https://arxiv.org/abs/2502.06794)  
+   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/](https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/)  
+   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/znpqmv/the_taos_hum_is_a_mysterious_lowfrequency_humming/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>town of Taos, New Mexico, and in other locations around the world.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/](https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/c0oe1c/why_ufos_dont_make_sonic_booms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whats your current viewpoint on the UFO phenomenon?Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXjHxlKjLCK/](https://www.instagram.com/reel/DXjHxlKjLCK/)  
+   Link: <a href="https://www.instagram.com/reel/DXjHxlKjLCK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXjHxlKjLCK/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>de Recordings Without Answers: Audio so bizarre...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A [low frequency hum](&amp;#123;&amp;#123; &#x27;low-hums-06eda3/&#x27; | relative_url &amp;#125;&amp;#125;), almost a vibration, just on the threshold of h...</p></details>
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...Jul 8, 2021 — Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of h...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ftUO9cGkTEY](https://www.youtube.com/watch?v=ftUO9cGkTEY)  
+   Link: <a href="https://www.youtube.com/watch?v=ftUO9cGkTEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ftUO9cGkTEY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e early 1990s...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings](https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings)  
+   Link: <a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsAlthough often viewed as abnormal, UFO sightings are reported frequently.... During the United States&#x27;...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ML0eB3HFagM](https://www.youtube.com/watch?v=ML0eB3HFagM)  
+   Link: <a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
 
 19. <a id="endnote-19"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/](https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/)  
+   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as confirmed the loud boom heard Tuesday morning in parts...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NYPost/videos/what-are-these-mystery-sounds-in-the-sky/947662304828895/](https://www.facebook.com/NYPost/videos/what-are-these-mystery-sounds-in-the-sky/947662304828895/)  
+   Link: <a href="https://www.facebook.com/NYPost/videos/what-are-these-mystery-sounds-in-the-sky/947662304828895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NYPost/videos/what-are-these-mystery-sounds-in-the-sky/947662304828895/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eepy sounds coming from above. Are they signs of the Apocalypse...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/](https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/)  
+   Link: <a href="https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLTXNews19/posts/two-bases-say-it-wasnt-them-nasa-reported-no-meteor-a-leading-theory-an-aircraft/1469088085246128/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ircraft went supersonic, and the sound bounced for miles...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: artsandculture.google.com  
-   Link: [https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en](https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en)  
+   Link: <a href="https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>google.com10 UFO Sightings Around the World10 UFO Sightings Around the World. Join us on a journey around the world, to discover 10 of th...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/](https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/)  
+   Link: <a href="https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon UFO Recording - UFOs The Lost Evidence...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: buriedsecretspodcast.com  
    Title: hallucinatory ufos and sound  
-   Link: [https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/](https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/)  
+   Link: <a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>

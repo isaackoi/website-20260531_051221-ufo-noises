@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Record It
 title: How Should You Record a UFO Noise?
-title_full: How Should You Record a UFO Noise? | UFO Noises
+title_full: How Should You Record a UFO Noise?
 display_title_short: Record It
 display_title: Record It
 heading_title: How Should You Record a UFO Noise?
@@ -354,16 +354,14 @@ image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-overview-soc
 
 If you hear a sound that seems connected to a UFO sighting, the most useful thing you can do is record it carefully and document the circumstances immediately. Most unusual aerial noises turn out to have conventional explanations such as [aircraft]({{ 'aircraft/' | relative_url }}), helicopters, drones, industrial equipment, atmospheric effects or distant traffic. However, many reports become impossible to assess because witnesses rely on [memory]({{ 'memory/' | relative_url }}) rather than recordings, precise timing and location details.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-overview.webp" | relative_url }}" alt="Overview image for Record It" loading="eager" decoding="sync" fetchpriority="high">
-A useful UFO noise report is not built around dramatic descriptions. It is built around evidence: an audio recording, notes about where you were standing, the [direction]({{ 'direction/' | relative_url }}) of the sound, weather conditions, whether other people heard it and what known sources were nearby. Sound researchers and [acoustic monitoring]({{ 'sensors/' | relative_url }}) programmes routinely depend on structured recordings and metadata because context is often as important as the sound itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data | National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+A useful UFO noise report is not built around dramatic descriptions. It is built around evidence: an audio recording, notes about where you were standing, the [direction]({{ 'direction/' | relative_url }}) of the sound, weather conditions, whether other people heard it and what known sources were nearby. Sound researchers and acoustic monitoring programmes routinely depend on structured recordings and metadata because context is often as important as the sound itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data &#124; National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 ## What to Capture Immediately
 
 The first few minutes matter most. If an unusual sound is still occurring, focus on preserving information rather than trying to interpret it.
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rwsc.org">[Record:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rwsc.org</span><span class="citation-popover-title">Data Management &amp; Storage Best Practices for Long-term</span><span class="citation-popover-snippet">record) metadata information on sound files in sound analysis software. • Check that date/times line up in sound files with what is recor...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,7 +379,6 @@ If possible, make a continuous recording rather than repeatedly starting and sto
 
 While recording, speak occasional observations into the microphone:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The sound is coming from the north.”
@@ -393,7 +390,6 @@ While recording, speak occasional observations into the microphone:
 
 These spoken notes create a timeline that can later be matched against flight records, weather data or other witness reports.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-1-dark.svg" | relative_url }}" alt="Record It illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Location and Timing Matter So Much
 
@@ -403,7 +399,7 @@ A report becomes far more useful when it includes:
 
 DetailWhy it mattersExact timeAllows comparison with aircraft tracking, satellite passes and local eventsExact locationHelps estimate distance and directionWeather conditionsWind can carry or distort sound over long distancesDurationHelps distinguish transient events from continuous sourcesNearby structuresBuildings can reflect and amplify soundsNumber of witnessesConfirms whether the sound was widely heard or highly localised
 
-Acoustic monitoring projects often place heavy emphasis on metadata because recordings without contextual information are difficult to interpret correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data | National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+Acoustic monitoring projects often place heavy emphasis on metadata because recordings without contextual information are difficult to interpret correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data &#124; National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 Even a rough note such as “heard from a field two kilometres south of town during calm weather” is more valuable than a recording uploaded later with no location details.
 
@@ -416,7 +412,6 @@ Most modern smartphones can capture useful evidence, but a few habits improve th
 Hold the device steadily or place it on a fixed surface.
 
 Finger movement, clothing friction and wind striking the microphone can overwhelm quieter sounds. Field-recording specialists routinely treat handling noise as one of the biggest obstacles to useful recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mindful-audio.com/blog/field-sound-recording-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindful-audio.com">[Mindful Audio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindful-audio.com</span><span class="citation-popover-title">Mindful Audio Noise and field recording</span><span class="citation-popover-snippet">Mindful AudioNoise and field recordingApril 4, 2023 — 4 Apr 2023 — Often over- and mis- used, the word noise means something specific in...</span><span class="citation-popover-meta">Published: April 4, 2023</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L1qJ3scE_ig" title="Unmasking noise! Discover 3 effective methods to track sound paths" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer">Unmasking noise! Discover 3 effective methods to track sound paths</a></p><p class="youtube-embed-meta">Channel: Soundproofist &middot; Views: 11.4K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L1qJ3scE_ig">Open on YouTube</a></p></div></div></div>
 
@@ -436,7 +431,7 @@ The beginning and ending phases often reveal clues. A supposed UFO hum may gradu
 
 Keep the original file.
 
-Noise reduction software can sometimes help clarify recordings, but investigators generally prefer access to the untouched version first. Audio-forensics guidance stresses preserving original recordings before enhancement because processing can accidentally remove important information or create misleading artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDE - SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
+Noise reduction software can sometimes help clarify recordings, but investigators generally prefer access to the untouched version first. Audio-forensics guidance stresses preserving original recordings before enhancement because processing can accidentally remove important information or create misleading artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
 
 ## How to Check Whether the Sound Has a Conventional Source
 
@@ -463,13 +458,12 @@ Aircraft-noise researchers note that identifying a source becomes harder in area
 
 Checking public flight-tracking services for the recorded time can often resolve a report quickly.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-2-dark.svg" | relative_url }}" alt="Record It illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Drones
 
 Consumer drones produce distinctive high-frequency [buzzing]({{ 'buzzing/' | relative_url }}) sounds.
 
-Their apparent location can be deceptive because the sound reflects from buildings and terrain. Research into drone acoustic detection shows that drones have identifiable sound signatures, although urban environments make classification more difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEmpirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</span><span class="citation-popover-meta">Published: January 20, 2017</span></span></span>
+Their apparent location can be deceptive because the sound reflects from buildings and terrain. Research into drone acoustic detection shows that drones have identifiable sound signatures, although urban environments make classification more difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</span><span class="citation-popover-meta">Published: January 20, 2017</span></span></span>
 
 ### Industrial and infrastructure noise
 
@@ -483,7 +477,6 @@ Many persistent hum reports eventually trace back to:
 * Rail traffic
 
 Low-frequency sounds are particularly difficult to locate accurately because humans are poor at determining their direction.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BA207LUT-wE" title="Aircraft Noise 101: Introduction to Noise Science and Modeling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BA207LUT-wE" target="_blank" rel="noopener noreferrer">Aircraft Noise 101: Introduction to Noise Science and Modeling</a></p><p class="youtube-embed-meta">Channel: Naval Safety Center Archives &middot; Views: 413 &middot; Uploaded: September 2015 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BA207LUT-wE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BA207LUT-wE">Open on YouTube</a></p></div></div></div>
 
@@ -499,7 +492,6 @@ If the recording is clear enough, free audio software can reveal patterns that a
 
 A spectrogram displays sound frequencies over time and can help show whether a noise is:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Constant or pulsing
@@ -513,7 +505,6 @@ Acoustic-monitoring programmes commonly use waveform and spectrogram analysis be
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A steady horizontal band may indicate machinery.
@@ -524,7 +515,6 @@ For example:
 </div>
 
 This does not prove a source, but it helps narrow possibilities.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-3-dark.svg" | relative_url }}" alt="Record It illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Mistakes to Avoid
@@ -542,7 +532,6 @@ A detailed memory recorded hours later is less reliable than a rough recording m
 Statements such as “it could not have been an aircraft” are less useful than describing exactly what was heard.
 
 Focus on observations rather than conclusions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K6cEMS1iSNs" title="The Proof Is Out There: 4 DISTURBING SOUNDS CAUGHT ON TAPE | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K6cEMS1iSNs" target="_blank" rel="noopener noreferrer">The Proof Is Out There: 4 DISTURBING SOUNDS CAUGHT ON TAPE | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 2.4M &middot; Uploaded: July 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K6cEMS1iSNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K6cEMS1iSNs">Open on YouTube</a></p></div></div></div>
 
@@ -567,7 +556,6 @@ Comparing independent accounts can reveal genuine consistencies and reduce the r
 ## What Makes a UFO Noise Report Worth Investigating
 
 A report becomes significantly more valuable when several pieces of evidence line up:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -979,122 +967,122 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
 1. <a id="endnote-1"></a>
    Source: ncei.noaa.gov  
    Title: NCEIPassive Acoustic Data | National Centers for Environmental  
-   Link: [https://www.ncei.noaa.gov/products/passive-acoustic-data](https://www.ncei.noaa.gov/products/passive-acoustic-data)  
+   Link: <a href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/passive-acoustic-data</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</p></details>
    Published: March 1, 2022  
 
 2. <a id="endnote-2"></a>
    Source: rwsc.org  
    Title: Data Management & Storage Best Practices for Long-term  
-   Link: [https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf](https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf)  
+   Link: <a href="https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>record) metadata information on sound files in sound analysis software. • Check that date/times line up in sound files with what is recor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mindful-audio.com  
    Title: Mindful Audio Noise and field recording  
-   Link: [https://mindful-audio.com/blog/field-sound-recording-noise](https://mindful-audio.com/blog/field-sound-recording-noise)  
+   Link: <a href="https://mindful-audio.com/blog/field-sound-recording-noise" target="_blank" rel="noopener noreferrer nofollow">https://mindful-audio.com/blog/field-sound-recording-noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mindful AudioNoise and field recordingApril 4, 2023 — 4 Apr 2023 — Often over- and mis- used, the word noise means something specific in...</p></details>
    Published: April 4, 2023  
 
 4. <a id="endnote-4"></a>
    Source: swgde.org  
-   Link: [https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/](https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE - SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</p></details>
+   Link: <a href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</p></details>
    Published: June 9, 2022  
 
 5. <a id="endnote-5"></a>
    Source: gacc.org.uk  
    Title: Ambient noise  
-   Link: [https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf](https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf)  
+   Link: <a href="https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2016 — by R Ummels · Cited by 2 — In the rural area it is illustrated that aircraft noise has a significant higher sound exposu...</p></details>
    Published: March 30, 2016  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1701.05779](https://arxiv.org/abs/1701.05779)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEmpirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1701.05779</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</p></details>
    Published: January 20, 2017  
 
 7. <a id="endnote-7"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 52227 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf](https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional RepositoryMonitoring spatial and temporal underwater soundscape...by JA Stanley · 2021 · Cited by 13 — To quantify am...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 72168 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf](https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Monitoring Program (ONMS Sound) | 2022–current | https:// · sanctuaries.noaa.gov/science/monitoring/sound/. This program coordinates...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ncei.noaa.gov  
    Title: science behind it sounding out innovation  
-   Link: [https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation](https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation)  
+   Link: <a href="https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Behind It: Sounding Out Innovation | News18 Sept 2024 — NCEI Passive Acoustic Data Program Manager, Carrie Wall, tells us more ab...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sanctuaries.noaa.gov  
-   Link: [https://sanctuaries.noaa.gov/science/monitoring/sound/](https://sanctuaries.noaa.gov/science/monitoring/sound/)  
+   Link: <a href="https://sanctuaries.noaa.gov/science/monitoring/sound/" target="_blank" rel="noopener noreferrer nofollow">https://sanctuaries.noaa.gov/science/monitoring/sound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring | Office of National Marine SanctuariesNOAA&#x27;s Office of National Marine Sanctuaries maintains a nationally coordinated underwa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 73147 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf](https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Monitoring Desktop Studyby MM Holt · 2026 — This report summarizes past and present underwater acoustic monitoring efforts withi...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: nmfs-ost.github.io  
-   Link: [https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html](https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html)  
+   Link: <a href="https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html" target="_blank" rel="noopener noreferrer nofollow">https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Soundscape Technical DocumentationThis effort includes refining archival methods, software tools, and baseline soundscape metrics to inte...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: svantek.com  
-   Link: [https://svantek.com/case-studies/noise-source-identification/](https://svantek.com/case-studies/noise-source-identification/)  
+   Link: <a href="https://svantek.com/case-studies/noise-source-identification/" target="_blank" rel="noopener noreferrer nofollow">https://svantek.com/case-studies/noise-source-identification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Source Identification in Aircraft Noise MonitoringIdentify and classify sound events automatically; Distinguish between true aircra...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: microflown.com  
-   Link: [https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise](https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise)  
+   Link: <a href="https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visualizing and quantifying aircraft cabin noiseDiscover 3D sound intensity measurements for visualizing and ranking acoustic noise sourc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 342042680 Investigation All Types of Aircraft Noises Review Paper  
-   Link: [https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper](https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper)  
+   Link: <a href="https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation All Types of Aircraft Noises: Review Paper2 Mar 2020 — As part of a study of the impact of aircraft noise intrusions within...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: aef.org.uk  
-   Link: [https://www.aef.org.uk/guides/understanding-aircraft-noise/](https://www.aef.org.uk/guides/understanding-aircraft-noise/)  
+   Link: <a href="https://www.aef.org.uk/guides/understanding-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aef.org.uk/guides/understanding-aircraft-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding aircraft noiseIf you&#x27;re affected by noise from light aircraft, including helicopters try an internet search to find airfiel...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: acousticnature.com  
    Title: how to record nature sounds  
-   Link: [https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2](https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2)  
+   Link: <a href="https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2" target="_blank" rel="noopener noreferrer nofollow">https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide20 Sept 2022 — From gear, research, microphone placement, and stereo techniques, learn how to record nature sounds like...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: stellaraudioforensics.com  
-   Link: [https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/](https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/)  
+   Link: <a href="https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how professionals minimize noise to ensure clear and accurate audio evidence...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org  
-   Link: [https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf)  
+   Link: <a href="https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of aviation noise metrics and measurementTo determine the annoyance from aviation noise, the noise level from aviation needs to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/](https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/)  
+   Link: <a href="https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the noise is there? My neighbor intentionally disturbing our sleep...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Unmasking noise! Discover 3 effective methods to track sound paths  
-   Link: [https://www.youtube.com/watch?v=L1qJ3scE_ig](https://www.youtube.com/watch?v=L1qJ3scE_ig)  
+   Link: <a href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1qJ3scE_ig</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Izotope RX11 | Isolating Bird Calls | Detailed Demo for Beginners | Spectral De-Noise | EQ...</p></details>

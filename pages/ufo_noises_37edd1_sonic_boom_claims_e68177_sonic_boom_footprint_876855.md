@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sonic-booms/
 nav_short_title: Boom Footprints
 title: Could a Sonic Boom Miss the Witness?
-title_full: Could a Sonic Boom Miss the Witness? | Sonic Booms
+title_full: Could a Sonic Boom Miss the Witness?
 display_title_short: Boom Footprints
 display_title: Boom Footprints
 heading_title: Could a Sonic Boom Miss the Witness?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:00:17'
-parent_title: Can UFOs Break Sound Without Booms? | UFO Noises
+parent_title: Can UFOs Break Sound Without Booms?
 parent_permalink: /sonic-booms/
 parent_nav_short_title: Sonic Booms
 parent_heading_title: Can UFOs Break Sound Without Booms?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_foot
 
 A missing sonic boom does not automatically mean that no shock wave existed. In many fast-object reports, including UFO sightings, witnesses assume that if something appeared to be travelling faster than sound, the boom should have been heard exactly where they were standing. Real atmospheric physics is more complicated. Sonic [booms]({{ 'booms/' | relative_url }}) are not emitted equally in every [direction]({{ 'direction/' | relative_url }}), and the area where a boom reaches the ground can be displaced by altitude, flight path geometry, wind and temperature layers. In some situations, the shock wave may never reach the observer at all. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeroreport.de">[MTU AEROREPORT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeroreport.de</span><span class="citation-popover-snippet">MTU AEROREPORTA brief guide: Supersonic flight without the boomMay 8, 2025 — Mach cutoff is a physical phenomenon that causes sound waves...</span><span class="citation-popover-meta">Published: May 8, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-1-dark.svg" | relative_url }}" alt="Boom Footprints illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many UFO accounts use the absence of a boom as evidence that the object was not behaving like a conventional [aircraft]({{ 'aircraft/' | relative_url }}). Sometimes that may be a reasonable question. However, before treating [silence]({{ 'silence/' | relative_url }}) as a mystery, it is necessary to understand how sonic boom footprints work and why the location of a sighting may not match the location of the boom.
 
@@ -284,7 +283,6 @@ An important consequence follows from this geometry: seeing a supersonic object 
 
 A witness may be:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Looking at the object from the side rather than from underneath.
@@ -294,14 +292,13 @@ A witness may be:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gWGLAAYdbbc" title="Supersonic Flight, Sonic Booms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer">Supersonic Flight, Sonic Booms</a></p><p class="youtube-embed-meta">Channel: AVweb &middot; Views: 17.8M &middot; Uploaded: June 2010 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gWGLAAYdbbc">Open on YouTube</a></p></div></div></div>
 
 ## Why altitude changes where the boom lands
 
 One of the most important factors is altitude.
 
-The higher a supersonic object flies, the farther its shock waves travel before reaching the ground. During that journey, the footprint spreads laterally across a wider area. NASA notes that the boom carpet can extend roughly one mile in width for every thousand feet of altitude. A vehicle at 50,000 feet may therefore produce a footprint tens of miles wide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAcreate sonic boomsThe width of the boom &quot;carpet&quot; beneath the aircraft is about one mile for each 1000 feet of altitude. An aircraft...</span></span></span>
+The higher a supersonic object flies, the farther its shock waves travel before reaching the ground. During that journey, the footprint spreads laterally across a wider area. NASA notes that the boom carpet can extend roughly one mile in width for every thousand feet of altitude. A vehicle at 50,000 feet may therefore produce a footprint tens of miles wide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">create sonic boomsThe width of the boom &quot;carpet&quot; beneath the aircraft is about one mile for each 1000 feet of altitude. An aircraft...</span></span></span>
 
 This widening has two effects that matter for UFO reports.
 
@@ -310,7 +307,6 @@ First, the boom may reach the ground far from where a witness thinks the object 
 Second, the shock wave weakens as it spreads. A boom that is obvious directly beneath a flight path may be much less noticeable near the edges of the footprint. The result can be a situation where some observers report a loud boom while others nearby hear nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayBoom intensity is greatest directly under the flight path, progressively weakening wi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19940023685/downloads/19940023685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">AFTER MID-MORNING. FLIGHTS. MEASURMENTS. OUTSIDE 50% OF SONIC BOOM CARPET SEMI-SPAN. • UP TO 12 dB ASYMMETRY.Read more...</span></span></span>
 
 For UFO cases involving a single witness or a small group, this creates an immediate caution: the absence of a reported boom at one location does not tell investigators whether a boom occurred somewhere else along the object's path.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/laM0Nv8nkw4" title="X-59: Sonic Booms Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer">X-59: Sonic Booms Explained</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 77.3K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=laM0Nv8nkw4">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +322,6 @@ NASA and other aerodynamic studies have documented how atmospheric profiles can 
 
 A witness standing only a short distance outside the effective footprint may hear nothing at all while another observer, farther away in the direction of refracted propagation, experiences a clear boom.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-2-dark.svg" | relative_url }}" alt="Boom Footprints illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The special case of Mach cutoff
 
@@ -338,7 +333,6 @@ This effect has become relevant in modern supersonic-flight research because com
 
 For UFO discussions, Mach cutoff demonstrates an important principle: "no boom heard" and "no shock wave existed" are not equivalent statements.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gD7wMZL1eZ4" title="The Science of Silencing Sonic Booms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer">The Science of Silencing Sonic Booms</a></p><p class="youtube-embed-meta">Channel: Interesting Engineering &middot; Views: 143.8K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gD7wMZL1eZ4">Open on YouTube</a></p></div></div></div>
 
 ## Why sighting location may not match boom location
@@ -348,7 +342,6 @@ Many UFO reports are built around a simple narrative: a bright object crossed th
 The difficulty is that the witness usually reports only one point in the overall geometry: their own location.
 
 To determine whether a boom should have been heard, investigators would ideally need:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,8 +356,7 @@ To determine whether a boom should have been heard, investigators would ideally 
 
 Without those details, the absence of a boom is often less informative than it first appears.
 
-Consider a hypothetical example. A witness sees a bright object low on the horizon and estimates that it crosses a large section of sky in seconds. If the object is actually much farther away than assumed, its apparent speed may be exaggerated. But even if it were genuinely supersonic, the witness could still be outside the footprint. The boom might occur dozens of kilometres away along a different part of the shock-wave path. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> This mismatch between visual line of sight and acoustic footprint is one reason aviation investigators are cautious about treating [missing sonic booms]({{ 'sonic-booms-6ebda0/' | relative_url }}) as decisive evidence.
-
+Consider a hypothetical example. A witness sees a bright object low on the horizon and estimates that it crosses a large section of sky in seconds. If the object is actually much farther away than assumed, its apparent speed may be exaggerated. But even if it were genuinely supersonic, the witness could still be outside the footprint. The boom might occur dozens of kilometres away along a different part of the shock-wave path. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> This mismatch between visual line of sight and acoustic footprint is one reason aviation investigators are cautious about treating missing sonic booms as decisive evidence.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-3-dark.svg" | relative_url }}" alt="Boom Footprints illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_sonic_boom_footprint_876855-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for UFO noise claims
@@ -771,123 +763,123 @@ As a result, reports that describe a fast-moving unidentified object without an 
 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf](https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAcreate sonic boomsThe width of the boom &quot;carpet&quot; beneath the aircraft is about one mile for each 1000 feet of altitude. An aircraft...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsThe width of the boom &quot;carpet&quot; beneath the aircraft is about one mile for each 1000 feet of altitude. An aircraft...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aeroreport.de  
-   Link: [https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom](https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom)  
+   Link: <a href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow">https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU AEROREPORTA brief guide: Supersonic flight without the boomMay 8, 2025 — Mach cutoff is a physical phenomenon that causes sound waves...</p></details>
    Published: May 8, 2025  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: [https://en.wikipedia.org/wiki/Sonic_boom](https://en.wikipedia.org/wiki/Sonic_boom)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
 
 4. <a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19940023685/downloads/19940023685.pdf](https://ntrs.nasa.gov/api/citations/19940023685/downloads/19940023685.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19940023685/downloads/19940023685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19940023685/downloads/19940023685.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFTER MID-MORNING. FLIGHTS. MEASURMENTS. OUTSIDE 50% OF SONIC BOOM CARPET SEMI-SPAN. • UP TO 12 dB ASYMMETRY.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20200002482/downloads/20200002482.pdf](https://ntrs.nasa.gov/api/citations/20200002482/downloads/20200002482.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20200002482/downloads/20200002482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20200002482/downloads/20200002482.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The refraction bending also occurs in the direction of travel as shown in Figure 6. Three initial propagation.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arc.aiaa.org  
-   Link: [https://arc.aiaa.org/doi/10.2514/1.J059209](https://arc.aiaa.org/doi/10.2514/1.J059209)  
+   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.J059209" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J059209</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Atmospheric Profiles on Sonic Boom Perceived...9 Aug 2021 — Therefore, lower elevation locations not only tend to be subject to loude...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20200003629](https://ntrs.nasa.gov/citations/20200003629)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20200003629" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20200003629</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerX-59 Sonic Thump Carpets in the Eastern United Statesby W Doebler · 2019 · Cited by 1 — Statistical design o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
    Title: NASA TM 20250003228  
-   Link: [https://ntrs.nasa.gov/api/citations/20250003228/downloads/NASA-TM-20250003228.pdf](https://ntrs.nasa.gov/api/citations/20250003228/downloads/NASA-TM-20250003228.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20250003228/downloads/NASA-TM-20250003228.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250003228/downloads/NASA-TM-20250003228.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 NASA/TM–20250003228by JB Lonzaga · 2025 · Cited by 6 — There has been recent interest in long range sonic boom propagation, both for...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19780012135/downloads/19780012135.pdf](https://ntrs.nasa.gov/api/citations/19780012135/downloads/19780012135.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19780012135/downloads/19780012135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19780012135/downloads/19780012135.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic-Boom Predictionby HW Carlson · 1978 · Cited by 106 — A simplified method for the calculation of sonic-boom characteristics for a wi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20080017418/downloads/20080017418.pdf](https://ntrs.nasa.gov/api/citations/20080017418/downloads/20080017418.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20080017418/downloads/20080017418.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20080017418/downloads/20080017418.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Results from the Variable Intensity Sonic Boom...by EA Haering Jr · 2008 · Cited by 12 — 3 The sonic booms generated by these new aircra...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayBoom intensity is greatest directly under the flight path, progressively weakening wi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: boomsupersonic.com  
    Title: Boom Supersonic Boomless Cruise  
-   Link: [https://boomsupersonic.com/boomless-cruise](https://boomsupersonic.com/boomless-cruise)  
+   Link: <a href="https://boomsupersonic.com/boomless-cruise" target="_blank" rel="noopener noreferrer nofollow">https://boomsupersonic.com/boomless-cruise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boom SupersonicBoomless Cruise - Boom SupersonicIn Mach cutoff, the sonic boom refracts in the atmosphere and never reaches the ground. E...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Sonic Boom  
-   Link: [https://www.sciencedirect.com/topics/engineering/sonic-boom](https://www.sciencedirect.com/topics/engineering/sonic-boom)  
+   Link: <a href="https://www.sciencedirect.com/topics/engineering/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/engineering/sonic-boom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThere will be a sonic boom carpet on the ground if an aeroplane flies above the &#x27;cutoff Mach number&#x27; (a low supersonic Mach nu...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: acousticstoday.org  
-   Link: [https://acousticstoday.org/wp-content/uploads/2015/06/Concorde-Booms-and-the-Mysterious-East-Coast-Noises-Peter-H-Rogers-and-Domenic-J.-Maglieri.pdf](https://acousticstoday.org/wp-content/uploads/2015/06/Concorde-Booms-and-the-Mysterious-East-Coast-Noises-Peter-H-Rogers-and-Domenic-J.-Maglieri.pdf)  
+   Link: <a href="https://acousticstoday.org/wp-content/uploads/2015/06/Concorde-Booms-and-the-Mysterious-East-Coast-Noises-Peter-H-Rogers-and-Domenic-J.-Maglieri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticstoday.org/wp-content/uploads/2015/06/Concorde-Booms-and-the-Mysterious-East-Coast-Noises-Peter-H-Rogers-and-Domenic-J.-Maglieri.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concorde booms and the Mysterious east Coast noisesby PH Rogers · Cited by 13 — The nature of the sonic boom ground foot- print for a fli...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AerospaceEngineering/comments/1imfx01/help_me_understand_boomless_cruise/](https://www.reddit.com/r/AerospaceEngineering/comments/1imfx01/help_me_understand_boomless_cruise/)  
+   Link: <a href="https://www.reddit.com/r/AerospaceEngineering/comments/1imfx01/help_me_understand_boomless_cruise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AerospaceEngineering/comments/1imfx01/help_me_understand_boomless_cruise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help me understand Boomless CruiseThe phenomenon that Boom is talking about is because of the differences in speed of sound due to temper...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: elib.dlr.de  
-   Link: [https://elib.dlr.de/127429/1/Sonic%20Boom%20Carpet%20Computation%20as%20a%20Basis%20for%20Supersonic%20Flight%20Routing%20%5BLiebhardt%20et%20al.%2C%20AIAA%202019-3387%5D.pdf](https://elib.dlr.de/127429/1/Sonic%20Boom%20Carpet%20Computation%20as%20a%20Basis%20for%20Supersonic%20Flight%20Routing%20%5BLiebhardt%20et%20al.%2C%20AIAA%202019-3387%5D.pdf)  
+   Link: <a href="https://elib.dlr.de/127429/1/Sonic%20Boom%20Carpet%20Computation%20as%20a%20Basis%20for%20Supersonic%20Flight%20Routing%20%5BLiebhardt%20et%20al.%2C%20AIAA%202019-3387%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/127429/1/Sonic%20Boom%20Carpet%20Computation%20as%20a%20Basis%20for%20Supersonic%20Flight%20Routing%20%5BLiebhardt%20et%20al.%2C%20AIAA%202019-3387%5D.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boom Carpet Computation as a Basis for Supersonic...by B Liebhardt · 2019 · Cited by 22 — We lay out a methodology for optimizing supers...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uu.edu  
-   Link: [https://www.uu.edu/dept/physics/scienceguys/2001apr.cfm](https://www.uu.edu/dept/physics/scienceguys/2001apr.cfm)  
+   Link: <a href="https://www.uu.edu/dept/physics/scienceguys/2001apr.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.edu/dept/physics/scienceguys/2001apr.cfm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens when something breaks the sound barrier?As this wave-front passes an individual, the sudden pressure differential or change...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: faa.gov  
    Title: Space X SSH LC 39A Final EIS Volume II App C1 Noise Report Part1  
-   Link: [https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-II-AppC1-Noise-Report-Part1.pdf](https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-II-AppC1-Noise-Report-Part1.pdf)  
+   Link: <a href="https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-II-AppC1-Noise-Report-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-II-AppC1-Noise-Report-Part1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starship-Super Heavy Launch Vehicle at...Jan 1, 2026 — A sonic boom is not a onetime event as the aircraft “breaks the sound barr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gWGLAAYdbbc](https://www.youtube.com/watch?v=gWGLAAYdbbc)  
+   Link: <a href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gWGLAAYdbbc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic Flight, Sonic BoomsSound travels at about 760 miles per hour, or 340 meters per second and about 661 knots on an average day a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gD7wMZL1eZ4](https://www.youtube.com/watch?v=gD7wMZL1eZ4)  
+   Link: <a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=laM0Nv8nkw4](https://www.youtube.com/watch?v=laM0Nv8nkw4)  
+   Link: <a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=laM0Nv8nkw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X-59: Sonic Booms ExplainedThe x59 will be able to fly at supersonic speeds faster than the speed of sound without producing a loud sonic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1464496671257452/](https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1464496671257452/)  
+   Link: <a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1464496671257452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1464496671257452/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m not a complete idiot but I can&#x27;t seem to figure out the timing. As the &#x27;crow flies&#x27; I&#x27;m 11 miles from LZ-2...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: aviation.stackexchange.com  
    Title: This effect is intentionally utilized with the Boom Supersonic  
-   Link: [https://aviation.stackexchange.com/questions/108313/what-factors-contribute-to-mach-cutoff](https://aviation.stackexchange.com/questions/108313/what-factors-contribute-to-mach-cutoff)  
+   Link: <a href="https://aviation.stackexchange.com/questions/108313/what-factors-contribute-to-mach-cutoff" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/108313/what-factors-contribute-to-mach-cutoff</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeWhat factors contribute to Mach cutoff?Apr 2, 2025 — Mach cutoff is a phenomenon where a shockwave bends midair, n...</p></details>

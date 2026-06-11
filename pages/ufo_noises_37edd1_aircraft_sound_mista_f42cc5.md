@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Aircraft
 title: When Aircraft Sounds Become UFO Stories
-title_full: When Aircraft Sounds Become UFO Stories | UFO Noises
+title_full: When Aircraft Sounds Become UFO Stories
 display_title_short: Aircraft
 display_title: Aircraft
 heading_title: When Aircraft Sounds Become UFO Stories
@@ -348,7 +348,6 @@ image: /assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-overview-soc
 
 Many reports of “[UFO noises]({{ 'ufo-noises/' | relative_url }})” turn out to involve ordinary aircraft heard under unusual conditions. A jet climbing through cloud, a helicopter beyond visual range, a military aircraft flying at night, or even a small drone can produce sounds that seem disconnected from any familiar source. When darkness, weather, distance and expectation combine, listeners may hear a strange hum, metallic groan, pulsing vibration or eerie roar and conclude that something unknown is overhead.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-overview.webp" | relative_url }}" alt="Overview image for Aircraft" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean witnesses are inventing what they heard. Aircraft noise can genuinely become distorted, amplified, redirected or detached from its apparent source. Aviation acoustics researchers and airport noise specialists have long documented how atmospheric conditions alter sound propagation, sometimes making aircraft seem much closer, much farther away or entirely different from what they are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aircraft noise</span><span class="citation-popover-snippet">Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Topics on this page. Aircraft and airport noise programs; High-demand air traf...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portseattle.org">[Port of Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portseattle.org</span><span class="citation-popover-snippet">Port of SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be inf...</span></span></span>
 
@@ -363,7 +362,6 @@ Commercial and military jets often produce the sounds most frequently mistaken f
 Night operations can be especially misleading. A jet climbing after take-off may appear as a single bright light while its engine sound arrives later or seems to come from another [direction]({{ 'direction/' | relative_url }}). In some cases, witnesses report a hovering or slowly moving light accompanied by a powerful [humming]({{ 'humming/' | relative_url }}) noise, when the actual aircraft is travelling directly towards them and its apparent motion is reduced by perspective.
 
 Military aircraft add another layer of confusion. Tankers, surveillance aircraft, transport planes and training flights often operate outside the patterns people associate with normal passenger traffic. A notable example occurred in Texas in 2018 when residents reported a mysterious sky sound that generated speculation ranging from UFOs to secret projects. Airport officials later identified the source as a military AWACS aircraft conducting training operations. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kltv.com">[www.kltv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kltv.com</span><span class="citation-popover-title">It was the Air Force doing a training flight in an AWACS.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 31, 2018</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Helicopters and Pulsing Vibrations
@@ -380,14 +378,13 @@ Propeller-driven aircraft often create fluctuating tones that change with engine
 
 Modern drones introduce further complications. Small unmanned aircraft frequently generate a high-pitched [buzzing]({{ 'buzzing/' | relative_url }}) sound unlike the engines many people expect from aircraft. Multi-rotor drones can also produce complex harmonic tones that fluctuate as flight controllers adjust rotor speeds. When the aircraft itself is difficult to see against the night sky, the result can seem unfamiliar and unsettling.
 
-Researchers working on aerial [acoustic monitoring]({{ 'sensors/' | relative_url }}) increasingly treat drone sounds as a distinct category because their acoustic signatures differ substantially from traditional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-4433/12/11/1424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPISound Propagation Modelling for Manned and Unmanned...by R Kapoor · 2021 · Cited by 50 — A more reliable and accurate modelling of n...</span></span></span>
-
+Researchers working on aerial acoustic monitoring increasingly treat drone sounds as a distinct category because their acoustic signatures differ substantially from traditional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-4433/12/11/1424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Sound Propagation Modelling for Manned and Unmanned...by R Kapoor · 2021 · Cited by 50 — A more reliable and accurate modelling of n...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e9ppdVOoNqk" title="UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e9ppdVOoNqk" target="_blank" rel="noopener noreferrer">UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC</a></p><p class="youtube-embed-meta">Channel: You can see ATC &middot; Views: 114.5K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e9ppdVOoNqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e9ppdVOoNqk">Open on YouTube</a></p></div></div></div>
 
 ## Why Familiar Craft Can Sound Strange
 
-The most important factor in many UFO-noise reports is not the aircraft itself but the atmosphere between the aircraft and the listener.
+The most important factor in many UFO-noise reports is not the aircraft itself but the [atmosphere]({{ 'atmosphere/' | relative_url }}) between the aircraft and the listener.
 
 ### Temperature Inversions Can Carry Sound for Kilometres
 
@@ -396,7 +393,6 @@ A temperature inversion occurs when warmer air sits above cooler air. Instead of
 This effect can make distant aircraft sound unexpectedly loud. Airports, roads and aircraft that would normally be inaudible may suddenly become prominent. People sometimes report hearing a mysterious engine noise with no visible source because the sound has travelled far beyond its usual range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturalnavigator.com">[The Natural Navigator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturalnavigator.com</span><span class="citation-popover-title">sounds during a temperature inversion</span><span class="citation-popover-snippet">The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — When there is a temperature inversion it creates a &#x27;sandwich effec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">aircraft noise</span><span class="citation-popover-snippet">Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Topics on this page. Aircraft and airport noise programs; High-demand air traf...</span></span></span>
 
 Noise researchers have repeatedly identified temperature [inversions]({{ 'inversions/' | relative_url }}), wind gradients and atmospheric layering as major influences on how aircraft noise is perceived. TRID <span class="citation-chip-wrap"><a class="citation-chip" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment17 Aircraft Noise: PropagationThis is due to a positive sound-speed gradient resulting from downwi...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sound Does Not Always Seem to Come from the Right Direction
@@ -407,7 +403,6 @@ Wind can bend sound waves. Cloud cover and atmospheric layers can redirect them.
 
 As a result, a listener may look in one direction while the aircraft producing the sound is somewhere else entirely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iDea0NmHgmI" title="FAA Noise Policy Review - Aviation Noise Basics - Noise Metrics Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iDea0NmHgmI" target="_blank" rel="noopener noreferrer">FAA Noise Policy Review - Aviation Noise Basics - Noise Metrics Part 1</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 1.1K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iDea0NmHgmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iDea0NmHgmI">Open on YouTube</a></p></div></div></div>
 
 ### Darkness Removes Context
@@ -417,7 +412,6 @@ Visual information normally helps identify aircraft. During the day, people can 
 At night, that context disappears. A single navigation light may be mistaken for a hovering object. Sound delays become more noticeable. Distances become difficult to judge. The same aircraft that would be recognised instantly in daylight can seem mysterious after dark.
 
 This combination of limited visual information and distorted acoustics explains why many unusual sound reports occur during evening or nighttime hours.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BA207LUT-wE" title="Aircraft Noise 101: Introduction to Noise Science and Modeling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BA207LUT-wE" target="_blank" rel="noopener noreferrer">Aircraft Noise 101: Introduction to Noise Science and Modeling</a></p><p class="youtube-embed-meta">Channel: Naval Safety Center Archives &middot; Views: 413 &middot; Uploaded: September 2015 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BA207LUT-wE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BA207LUT-wE">Open on YouTube</a></p></div></div></div>
 
@@ -433,8 +427,7 @@ For someone trying to determine whether a strange sky sound has a conventional s
 
 **Weather matters.** Temperature inversions, cloud cover, humidity and wind can all alter aircraft noise propagation, sometimes making routine flights sound exceptional. Airport noise authorities and aviation researchers consistently identify weather as a major factor affecting what people hear on the ground. Port of Seattle <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmmh.com">[HMMH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmmh.com</span><span class="citation-popover-snippet">• Daily temperature inversion. • Wind direction and speed. • Relative humidity...Read more...</span></span></span>
 
-**Check flight activity before assuming the unknown.** [Military training]({{ 'military-roars/' | relative_url }}) flights, cargo operations, helicopters and business aircraft often operate outside the schedules most people notice. Many reports initially described as mysterious aerial sounds have later been traced to ordinary aviation activity. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kltv.com">[www.kltv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kltv.com</span><span class="citation-popover-title">It was the Air Force doing a training flight in an AWACS.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 31, 2018</span></span></span>
-
+**Check flight activity before assuming the unknown.** Military training flights, cargo operations, helicopters and business aircraft often operate outside the schedules most people notice. Many reports initially described as mysterious aerial sounds have later been traced to ordinary aviation activity. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kltv.com">[www.kltv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kltv.com</span><span class="citation-popover-title">It was the Air Force doing a training flight in an AWACS.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 31, 2018</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Aircraft Explanations Matter in UFO Noise Reports
@@ -840,121 +833,121 @@ For investigators of UFO reports, this makes sound evidence both valuable and ch
 1. <a id="endnote-1"></a>
    Source: kltv.com  
    Title: "It was the Air Force doing a training flight in an AWACS.Read more  
-   Link: [https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/](https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/)  
+   Link: <a href="https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/" target="_blank" rel="noopener noreferrer nofollow">https://www.kltv.com/story/38997830/airport-director-explains-mysterious-sound-in-longview-sky-tuesday/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kltv.comAirport](https://www.kltv.comAirport) director explains mysterious sound in Longview sky...August 31, 2018 — 30 Aug 2018 — Roy Miller, the directo...</p></details>
    Published: August 31, 2018  
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2073-4433/12/11/1424](https://www.mdpi.com/2073-4433/12/11/1424)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPISound Propagation Modelling for Manned and Unmanned...by R Kapoor · 2021 · Cited by 50 — A more reliable and accurate modelling of n...</p></details>
+   Link: <a href="https://www.mdpi.com/2073-4433/12/11/1424" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/11/1424</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Propagation Modelling for Manned and Unmanned...by R Kapoor · 2021 · Cited by 50 — A more reliable and accurate modelling of n...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: resolve.cambridge.org  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/A9770454ABF683AEC1AB3754CE7DB846/9781139161893c17_p533-552_CBO.pdf/aircraft-noise-propagation.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment17 Aircraft Noise: PropagationThis is due to a positive sound-speed gradient resulting from downwi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: research.chalmers.se  
    Title: 540965 Fulltext  
-   Link: [https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf](https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf)  
+   Link: <a href="https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Prediction: from Trajectory to Synthesisby EM Thoma · 2024 · Cited by 4 — the noise propagation methodology to account for...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hmmh.com  
-   Link: [https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf](https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf)  
+   Link: <a href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Daily temperature inversion. • Wind direction and speed. • Relative humidity...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2226-4310/12/10/930](https://www.mdpi.com/2226-4310/12/10/930)  
+   Link: <a href="https://www.mdpi.com/2226-4310/12/10/930" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/12/10/930</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Assessment Using Noise Points: Conception...by J Blinstrub · 2025 — The noise point concept is verified at various airpor...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: note.com  
    Title: Classified UFO Reports Categorized  
-   Link: [https://note.com/minimalorder/n/n3d1efd49a981?hl=en-US](https://note.com/minimalorder/n/n3d1efd49a981?hl=en-US)  
+   Link: <a href="https://note.com/minimalorder/n/n3d1efd49a981?hl=en-US" target="_blank" rel="noopener noreferrer nofollow">https://note.com/minimalorder/n/n3d1efd49a981?hl=en-US</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Shapes, 3 Sounds...UFO sounds: What was heard, what was not heard. Next to shape is sound. Actually, what was surprising about the 113...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: [https://www.faa.gov/noise/aircraft_noise](https://www.faa.gov/noise/aircraft_noise)  
+   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Topics on this page. Aircraft and airport noise programs; High-demand air traf...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: portseattle.org  
-   Link: [https://www.portseattle.org/faq/what-are-effects-weather-noise](https://www.portseattle.org/faq/what-are-effects-weather-noise)  
+   Link: <a href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.portseattle.org/faq/what-are-effects-weather-noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Port of SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be inf...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: eaglepubs.erau.edu  
    Title: Eagle Pubs Aeroacoustics of Flight Vehicles –  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: naturalnavigator.com  
    Title: sounds during a temperature inversion  
-   Link: [https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/](https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/)  
+   Link: <a href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — When there is a temperature inversion it creates a &#x27;sandwich effec...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
    Title: FAA H 8083 28A FAA Web  
-   Link: [https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf](https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28A_FAA_Web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Weather Handbook 202426 Nov 2024 — 19.2.3.1 Temperature Inversion. A temperature inversion is a layer of the atmosphere in which...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/creepy/comments/63a9sz/strange_sounds_from_sky_every_night/](https://www.reddit.com/r/creepy/comments/63a9sz/strange_sounds_from_sky_every_night/)  
+   Link: <a href="https://www.reddit.com/r/creepy/comments/63a9sz/strange_sounds_from_sky_every_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/creepy/comments/63a9sz/strange_sounds_from_sky_every_night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange sounds from sky every night: r/creepyI´m not telling that UFO doesn´t exist, but the sky is clear. It... Strange sound came out...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tampaairport.com  
-   Link: [https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise](https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise)  
+   Link: <a href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: avi-loeb.medium.com  
    Title: mystery sound of an unidentified anomalous phenomenon 09d1cb461cd2  
-   Link: [https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2](https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2)  
+   Link: <a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of an Unidentified Anomalous PhenomenonGiven the mission of the Galileo Project, one question came to mind: “Is this an Unidentifie...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions](https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions)  
+   Link: <a href="https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, the impact of aircraft noise on communities surrounding airports can...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/10newsplus/posts/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/122162057072899199/](https://www.facebook.com/10newsplus/posts/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/122162057072899199/)  
+   Link: <a href="https://www.facebook.com/10newsplus/posts/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/122162057072899199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10newsplus/posts/thats-why-they-covered-it-upwitnesses-of-one-of-the-worlds-biggest-ufo-mysteries/122162057072899199/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“That&#x27;s why they covered it up.” Witnesses of one of the...Where did these UFO&#x27;s, Alien crafts are meant to have come from?...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: elib.dlr.de  
-   Link: [https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf](https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf)  
+   Link: <a href="https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Aircraft Noise Data in the Area...by P Bettermann · 2024 — Depending on the location, time of day, and season, the temperatu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1hkm00j/doppler_effect_analysis_of_uap_helicopters_and/](https://www.reddit.com/r/UFOB/comments/1hkm00j/doppler_effect_analysis_of_uap_helicopters_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hkm00j/doppler_effect_analysis_of_uap_helicopters_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hkm00j/doppler_effect_analysis_of_uap_helicopters_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>yed notable mimicry behaviors. Witnesses reported drones...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/253012774723734/posts/24057447443853600/](https://www.facebook.com/groups/253012774723734/posts/24057447443853600/)  
+   Link: <a href="https://www.facebook.com/groups/253012774723734/posts/24057447443853600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253012774723734/posts/24057447443853600/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>something truly unusual remains unknown. What...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: acoustics.asn.au  
-   Link: [https://www.acoustics.asn.au/conference_proceedings/AAS2015/papers/p137.pdf](https://www.acoustics.asn.au/conference_proceedings/AAS2015/papers/p137.pdf)  
+   Link: <a href="https://www.acoustics.asn.au/conference_proceedings/AAS2015/papers/p137.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acoustics.asn.au/conference_proceedings/AAS2015/papers/p137.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consideration of such conditions...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pilotinstitute.com  
    Title: inversions in meteorology  
-   Link: [https://pilotinstitute.com/inversions-in-meteorology/](https://pilotinstitute.com/inversions-in-meteorology/)  
+   Link: <a href="https://pilotinstitute.com/inversions-in-meteorology/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/inversions-in-meteorology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How They Impact Pilots and...23 Sept 2025 — Learn how temperature inversions spawn wind shear, fog, and performance killers, and how pil...</p></details>

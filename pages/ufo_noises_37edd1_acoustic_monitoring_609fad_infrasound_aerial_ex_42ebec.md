@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sensors/
 nav_short_title: Infrasound
 title: How Far Can Sky Sounds Really Travel?
-title_full: How Far Can Sky Sounds Really Travel? | Sensors
+title_full: How Far Can Sky Sounds Really Travel?
 display_title_short: Infrasound
 display_title: Infrasound
 heading_title: How Far Can Sky Sounds Really Travel?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:02:28'
-parent_title: Can Sensors Catch UFO Noises? | UFO Noises
+parent_title: Can Sensors Catch UFO Noises?
 parent_permalink: /sensors/
 parent_nav_short_title: Sensors
 parent_heading_title: Can Sensors Catch UFO Noises?
@@ -274,8 +274,7 @@ image: /assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_ae
 
 ## Introduction
 
-Some of the most dramatic sounds linked to unusual aerial events are never heard by human ears at all. Powerful meteor airbursts, high-altitude explosions and other energetic disturbances can generate infrasound: extremely low-frequency pressure waves that travel through the [atmosphere]({{ 'atmosphere/' | relative_url }}) over vast distances. Modern monitoring networks were built largely to detect atmospheric nuclear tests, yet they routinely record meteors, volcanic eruptions and other sky events thousands of kilometres from their source. For investigations involving reported [UFO noises]({{ 'ufo-noises/' | relative_url }}), this matters because a distant aerial explosion can leave a measurable acoustic trace even when witnesses hear little, hear only a delayed boom, or report unusual vibrations rather than conventional sound. The result is a rare form of evidence that can be compared across continents instead of relying solely on local testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTOThe International Monitoring SystemEighty radionuclide stations to detect radioactive particles or gases from atmospheric explosions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Open source on ctbto.org.</span></span></span>
-
+Some of the most dramatic sounds linked to unusual aerial events are never heard by human ears at all. Powerful meteor airbursts, high-altitude explosions and other energetic disturbances can generate infrasound: extremely low-frequency pressure waves that travel through the [atmosphere]({{ 'atmosphere/' | relative_url }}) over vast distances. Modern monitoring networks were built largely to detect atmospheric nuclear tests, yet they routinely record meteors, volcanic eruptions and other sky events thousands of kilometres from their source. For investigations involving reported [UFO noises]({{ 'ufo-noises/' | relative_url }}), this matters because a distant aerial explosion can leave a measurable acoustic trace even when witnesses hear little, hear only a delayed boom, or report unusual vibrations rather than conventional sound. The result is a rare form of evidence that can be compared across continents instead of relying solely on local testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">The International Monitoring SystemEighty radionuclide stations to detect radioactive particles or gases from atmospheric explosions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Open source on ctbto.org.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-1-dark.svg" | relative_url }}" alt="Infrasound illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Far Can Sky Sounds Really Travel?
@@ -284,24 +283,22 @@ The extraordinary reach of infrasound comes from its frequency. Higher-frequency
 
 In practical terms, this means a sufficiently energetic atmospheric event can be detected at distances measured in thousands rather than tens of kilometres. Atmospheric winds, temperature gradients and pressure layers can bend and channel the waves, sometimes allowing them to circle large portions of the globe. Researchers often compare the process to how certain radio frequencies can be guided over long distances by the upper atmosphere, although the physical mechanisms are different. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/5875/chapter/14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: Appendix F: InfrasonicsLarger atmospheric nuclear explosions were easily heard at ranges in excess of 10,000 k...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/5875/chapter/14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: Appendix F: InfrasonicsLarger atmospheric nuclear explosions were easily heard at ranges in excess of 10,000 k...</span></span></span>
 
-The main international system designed to exploit this property is the International Monitoring System operated for the Comprehensive Nuclear-Test-Ban Treaty. Its infrasound component consists of dozens of stations distributed around the world, continuously listening for ultra-low-frequency atmospheric disturbances. Although the network's primary mission is nuclear-test [verification]({{ 'verification/' | relative_url }}), its [sensors]({{ 'sensors/' | relative_url }}) also record natural events that release large amounts of energy into the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://conferences.ctbto.org/event/30/contributions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conferences.ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conferences.ctbto.org</span><span class="citation-popover-snippet">CTBTO Conferences and Workshops (Indico)CTBT: Science and Technology Conference 2025 - SnT2025Explosive volcanic eruptions produce large...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/civil-and-scientific-applications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTOCivil and Scientific ApplicationsIMS data can also help to cast light on plane crashes and other major accidents: infrasound station...</span></span></span>
+The main international system designed to exploit this property is the International Monitoring System operated for the Comprehensive Nuclear-Test-Ban Treaty. Its infrasound component consists of dozens of stations distributed around the world, continuously listening for ultra-low-frequency atmospheric disturbances. Although the network's primary mission is nuclear-test [verification]({{ 'verification/' | relative_url }}), its [sensors]({{ 'sensors/' | relative_url }}) also record natural events that release large amounts of energy into the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://conferences.ctbto.org/event/30/contributions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conferences.ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conferences.ctbto.org</span><span class="citation-popover-snippet">CTBTO Conferences and Workshops (Indico)CTBT: Science and Technology Conference 2025 - SnT2025Explosive volcanic eruptions produce large...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/civil-and-scientific-applications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Civil and Scientific ApplicationsIMS data can also help to cast light on plane crashes and other major accidents: infrasound station...</span></span></span>
 
 ### Why distant detection matters for aerial mysteries
 
 When witnesses report an unexplained flash, a sudden sky boom or an apparent explosion, the local sound alone may be misleading. Audible sound depends heavily on distance, terrain and weather conditions. Infrasound offers a different record:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * It can persist across enormous ranges.
 * It can be measured even when no clear audible recording exists.
 * Multiple stations can compare arrival times to estimate where an event occurred.
-* Signal strength and frequency characteristics can help estimate the energy released. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2073-4433/11/1/83" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIGlobal Monitoring and Characterization of Infrasound...by C Pilger · 2020 · Cited by 38 — This study aims at investigating meteoroid...</span></span></span>
+* Signal strength and frequency characteristics can help estimate the energy released. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2073-4433/11/1/83" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Global Monitoring and Characterization of Infrasound...by C Pilger · 2020 · Cited by 38 — This study aims at investigating meteoroid...</span></span></span>
 
 </div>
 
 That does not identify the object responsible, but it can establish that a significant atmospheric event occurred and roughly how powerful it was.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9uZjDA9kFcM" title="Video 3: Infrasound Stations (subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9uZjDA9kFcM" target="_blank" rel="noopener noreferrer">Video 3: Infrasound Stations (subtitles)</a></p><p class="youtube-embed-meta">Channel: CTBTO &middot; Views: 296 &middot; Uploaded: November 2025 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9uZjDA9kFcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9uZjDA9kFcM">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +308,7 @@ Meteor airbursts provide some of the clearest demonstrations of global-scale aco
 
 The most famous example is the [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) meteor, which exploded over Russia on 15 February 2013. The event shattered windows across a wide area and injured more than a thousand people, largely through blast effects rather than direct impact. What made it especially important for infrasound research was the scale of its acoustic signature. CTBTO stations around the world recorded the event, making it the largest meteor-related infrasound detection in the network's history at that time. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/grl.50619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">AGU PublicationsThe 2013 Russian fireball largest ever detected by CTBTO...by A Le Pichon · 2013 · Cited by 183 — One of the most energe...</span></span></span>
 
-The blast was detected by around twenty infrasound stations, and the most distant confirmed detection came from Antarctica, roughly 15,000 kilometres away. Researchers used those signals to estimate the energy of the airburst and to study how low-frequency waves propagated through the atmosphere on a global scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTORussian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — The blast was detected by 20 infrasound stations in the CTBTO&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osti.gov/pages/biblio/1367155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">It is the most energetic...Read mor...</span></span></span>
+The blast was detected by around twenty infrasound stations, and the most distant confirmed detection came from Antarctica, roughly 15,000 kilometres away. Researchers used those signals to estimate the energy of the airburst and to study how low-frequency waves propagated through the atmosphere on a global scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Russian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — The blast was detected by 20 infrasound stations in the CTBTO&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osti.gov/pages/biblio/1367155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">It is the most energetic...Read mor...</span></span></span>
 
 ### What scientists learned from Chelyabinsk
 
@@ -324,16 +321,14 @@ Chelyabinsk demonstrated several points directly relevant to unusual aerial-even
 
 Researchers continue to use meteor detections as test cases for refining global monitoring methods. Studies of bolides, the exceptionally bright meteors that often explode in the atmosphere, show that infrasound can detect events ranging from relatively modest airbursts to extremely energetic fragmentation episodes. Some detections have been made more than 2,000 kilometres from the source, while larger events can be tracked much farther away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa41106 21</span><span class="citation-popover-snippet">A&amp;A OnlineInfrasound signals of fireballs detected by the...by T Ott · 2021 · Cited by 13 — The smallest meteoroid recorded by infrasoun...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osti.gov/pages/biblio/1367155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">It is the most energetic...Read mor...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-2-dark.svg" | relative_url }}" alt="Infrasound illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Infrasound Networks Reconstruct an Explosion
 
 A single station can detect an unusual pressure wave, but a network provides much more information.
 
-Each monitoring site typically uses an array of sensors spread across an area rather than a lone microphone. By comparing the tiny differences in arrival times between sensors, analysts can estimate the [direction]({{ 'direction/' | relative_url }}) from which the wave approached. When multiple stations detect the same event, those directional estimates can be combined to infer a likely source region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInfrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</span></span></span>
+Each monitoring site typically uses an array of sensors spread across an area rather than a lone microphone. By comparing the tiny differences in arrival times between sensors, analysts can estimate the [direction]({{ 'direction/' | relative_url }}) from which the wave approached. When multiple stations detect the same event, those directional estimates can be combined to infer a likely source region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Infrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</span></span></span>
 
 Scientists also examine:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -341,14 +336,13 @@ Scientists also examine:
 * Dominant frequencies.
 * Pressure amplitude.
 * Arrival timing.
-* Changes in waveform shape across different stations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInfrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</span></span></span>
+* Changes in waveform shape across different stations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Infrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</span></span></span>
 
 </div>
 
 These measurements can help distinguish a compact explosion from a longer atmospheric track such as a meteor travelling through the atmosphere before breaking apart.
 
-One complication is that atmospheric conditions strongly affect propagation. Winds and temperature structures can alter both the apparent direction and the frequency content of a signal. Recent studies show that atmospheric filtering can change how an event appears at different locations, meaning the recorded signature is partly a product of the atmosphere itself, not just the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.00421" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivObservational Evidence for Wind-Driven Low-Pass Filtering of Infrasound at Short RangeJanuary 31, 2026...</span><span class="citation-popover-meta">Published: January 31, 2026</span></span></span>
-
+One complication is that atmospheric conditions strongly affect propagation. Winds and temperature structures can alter both the apparent direction and the frequency content of a signal. Recent studies show that atmospheric filtering can change how an event appears at different locations, meaning the recorded signature is partly a product of the atmosphere itself, not just the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.00421" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Observational Evidence for Wind-Driven Low-Pass Filtering of Infrasound at Short RangeJanuary 31, 2026...</span><span class="citation-popover-meta">Published: January 31, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q4NJ4Jtod-Y" title="Nuclear Bomb Sensors Detected New Year&#x27;s Asteroid Strike | Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q4NJ4Jtod-Y" target="_blank" rel="noopener noreferrer">Nuclear Bomb Sensors Detected New Year&#x27;s Asteroid Strike | Video</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 3.9K &middot; Uploaded: January 2014 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q4NJ4Jtod-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q4NJ4Jtod-Y">Open on YouTube</a></p></div></div></div>
 
@@ -361,16 +355,14 @@ A strong infrasonic signal can indicate that something released substantial ener
 * Approximate location.
 * Time of occurrence.
 * Relative size of the disturbance.
-* Whether the source behaved more like a blast or an extended track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2073-4433/11/1/83" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIGlobal Monitoring and Characterization of Infrasound...by C Pilger · 2020 · Cited by 38 — This study aims at investigating meteoroid...</span></span></span> ScienceDirect What it usually cannot do on its own is answer the question everyone wants answered: what was the object <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInfrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</span></span></span>
+* Whether the source behaved more like a blast or an extended track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2073-4433/11/1/83" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Global Monitoring and Characterization of Infrasound...by C Pilger · 2020 · Cited by 38 — This study aims at investigating meteoroid...</span></span></span> ScienceDirect What it usually cannot do on its own is answer the question everyone wants answered: what was the object <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Infrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</span></span></span>
 
 A meteor airburst, a large explosion, a volcanic eruption, a rocket re-entry and other energetic atmospheric phenomena can all generate low-frequency acoustic signatures. Additional evidence such as optical observations, radar data, satellite detections or recovered debris is normally required for confident identification. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/looking-for-lightning-finding-fireballs-149381/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">looking for lightning finding fireballs 149381</span><span class="citation-popover-snippet">NASA ScienceLooking for Lightning, Finding Fireballs27 Jan 2022 — Stereo detection allows researchers to reconstruct the trajectories of...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-3-dark.svg" | relative_url }}" alt="Infrasound illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_infrasound_aerial_ex_42ebec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why a mysterious boom is not necessarily a mysterious object
 
 This distinction is especially important in discussions of unexplained aerial reports. A witness may experience:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,9 +383,7 @@ Human reports can be distorted by distance, timing, [memory]({{ 'memory/' | rela
 
 For large atmospheric disturbances, the technology has already proven its reach. The same global network built to detect nuclear explosions has repeatedly shown that meteor airbursts and other energetic sky events can leave acoustic fingerprints detectable across continents. In investigations of unusual aerial noises, that capability transforms some otherwise fleeting reports into measurable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-title">beyond nuclear test detection ctbto and hunga tonga hunga haapai eruption</span><span class="citation-popover-snippet">Beyond nuclear test detection: CTBTO and Hunga Tonga-...Jun 24, 2024 — In comparison, the scale of this event dwarfed even the record-br...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/resources/for-the-media/press-releases/nothing-escapes-global-ear-nuclear-tests-volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">hat had entered the atmosphere and disintegrated in the skies over...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1U2objQq-04" title="Global Infrasound Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1U2objQq-04" target="_blank" rel="noopener noreferrer">Global Infrasound Experiment</a></p><p class="youtube-embed-meta">Channel: CTBTO &middot; Views: 9.4K &middot; Uploaded: March 2011 &middot; Length: 4 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1U2objQq-04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1U2objQq-04">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -791,256 +781,256 @@ For large atmospheric disturbances, the technology has already proven its reach.
 
 1. <a id="endnote-1"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/international-monitoring-system](https://www.ctbto.org/our-work/international-monitoring-system)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTOThe International Monitoring SystemEighty radionuclide stations to detect radioactive particles or gases from atmospheric explosions...</p></details>
+   Link: <a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Monitoring SystemEighty radionuclide stations to detect radioactive particles or gases from atmospheric explosions...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring)  
+   Link: <a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
 
 3. <a id="endnote-3"></a>
    Source: conferences.ctbto.org  
-   Link: [https://conferences.ctbto.org/event/30/contributions/](https://conferences.ctbto.org/event/30/contributions/)  
+   Link: <a href="https://conferences.ctbto.org/event/30/contributions/" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/contributions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Conferences and Workshops (Indico)CTBT: Science and Technology Conference 2025 - SnT2025Explosive volcanic eruptions produce large...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S209099771630075X](https://www.sciencedirect.com/science/article/pii/S209099771630075X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInfrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S209099771630075X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound detection of meteorsby MN ElGabry · 2017 · Cited by 29 — Sound waves in the atmosphere become audible to humans i...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2073-4433/11/1/83](https://www.mdpi.com/2073-4433/11/1/83)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIGlobal Monitoring and Characterization of Infrasound...by C Pilger · 2020 · Cited by 38 — This study aims at investigating meteoroid...</p></details>
+   Link: <a href="https://www.mdpi.com/2073-4433/11/1/83" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/11/1/83</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Monitoring and Characterization of Infrasound...by C Pilger · 2020 · Cited by 38 — This study aims at investigating meteoroid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/civil-and-scientific-applications](https://www.ctbto.org/our-work/civil-and-scientific-applications)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTOCivil and Scientific ApplicationsIMS data can also help to cast light on plane crashes and other major accidents: infrasound station...</p></details>
+   Link: <a href="https://www.ctbto.org/our-work/civil-and-scientific-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/civil-and-scientific-applications</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil and Scientific ApplicationsIMS data can also help to cast light on plane crashes and other major accidents: infrasound station...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound](https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTORussian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — The blast was detected by 20 infrasound stations in the CTBTO&#x27;s...</p></details>
+   Link: <a href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — The blast was detected by 20 infrasound stations in the CTBTO&#x27;s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: osti.gov  
-   Link: [https://www.osti.gov/pages/biblio/1367155](https://www.osti.gov/pages/biblio/1367155)  
+   Link: <a href="https://www.osti.gov/pages/biblio/1367155" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/pages/biblio/1367155</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is the most energetic...Read mor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: osti.gov  
-   Link: [https://www.osti.gov/servlets/purl/2540390](https://www.osti.gov/servlets/purl/2540390)  
+   Link: <a href="https://www.osti.gov/servlets/purl/2540390" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/2540390</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The utility of infrasound towards detection and...by EA Silber · 2024 — The Tajikistan bolide was detected by two infrasound stations of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.00421](https://arxiv.org/abs/2602.00421)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivObservational Evidence for Wind-Driven Low-Pass Filtering of Infrasound at Short RangeJanuary 31, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.00421" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.00421</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Evidence for Wind-Driven Low-Pass Filtering of Infrasound at Short RangeJanuary 31, 2026...</p></details>
    Published: January 31, 2026  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.13972](https://arxiv.org/abs/2503.13972)  
+   Link: <a href="https://arxiv.org/abs/2503.13972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.13972</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: looking for lightning finding fireballs 149381  
-   Link: [https://science.nasa.gov/earth/earth-observatory/looking-for-lightning-finding-fireballs-149381/](https://science.nasa.gov/earth/earth-observatory/looking-for-lightning-finding-fireballs-149381/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/looking-for-lightning-finding-fireballs-149381/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/looking-for-lightning-finding-fireballs-149381/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceLooking for Lightning, Finding Fireballs27 Jan 2022 — Stereo detection allows researchers to reconstruct the trajectories of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ctbto.org  
    Title: beyond nuclear test detection ctbto and hunga tonga hunga haapai eruption  
-   Link: [https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption](https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/beyond-nuclear-test-detection-ctbto-and-hunga-tonga-hunga-haapai-eruption</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond nuclear test detection: CTBTO and Hunga Tonga-...Jun 24, 2024 — In comparison, the scale of this event dwarfed even the record-br...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/resources/for-the-media/press-releases/nothing-escapes-global-ear-nuclear-tests-volcanoes](https://www.ctbto.org/resources/for-the-media/press-releases/nothing-escapes-global-ear-nuclear-tests-volcanoes)  
+   Link: <a href="https://www.ctbto.org/resources/for-the-media/press-releases/nothing-escapes-global-ear-nuclear-tests-volcanoes" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/resources/for-the-media/press-releases/nothing-escapes-global-ear-nuclear-tests-volcanoes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hat had entered the atmosphere and disintegrated in the skies over...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/](https://www.ctbto.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO: HomepageJoin CTBTO on our mission to create a world free of nuclear testing. Learn more about employment and business opportunitie...</p></details>
+   Link: <a href="https://www.ctbto.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageJoin CTBTO on our mission to create a world free of nuclear testing. Learn more about employment and business opportunitie...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/monitoring-technologies/radionuclide-monitoring](https://www.ctbto.org/our-work/monitoring-technologies/radionuclide-monitoring)  
+   Link: <a href="https://www.ctbto.org/our-work/monitoring-technologies/radionuclide-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/radionuclide-monitoring</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radionuclide monitoringExposed to prevailing winds, they are dispersed in the atmosphere and may, after a certain period of time, be dete...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast](https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastThe low frequency sound waves from the blast were detected at 03:22 GMT by the ne...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/sites/default/files/2022-08/science_for_security.pdf](https://www.ctbto.org/sites/default/files/2022-08/science_for_security.pdf)  
+   Link: <a href="https://www.ctbto.org/sites/default/files/2022-08/science_for_security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/sites/default/files/2022-08/science_for_security.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENCE FOR SECURITYInfrasound monitoring is an important technology for detecting and locating nuclear explosions in the atmosphere beca...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/fact-sheet-tremendous-progress-build-ctbts-verification-regime](https://www.ctbto.org/news-and-events/news/fact-sheet-tremendous-progress-build-ctbts-verification-regime)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/fact-sheet-tremendous-progress-build-ctbts-verification-regime" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/fact-sheet-tremendous-progress-build-ctbts-verification-regime</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 stations picked up the North Korean nuclear test, some thousands of kilometres...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/diplomats-visit-nuclear-test-monitoring-stations-bavarian-forest](https://www.ctbto.org/news-and-events/news/diplomats-visit-nuclear-test-monitoring-stations-bavarian-forest)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/diplomats-visit-nuclear-test-monitoring-stations-bavarian-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/diplomats-visit-nuclear-test-monitoring-stations-bavarian-forest</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Participants had the opportunity to become better acquainted...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: conferences-test.ctbto.org  
-   Link: [https://conferences-test.ctbto.org/event/22/contributions/4345/](https://conferences-test.ctbto.org/event/22/contributions/4345/)  
+   Link: <a href="https://conferences-test.ctbto.org/event/22/contributions/4345/" target="_blank" rel="noopener noreferrer nofollow">https://conferences-test.ctbto.org/event/22/contributions/4345/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology Workshop 2016 (ITW2016)In 2013 a small meteor approached to the earth and entered the atmosphere with high speed and destroyed...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: conferences.ctbto.org  
-   Link: [https://conferences.ctbto.org/event/30/sessions/486/](https://conferences.ctbto.org/event/30/sessions/486/)  
+   Link: <a href="https://conferences.ctbto.org/event/30/sessions/486/" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/sessions/486/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctbto.orgCTBT: Science and Technology Conference 2025Rocket launches and reentries are powerful atmospheric noise sources detectable at i...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/sites/default/files/2022-11/CTBT%20Brochure-Verification%20Regime_Nov2022.pdf](https://www.ctbto.org/sites/default/files/2022-11/CTBT%20Brochure-Verification%20Regime_Nov2022.pdf)  
+   Link: <a href="https://www.ctbto.org/sites/default/files/2022-11/CTBT%20Brochure-Verification%20Regime_Nov2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/sites/default/files/2022-11/CTBT%20Brochure-Verification%20Regime_Nov2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring the Earth for nuclear explosionsThe infrasound network of 60 stations uses microbarometers (acoustic pressure sensors) to dete...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics](https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: How To Detect A Secret Nuclear Test by Minute PhysicsA monitoring system that can detect pretty much any nuclear explosion that ta...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20110016611/downloads/20110016611.pdf](https://ntrs.nasa.gov/api/citations/20110016611/downloads/20110016611.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20110016611/downloads/20110016611.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110016611/downloads/20110016611.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of a Large Bolide over South Sulawesi...by EA Silber · 2011 · Cited by 2 — Infrasound is low frequency sound extending below t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: technology.nasa.gov  
    Title: LAR TOPS 106  
-   Link: [https://technology.nasa.gov/patent/LAR-TOPS-106](https://technology.nasa.gov/patent/LAR-TOPS-106)  
+   Link: <a href="https://technology.nasa.gov/patent/LAR-TOPS-106" target="_blank" rel="noopener noreferrer nofollow">https://technology.nasa.gov/patent/LAR-TOPS-106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensor Technology | T2 PortalNASA&#x27;s infrasound sensor is a highly refined microphone that is capable of detecting acoustic waves from 20...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20110016611](https://ntrs.nasa.gov/citations/20110016611)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20110016611" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20110016611</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of a Large Bolide over South Sulawesi...by EA Silber · 2011 · Cited by 2 — This bolide disintegrated above the ground, generat...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0012821X14000417](https://www.sciencedirect.com/science/article/abs/pii/S0012821X14000417)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012821X14000417" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0012821X14000417</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound detection of the Chelyabinsk meteor at...by CD de Groot-Hedlin · 2014 · Cited by 57 — On February 15, 2013 a small asteroid e...</p></details>
    Published: February 15, 2013  
 
 29. <a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2502.14232](https://arxiv.org/pdf/2502.14232)  
+   Link: <a href="https://arxiv.org/pdf/2502.14232" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2502.14232</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolide infrasound signal morphology and yield estimatesby TC Wilson · 2025 · Cited by 11 — Two bolides (2 June 2016 and 4 April 2019) wer...</p></details>
    Published: June 2016  
 
 30. <a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2405.04127](https://arxiv.org/pdf/2405.04127)  
+   Link: <a href="https://arxiv.org/pdf/2405.04127" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.04127</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A case study of the 23 July 2008 Tajikistan bolide Eby EA Silber · 2024 · Cited by 16 — Among various observational techniques used for d...</p></details>
    Published: July 2008  
 
 31. <a id="endnote-31"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/5875/chapter/14](https://www.nationalacademies.org/read/5875/chapter/14)  
+   Link: <a href="https://www.nationalacademies.org/read/5875/chapter/14" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5875/chapter/14</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: Appendix F: InfrasonicsLarger atmospheric nuclear explosions were easily heard at ranges in excess of 10,000 k...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nationalacademies.org  
    Title: National Academies Chapter: 2  
-   Link: [https://www.nationalacademies.org/read/10471/chapter/5](https://www.nationalacademies.org/read/10471/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/10471/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10471/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBT Monitoring Capability... low frequencies (less than 10 Hz). There is a substantial body of knowledge regarding infrasound propagatio...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/12849/chapter/5](https://www.nationalacademies.org/read/12849/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/12849/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/12849/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Its key elements are (1) the IMS, which generates data from its radionuclide, seismic, infrasound, and hydroacoustic...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: agupubs.onlinelibrary.wiley.com  
-   Link: [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/grl.50619](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/grl.50619)  
+   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/grl.50619" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/grl.50619</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AGU PublicationsThe 2013 Russian fireball largest ever detected by CTBTO...by A Le Pichon · 2013 · Cited by 183 — One of the most energe...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: aanda.org  
    Title: aa41106 21  
-   Link: [https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html](https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html)  
+   Link: <a href="https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2021/10/aa41106-21/aa41106-21.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A&amp;A OnlineInfrasound signals of fireballs detected by the...by T Ott · 2021 · Cited by 13 — The smallest meteoroid recorded by infrasoun...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: amusingplanet.com  
-   Link: [https://www.amusingplanet.com/2016/12/the-electronic-ears-that-listen-to.html](https://www.amusingplanet.com/2016/12/the-electronic-ears-that-listen-to.html)  
+   Link: <a href="https://www.amusingplanet.com/2016/12/the-electronic-ears-that-listen-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2016/12/the-electronic-ears-that-listen-to.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Nuclear TestsDec 29, 2016 — On February 15, 2013, the CTBTO&#x27;s infrasound monitoring stations detected signals made by a meteor tha...</p></details>
    Published: February 15, 2013  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InfrasoundInfrasound is characterized by an ability to get around obstacles with little dissipation. In music, acoustic waveguide meth...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Chelyabinsk meteor  
-   Link: [https://en.wikipedia.org/wiki/Chelyabinsk_meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Chelyabinsk_meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chelyabinsk_meteor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chelyabinsk meteorThe meteor explosion produced the largest infrasounds to be recorded by the CTBTO... &quot;2013 Russian Fireball largest...</p></details>
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/257549080_Infrasound_production_by_bolides_A_global_statistical_study](https://www.researchgate.net/publication/257549080_Infrasound_production_by_bolides_A_global_statistical_study)  
+   Link: <a href="https://www.researchgate.net/publication/257549080_Infrasound_production_by_bolides_A_global_statistical_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257549080_Infrasound_production_by_bolides_A_global_statistical_study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound production by bolides: A global statistical studyInfrasound (low frequency sound) from the bolide was detected at the IS59 arr...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/infrasound-technology-proves-critical-for-planetary-defense-against-threats-from-outer-space/](https://thedebrief.org/infrasound-technology-proves-critical-for-planetary-defense-against-threats-from-outer-space/)  
+   Link: <a href="https://thedebrief.org/infrasound-technology-proves-critical-for-planetary-defense-against-threats-from-outer-space/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/infrasound-technology-proves-critical-for-planetary-defense-against-threats-from-outer-space/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound Technology Proves Critical for Planetary...3 May 2025 — An existing network of infrasound technology-based sensors designed t...</p></details>
    Published: May 2025  
 
 41. <a id="endnote-41"></a>
    Source: arpansa.gov.au  
-   Link: [https://www.arpansa.gov.au/about-us/what-we-do/international-collaboration/ctbt](https://www.arpansa.gov.au/about-us/what-we-do/international-collaboration/ctbt)  
+   Link: <a href="https://www.arpansa.gov.au/about-us/what-we-do/international-collaboration/ctbt" target="_blank" rel="noopener noreferrer nofollow">https://www.arpansa.gov.au/about-us/what-we-do/international-collaboration/ctbt</a>  
 
 42. <a id="endnote-42"></a>
    Source: aanda.org  
-   Link: [https://www.aanda.org/component/article?access=doi&doi=10.1051%2F0004-6361%2F202141106](https://www.aanda.org/component/article?access=doi&doi=10.1051%2F0004-6361%2F202141106)  
+   Link: <a href="https://www.aanda.org/component/article?access=doi&amp;doi=10.1051%2F0004-6361%2F202141106" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/component/article?access=doi&amp;doi=10.1051%2F0004-6361%2F202141106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound signals of fireballs detected by the...by T Ott · 2021 · Cited by 13 — For 24 of those fireballs, a significant signature cou...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: blogs.nature.com  
    Title: russian meteor blast was the largest ever recorded  
-   Link: [https://blogs.nature.com/blog/russian-meteor-blast-was-the-largest-ever-recorded/](https://blogs.nature.com/blog/russian-meteor-blast-was-the-largest-ever-recorded/)  
+   Link: <a href="https://blogs.nature.com/blog/russian-meteor-blast-was-the-largest-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.nature.com/blog/russian-meteor-blast-was-the-largest-ever-recorded/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor blast was the largest ever recorded by...Jun 10, 2013 — Twenty infrasound monitoring stations around the world registered the exp...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: earthsky.org  
    Title: explosion from russian meteor heard round the world twice  
-   Link: [https://earthsky.org/earth/explosion-from-russian-meteor-heard-round-the-world-twice/](https://earthsky.org/earth/explosion-from-russian-meteor-heard-round-the-world-twice/)  
+   Link: <a href="https://earthsky.org/earth/explosion-from-russian-meteor-heard-round-the-world-twice/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/earth/explosion-from-russian-meteor-heard-round-the-world-twice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explosion from Russian meteor heard round the world | EarthJul 8, 2013 — The meteor that exploded over Chelyabinsk, Russia on February 15...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: physicstoday.aip.org  
    Title: locating explosions volcanoes and more with infrasound  
-   Link: [https://physicstoday.aip.org/quick-study/locating-explosions-volcanoes-and-more-with-infrasound](https://physicstoday.aip.org/quick-study/locating-explosions-volcanoes-and-more-with-infrasound)  
+   Link: <a href="https://physicstoday.aip.org/quick-study/locating-explosions-volcanoes-and-more-with-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/quick-study/locating-explosions-volcanoes-and-more-with-infrasound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>explosions, volcanoes, and more with infrasound1 Apr 2011 — The instruments in those [arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) listen for infrasound—that is, sound with fre...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: phys.org  
    Title: 2013 06 scientists russian meteor shockwave globe  
-   Link: [https://phys.org/news/2013-06-scientists-russian-meteor-shockwave-globe.html](https://phys.org/news/2013-06-scientists-russian-meteor-shockwave-globe.html)  
+   Link: <a href="https://phys.org/news/2013-06-scientists-russian-meteor-shockwave-globe.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-06-scientists-russian-meteor-shockwave-globe.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists say Russian meteor shockwave went twice...Jun 29, 2013 — Scientists have determined that an asteroid that burned up over Russ...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: csmonitor.com  
    Title: Russia meteor triggered nuclear warning system  
-   Link: [https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system](https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system)  
+   Link: <a href="https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christian Science MonitorRussia meteor triggered nuclear warning systemFeb 22, 2013 — When the space rock detonated, the blast was de...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ctbto_did-you-know-the-earth-makes-sounds-we-activity-7389239619684294656-yA9K](https://www.linkedin.com/posts/ctbto_did-you-know-the-earth-makes-sounds-we-activity-7389239619684294656-yA9K)  
+   Link: <a href="https://www.linkedin.com/posts/ctbto_did-you-know-the-earth-makes-sounds-we-activity-7389239619684294656-yA9K" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ctbto_did-you-know-the-earth-makes-sounds-we-activity-7389239619684294656-yA9K</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hat propagate in the atmosphere over large distances.Read more...</p></details>

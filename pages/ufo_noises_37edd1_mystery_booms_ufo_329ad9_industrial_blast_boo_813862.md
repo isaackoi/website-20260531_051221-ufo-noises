@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /booms/
 nav_short_title: Industrial Blasts
 title: When Ground Explosions Sound Like Sky Mysteries
-title_full: When Ground Explosions Sound Like Sky Mysteries | Booms
+title_full: When Ground Explosions Sound Like Sky Mysteries
 display_title_short: Industrial Blasts
 display_title: Industrial Blasts
 heading_title: When Ground Explosions Sound Like Sky Mysteries
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:58:59'
-parent_title: What Causes Mystery Booms in the Sky? | UFO Noises
+parent_title: What Causes Mystery Booms in the Sky?
 parent_permalink: /booms/
 parent_nav_short_title: Booms
 parent_heading_title: What Causes Mystery Booms in the Sky?
@@ -268,8 +268,7 @@ image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blas
 
 ## Introduction
 
-Not every loud “sky boom” begins in the sky. Some of the most dramatic sounds that trigger UFO rumours, meteor speculation or reports of mysterious aerial activity originate from the ground: quarry blasts, mining operations, demolition work, industrial accidents and other controlled or accidental explosions. When these events occur far from where people hear them, the source can become surprisingly difficult to identify. Sound waves may travel tens of kilometres, shake windows across several towns and seem to arrive from overhead rather than from a specific [direction]({{ 'direction/' | relative_url }}). In the first hours after a major boom, witnesses often know only that something powerful happened. That uncertainty is exactly the environment in which UFO theories and other extraordinary explanations tend to emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
-
+Not every loud “sky boom” begins in the sky. Some of the most dramatic sounds that trigger UFO rumours, meteor speculation or reports of mysterious aerial activity originate from the ground: quarry blasts, mining operations, demolition work, industrial accidents and other controlled or accidental explosions. When these events occur far from where people hear them, the source can become surprisingly difficult to identify. Sound waves may travel tens of kilometres, shake windows across several towns and seem to arrive from overhead rather than from a specific [direction]({{ 'direction/' | relative_url }}). In the first hours after a major boom, witnesses often know only that something powerful happened. That uncertainty is exactly the environment in which UFO theories and other extraordinary explanations tend to emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-1-dark.svg" | relative_url }}" alt="Industrial Blasts illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider history of mysterious [booms]({{ 'booms/' | relative_url }}) and UFO rumours, industrial explosions occupy an important but often overlooked category. They demonstrate how ordinary human activity can generate experiences that feel strange, airborne and unexplained even when the cause is entirely terrestrial.
@@ -286,8 +285,7 @@ Investigators examining reports of unexplained blasts repeatedly encounter the s
 
 **Construction and demolition projects** also contribute to mystery-boom reports. Large demolitions can produce shockwaves that spread well beyond the immediate site. In urban areas, echoes between buildings may distort the perceived direction of the sound, making it difficult for listeners to locate its origin.
 
-The United States Geological Survey notes that many reported [mystery booms]({{ 'booms/' | relative_url }}) ultimately trace back to human activity, including explosions, construction work and other industrial sources rather than unusual atmospheric or extraterrestrial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
-
+The United States Geological Survey notes that many reported mystery booms ultimately trace back to human activity, including explosions, construction work and other industrial sources rather than unusual atmospheric or extraterrestrial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHAdPb8rWfU" title="Mysterious explosions rock residents across the San Gabriel Valley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHAdPb8rWfU" target="_blank" rel="noopener noreferrer">Mysterious explosions rock residents across the San Gabriel Valley</a></p><p class="youtube-embed-meta">Channel: CBS LA &middot; Views: 27.4K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHAdPb8rWfU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHAdPb8rWfU">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +306,6 @@ As a result, a quarry explosion occurring many kilometres away may seem as thoug
 
 This mismatch between physical reality and human perception helps explain why some industrial events initially generate reports of UFOs, secret aircraft or unexplained aerial activity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lbbjO5xzQSk" title="Unexplained &#x27;Mysterious Booms&#x27; Heard Across the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer">Unexplained &#x27;Mysterious Booms&#x27; Heard Across the World</a></p><p class="youtube-embed-meta">Channel: Beyond Science &middot; Views: 220.1K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lbbjO5xzQSk">Open on YouTube</a></p></div></div></div>
 
 ## When Ground Explosions Create UFO Rumours
@@ -318,7 +315,6 @@ The social pattern surrounding industrial blasts often resembles the pattern see
 First, residents hear a loud explosion. Then social media fills with questions: “Did anyone else hear that?” Local emergency services receive calls. People compare experiences and discover the sound was heard across a surprisingly wide area. Because no obvious source is immediately visible, speculation expands rapidly.
 
 In many cases, witnesses describe features commonly associated with UFO stories:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +329,6 @@ In many cases, witnesses describe features commonly associated with UFO stories:
 These elements can make a routine industrial event feel extraordinary. The wider the affected area, the more likely people are to assume the source must have been airborne rather than local.
 
 Researchers and investigators of mystery-boom reports have repeatedly noted that quarry shots, mining blasts and industrial explosions belong to the list of common “look-alikes” that can resemble more exotic explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangesounds.org">[Strange Sounds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangesounds.org</span><span class="citation-popover-snippet">Look-alikes: sonic booms, transformer failures, quarry/mining shots...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-2-dark.svg" | relative_url }}" alt="Industrial Blasts illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical Examples of Industrial Explosions Misread as Larger Mysteries
@@ -362,14 +357,13 @@ Investigators typically compare several types of information:
 * Industrial incident reports.
 * Aircraft and military flight records.
 * Weather and atmospheric data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.economictimes.com">[m.economictimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.economictimes.com</span><span class="citation-popover-snippet">7 hours ago — Satellite data pinpointed the meteor&#x27;s atmospheric entry near Boston, prompting widespread reports to authorities. Experts...</span></span></span>
-* Reports from emergency services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">USGSEarthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
+* Reports from emergency services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
 
 </div>
 
 Sometimes the answer emerges quickly. In other cases, no single data source provides a clear match. A scheduled blast may not have been publicly announced, or atmospheric conditions may have carried the sound far beyond the expected area.
 
 This uncertainty explains why officials occasionally begin by saying the cause is unknown. That statement is often interpreted by the public as evidence of a mystery, when it may simply reflect the time required to compare multiple datasets and rule out alternatives.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8Yca2YhwOAg" title="INTERVIEW: Expert explains what causes a sonic boom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8Yca2YhwOAg" target="_blank" rel="noopener noreferrer">INTERVIEW: Expert explains what causes a sonic boom</a></p><p class="youtube-embed-meta">Channel: WIS News 10 &middot; Views: 266 &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8Yca2YhwOAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8Yca2YhwOAg">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +374,6 @@ Modern investigations rely heavily on pattern matching.
 When residents from different towns report hearing a boom at nearly the same time, officials can map those reports and compare them with known industrial activities. If witnesses describe similar timing but from different directions, the combined reports may help triangulate the source.
 
 Investigators also look for clues in what was *not* detected. For example:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -394,7 +387,6 @@ Investigators also look for clues in what was *not* detected. For example:
 Eliminating these possibilities often narrows attention toward industrial causes. The USGS notes that many reported booms eventually prove to be linked to human activity, even when the initial reports sounded mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
 
 The process highlights an important lesson in UFO-related boom reports: a lack of an immediate explanation is not the same thing as evidence for an extraordinary explanation.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-3-dark.svg" | relative_url }}" alt="Industrial Blasts illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Risk of Mistaking the Unknown for the Unusual
@@ -803,86 +795,86 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
 
 1. <a id="endnote-1"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds](https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USGSEarthquake Booms, [Seneca Guns](&amp;#123;&amp;#123; &#x27;seneca-guns/&#x27; | relative_url &amp;#125;&amp;#125;), and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</p></details>
+   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, [Seneca Guns](&amp;#123;&amp;#123; &#x27;seneca-guns/&#x27; | relative_url &amp;#125;&amp;#125;), and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ui.adsabs.harvard.edu  
    Title: NASA ADSThe propagation of sound from quarry blasting  
-   Link: [https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract](https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sibley Quarry explosion  
-   Link: [https://en.wikipedia.org/wiki/Sibley_Quarry_explosion](https://en.wikipedia.org/wiki/Sibley_Quarry_explosion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sibley_Quarry_explosion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sibley_Quarry_explosion</a>  
 
 4. <a id="endnote-4"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/programs/earthquake-hazards/sonic-booms](https://www.usgs.gov/programs/earthquake-hazards/sonic-booms)  
+   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/sonic-booms</a>  
 
 5. <a id="endnote-5"></a>
    Source: strangesounds.org  
-   Link: [https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions](https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions)  
+   Link: <a href="https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions" target="_blank" rel="noopener noreferrer nofollow">https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Look-alikes: sonic booms, transformer failures, quarry/mining shots...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: m.economictimes.com  
-   Link: [https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms](https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms)  
+   Link: <a href="https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms" target="_blank" rel="noopener noreferrer nofollow">https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 hours ago — Satellite data pinpointed the meteor&#x27;s atmospheric entry near Boston, prompting widespread reports to authorities. Experts...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/](https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/)  
+   Link: <a href="https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOUD SOUND: IT WAS A SONIC BOOM. The U.S....LOUD SOUND: IT WAS A SONIC BOOM. The U.S. Geological Survey says a sonic boom was detected n...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/](https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/)  
+   Link: <a href="https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Sydney WelchMystery &#x27;Booms,&#x27; Possible Meteor Explosions, Reported Over Southwestern Pennsylvania I have been receiving repo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/](https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/)  
+   Link: <a href="https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>USGS confirms sonic boom in Richland County.USGS logs these when the waveform matches quarry blasting or... The loud BOOM heard and felt...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lbbjO5xzQSk](https://www.youtube.com/watch?v=lbbjO5xzQSk)  
+   Link: <a href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lbbjO5xzQSk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained &#x27;Mysterious Booms&#x27; Heard Across the WorldLoud mysterious sounds have been heard booming from the sky all around the world and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: avi-loeb.medium.com  
    Title: mystery sound of an unidentified anomalous phenomenon 09d1cb461cd2  
-   Link: [https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2](https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2)  
+   Link: <a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of an Unidentified Anomalous PhenomenonA sudden release of energy within a small volume sends a blast wave through the Earth&#x27;s atmo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: 9news.com  
-   Link: [https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e](https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e)  
+   Link: <a href="https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e" target="_blank" rel="noopener noreferrer nofollow">https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pretty distinctive of a bolide/meteor reentry east of Boston,&quot; he wrote.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nhregister.com  
    Title: loud boom heard eastern massachusetts 22284062  
-   Link: [https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php](https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php)  
+   Link: <a href="https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow">https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor triggers &#x27;sonic boom&#x27; in New England, NASA says2 hours ago — NASA said a meteor traveling about 75000 mph broke up over northeast...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/](https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/)  
+   Link: <a href="https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>losions... UPDATE: USGS is reporting that the boom was from a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: INTERVIEW: Expert explains what causes a sonic boom  
-   Link: [https://www.youtube.com/watch?v=8Yca2YhwOAg](https://www.youtube.com/watch?v=8Yca2YhwOAg)  
+   Link: <a href="https://www.youtube.com/watch?v=8Yca2YhwOAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Yca2YhwOAg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Finally Explain the Mysterious Booms Heard Around the World - YouTube Scientists Finally Explain the Mysterious Booms Heard Ar...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: moneycontrol.com  
    Title: Was that a "Sonic Boom"?  
-   Link: [https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html](https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html)  
+   Link: <a href="https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Carolina&#x27;s mystery blast...22 hours ago — A mysterious boom echoed across parts of South Carolina, leaving residents startled, pet...</p></details>

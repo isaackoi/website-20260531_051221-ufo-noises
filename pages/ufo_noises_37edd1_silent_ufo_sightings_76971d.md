@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Silence
 title: Why Are Some UFOs Reported Silent?
-title_full: Why Are Some UFOs Reported Silent? | UFO Noises
+title_full: Why Are Some UFOs Reported Silent?
 display_title_short: Silence
 display_title: Silence
 heading_title: Why Are Some UFOs Reported Silent?
@@ -354,7 +354,6 @@ image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview-soc
 
 One of the most persistent features in UFO reports is not a strange sound but the absence of one. Witnesses often describe large, low-flying or apparently fast-moving objects that seemed completely silent. In many accounts, people expected to hear engines, rotors or jet noise and instead reported only stillness. That contrast has become a central part of UFO lore.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-overview.webp" | relative_url }}" alt="Overview image for Silence" loading="eager" decoding="sync" fetchpriority="high">
 The key question is whether these objects were genuinely silent or merely seemed silent from the witness's position. Acoustics, weather, distance, background noise and human perception can all affect how sound is experienced. At the same time, some reports remain difficult to reconcile with ordinary expectations, especially when witnesses claim that a large object passed nearby without any obvious engine noise.
 
@@ -363,7 +362,6 @@ The key question is whether these objects were genuinely silent or merely seemed
 When people report a silent UFO, they rarely mean an absolute absence of sound measured by instruments. Most accounts describe a situation in which a witness expected a familiar [aircraft]({{ 'aircraft/' | relative_url }}) noise and did not hear it.
 
 Common descriptions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,7 +377,6 @@ This distinction matters because witnesses usually judge silence against everyda
 
 Many classic “black triangle” reports emphasise this point. During the Belgian UFO wave of 1989–1990, numerous witnesses described large triangular objects with lights underneath that appeared to move slowly and quietly across the sky. Silence became one of the most repeated elements in those accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" alt="Silence illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Large Objects Can Appear Silent
 
@@ -393,7 +390,6 @@ Weather further complicates matters. Wind [direction]({{ 'direction/' | relative
 
 As a result, an aircraft can occasionally seem much quieter than expected, particularly:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * At night.
@@ -406,7 +402,6 @@ As a result, an aircraft can occasionally seem much quieter than expected, parti
 
 Researchers examining the Belgian UFO wave specifically suggested that some reports of silent objects could have been influenced by witnesses hearing little or no engine noise because of wind conditions or because they were [inside cars]({{ 'inside-cars/' | relative_url }}) where ambient noise masked external sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbQhrIRCs-c" title="This European UFO Was Spotted by Thousands of People | Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer">This European UFO Was Spotted by Thousands of People | Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 7.6K &middot; Uploaded: January 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbQhrIRCs-c">Open on YouTube</a></p></div></div></div>
 
 ## Distance and Atmospheric Masking
@@ -415,8 +410,7 @@ One reason silence features so heavily in UFO reports is that humans are general
 
 A bright light can appear close even when it is many kilometres away. If observers believe an object is directly overhead when it is actually distant, they may expect a level of sound that would never realistically reach them.
 
-Atmospheric masking can reinforce that impression. Aircraft-noise studies show that sound propagation is affected by temperature, humidity, terrain and wind. Noise may weaken, scatter or travel unevenly across large distances. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascent.aero">[ascent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascent.aero</span><span class="citation-popover-title">Project 1 | Low Frequency Noise Study</span><span class="citation-popover-snippet">It encompassed many factors, including the source level and its...Read more...</span></span></span> This creates situations where:
-
+Atmospheric masking can reinforce that impression. Aircraft-noise studies show that sound propagation is affected by temperature, humidity, terrain and wind. Noise may weaken, scatter or travel unevenly across large distances. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascent.aero">[ascent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascent.aero</span><span class="citation-popover-title">Project 1 &#124; Low Frequency Noise Study</span><span class="citation-popover-snippet">It encompassed many factors, including the source level and its...Read more...</span></span></span> This creates situations where:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -427,8 +421,7 @@ Atmospheric masking can reinforce that impression. Aircraft-noise studies show t
 
 </div>
 
-Modern aviation noise research exists largely because sound transmission is complex and often counterintuitive. Airports and regulators use detailed modelling systems precisely because noise does not spread evenly through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Noisequest For UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Belgian UFO Wave | Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</span></span></span>, that means silence alone is not strong evidence that an object lacked propulsion. It may instead reflect how sound travelled between the source and the observer.
-
+Modern aviation noise research exists largely because sound transmission is complex and often counterintuitive. Airports and regulators use detailed modelling systems precisely because noise does not spread evenly through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Noisequest For UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Belgian UFO Wave &#124; Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</span></span></span>, that means silence alone is not strong evidence that an object lacked propulsion. It may instead reflect how sound travelled between the source and the observer.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" alt="Silence illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Missing Sonic Boom Problem
@@ -445,7 +438,6 @@ Believers, by contrast, often argue that the absence of sonic [booms]({{ 'booms/
 
 The difficulty is that most cases lack the instrument data needed to determine the object's actual speed, altitude or trajectory. Without those measurements, it is rarely possible to know whether a sonic boom should have occurred in the first place.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Om0d0u1ASJY" title="The Impossible to Debunk UFO Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Om0d0u1ASJY" target="_blank" rel="noopener noreferrer">The Impossible to Debunk UFO Events</a></p><p class="youtube-embed-meta">Channel: Good Enough &middot; Views: 712.9K &middot; Uploaded: October 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Om0d0u1ASJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Om0d0u1ASJY">Open on YouTube</a></p></div></div></div>
 
 ## The Belgian UFO Wave and the Silence Narrative
@@ -454,7 +446,7 @@ Few UFO episodes illustrate the role of silence better than the Belgian UFO wave
 
 Between late 1989 and 1990, thousands of people reported seeing unusual aerial objects, often described as triangular and illuminated. Witnesses repeatedly claimed the objects moved slowly and quietly, despite appearing large and relatively low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span> The silence became one of the defining characteristics of the sightings. Reports commonly described:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[* Large triangular forms.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[* Bright corner lights.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span>
+* Large triangular forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span> * Bright corner lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span>
 * Slow, controlled movement.
 * Little or no audible engine noise.
 
@@ -463,7 +455,6 @@ However, the Belgian wave also demonstrates why silence is difficult to interpre
 Researchers who favoured conventional explanations argued that helicopters, aircraft, atmospheric conditions and witness expectations could explain at least part of the silence narrative. Others maintained that the volume and consistency of witness testimony made the reports noteworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 The case remains influential because it shows how silence can become a central feature of a mass sighting event even when the underlying explanations remain disputed.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-dark.svg" | relative_url }}" alt="Silence illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Silent Flight as UFO Lore
@@ -477,7 +468,6 @@ This cultural expectation may influence later reports. Once people become famili
 That does not mean witnesses are inventing what they saw. Rather, unusual experiences are often filtered through existing mental frameworks. A person who notices an unfamiliar light may later remember not only its appearance but also the striking absence of expected sound.
 
 The result is a feedback loop:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -498,9 +488,7 @@ On the other hand, the persistence of silent-object reports across decades has m
 
 That does not prove the existence of extraordinary technology. It does explain why silence remains such a durable element of UFO reports. The mystery is not merely what people claim to have seen, but why so many accounts describe a missing sound that observers strongly expected to hear.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UBlJlBQdv5w" title="Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer">Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips &middot; Views: 25.7K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UBlJlBQdv5w">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -899,106 +887,106 @@ That does not prove the existence of extraordinary technology. It does explain w
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
 2. <a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Belgian UFO  
-   Link: [https://unsolved.com/gallery/belgian-ufo/](https://unsolved.com/gallery/belgian-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/policy_guidance/noise/community](https://www.faa.gov/regulations_policies/policy_guidance/noise/community)  
+   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: [https://www.faa.gov/noise/aircraft_noise](https://www.faa.gov/noise/aircraft_noise)  
+   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Noise exposure reduction. The number of people exposed to significant noise le...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ascent.aero  
    Title: Project 1 | Low Frequency Noise Study  
-   Link: [https://ascent.aero/partner-1/](https://ascent.aero/partner-1/)  
+   Link: <a href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/partner-1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It encompassed many factors, including the source level and its...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/policy_guidance/noise/basics](https://www.faa.gov/regulations_policies/policy_guidance/noise/basics)  
+   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/basics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Noise and Sound29 Mar 2022 — DNL is the standard noise metric used for all FAA studies of aviation noise exposure in airp...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/noise/levels](https://www.faa.gov/noise/levels)  
+   Link: <a href="https://www.faa.gov/noise/levels" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/levels</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Levels &amp; Stages22 Jul 2022 — The FAA regulates the maximum noise level that an individual civil aircraft can emit through...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
    Title: community response  
-   Link: [https://www.faa.gov/noise/aviation_noise/community_response](https://www.faa.gov/noise/aviation_noise/community_response)  
+   Link: <a href="https://www.faa.gov/noise/aviation_noise/community_response" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aviation_noise/community_response</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Noise22 Jul 2022 — Using the day-night average sound level. To describe the effects of environmental noise in a simple, uniform and ap...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&l=zh-Hans-CN](https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&l=zh-Hans-CN)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave | Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/538](https://skeptoid.com/episodes/538)  
+   Link: <a href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/538</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Impacts: State of the Science - PMCby M Basner · 2017 · Cited by 300 — Aircraft noise is one, if not the most detrimental environme...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: flylakeland.com  
-   Link: [https://www.flylakeland.com/aircraft-noise](https://www.flylakeland.com/aircraft-noise)  
+   Link: <a href="https://www.flylakeland.com/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.flylakeland.com/aircraft-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseFor example, changes in outside air temperature can influence how far noise travels as well as how quickly an aircraft clim...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c](https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c)  
+   Link: <a href="https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutting Through All the Noise. How the FAA is Working...The FAA began using a DNL of 65 dBA as a threshold for significant noise exposur...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: flyreagan.com  
-   Link: [https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology](https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology)  
+   Link: <a href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: noisequest.psu.edu  
-   Link: [https://www.noisequest.psu.edu/noisebasics.html](https://www.noisequest.psu.edu/noisebasics.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NoisequestNoise BasicsThe FAA&#x27;s Aviation Environmental Design Tool (AEDT) is a new software tool consisting of models to evaluate how noi...</p></details>
+   Link: <a href="https://www.noisequest.psu.edu/noisebasics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noisequest.psu.edu/noisebasics.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise BasicsThe FAA&#x27;s Aviation Environmental Design Tool (AEDT) is a new software tool consisting of models to evaluate how noi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dfw.noiselab.casper.aero  
-   Link: [https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1](https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1)  
+   Link: <a href="https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1" target="_blank" rel="noopener noreferrer nofollow">https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseThe level of noise generated varies according to aircraft size and type and can differ even for identical aircraft dependin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/957662861711333/posts/2228812577929682/](https://www.facebook.com/groups/957662861711333/posts/2228812577929682/)  
+   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
 
 19. <a id="endnote-19"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: [https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave](https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave)  
+   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years laterMar 30, 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myst...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
    Title: tr 3b black triangle ufo reverse engineering or sdi legacy 948e6cb35751  
-   Link: [https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751](https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751)  
+   Link: <a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The modern Black Triangle narrative ignites in late-1989 Belgium, where police lo...</p></details>

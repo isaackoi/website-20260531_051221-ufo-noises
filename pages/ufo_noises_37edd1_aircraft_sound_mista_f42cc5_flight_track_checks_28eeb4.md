@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aircraft/
 nav_short_title: Flight Checks
 title: How to Check a Strange Aircraft Sound
-title_full: How to Check a Strange Aircraft Sound | Aircraft
+title_full: How to Check a Strange Aircraft Sound
 display_title_short: Flight Checks
 display_title: Flight Checks
 heading_title: How to Check a Strange Aircraft Sound
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:02:51'
-parent_title: When Aircraft Sounds Become UFO Stories | UFO Noises
+parent_title: When Aircraft Sounds Become UFO Stories
 parent_permalink: /aircraft/
 parent_nav_short_title: Aircraft
 parent_heading_title: When Aircraft Sounds Become UFO Stories
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track
 
 A strange roar, hum or pulsing vibration in the night sky does not automatically point to an unknown aerial phenomenon. One of the most useful first checks is whether [aircraft]({{ 'aircraft/' | relative_url }}) activity matches the time, [direction]({{ 'direction/' | relative_url }}) and character of the sound. Public flight-tracking tools have made this easier than ever, but they are often misunderstood. People sometimes search a tracking app, see nothing obvious, and conclude that the noise came from something unidentifiable. In reality, many ordinary flights are difficult to spot, delayed on public feeds, hidden by coverage gaps or intentionally absent from consumer tracking services.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-1-dark.svg" | relative_url }}" alt="Flight Checks illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A basic flight-check routine cannot explain every unusual sound, but it can eliminate a large number of false mysteries. The goal is not to prove that every report has a conventional explanation. It is to avoid treating an aircraft noise as unexplained before the most obvious aviation possibilities have been examined.
 
@@ -307,7 +306,6 @@ A useful habit is to compare the reported time against multiple flight-tracking 
 
 When investigating an unusual sky sound, a simple sequence works better than immediately searching for exotic explanations.
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Check major flight-tracking services** for the reported time and location.
@@ -325,7 +323,6 @@ Turboprops may create fluctuating droning tones.
 
 This approach often reveals that a supposedly mysterious sound coincided with a cargo departure, military exercise, medical helicopter transit or aircraft holding pattern.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-gQZh-Hurtc" title="Uncover the Secrets of the Sky: Setting Up ADSB Exchange for Airplane Tracking!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-gQZh-Hurtc" target="_blank" rel="noopener noreferrer">Uncover the Secrets of the Sky: Setting Up ADSB Exchange for Airplane Tracking!</a></p><p class="youtube-embed-meta">Channel: Temporarily Offline &middot; Views: 16.6K &middot; Uploaded: March 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-gQZh-Hurtc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-gQZh-Hurtc">Open on YouTube</a></p></div></div></div>
 
 ## Why Some Flights Are Easy to Miss
@@ -338,10 +335,9 @@ However, several factors can prevent a flight from appearing.
 
 ### Coverage Gaps
 
-Flight-tracking websites depend on networks of receivers. If an aircraft is flying low, behind terrain or outside receiver coverage, its track may be incomplete or absent. Researchers studying ADS-B networks have repeatedly noted that coverage varies significantly by geography and sensor placement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
+Flight-tracking websites depend on networks of receivers. If an aircraft is flying low, behind terrain or outside receiver coverage, its track may be incomplete or absent. Researchers studying ADS-B networks have repeatedly noted that coverage varies significantly by geography and sensor placement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
 
 This is especially relevant for:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,7 +349,6 @@ This is especially relevant for:
 </div>
 
 A listener may hear the aircraft clearly while the tracking network receives little or no usable position data.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-2-dark.svg" | relative_url }}" alt="Flight Checks illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Helicopters Frequently Create Confusion
@@ -374,14 +369,13 @@ Some military aircraft operate with transponders disabled, use restricted broadc
 
 This creates an important distinction: a missing flight track is not evidence of an unidentified object. It may simply indicate that the aircraft was not publicly visible on the service being checked.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8eJk0zij1iM" title="OSINT At Home #18 – How to track and find planes and flights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8eJk0zij1iM" target="_blank" rel="noopener noreferrer">OSINT At Home #18 – How to track and find planes and flights</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 19.8K &middot; Uploaded: June 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8eJk0zij1iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8eJk0zij1iM">Open on YouTube</a></p></div></div></div>
 
 ## Public Trackers Do Not Show the Same Sky
 
 Many people assume that all flight-tracking websites draw from the same information. In practice, they differ substantially.
 
-Some platforms prioritise commercial airline traffic. Others display a broader range of ADS-B and multilateration data. Multilateration, often abbreviated MLAT, estimates aircraft positions by comparing signal arrival times at multiple receivers and can reveal aircraft that lack full ADS-B position broadcasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spire.com">[Spire: Global Data and Analytics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spire.com</span><span class="citation-popover-snippet">Spire: Global Data and AnalyticsUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines...</span></span></span>
+Some platforms prioritise commercial airline traffic. Others display a broader range of ADS-B and multilateration data. Multilateration, often abbreviated MLAT, estimates aircraft positions by comparing signal arrival times at multiple receivers and can reveal aircraft that lack full ADS-B position broadcasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spire.com">[Spire: Global Data and Analytics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spire.com</span><span class="citation-popover-snippet">Global Data and AnalyticsUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines...</span></span></span>
 
 Because services apply different filtering rules, an aircraft hidden on one site may be visible on another. Aviation forums contain many examples of military, police or government aircraft appearing on one tracker while remaining absent on another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/flightradar24/comments/x8p5pu/do_military_helicopters_show_up_on_flightradar_i/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Do military helicopters show up on Flightradar?</span><span class="citation-popover-snippet">I just heard...Flightradar24 offers a service to selected agencies to not show their ADSB on the map, filtering them out. Some military...</span></span></span>
 
@@ -399,14 +393,12 @@ This does not mean aircraft become invisible to air traffic control. It means pu
 
 For UFO-noise investigations, the practical lesson is simple: an empty tracking screen is not proof that no aircraft were present.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-3-dark.svg" | relative_url }}" alt="Flight Checks illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_flight_track_checks_28eeb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Flight Checks Solve the Mystery
 
 A large share of reported [sky sounds]({{ 'sky-sounds/' | relative_url }}) become less mysterious once flight activity is examined carefully.
 
 Typical examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -420,7 +412,6 @@ Typical examples include:
 
 In many cases, witnesses focus on the absence of visible aircraft rather than on the sound itself. Yet visibility and audibility are affected by different physical conditions. A cloud-hidden aircraft may be acoustically obvious while remaining visually undetectable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qFLUny5A18E" title="How to use ADS-B Exchange to track aircraft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qFLUny5A18E" target="_blank" rel="noopener noreferrer">How to use ADS-B Exchange to track aircraft</a></p><p class="youtube-embed-meta">Channel: News Now Community &middot; Views: 10.2K &middot; Uploaded: October 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qFLUny5A18E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qFLUny5A18E">Open on YouTube</a></p></div></div></div>
 
 ## Limits of Public Flight Tracking
@@ -428,7 +419,6 @@ In many cases, witnesses focus on the absence of visible aircraft rather than on
 Flight checks are valuable, but they are not perfect.
 
 Several limitations remain:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -842,149 +832,149 @@ The most reliable approach is to combine [witness notes]({{ 'witness-notes/' | r
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: [https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.06254](https://arxiv.org/abs/2505.06254)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</p></details>
    Published: May 1, 2025  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Towards Security-Optimized Placement of ADS-B [Sensors](&#123;&#123; 'sensors/' | relative_url &#125;&#125;)  
-   Link: [https://arxiv.org/abs/2204.01994](https://arxiv.org/abs/2204.01994)  
+   Link: <a href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.01994</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Some helicopters that fly over do not show on flight radar  
-   Link: [https://www.reddit.com/r/aviation/comments/bzrm6w/some_helicopters_that_fly_over_do_not_show_on/](https://www.reddit.com/r/aviation/comments/bzrm6w/some_helicopters_that_fly_over_do_not_show_on/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/bzrm6w/some_helicopters_that_fly_over_do_not_show_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/bzrm6w/some_helicopters_that_fly_over_do_not_show_on/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 12, 2019 — I see at least 3-4 helicopters fly by that do not show on flight radar. I know that military aircraft will not show a fli...</p></details>
    Published: June 12, 2019  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/](https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/1lv0bin/hi_what_does_it_mean_when_there_are_helicopters/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>they were in an area with little/no ground receivers.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: Do military helicopters show up on Flightradar?  
-   Link: [https://www.reddit.com/r/flightradar24/comments/x8p5pu/do_military_helicopters_show_up_on_flightradar_i/](https://www.reddit.com/r/flightradar24/comments/x8p5pu/do_military_helicopters_show_up_on_flightradar_i/)  
+   Link: <a href="https://www.reddit.com/r/flightradar24/comments/x8p5pu/do_military_helicopters_show_up_on_flightradar_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/x8p5pu/do_military_helicopters_show_up_on_flightradar_i/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I just heard...Flightradar24 offers a service to selected agencies to not show their ADSB on the map, filtering them out. Some military...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: spire.com  
-   Link: [https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/](https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spire: Global Data and AnalyticsUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines...</p></details>
+   Link: <a href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Data and AnalyticsUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/privacy](https://www.faa.gov/air_traffic/technology/equipadsb/privacy)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The FAA acknowledges the desire of some operators to limit the availability of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aerospace.honeywell.com  
    Title: Aerospace ADS-B Privacy  
-   Link: [https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy](https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy)  
+   Link: <a href="https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Honeywell AerospaceADS-B Privacy - What You Need to KnowThis program, now called Limiting Aircraft Data Displayed (LADD), prevents aircra...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq](https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions | Federal Aviation Administration1 Aug 2025 — In order to comply with 14 CFR 91.225 and 91.227, aircraft inten...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Police aviation  
-   Link: [https://en.wikipedia.org/wiki/Police_aviation](https://en.wikipedia.org/wiki/Police_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Police_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Police_aviation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Police aviation - WikipediaFlight tracking - WikipediaStupid question maybe.... Why cant we see police helicopters...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/](https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e flying in FAA-controlled airspace, and sometimes even when they&#x27;re not.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/](https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Neither radar nor hobbyist tracking has perfect coverage of the U.S., let...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/1kb11mw/military_running_with_less_adsb_lately/](https://www.reddit.com/r/ADSB/comments/1kb11mw/military_running_with_less_adsb_lately/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/1kb11mw/military_running_with_less_adsb_lately/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/1kb11mw/military_running_with_less_adsb_lately/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing very little info. Anyone else notice a reduction in visibility of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/1es3h7o/adsb_public_flight_tracking/](https://www.reddit.com/r/ADSB/comments/1es3h7o/adsb_public_flight_tracking/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/1es3h7o/adsb_public_flight_tracking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/1es3h7o/adsb_public_flight_tracking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB public flight trackingWe are experiencing privacy issues with our flights being tracked. I am reviewing our options to block public...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aviationtoday.com  
    Title: new rule allows military aircraft turn ads b transmissions off  
-   Link: [https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/](https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/)  
+   Link: <a href="https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Tech TodayNew Rule Allows Military Aircraft to Turn Off ADS-B...Jul 23, 2019 — Under the FAA&#x27;s new ADS-B off rule, defense airc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: forum.scope.org.uk  
-   Link: [https://forum.scope.org.uk/discussion/143312/helicopters](https://forum.scope.org.uk/discussion/143312/helicopters)  
+   Link: <a href="https://forum.scope.org.uk/discussion/143312/helicopters" target="_blank" rel="noopener noreferrer nofollow">https://forum.scope.org.uk/discussion/143312/helicopters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scope.org.ukHelicopters17 Jan 2026 — There is a website you can use that shows planes and helicopters in your area in real time. You can...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)  
+   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Exchange: Serving the Flight Tracking EnthusiastThe world&#x27;s largest community of unfiltered ADS-B/Mode S/MLAT feeders, providing en...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: flightaware.com  
-   Link: [https://www.flightaware.com/adsb/](https://www.flightaware.com/adsb/)  
+   Link: <a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Flight TrackingMajor metropolitan areas that currently lack significant coverage include: Asia. Bhutan; Busan; Cambodia; Cebu; Chin...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nbaa.org  
-   Link: [https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/](https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/)  
+   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Privacy FAQFlight-tracking vendors may not display historical data for any aircraft registration or call sign while the aircraft is...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/api/aircraft/v2/docs](https://www.adsbexchange.com/api/aircraft/v2/docs)  
+   Link: <a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retrieval of detailed...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-products/](https://www.adsbexchange.com/data-products/)  
+   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsUltra-low-latency global aircraft positions delivered every 500 milliseconds, built for high-volume, real-time tracking at w...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nbaa.org  
-   Link: [https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/](https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/)  
+   Link: <a href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Permits ADS-B Off for Military, Other Sensitive FlightsThe Federal Aviation Administration (FAA) published an interim final rule that...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cs.ox.ac.uk  
-   Link: [https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf](https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf)  
+   Link: <a href="https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Improving the Privacy ICAO Address...by G Michel · Cited by 3 — Further to this, the FAA has long had its own privacy program called...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: aef.org.uk  
-   Link: [https://www.aef.org.uk/guides/understanding-aircraft-noise/](https://www.aef.org.uk/guides/understanding-aircraft-noise/)  
+   Link: <a href="https://www.aef.org.uk/guides/understanding-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aef.org.uk/guides/understanding-aircraft-noise/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/348704483442978/posts/1039851440994942/](https://www.facebook.com/groups/348704483442978/posts/1039851440994942/)  
+   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/1039851440994942/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/1039851440994942/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not all aircraft are required to have ADS-B. Quite common for helicopters &amp; crop dusters not to show up.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: support.fr24.com  
    Title: 3000117426 why is some aircraft information limited or not visible  
-   Link: [https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-](https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-)  
+   Link: <a href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is some aircraft information limited or not visible?15 Apr 2025 — Information about a small number of flights may be limited or blocked a...</p></details>

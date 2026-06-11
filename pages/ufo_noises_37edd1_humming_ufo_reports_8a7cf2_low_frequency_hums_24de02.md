@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /humming/
 nav_short_title: Low Hums
 title: Why Low Hums Feel So Strange
-title_full: Why Low Hums Feel So Strange | Humming
+title_full: Why Low Hums Feel So Strange
 display_title_short: Low Hums
 display_title: Low Hums
 heading_title: Why Low Hums Feel So Strange
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:58:51'
-parent_title: Why Do So Many UFOs Hum? | UFO Noises
+parent_title: Why Do So Many UFOs Hum?
 parent_permalink: /humming/
 parent_nav_short_title: Humming
 parent_heading_title: Why Do So Many UFOs Hum?
@@ -276,7 +276,6 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency
 
 Many reports of [humming]({{ 'humming/' | relative_url }}) UFOs describe a sound that does not behave like an ordinary engine noise. Witnesses often say the hum seemed to come from everywhere at once, felt stronger than it sounded, or created a sensation of pressure in the chest, ears or even the floor beneath them. These descriptions match several known properties of low-frequency sound. Unlike higher-pitched noises, low frequencies travel long distances, pass through walls and can be difficult for the brain to locate precisely. They can also produce physical sensations that feel detached from a clear source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-1-dark.svg" | relative_url }}" alt="Low Hums illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That combination helps explain why low hums acquire a mysterious reputation in UFO reports. Even when the original source is ordinary, the way low-frequency sound spreads and is perceived can make it feel strangely present, difficult to verify and unusually personal.
 
@@ -289,7 +288,6 @@ Instead of being blocked easily by buildings, trees or terrain, low-frequency vi
 The result is a common feature of both UFO hum reports and wider "Hum" investigations: people often describe the sound as surrounding them rather than approaching from a particular [direction]({{ 'direction/' | relative_url }}). Researchers studying reports such as the [Taos Hum]({{ 'taos-hum/' | relative_url }}) and similar cases worldwide have repeatedly encountered descriptions of a persistent low-frequency drone that listeners struggle to locate spatially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
 
 This directional uncertainty matters psychologically. Humans are used to identifying the source of most sounds quickly. When a sound resists localisation, it feels abnormal. A witness who is already looking at an unusual light or object in the sky may naturally connect the unexplained sound to the unexplained sight.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JxOMOP-jvPg" title="Mystery of the Hum in Ocean’s Twilight Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JxOMOP-jvPg" target="_blank" rel="noopener noreferrer">Mystery of the Hum in Ocean’s Twilight Zone</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 16.8K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JxOMOP-jvPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JxOMOP-jvPg">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +309,6 @@ The chest is especially sensitive because it contains large air-filled spaces th
 
 This helps explain a recurring phrase in UFO testimony: witnesses often say they "felt" the hum. In many accounts, the vibration itself becomes the memorable detail. The sound is described less as something heard and more as an environmental condition that filled the area.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-2-dark.svg" | relative_url }}" alt="Low Hums illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Link Between Physical Sensation and Unease
 
@@ -320,7 +317,6 @@ Researchers studying infrasound have also examined whether very low frequencies 
 Recent experimental work found that participants exposed to 18-hertz infrasound could not reliably detect when it was present, yet showed changes in mood and stress-related measures. Researchers proposed that such effects may help explain why certain locations feel unsettling despite lacking an obvious sensory cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span>
 
 For UFO witnesses, this creates an important interpretive problem. A low-frequency vibration associated with an unusual sight may intensify the emotional impact of the experience. The physical discomfort becomes part of the [memory]({{ 'memory/' | relative_url }}), making the event feel more significant and more difficult to dismiss.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-3-dark.svg" | relative_url }}" alt="Low Hums illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_low_frequency_hums_24de02-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some Listeners Hear What Others Miss
@@ -335,8 +331,7 @@ First, human sensitivity to low frequencies varies substantially. Hearing thresh
 
 Second, buildings and rooms can create complex standing-wave patterns. Moving only a short distance may place one person in a zone where the vibration is reinforced while another stands in a location where it is reduced. This can make a sound appear selective even when it is physically present throughout an area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15273023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The dynamic range of the auditory system decreases with decreasing frequency. This compression can be seen...Read more...</span></span></span>
 
-Third, some reported hums may involve a mixture of external sound and internal perception. Researchers investigating [environmental hum]({{ 'hum-analogues/' | relative_url }}) phenomena have explored possible links to tinnitus, low-frequency auditory effects and individual hearing characteristics. The evidence does not support a single explanation, but it does show that human perception plays a larger role at low frequencies than many people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917690931" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLow frequency and infrasound: A critical review of the...Interpretation of data from experimental research has raised conce...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
-
+Third, some reported hums may involve a mixture of external sound and internal perception. Researchers investigating environmental hum phenomena have explored possible links to tinnitus, low-frequency auditory effects and individual hearing characteristics. The evidence does not support a single explanation, but it does show that human perception plays a larger role at low frequencies than many people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1029864917690931" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLow frequency and infrasound: A critical review of the...Interpretation of data from experimental research has raised conce...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinnitusjournal.com">[The International Tinnitus Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinnitusjournal.com</span><span class="citation-popover-snippet">The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_NJsDFR5Yh8" title="The Haunting Hymn of the Taos Hum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_NJsDFR5Yh8" target="_blank" rel="noopener noreferrer">The Haunting Hymn of the Taos Hum</a></p><p class="youtube-embed-meta">Channel: Great Big Story &middot; Views: 362.5K &middot; Uploaded: October 2017 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_NJsDFR5Yh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_NJsDFR5Yh8">Open on YouTube</a></p></div></div></div>
 
@@ -348,9 +343,7 @@ When people encounter a surprising aerial object, they naturally try to combine 
 
 What makes low hums memorable is not simply that they sound unusual. It is that they challenge ordinary expectations about how sound should behave. A noise that seems directionless, enters through walls, resonates through the body and is heard by only some people already feels mysterious before any UFO enters the picture. Once an unusual sighting is added, the hum can become one of the most convincing parts of the witness's memory precisely because it felt so real and so difficult to explain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zy_ctHNLan8" title="The Controversial Sound Only 2% Of People Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zy_ctHNLan8" target="_blank" rel="noopener noreferrer">The Controversial Sound Only 2% Of People Hear</a></p><p class="youtube-embed-meta">Channel: Benn Jordan &middot; Views: 6.8M &middot; Uploaded: March 2024 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zy_ctHNLan8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zy_ctHNLan8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,135 +741,135 @@ What makes low hums memorable is not simply that they sound unusual. It is that 
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Infrasound](https://en.wikipedia.org/wiki/Infrasound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/15273023/](https://pubmed.ncbi.nlm.nih.gov/15273023/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15273023/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15273023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The dynamic range of the auditory system decreases with decreasing frequency. This compression can be seen...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38104341/](https://pubmed.ncbi.nlm.nih.gov/38104341/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedImpact of infrasound and low frequency noise on human...by PŁ Małgorzata · 2023 · Cited by 1 — This paper summarizes the currently...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38104341/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38104341/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of infrasound and low frequency noise on human...by PŁ Małgorzata · 2023 · Cited by 1 — This paper summarizes the currently...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ft.com  
    Title: Financial Times The international mystery of 'the Hum'  
-   Link: [https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483](https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483)  
+   Link: <a href="https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/69d94162-8580-4001-96ea-42675739d483</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne Conner, a resident of Holmfield, initially reported the phenomenon, leading to the discovery of many others worldwide experiencing...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: relentlessbeats.com  
    Title: bass frequencies body physics why you feel certain songs in your chest  
-   Link: [https://relentlessbeats.com/2026/02/bass-frequencies-body-physics-why-you-feel-certain-songs-in-your-chest/](https://relentlessbeats.com/2026/02/bass-frequencies-body-physics-why-you-feel-certain-songs-in-your-chest/)  
+   Link: <a href="https://relentlessbeats.com/2026/02/bass-frequencies-body-physics-why-you-feel-certain-songs-in-your-chest/" target="_blank" rel="noopener noreferrer nofollow">https://relentlessbeats.com/2026/02/bass-frequencies-body-physics-why-you-feel-certain-songs-in-your-chest/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relentless BeatsBass Frequencies &amp; Body Physics: Why You Feel Certain...26 Feb 2026 — The chest is especially sensitive to bass because...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1029864917690931](https://journals.sagepub.com/doi/10.1177/1029864917690931)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1029864917690931" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1029864917690931</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLow frequency and infrasound: A critical review of the...Interpretation of data from experimental research has raised conce...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests](https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/026309238300200203](https://journals.sagepub.com/doi/10.1177/026309238300200203)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/026309238300200203" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/026309238300200203</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Classification of Environmental “Hums” and Low...by RE Walford · 1983 · Cited by 13 — It is shown that the frequency dist...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27488996/](https://pubmed.ncbi.nlm.nih.gov/27488996/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27488996/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — Hum-oscillations are typically influenced by head rotati...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: Can you hear the mysterious 'global Hum'?  
-   Link: [https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do](https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do)  
+   Link: <a href="https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/cities/2019/mar/16/can-you-hear-the-mysterious-global-hum-apparently-many-of-you-do</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently...16 Mar 2019 — Up to 4% of people around the world are thought to hear the strange, low-pitched noise. Its actual source is...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: historicipswich.net  
    Title: the hum  
-   Link: [https://historicipswich.net/2024/12/02/the-hum/](https://historicipswich.net/2024/12/02/the-hum/)  
+   Link: <a href="https://historicipswich.net/2024/12/02/the-hum/" target="_blank" rel="noopener noreferrer nofollow">https://historicipswich.net/2024/12/02/the-hum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Hum”Dec 2, 2024 — The Hum is an unexplained low frequency rumbling sound heard by about 2% of the population from inside their homes...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WorksNov 30, 2023 — Hum sufferers describe a low-frequency buzz accompanied by a rumbling vibration. It&#x27;s worse at night, making it almos...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: harmonicnotes.co.uk  
    Title: The Hum  
-   Link: [https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/](https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/)  
+   Link: <a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: hear4u.co.uk  
-   Link: [https://www.hear4u.co.uk/low-frequency-hearing-loss-what-you-need-to-know/](https://www.hear4u.co.uk/low-frequency-hearing-loss-what-you-need-to-know/)  
+   Link: <a href="https://www.hear4u.co.uk/low-frequency-hearing-loss-what-you-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://www.hear4u.co.uk/low-frequency-hearing-loss-what-you-need-to-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-Frequency Hearing Loss: What You Need to KnowIt&#x27;s a type of hearing impairment that primarily affects an individual&#x27;s ability to hear...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: hiddenhearing.co.uk  
-   Link: [https://www.hiddenhearing.co.uk/hearing-loss/types/low-frequency](https://www.hiddenhearing.co.uk/hearing-loss/types/low-frequency)  
+   Link: <a href="https://www.hiddenhearing.co.uk/hearing-loss/types/low-frequency" target="_blank" rel="noopener noreferrer nofollow">https://www.hiddenhearing.co.uk/hearing-loss/types/low-frequency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-frequency hearing loss | Symptoms and treatmentSensorineural hearing loss can result in low-frequency hearing loss, meaning that it&#x27;s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/manifestation](https://www.merriam-webster.com/dictionary/manifestation)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/manifestation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/manifestation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MANIFESTATION Definition &amp; Meaning4 days ago — 1. a: the act, process, or an instance of manifesting demanded some manifestation of repe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gabbybernstein.com  
-   Link: [https://gabbybernstein.com/dos-donts-manifesting/](https://gabbybernstein.com/dos-donts-manifesting/)  
+   Link: <a href="https://gabbybernstein.com/dos-donts-manifesting/" target="_blank" rel="noopener noreferrer nofollow">https://gabbybernstein.com/dos-donts-manifesting/</a>  
 
 20. <a id="endnote-20"></a>
    Source: movingforwardnetwork.org  
    Title: Waye Noise and Health Effects of Low Frequency Noise and Vibrations 2011  
-   Link: [https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf](https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf)  
+   Link: <a href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Low Frequency Noise and VibrationsOct 6, 2017 — In nature, sound frequencies below 200 Hz are signals of thunder, volcano erup...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExperiences from a Low-Frequency Noise Perceiving  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10001830/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10001830/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby KH Erdélyi · 2023 · Cited by 11 — This research aims to provide an extensive description of (1) LFN perceptions, (2) LFN-related co...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10001830/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10001830/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by KH Erdélyi · 2023 · Cited by 11 — This research aims to provide an extensive description of (1) LFN perceptions, (2) LFN-related co...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: preprints.org  
-   Link: [https://www.preprints.org/manuscript/202601.1211](https://www.preprints.org/manuscript/202601.1211)  
+   Link: <a href="https://www.preprints.org/manuscript/202601.1211" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202601.1211</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound and Human Health: Mechanisms, Effects, and...by M Dastan · 2026 — Infrasound is sound with frequencies below the range of hum...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: Manifestations of a low-frequency sound of unknown origin  
-   Link: [https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum](https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum)  
+   Link: <a href="https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: &quot;The Hum&quot; and &quot;Taos Hum&quot; are the common terms used for an annoying low-frequency sound of unknown and seemingly mysterious...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/389234838/37-28](https://www.scribd.com/document/389234838/37-28)  
+   Link: <a href="https://www.scribd.com/document/389234838/37-28" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/389234838/37-28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>een 20-50Hz using miniature accelerometers attached to subjects&#x27; chests...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: amplifon.com  
-   Link: [https://www.amplifon.com/uk/recognising-hearing-loss/low-frequency-hearing-loss](https://www.amplifon.com/uk/recognising-hearing-loss/low-frequency-hearing-loss)  
+   Link: <a href="https://www.amplifon.com/uk/recognising-hearing-loss/low-frequency-hearing-loss" target="_blank" rel="noopener noreferrer nofollow">https://www.amplifon.com/uk/recognising-hearing-loss/low-frequency-hearing-loss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Low frequency hearing loss: causes and treatmentLow frequency hearing loss is related to the inability to perceive low sounds...</p></details>

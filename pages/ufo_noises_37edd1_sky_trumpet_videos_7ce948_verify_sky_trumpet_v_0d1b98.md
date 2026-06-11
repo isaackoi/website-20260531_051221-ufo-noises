@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sky-trumpets/
 nav_short_title: Verification
 title: How to Check a Sky Trumpet Video
-title_full: How to Check a Sky Trumpet Video | Sky Trumpets
+title_full: How to Check a Sky Trumpet Video
 display_title_short: Verification
 display_title: Verification
 heading_title: How to Check a Sky Trumpet Video
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:01:23'
-parent_title: What Are Sky Trumpet Sounds? | UFO Noises
+parent_title: What Are Sky Trumpet Sounds?
 parent_permalink: /sky-trumpets/
 parent_nav_short_title: Sky Trumpets
 parent_heading_title: What Are Sky Trumpet Sounds?
@@ -274,8 +274,7 @@ image: /assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_tru
 
 ## Introduction
 
-Most [sky trumpet videos]({{ 'sky-trumpets/' | relative_url }}) are difficult to evaluate because the sound feels dramatic while the evidence around it is often thin. A clip may show an empty sky, startled witnesses and a loud metallic groan that appears to come from nowhere. By the time it spreads across social media, the original upload is frequently buried under reposts, altered titles and claims that it was filmed in several different countries. Investigations of famous examples have repeatedly found ordinary explanations, recycled audio or misleading context rather than evidence of UFOs or unexplained technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; | Snopes.com30 Apr 2015 — Videos have captured strange apocalyptic sounds coming from the sky all around...</span></span></span>
-
+Most sky trumpet videos are difficult to evaluate because the sound feels dramatic while the evidence around it is often thin. A clip may show an empty sky, startled witnesses and a loud metallic groan that appears to come from nowhere. By the time it spreads across social media, the original upload is frequently buried under reposts, altered titles and claims that it was filmed in several different countries. Investigations of famous examples have repeatedly found ordinary explanations, recycled audio or misleading context rather than evidence of UFOs or unexplained technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Videos have captured strange apocalyptic sounds coming from the sky all around...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-1-dark.svg" | relative_url }}" alt="Verification illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The fastest way to assess a sky trumpet claim is not to debate theories first. Instead, verify the video itself: who uploaded it, where it was recorded, what was happening nearby, what the weather was doing and whether the audio appears elsewhere. A structured check often narrows the possibilities far more quickly than speculation about extraterrestrial causes.
@@ -287,7 +286,6 @@ The first question is whether the video's stated location and date can be truste
 Many viral sky trumpet clips circulate under multiple descriptions. A recording claimed to be from Canada may later appear as footage from Germany, Brazil or Australia. This pattern has been documented repeatedly in discussions of the phenomenon, making the earliest available upload far more valuable than later reposts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/trumpets-and-a-circle-in-the-sky-above-israel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">trumpets and a circle in the sky above israel</span><span class="citation-popover-snippet">11 Nov 2016 — A video purportedly showing strange clouds forming over Israel shortly after the conclusion of the 2016 US presidential ele...</span></span></span>
 
 When checking a video:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -308,7 +306,6 @@ Many viewers focus entirely on the noise and ignore the image.
 
 Simple visual clues can reveal a great deal:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Construction cranes, rail yards or industrial buildings near the horizon.
@@ -326,13 +323,11 @@ The most productive verification step is identifying what could physically gener
 
 Sky trumpet reports are frequently linked to sounds that are difficult to locate rather than sounds that are genuinely source-less. Acoustic reflections from buildings, terrain and cloud layers can make distant noises appear to come from above. Researchers discussing [skyquakes]({{ 'skyquakes/' | relative_url }}) have pointed to atmospheric ducting, distant thunder, aircraft, industrial activity and other mechanisms that can distort sound [direction]({{ 'direction/' | relative_url }}) and apparent distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">American Academy of Audiology Skyquakes—Did You Hear It?</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?October 27, 2023 — 27 Oct 2023 — Skyquakes are enigmatic sounds, typically describ...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0WM4cICMnIs" title="The Proof Is Out There: CHILLING SOUNDS FROM THE SKY - &quot;This Changed My Life&quot; (Season 2) | Exclusive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0WM4cICMnIs" target="_blank" rel="noopener noreferrer">The Proof Is Out There: CHILLING SOUNDS FROM THE SKY - &quot;This Changed My Life&quot; (Season 2) | Exclusive</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 387.6K &middot; Uploaded: February 2022 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0WM4cICMnIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0WM4cICMnIs">Open on YouTube</a></p></div></div></div>
 
 ### Railways, Industry and Heavy Machinery
 
 Several sounds commonly mistaken for "[sky trumpets]({{ 'sky-trumpets/' | relative_url }})" come from large mechanical systems:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +341,7 @@ Several sounds commonly mistaken for "[sky trumpets]({{ 'sky-trumpets/' | relati
 
 </div>
 
-Online discussions about sky trumpet videos repeatedly mention rail and industrial explanations because these sources can produce long metallic groans that resemble giant horns when heard from a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/nujs6w/so_have_the_sky_trumpet_sounds_heard_around_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditSo have the sky trumpet sounds heard around the world...June 7, 2021 — I know some of these are faked, and audio clips from a movi...</span><span class="citation-popover-meta">Published: June 7, 2021</span></span></span>
+Online discussions about sky trumpet videos repeatedly mention rail and industrial explanations because these sources can produce long metallic groans that resemble giant horns when heard from a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/nujs6w/so_have_the_sky_trumpet_sounds_heard_around_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">So have the sky trumpet sounds heard around the world...June 7, 2021 — I know some of these are faked, and audio clips from a movi...</span><span class="citation-popover-meta">Published: June 7, 2021</span></span></span>
 
 Maps are useful here. If the claimed location sits within a few kilometres of rail infrastructure, factories, docks or heavy construction sites, those possibilities should be investigated before considering extraordinary explanations.
 
@@ -357,7 +352,6 @@ Maps are useful here. If the claimed location sits within a few kilometres of ra
 Sound travels far more slowly than light. Under some atmospheric conditions, an aircraft may be heard long after it has passed overhead. Temperature [inversions]({{ 'inversions/' | relative_url }}) and atmospheric layering can also bend sound, making it appear displaced from its true source. Skyquake researchers have long considered sonic [booms]({{ 'booms/' | relative_url }}) and unusual atmospheric sound propagation among plausible explanations for at least some reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">American Academy of Audiology Skyquakes—Did You Hear It?</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?October 27, 2023 — 27 Oct 2023 — Skyquakes are enigmatic sounds, typically describ...</span><span class="citation-popover-meta">Published: October 27, 2023</span></span></span>
 
 When verifying a video, check:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +372,6 @@ Calm air, low wind and temperature inversions can carry industrial or transporta
 
 A practical check is to compare the claimed time against historical weather records. If conditions favoured long-distance sound transmission, a mundane source becomes more plausible.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-2-dark.svg" | relative_url }}" alt="Verification illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Compare the Audio Against Reused Clips and Effects
 
@@ -392,7 +385,6 @@ Many fabricated clips contain clues that become obvious when headphones are used
 
 Watch for:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The same sound pattern repeating at regular intervals.
@@ -405,7 +397,6 @@ Watch for:
 
 Natural sound sources usually vary slightly from one cycle to the next. Perfect repetition often points to editing or audio reuse.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2v-B4h4fcmo" title="What Are The Mysterious Sky Noises Being Heard Around The World?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2v-B4h4fcmo" target="_blank" rel="noopener noreferrer">What Are The Mysterious Sky Noises Being Heard Around The World?</a></p><p class="youtube-embed-meta">Channel: Coop &middot; Views: 110.5K &middot; Uploaded: January 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2v-B4h4fcmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2v-B4h4fcmo">Open on YouTube</a></p></div></div></div>
 
 ### Search for Earlier Uses of the Sound
@@ -413,7 +404,6 @@ Natural sound sources usually vary slightly from one cycle to the next. Perfect 
 If a sound is genuinely extraordinary, it should be unique. If the same audio appears attached to multiple videos, the claim becomes much weaker.
 
 Search using combinations of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -425,8 +415,7 @@ Search using combinations of:
 
 </div>
 
-Some well-known sky trumpet compilations mix clips from unrelated locations while reusing similar sound layers. This can create the false impression of a single worldwide phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; | Snopes.com30 Apr 2015 — Videos have captured strange apocalyptic sounds coming from the sky all around...</span></span></span>
-
+Some well-known sky trumpet compilations mix clips from unrelated locations while reusing similar sound layers. This can create the false impression of a single worldwide phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Videos have captured strange apocalyptic sounds coming from the sky all around...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-3-dark.svg" | relative_url }}" alt="Verification illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948_verify_sky_trumpet_v_0d1b98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Look for Signs of Added Audio
@@ -440,7 +429,7 @@ Warning signs include:
 * Sounds continuing underneath cuts or transitions.
 * Noise that overwhelms wind, traffic or nearby conversations in unrealistic ways.
 
-Research into automated sound-to-video matching demonstrates how convincingly sound can be synchronised to unrelated footage, making visual and audio consistency checks increasingly important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.09726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Soundify: Matching Sound Effects to Video</span><span class="citation-popover-snippet">arXivSoundify: Matching Sound Effects to VideoDecember 17, 2021...</span><span class="citation-popover-meta">Published: December 17, 2021</span></span></span>
+Research into automated sound-to-video matching demonstrates how convincingly sound can be synchronised to unrelated footage, making visual and audio consistency checks increasingly important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.09726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Soundify: Matching Sound Effects to Video</span><span class="citation-popover-snippet">Soundify: Matching Sound Effects to VideoDecember 17, 2021...</span><span class="citation-popover-meta">Published: December 17, 2021</span></span></span>
 
 ## Distinguish a Strange Sound from a UFO Claim
 
@@ -457,7 +446,6 @@ A stronger UFO-related case would require additional evidence, such as:
 * A clearly documented timeline.
 
 Without those elements, the most accurate conclusion is often simply that an unusual sound was recorded and its exact source remains unknown.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rqoXs1TWMQw" title="The Apocalyptic Sounds Heard Around The World • Mystery Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rqoXs1TWMQw" target="_blank" rel="noopener noreferrer">The Apocalyptic Sounds Heard Around The World • Mystery Files</a></p><p class="youtube-embed-meta">Channel: Watcher &middot; Views: 4.2M &middot; Uploaded: June 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rqoXs1TWMQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rqoXs1TWMQw">Open on YouTube</a></p></div></div></div>
 
@@ -872,100 +860,100 @@ This process does not guarantee an answer. Some recordings genuinely lack enough
 1. <a id="endnote-1"></a>
    Source: snopes.com  
    Title: the sound of apocalypse  
-   Link: [https://www.snopes.com/fact-check/the-sound-of-apocalypse/](https://www.snopes.com/fact-check/the-sound-of-apocalypse/)  
+   Link: <a href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/the-sound-of-apocalypse/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Snopes&#x27;The Sound of Apocalypse&#x27; | Snopes.com30 Apr 2015 — Videos have captured strange apocalyptic sounds coming from the sky all around...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: audiology.org  
    Title: American Academy of Audiology Skyquakes—Did You Hear It?  
-   Link: [https://www.audiology.org/skyquakes-did-you-hear-it/](https://www.audiology.org/skyquakes-did-you-hear-it/)  
+   Link: <a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It?October 27, 2023 — 27 Oct 2023 — Skyquakes are enigmatic sounds, typically describ...</p></details>
    Published: October 27, 2023  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Skyquake](https://en.wikipedia.org/wiki/Skyquake)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/nujs6w/so_have_the_sky_trumpet_sounds_heard_around_the/](https://www.reddit.com/r/HighStrangeness/comments/nujs6w/so_have_the_sky_trumpet_sounds_heard_around_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSo have the sky trumpet sounds heard around the world...June 7, 2021 — I know some of these are faked, and audio clips from a movi...</p></details>
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/nujs6w/so_have_the_sky_trumpet_sounds_heard_around_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/nujs6w/so_have_the_sky_trumpet_sounds_heard_around_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>So have the sky trumpet sounds heard around the world...June 7, 2021 — I know some of these are faked, and audio clips from a movi...</p></details>
    Published: June 7, 2021  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Soundify: Matching Sound Effects to Video  
-   Link: [https://arxiv.org/abs/2112.09726](https://arxiv.org/abs/2112.09726)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSoundify: Matching Sound Effects to VideoDecember 17, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2112.09726" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.09726</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soundify: Matching Sound Effects to VideoDecember 17, 2021...</p></details>
    Published: December 17, 2021  
 
 6. <a id="endnote-6"></a>
    Source: snopes.com  
    Title: trumpets and a circle in the sky above israel  
-   Link: [https://www.snopes.com/fact-check/trumpets-and-a-circle-in-the-sky-above-israel/](https://www.snopes.com/fact-check/trumpets-and-a-circle-in-the-sky-above-israel/)  
+   Link: <a href="https://www.snopes.com/fact-check/trumpets-and-a-circle-in-the-sky-above-israel/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/trumpets-and-a-circle-in-the-sky-above-israel/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Nov 2016 — A video purportedly showing strange clouds forming over Israel shortly after the conclusion of the 2016 US presidential ele...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Glitch_in_the_Matrix/comments/896co2/trumpet_noises_that_come_from_the_sky/](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/896co2/trumpet_noises_that_come_from_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/896co2/trumpet_noises_that_come_from_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/896co2/trumpet_noises_that_come_from_the_sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>was coming from so far away, really echoed and reverberated.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: x.com  
    Title: (formerly Twitter)That sky trumpet sound is fake  
-   Link: [https://x.com/hoaxeye/status/1181207355889000449](https://x.com/hoaxeye/status/1181207355889000449)  
+   Link: <a href="https://x.com/hoaxeye/status/1181207355889000449" target="_blank" rel="noopener noreferrer nofollow">https://x.com/hoaxeye/status/1181207355889000449</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>That sky trumpet sound is fake. For some reason many...Some of the [sky sounds](&amp;#123;&amp;#123; &#x27;sky-sounds/&#x27; | relative_url &amp;#125;&amp;#125;) were real and explained, but some were fake. More info: Th...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/therachelmaddowshow/posts/with-increasing-frequency-donald-trump-and-his-team-have-the-same-answer-to-ever/1374588697661039/](https://www.facebook.com/therachelmaddowshow/posts/with-increasing-frequency-donald-trump-and-his-team-have-the-same-answer-to-ever/1374588697661039/)  
+   Link: <a href="https://www.facebook.com/therachelmaddowshow/posts/with-increasing-frequency-donald-trump-and-his-team-have-the-same-answer-to-ever/1374588697661039/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/therachelmaddowshow/posts/with-increasing-frequency-donald-trump-and-his-team-have-the-same-answer-to-ever/1374588697661039/</a>  
 
 10. <a id="endnote-10"></a>
    Source: headcountcoffee.com  
-   Link: [https://www.headcountcoffee.com/blogs/coffee-news/sky-trumpets-the-horn-sounds-heard-around-the-world?srsltid=AfmBOoqrjezx3e87LuPLXqwQyyu5zlkW7TcjSMcUFA8ooiUW2ANXo1om](https://www.headcountcoffee.com/blogs/coffee-news/sky-trumpets-the-horn-sounds-heard-around-the-world?srsltid=AfmBOoqrjezx3e87LuPLXqwQyyu5zlkW7TcjSMcUFA8ooiUW2ANXo1om)  
+   Link: <a href="https://www.headcountcoffee.com/blogs/coffee-news/sky-trumpets-the-horn-sounds-heard-around-the-world?srsltid=AfmBOoqrjezx3e87LuPLXqwQyyu5zlkW7TcjSMcUFA8ooiUW2ANXo1om" target="_blank" rel="noopener noreferrer nofollow">https://www.headcountcoffee.com/blogs/coffee-news/sky-trumpets-the-horn-sounds-heard-around-the-world?srsltid=AfmBOoqrjezx3e87LuPLXqwQyyu5zlkW7TcjSMcUFA8ooiUW2ANXo1om</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Trumpets: The Horn Sounds Heard Around the World16 Dec 2025 — Videos were edited into compilations that stripped away...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/grandbenduforesearch/posts/10154631333879400/](https://www.facebook.com/groups/grandbenduforesearch/posts/10154631333879400/)  
+   Link: <a href="https://www.facebook.com/groups/grandbenduforesearch/posts/10154631333879400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/grandbenduforesearch/posts/10154631333879400/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comments you will find actual video. If actual video...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: explorersweb.com  
    Title: No one can figure out what is causing these “skyquakes.”Read more  
-   Link: [https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/](https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExplorerswebScientists Grapple to Explain Mysterious &#x27;Skyquake&#x27; Noises...11 Oct 2024 — Across the globe, people are reporting loud bangi...</p></details>
+   Link: <a href="https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Grapple to Explain Mysterious &#x27;Skyquake&#x27; Noises...11 Oct 2024 — Across the globe, people are reporting loud bangi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gotquestions.org  
-   Link: [https://www.gotquestions.org/sky-trumpets.html](https://www.gotquestions.org/sky-trumpets.html)  
+   Link: <a href="https://www.gotquestions.org/sky-trumpets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gotquestions.org/sky-trumpets.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are the sky trumpets people have been reporting signs of...Jan 21, 2026 — Probably, many of the sky trumpet videos on the internet—maybe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iheart.com  
    Title: 2018 01 22 videohave you heard the trumpet sounds coming from the sky so creepy  
-   Link: [https://www.iheart.com/content/2018-01-22-videohave-you-heard-the-trumpet-sounds-coming-from-the-sky-so-creepy/](https://www.iheart.com/content/2018-01-22-videohave-you-heard-the-trumpet-sounds-coming-from-the-sky-so-creepy/)  
+   Link: <a href="https://www.iheart.com/content/2018-01-22-videohave-you-heard-the-trumpet-sounds-coming-from-the-sky-so-creepy/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/content/2018-01-22-videohave-you-heard-the-trumpet-sounds-coming-from-the-sky-so-creepy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The people behind the video swear it&#x27;s not a hoax: What do...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: vi-control.net  
    Title: skyquakes sky trumpets etc.141867  
-   Link: [https://vi-control.net/community/threads/skyquakes-sky-trumpets-etc.141867/](https://vi-control.net/community/threads/skyquakes-sky-trumpets-etc.141867/)  
+   Link: <a href="https://vi-control.net/community/threads/skyquakes-sky-trumpets-etc.141867/" target="_blank" rel="noopener noreferrer nofollow">https://vi-control.net/community/threads/skyquakes-sky-trumpets-etc.141867/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyquakes / Sky Trumpets etc21 Jul 2023 — I&#x27;m rather fascinated by some of the sounds recorded in various videos about the phenomena of &quot;...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0WM4cICMnIs](https://www.youtube.com/watch?v=0WM4cICMnIs)  
+   Link: <a href="https://www.youtube.com/watch?v=0WM4cICMnIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0WM4cICMnIs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NDS CAN&#x27;T BE EXPLAINED | The Proof Is Out There | History...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2v-B4h4fcmo](https://www.youtube.com/watch?v=2v-B4h4fcmo)  
+   Link: <a href="https://www.youtube.com/watch?v=2v-B4h4fcmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2v-B4h4fcmo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>emitted from the sky people have no idea what it is...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=j_TTKx9ILi8](https://www.youtube.com/watch?v=j_TTKx9ILi8)  
+   Link: <a href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_TTKx9ILi8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trumpet of Heaven Incidents Explained...</p></details>

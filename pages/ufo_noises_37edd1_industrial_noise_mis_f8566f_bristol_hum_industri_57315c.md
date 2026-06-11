@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /industry/
 nav_short_title: Bristol Hum
 title: Why the Bristol Hum Still Points Toward Industry
-title_full: Why the Bristol Hum Still Points Toward Industry | Industry
+title_full: Why the Bristol Hum Still Points Toward Industry
 display_title_short: Bristol Hum
 display_title: Bristol Hum
 heading_title: Why the Bristol Hum Still Points Toward Industry
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:26'
-parent_title: Could That UFO Noise Be Machinery? | UFO Noises
+parent_title: Could That UFO Noise Be Machinery?
 parent_permalink: /industry/
 parent_nav_short_title: Industry
 parent_heading_title: Could That UFO Noise Be Machinery?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_
 
 The Bristol Hum is one of the most famous examples of a mysterious environmental noise becoming wrapped up in wider theories about unexplained phenomena. Since the 1970s, residents across parts of Bristol have reported hearing a persistent low-frequency droning or rumbling sound, often late at night and often in a way that seemed impossible to locate. Because the sound felt detached from any visible source, it occasionally entered discussions about unusual aerial activity and other unexplained events. Yet one of the most persistent explanations has remained strikingly ordinary: industrial equipment operating around Avonmouth, the heavily industrialised port area on Bristol's western edge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-1-dark.svg" | relative_url }}" alt="Bristol Hum illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the Bristol Hum important is not that the mystery was conclusively solved. It was not. Instead, the case shows how a genuine, widely reported sound can point investigators toward industrial causes while still resisting a final explanation. That combination has made the Bristol Hum a recurring reference point whenever strange noises are linked to UFO claims or other extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
@@ -290,7 +289,6 @@ For some residents, the experience was not merely irritating. Accounts collected
 
 These characteristics are one reason hum cases became associated with UFO discussions. A low-frequency sound that seems to come from nowhere can feel less like ordinary neighbourhood noise and more like an unseen presence. When no [aircraft]({{ 'aircraft/' | relative_url }}), vehicle or machine is visible, listeners may naturally search for more unusual explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y-Ntjw0x9f8" title="Mysterious Hum Rattles American City as Residents Report Sleepless Nights and Rising Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y-Ntjw0x9f8" target="_blank" rel="noopener noreferrer">Mysterious Hum Rattles American City as Residents Report Sleepless Nights and Rising Fear</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 11.1K &middot; Uploaded: January 2026 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y-Ntjw0x9f8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y-Ntjw0x9f8">Open on YouTube</a></p></div></div></div>
 
 ## Why Avonmouth became the leading suspect
@@ -300,7 +298,6 @@ The most influential industrial explanation focused on Avonmouth, the large port
 Over time, investigators and local observers increasingly focused on large industrial ventilation systems and extraction fans operating around warehouses in the area. A widely repeated theory held that powerful industrial fans generated low-frequency sound waves that travelled across the city under the right atmospheric conditions. The theory became so prominent that it was often referred to simply as the Avonmouth fan explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-snippet">The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</span></span></span>
 
 The idea had several strengths:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +310,6 @@ The idea had several strengths:
 </div>
 
 The theory also fit a broader pattern seen in other hum investigations worldwide. In multiple cases, environmental acoustics experts have eventually traced mysterious droning sounds to industrial plants, ventilation systems, compressors, pumps or heavy infrastructure rather than anything airborne or exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-2-dark.svg" | relative_url }}" alt="Bristol Hum illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The industrial fan explanation's strongest evidence
@@ -328,15 +324,13 @@ Hum complaints frequently involve frequencies roughly in the range of tens of he
 
 Avonmouth is not a small industrial estate. It is a major port and industrial zone containing extensive warehousing, transport infrastructure and heavy commercial activity. Even when a specific machine is not exceptionally loud near its source, continuous operation can create regional acoustic effects under favourable conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_RmaE4Gs6AY" title="Mount Forel - The Hum (Official video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer">Mount Forel - The Hum (Official video)</a></p><p class="youtube-embed-meta">Channel: Mount Forel &middot; Views: 7.3K &middot; Uploaded: May 2022 &middot; Length: 4 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_RmaE4Gs6AY">Open on YouTube</a></p></div></div></div>
 
 ### Night-time conditions favour long-distance propagation
 
-The Bristol Hum was often reported most strongly at night. That pattern fits known acoustic behaviour. As background traffic and urban noise diminish, previously masked low-frequency sounds become easier to notice. Temperature [inversions]({{ 'inversions/' | relative_url }}) can also allow [industrial noise]({{ 'industry/' | relative_url }}) to travel farther than expected, creating the impression that a source is hovering nearby rather than operating kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+The Bristol Hum was often reported most strongly at night. That pattern fits known acoustic behaviour. As background traffic and urban noise diminish, previously masked low-frequency sounds become easier to notice. Temperature [inversions]({{ 'inversions/' | relative_url }}) can also allow industrial noise to travel farther than expected, creating the impression that a source is hovering nearby rather than operating kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 Taken together, these factors gave the industrial fan theory more explanatory power than many of the alternative proposals that emerged over the years, including claims involving secret communications systems, unusual aircraft or other speculative causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4mfwA6I-0k0" title="Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4mfwA6I-0k0" target="_blank" rel="noopener noreferrer">Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained</a></p><p class="youtube-embed-meta">Channel: Maddox Transformer &middot; Views: 5.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4mfwA6I-0k0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4mfwA6I-0k0">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +339,6 @@ Taken together, these factors gave the industrial fan theory more explanatory po
 The biggest problem for the Avonmouth fan explanation is that reports did not simply disappear after the industrial equipment most commonly blamed for the hum was altered, removed or decommissioned. Some residents continued reporting similar sounds years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 That does not automatically disprove an industrial origin. Several possibilities remain:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +352,6 @@ That does not automatically disprove an industrial origin. Several possibilities
 Another complication is that "the Hum" may not be a single phenomenon at all. Researchers and acoustics specialists increasingly treat hum reports as a category rather than one unified event. In some locations, industrial machinery appears strongly implicated. In others, investigations have considered biological, geological or auditory explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 That means the Bristol Hum may have involved a real industrial noise source without every subsequent report sharing the same cause.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-3-dark.svg" | relative_url }}" alt="Bristol Hum illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why disputed hum cases keep returning to industry
@@ -764,92 +756,92 @@ The Bristol case never produced the clean ending many people expect from a myste
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Avonmouth](https://en.wikipedia.org/wiki/Avonmouth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Avonmouth</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 3. <a id="endnote-3"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</p></details>
    Published: July 7, 2021  
 
 4. <a id="endnote-4"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html](https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html)  
+   Link: <a href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</p></details>
    Published: November 20, 2024  
 
 5. <a id="endnote-5"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html](https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html)  
+   Link: <a href="https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent&#x27;Bristol hum&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/](https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/)  
+   Link: <a href="https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thesun.ie  
-   Link: [https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/](https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/)  
+   Link: <a href="https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/eccEQqcj4d0](https://www.youtube.com/shorts/eccEQqcj4d0)  
+   Link: <a href="https://www.youtube.com/shorts/eccEQqcj4d0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eccEQqcj4d0</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: Has anyone else been hearing the Bristol Hum recently?  
-   Link: [https://www.facebook.com/groups/100351226764201/posts/3697856167013671/](https://www.facebook.com/groups/100351226764201/posts/3697856167013671/)  
+   Link: <a href="https://www.facebook.com/groups/100351226764201/posts/3697856167013671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/100351226764201/posts/3697856167013671/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its a low frequency [humming](&amp;#123;&amp;#123; &#x27;humming/&#x27; | relative_url &amp;#125;&amp;#125;)/droning noise that rises in pitch in the last couple of seconds. Its 24/7 and more noticeable at night and is...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/](https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/)  
+   Link: <a href="https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aring a persistent low- frequency sound known as “The Hum.” It...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/](https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/)  
+   Link: <a href="https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed at a warehouse in nearby Avonmouth. But according to...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/](https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/)  
+   Link: <a href="https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed hearing this puzzling sound, but its origins remain a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mysterious Hum Rattles American City as Residents Report Sleepless Nights  
-   Link: [https://www.youtube.com/watch?v=Y-Ntjw0x9f8](https://www.youtube.com/watch?v=Y-Ntjw0x9f8)  
+   Link: <a href="https://www.youtube.com/watch?v=Y-Ntjw0x9f8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-Ntjw0x9f8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: threads.com  
-   Link: [https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the](https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the)  
+   Link: <a href="https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the 1970s, people have reported hearing a...1 Feb 2026 — The low frequency sound (which is usually heard at night by an estimated...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: yourtango.com  
-   Link: [https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds](https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YourTangoThe Sound That Makes 2% Of People Lose Their Minds3 Nov 2025 — The Bristol Hum, in particular, is thought to be a result of larg...</p></details>
+   Link: <a href="https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds" target="_blank" rel="noopener noreferrer nofollow">https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sound That Makes 2% Of People Lose Their Minds3 Nov 2025 — The Bristol Hum, in particular, is thought to be a result of larg...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: have you ever heard of the bristol hum  
-   Link: [https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/](https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/)  
+   Link: <a href="https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?26 Dec 2021 — Have you ever heard of the Bristol hum?...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Mount Forel  
-   Link: [https://www.youtube.com/watch?v=_RmaE4Gs6AY](https://www.youtube.com/watch?v=_RmaE4Gs6AY)  
+   Link: <a href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RmaE4Gs6AY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Hum Rattles American City as Residents Report Sleepless Nights...</p></details>

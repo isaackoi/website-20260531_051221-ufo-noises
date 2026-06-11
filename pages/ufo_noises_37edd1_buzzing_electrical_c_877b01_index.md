@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-buzzing-electrical-c/
 description: Focused pages that expand on Buzzing.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_noises_37edd1_buzzing_electrical_c_877b01
-parent_title: Buzzing | UFO Noises
+parent_title: Buzzing
 parent_nav_short_title: Buzzing
 parent_permalink: /buzzing/
 ---

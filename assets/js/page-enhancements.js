@@ -9130,6 +9130,23 @@
     var getItemTitle = function(item) {
       return item && (item.displayTitle || item.title || item.displayLabel || item.label || item.country || itemTypeTitle);
     };
+    var normalisePreviewHeadingText = function(value) {
+      return String(value || '').toLowerCase().replace(/&amp;/g, 'and').replace(/[^a-z0-9]+/g, ' ').trim();
+    };
+    var shouldShowPreviewKicker = function(label, title) {
+      var labelKey = normalisePreviewHeadingText(label);
+      var titleKey = normalisePreviewHeadingText(title);
+      if (!labelKey || !titleKey || labelKey === titleKey) {
+        return false;
+      }
+      if (labelKey.length > 8 && titleKey.indexOf(labelKey) !== -1) {
+        return false;
+      }
+      if (titleKey.length > 8 && labelKey.indexOf(titleKey) !== -1) {
+        return false;
+      }
+      return true;
+    };
     var getItemSummary = function(item) {
       return item && (item.displaySummary || item.summary || fallbackSummary);
     };
@@ -9716,11 +9733,11 @@
         Object.keys(byIso).forEach(function(iso) {
           var item = byIso[iso];
           var node = nodesByIso[iso];
-          if (!item || !node || getItemRegionKey(item) !== targetRegionKey || !node.getBoundingClientRect) {
+          if (!item || !node || getItemRegionKey(item) !== targetRegionKey) {
             return;
           }
-          var rect = node.getBoundingClientRect();
-          if (!rect.width || !rect.height) {
+          var rect = getMapNodesBounds(node);
+          if (!rect || !rect.right || !rect.bottom || rect.right <= rect.left || rect.bottom <= rect.top) {
             return;
           }
           if (!bounds) {
@@ -9750,18 +9767,58 @@
         var imageUrl = resolveSiteAssetUrl(item.image);
         warmPreviewImage(item);
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
+        var previewLabel = getItemLabel(item);
+        var previewTitle = getItemTitle(item);
+        var kickerHtml = shouldShowPreviewKicker(previewLabel, previewTitle)
+          ? '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(previewLabel) + '</span>'
+          : '';
         preview.innerHTML = imageHtml
           + getPreviewMetaHtml(item)
-          + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(getItemLabel(item)) + '</span>'
-          + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(getItemTitle(item)) + '</strong>'
+          + kickerHtml
+          + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(previewTitle) + '</strong>'
           + '<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>'
           + (item.url ? '<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>' : '');
       };
-      var clearActive = function() {
-        if (active) {
-          active.classList.remove('is-hovered');
-          active = null;
+      var forEachMapNode = function(nodeOrNodes, callback) {
+        if (!nodeOrNodes || typeof callback !== 'function') {
+          return;
         }
+        if (nodeOrNodes.length && !nodeOrNodes.nodeType) {
+          Array.prototype.forEach.call(nodeOrNodes, function(node) {
+            if (node) {
+              callback(node);
+            }
+          });
+          return;
+        }
+        callback(nodeOrNodes);
+      };
+      var getMapNodesBounds = function(nodeOrNodes) {
+        var bounds = null;
+        forEachMapNode(nodeOrNodes, function(node) {
+          if (!node || !node.getBoundingClientRect) {
+            return;
+          }
+          var rect = node.getBoundingClientRect();
+          if (!rect.width || !rect.height) {
+            return;
+          }
+          if (!bounds) {
+            bounds = { left: rect.left, top: rect.top, right: rect.right, bottom: rect.bottom };
+            return;
+          }
+          bounds.left = Math.min(bounds.left, rect.left);
+          bounds.top = Math.min(bounds.top, rect.top);
+          bounds.right = Math.max(bounds.right, rect.right);
+          bounds.bottom = Math.max(bounds.bottom, rect.bottom);
+        });
+        return bounds;
+      };
+      var clearActive = function() {
+        forEachMapNode(active, function(node) {
+          node.classList.remove('is-hovered');
+        });
+        active = null;
       };
       if (preview) {
         preview.addEventListener('click', function(event) {
@@ -9794,46 +9851,103 @@
         clearActive();
         active = node;
         activeItem = item;
-        node.classList.add('is-hovered');
+        forEachMapNode(node, function(part) {
+          part.classList.add('is-hovered');
+        });
         updatePreview(item);
         if (options && options.zoom) {
-          zoomToNode(node, options.scale || 2.7);
+          var bounds = getMapNodesBounds(node);
+          if (bounds) {
+            zoomToScreenBounds(bounds, options.scale || 2.7);
+          }
         }
+      };
+      var escapeAttrValue = function(value) {
+        return String(value || '').replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+      };
+      var normaliseMapSvgLabel = function(value) {
+        var text = String(value || '').trim().toLowerCase();
+        if (text.normalize) {
+          text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        }
+        return text.replace(/[^a-z0-9]+/g, ' ').trim();
+      };
+      var getMapNodesForItem = function(iso, item) {
+        var exact = svg.getElementById ? svg.getElementById(iso) : svg.querySelector('#' + iso);
+        if (exact) {
+          return [exact];
+        }
+        var labels = [
+          item && item.country,
+          item && item.label,
+          item && item.mapName,
+          item && item.displayLabel
+        ].concat((item && item.mapAliases) || []).filter(Boolean);
+        var selectors = [];
+        labels.forEach(function(label) {
+          var safe = escapeAttrValue(label);
+          selectors.push('[name="' + safe + '"]');
+          selectors.push('[class="' + safe + '"]');
+        });
+        if (!selectors.length) {
+          return [];
+        }
+        var seen = [];
+        Array.prototype.forEach.call(svg.querySelectorAll(selectors.join(',')), function(node) {
+          if (seen.indexOf(node) === -1) {
+            seen.push(node);
+          }
+        });
+        if (!seen.length) {
+          var normalisedLabels = labels.map(normaliseMapSvgLabel).filter(Boolean);
+          Array.prototype.forEach.call(svg.querySelectorAll('[name], [class]'), function(node) {
+            var candidates = [
+              normaliseMapSvgLabel(node.getAttribute('name')),
+              normaliseMapSvgLabel(node.getAttribute('class'))
+            ];
+            if (candidates.some(function(candidate) { return normalisedLabels.indexOf(candidate) !== -1; })) {
+              seen.push(node);
+            }
+          });
+        }
+        return seen;
       };
       var guessedIso = guessVisitorCountryIso(byIso);
       var guessedNode = null;
       Object.keys(byIso).forEach(function(iso) {
-        var node = svg.getElementById ? svg.getElementById(iso) : svg.querySelector('#' + iso);
         var item = byIso[iso];
-        if (!node || !item) {
+        var nodes = getMapNodesForItem(iso, item);
+        if (!nodes.length || !item) {
           return;
         }
         if (iso === guessedIso) {
-          guessedNode = node;
+          guessedNode = nodes;
         }
-        nodesByIso[iso] = node;
-        node.classList.add('is-linked');
-        node.setAttribute('data-uap-country', iso);
-        node.setAttribute('data-interactive-map-item', iso);
-        node.setAttribute('tabindex', '0');
-        node.setAttribute('role', 'link');
-        node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
-        node.addEventListener('mouseenter', function() { focusCountry(node, item); });
-        node.addEventListener('focus', function() { focusCountry(node, item); });
-        node.addEventListener('click', function(event) {
-          event.preventDefault();
-          event.stopPropagation();
-          navigateToItem(item);
-        });
-        node.addEventListener('keydown', function(event) {
-          if ((event.key === 'Enter' || event.key === ' ') && item.url) {
+        nodesByIso[iso] = nodes;
+        nodes.forEach(function(node) {
+          node.classList.add('is-linked');
+          node.setAttribute('data-uap-country', iso);
+          node.setAttribute('data-interactive-map-item', iso);
+          node.setAttribute('tabindex', '0');
+          node.setAttribute('role', 'link');
+          node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
+          node.addEventListener('mouseenter', function() { focusCountry(nodes, item); });
+          node.addEventListener('focus', function() { focusCountry(nodes, item); });
+          node.addEventListener('click', function(event) {
             event.preventDefault();
             event.stopPropagation();
             navigateToItem(item);
-          }
+          });
+          node.addEventListener('keydown', function(event) {
+            if ((event.key === 'Enter' || event.key === ' ') && item.url) {
+              event.preventDefault();
+              event.stopPropagation();
+              navigateToItem(item);
+            }
+          });
         });
       });
-      if (guessedIso && guessedNode) {
+      if (root.getAttribute('data-map-auto-focus') === 'visitor' && guessedIso && guessedNode) {
         window.setTimeout(function() {
           if (!active) {
             focusCountry(guessedNode, byIso[guessedIso], { zoom: true });

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sonic-booms/
 nav_short_title: Check Claims
 title: How Strong Is a No Boom UFO Claim?
-title_full: How Strong Is a No Boom UFO Claim? | Sonic Booms
+title_full: How Strong Is a No Boom UFO Claim?
 display_title_short: Check Claims
 display_title: Check Claims
 heading_title: How Strong Is a No Boom UFO Claim?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:59:49'
-parent_title: Can UFOs Break Sound Without Booms? | UFO Noises
+parent_title: Can UFOs Break Sound Without Booms?
 parent_permalink: /sonic-booms/
 parent_nav_short_title: Sonic Booms
 parent_heading_title: Can UFOs Break Sound Without Booms?
@@ -276,9 +276,8 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_u
 
 A report of a UFO moving at extreme speed without a sonic boom is only as strong as the evidence behind the speed estimate. Many dramatic accounts begin with a witness concluding that an object crossed the sky in seconds and therefore must have been travelling faster than sound. The problem is that speed, distance and altitude are usually the least certain parts of a UFO sighting.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-1-dark.svg" | relative_url }}" alt="Check Claims illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A useful investigation starts by asking whether the object was actually moving at a supersonic speed and whether a boom would have been expected to reach the witness. Modern aeronautics shows that sonic [booms]({{ 'booms/' | relative_url }}) depend on altitude, atmospheric conditions, flight path and observer position, not just raw speed. In some circumstances, a genuinely supersonic object may produce little or no audible boom at ground level. In many others, the object's speed has simply been overestimated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAcreate sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the atmosphere -- and is indepen- den...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">investigates the faint side of sonic booms</span><span class="citation-popover-snippet">NASANASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
+A useful investigation starts by asking whether the object was actually moving at a supersonic speed and whether a boom would have been expected to reach the witness. Modern aeronautics shows that sonic [booms]({{ 'booms/' | relative_url }}) depend on altitude, atmospheric conditions, flight path and observer position, not just raw speed. In some circumstances, a genuinely supersonic object may produce little or no audible boom at ground level. In many others, the object's speed has simply been overestimated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">create sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the atmosphere -- and is indepen- den...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">investigates the faint side of sonic booms</span><span class="citation-popover-snippet">NASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 
 ## Questions to Ask Before Accepting the Speed Estimate
 
@@ -289,7 +288,6 @@ Witnesses often report that an object moved from one side of the sky to another 
 A small nearby object can appear to move faster across the sky than a large distant one. This is a common source of error in reports involving [aircraft]({{ 'aircraft/' | relative_url }}) lights, satellites, drones, birds, meteors and atmospheric phenomena. Without reliable distance information, apparent angular motion cannot be converted into true speed.
 
 When reviewing a no-boom claim, ask:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -312,17 +310,15 @@ A bright point of light against a dark sky provides almost no distance cues. An 
 
 The more uncertain the distance, the weaker any argument that a sonic boom should have occurred.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/laM0Nv8nkw4" title="X-59: Sonic Booms Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer">X-59: Sonic Booms Explained</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 77.3K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=laM0Nv8nkw4">Open on YouTube</a></p></div></div></div>
 
 ## Would a Sonic Boom Actually Have Reached the Witness?
 
 Even if an object were supersonic, the absence of a reported boom does not automatically create a mystery.
 
-A sonic boom is heard when a shock wave reaches an observer. The observer does not need to be directly beneath the object, and the boom may arrive after the object has passed. NASA notes that the geometry of the shock-wave footprint depends on altitude, speed and atmospheric conditions. A witness can see a distant supersonic object while standing outside the area where the boom reaches the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">1.3 to...Read more...</span></span></span>
+A sonic boom is heard when a shock wave reaches an observer. The observer does not need to be directly beneath the object, and the boom may arrive after the object has passed. NASA notes that the geometry of the shock-wave footprint depends on altitude, speed and atmospheric conditions. A witness can see a distant supersonic object while standing outside the area where the boom reaches the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">1.3 to...Read more...</span></span></span>
 
 Important questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +342,6 @@ Most UFO reports lack the information needed to test the sonic-boom question. A 
 
 The most useful evidence comes from sources that do not depend on [memory]({{ 'memory/' | relative_url }}) alone:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Radar tracks
@@ -361,7 +356,6 @@ If investigators can reconstruct the object's path and show that it covered a kn
 
 For example, two observers separated by a significant distance who record the same object can sometimes allow triangulation of altitude and velocity. Once those values are known, it becomes possible to ask whether a sonic boom should have occurred.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-2-dark.svg" | relative_url }}" alt="Check Claims illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Acoustic or Infrasound Measurements
 
@@ -370,7 +364,6 @@ A genuine high-speed atmospheric event often leaves acoustic evidence.
 Scientists routinely use infrasound [sensors]({{ 'sensors/' | relative_url }}) to detect meteors, re-entry vehicles and other high-energy atmospheric phenomena. Acoustic data can help determine whether a shock wave was generated even when witnesses did not consciously hear a boom. Research on meteor events and spacecraft re-entries shows that shock-wave signatures can be detected and analysed long after the visual observation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[Signal Cleveland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
 
 A UFO report becomes far more testable when it includes:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -382,7 +375,6 @@ A UFO report becomes far more testable when it includes:
 </div>
 
 Without such evidence, claims about the absence of a boom remain largely anecdotal.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gD7wMZL1eZ4" title="The Science of Silencing Sonic Booms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer">The Science of Silencing Sonic Booms</a></p><p class="youtube-embed-meta">Channel: Interesting Engineering &middot; Views: 143.8K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gD7wMZL1eZ4">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +394,6 @@ One recurring pattern is that the witness initially reports a bright object or u
 
 When the speed estimate depends on memory rather than measured data, confidence should decrease.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-3-dark.svg" | relative_url }}" alt="Check Claims illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Distance Is Unknown
 
@@ -416,7 +407,6 @@ A missing sonic boom is often presented as evidence that the object used exotic 
 
 That conclusion skips several intermediate questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the object definitely supersonic?
@@ -429,13 +419,11 @@ That conclusion skips several intermediate questions:
 
 If these questions remain unanswered, [silence]({{ 'silence/' | relative_url }}) is simply one observation among many, not proof of advanced propulsion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sLChKGmOF-U" title="6 videos that stood out in the Pentagon&#x27;s new UFO drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer">6 videos that stood out in the Pentagon&#x27;s new UFO drop</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 289.3K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sLChKGmOF-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sLChKGmOF-U">Open on YouTube</a></p></div></div></div>
 
 ### The Report Combines Multiple Uncertain Assumptions
 
 The weakest cases often rely on a chain of assumptions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -443,6 +431,20 @@ The weakest cases often rely on a chain of assumptions:
 2. Therefore it was very large.
 3. Therefore it moved an enormous distance.
 4. Therefore it was supersonic.
+5. Therefore a sonic boom should have occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[signalcleveland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
+6. Therefore the object must have used unknown technology.
+
+</div>
+
+If the first assumption is uncertain, every later conclusion becomes less reliable.
+
+## How Strong Is a No-Boom UFO Claim?
+
+A no-boom report becomes genuinely interesting only when investigators can independently establish the object's speed, altitude and trajectory while also showing that witnesses were in a position where a sonic boom should have been detectable.
+
+Most reports do not reach that standard. They typically contain vivid observations but limited information about distance, geometry or atmospheric conditions. In those cases, the absence of a sonic boom is not strong evidence for extraordinary technology. It is evidence that key measurements are missing.
+
+The strongest cases are not the ones with the most dramatic descriptions. They are the ones where independent data make the claim testable. When speed, position and acoustic expectations can all be checked together, the question shifts from speculation to investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> [3NASA 3NASA]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -836,129 +838,114 @@ The weakest cases often rely on a chain of assumptions:
 </script>
 </section>
 
-5. Therefore a sonic boom should have occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[signalcleveland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
-6. Therefore the object must have used unknown technology.
-
-</div>
-
-If the first assumption is uncertain, every later conclusion becomes less reliable.
-
-## How Strong Is a No-Boom UFO Claim?
-
-A no-boom report becomes genuinely interesting only when investigators can independently establish the object's speed, altitude and trajectory while also showing that witnesses were in a position where a sonic boom should have been detectable.
-
-Most reports do not reach that standard. They typically contain vivid observations but limited information about distance, geometry or atmospheric conditions. In those cases, the absence of a sonic boom is not strong evidence for extraordinary technology. It is evidence that key measurements are missing.
-
-The strongest cases are not the ones with the most dramatic descriptions. They are the ones where independent data make the claim testable. When speed, position and acoustic expectations can all be checked together, the question shifts from speculation to investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> [3NASA 3NASA]
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf](https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAcreate sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) -- and is indepen- den...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) -- and is indepen- den...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: investigates the faint side of sonic booms  
-   Link: [https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/](https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</p></details>
+   Link: <a href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</p></details>
    Published: May 2013  
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf](https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.3 to...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf](https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EA Haering Jr · 2012 · Cited by 9 — This paper describes the methods and computations used to place the focused sonic boom on the SCAMP a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf](https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOOM RESEARCHby AR Seebass · 1967 · Cited by 28 — Typically, a 700 000- pound, 300-foot-long aircraft flying at a Mach number of 3 and an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf](https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF SONIC BOOMS GENERATED BY...by KS Green · 1974 · Cited by 1 — Atmospheric pressure, temperature, wind speed, and wind direction are pl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: signalcleveland.org  
    Title: Signal Cleveland Sonic boom?  
-   Link: [https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/](https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/)  
+   Link: <a href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow">https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: [https://en.wikipedia.org/wiki/Sonic_boom](https://en.wikipedia.org/wiki/Sonic_boom)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic boomFor steady supersonic flight, the boom is described as a carpet boom since it moves with the aircraft as it maintains supers...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/](https://www.narcap.org/)  
+   Link: <a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: narcap.de  
-   Link: [https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf](https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf)  
+   Link: <a href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they saw a b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e Mach 40-60) and accelerations (hundreds to thousands of times g) [51, 52...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cbsnews.com  
    Title: what is a sonic boom how does it happen virginia fighter jets cessna plane crash  
-   Link: [https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/](https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/)  
+   Link: <a href="https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhat is a sonic boom, and how does it happen?Jun 5, 2023 — So, an aircraft flying at supersonic speeds at an altitude of 50,000 f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gD7wMZL1eZ4](https://www.youtube.com/watch?v=gD7wMZL1eZ4)  
+   Link: <a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=laM0Nv8nkw4](https://www.youtube.com/watch?v=laM0Nv8nkw4)  
+   Link: <a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=laM0Nv8nkw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X-59: Sonic Booms ExplainedThe x59 will be able to fly at supersonic speeds faster than the speed of sound without producing a loud sonic...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aeroreport.de  
    Title: A brief guide: Supersonic flight without the boom  
-   Link: [https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom](https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom)  
+   Link: <a href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow">https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2025 — “The aircraft&#x27;s cruising speed must be constantly adjusted so that the sonic boom waves don&#x27;t extend below a desired height...</p></details>
    Published: May 8, 2025  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: i analyzed 79621 declassified ufo reports with ai  
-   Link: [https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/](https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>77 reports describe silent flight combined with instant acceleration simultaneously. -... Sonic Boom and gone. CounterSimple3771.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/technical-reports](https://www.narcap.org/technical-reports)  
+   Link: <a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>na, UAP, commonly associated with aviation safety incidents.Read more...</p></details>

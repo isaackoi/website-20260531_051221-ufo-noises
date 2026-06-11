@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Sonic Booms
 title: Can UFOs Break Sound Without Booms?
-title_full: Can UFOs Break Sound Without Booms? | UFO Noises
+title_full: Can UFOs Break Sound Without Booms?
 display_title_short: Sonic Booms
 display_title: Sonic Booms
 heading_title: Can UFOs Break Sound Without Booms?
@@ -354,18 +354,16 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-overview-social
 
 Claims that UFOs move at extraordinary speed without producing a sonic boom are among the most persistent themes in modern UFO reports. Witnesses often describe an object streaking across the sky, accelerating suddenly, or crossing large distances in seconds while remaining silent. For believers, the missing boom is sometimes treated as evidence that the object uses unknown technology. For sceptics, it is often a sign that the object's speed, distance or size has been misjudged.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-overview.webp" | relative_url }}" alt="Overview image for Sonic Booms" loading="eager" decoding="sync" fetchpriority="high">
-The key question is not simply whether a witness heard a boom. It is whether the conditions required for a sonic boom were actually present. A sonic boom is a specific physical effect associated with supersonic motion through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Understanding what causes it helps explain why the absence of a boom can be intriguing in some reports but is not, by itself, proof of anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAcreate sonic boomsAn aircraft, for example, flying supersonic at 50,000 feet can produce a sonic boom cone about 50 miles wide. The s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">sonic boom</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</span></span></span>
+The key question is not simply whether a witness heard a boom. It is whether the conditions required for a sonic boom were actually present. A sonic boom is a specific physical effect associated with supersonic motion through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Understanding what causes it helps explain why the absence of a boom can be intriguing in some reports but is not, by itself, proof of anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">create sonic boomsAn aircraft, for example, flying supersonic at 50,000 feet can produce a sonic boom cone about 50 miles wide. The s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">sonic boom</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</span></span></span>
 
 ## Can UFOs Break Sound Without Booms?
 
 From a conventional aeronautical perspective, any object travelling faster than the speed of sound in the atmosphere generates shock waves. Those shock waves can reach observers on the ground as a sonic boom. The effect is not limited to [aircraft]({{ 'aircraft/' | relative_url }}); it is a consequence of moving through air faster than pressure disturbances can travel ahead of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">sonic boom</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-5-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">What Is Supersonic Flight? (Grades 5-8</span><span class="citation-popover-snippet">May 19, 2009 — A sonic boom is a loud, thunder-like noise that is produced when an aircraft flies overhead at supersonic speeds. Air reac...</span><span class="citation-popover-meta">Published: May 19, 2009</span></span></span>
 
-This is why reports describing apparent speeds of several thousand miles per hour without any accompanying boom attract attention within UFO literature. Historical UFO case compilations and some aviation-related UFO investigations have repeatedly noted witness claims of extremely rapid movement combined with [silence]({{ 'silence/' | relative_url }}) or an absence of expected shock-wave effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[Narcap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-snippet">NarcapUFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">NARCAPTechnical Reports — National Aviation...A preliminary examination of the flight dynamics of four profiles of unidentified aerial p...</span></span></span>
+This is why reports describing apparent speeds of several thousand miles per hour without any accompanying boom attract attention within UFO literature. Historical UFO case compilations and some aviation-related UFO investigations have repeatedly noted witness claims of extremely rapid movement combined with [silence]({{ 'silence/' | relative_url }}) or an absence of expected shock-wave effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[Narcap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-snippet">UFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">Technical Reports — National Aviation...A preliminary examination of the flight dynamics of four profiles of unidentified aerial p...</span></span></span>
 
 However, the phrase “no sonic boom” can mean several different things:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,21 +377,19 @@ However, the phrase “no sonic boom” can mean several different things:
 
 These possibilities must be considered before treating the absence of a boom as evidence of unusual propulsion.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-1-dark.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Sonic Booms Require
 
-A common misunderstanding is that a sonic boom happens only when an aircraft “breaks the sound barrier”. In reality, a supersonic object continuously generates shock waves as long as it remains above Mach 1. The boom is produced when those shock waves intersect with an observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">sonic boom</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/centers-and-facilities/armstrong/supersonic-technologies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">supersonic technologies</span><span class="citation-popover-snippet">NASASupersonic TechnologiesDec 7, 2021 — The technology calculates an airplane&#x27;s sonic boom footprint and provides real-time information...</span></span></span>
+A common misunderstanding is that a sonic boom happens only when an aircraft “breaks the sound barrier”. In reality, a supersonic object continuously generates shock waves as long as it remains above Mach 1. The boom is produced when those shock waves intersect with an observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">sonic boom</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/centers-and-facilities/armstrong/supersonic-technologies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">supersonic technologies</span><span class="citation-popover-snippet">Supersonic TechnologiesDec 7, 2021 — The technology calculates an airplane&#x27;s sonic boom footprint and provides real-time information...</span></span></span>
 
 Several factors influence whether people actually hear the boom:
 
-* **Altitude:** High-altitude flight spreads the boom over a large area. NASA notes that a supersonic aircraft at 50,000 feet can create a boom footprint tens of miles wide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span>
+* **Altitude:** High-altitude flight spreads the boom over a large area. NASA notes that a supersonic aircraft at 50,000 feet can create a boom footprint tens of miles wide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span>
 * **Atmospheric conditions:** Temperature, wind and air density affect how shock waves travel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">NAS A Sets Coverage for Space X 34th Station Resupply Launch, Arrival</span><span class="citation-popover-snippet">NAS A Sets Coverage for Space X 34th Station Resupply Launch, Arrival</span></span></span>
 * **Location of observers:** The boom may occur far from the point where the object is visually observed. Someone watching a distant object may not be inside the shock-wave footprint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apod.nasa.gov/apod/ap260506.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apod.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apod.nasa.gov</span><span class="citation-popover-snippet">nasa.gov2026 May 6 – The Retrograde Dance of Saturn and Neptune...</span></span></span>
 * **Vehicle design:** Modern research aims to reshape shock waves into quieter pressure signatures. NASA's X-59 programme seeks to replace the traditional loud boom with a much softer “thump”, demonstrating that supersonic flight and a dramatic boom are not always synonymous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeroreport.de">[MTU AEROREPORT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeroreport.de</span><span class="citation-popover-title">a brief guide supersonic flight without the boom</span><span class="citation-popover-snippet">MTU AEROREPORTA brief guide: Supersonic flight without the boom8 May 2025 — NASA&#x27;s X-59 quiet supersonic research aircraft was built to d...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">X-59: Sonic Booms ExplainedThe x59 will be able to fly at supersonic speeds faster than the speed of sound without producing a loud sonic...</span></span></span>
 
 These factors complicate simple claims that “it was going faster than sound, so everyone should have heard a boom”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/laM0Nv8nkw4" title="X-59: Sonic Booms Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer">X-59: Sonic Booms Explained</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 77.3K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=laM0Nv8nkw4">Open on YouTube</a></p></div></div></div>
 
@@ -403,8 +399,7 @@ Many UFO reports involve an intuitive comparison with familiar aircraft. People 
 
 This expectation is strengthened by the dramatic way speed is perceived in the sky. A bright light crossing a dark background can appear to move incredibly fast, especially when there are no visual references for distance. If observers conclude that an object travelled several kilometres in a second, they may then reason that a sonic boom should have followed.
 
-In UFO narratives, the missing boom often becomes part of the mystery itself. Some reports specifically highlight silence as a defining characteristic: the object allegedly accelerated instantly, crossed the horizon in moments and produced no audible shock wave. Aviation-focused UFO databases contain numerous reports where pilots or witnesses considered the absence of expected aerodynamic effects noteworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-snippet">NarcapUFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they s...</span></span></span>
-
+In UFO narratives, the missing boom often becomes part of the mystery itself. Some reports specifically highlight silence as a defining characteristic: the object allegedly accelerated instantly, crossed the horizon in moments and produced no audible shock wave. Aviation-focused UFO databases contain numerous reports where pilots or witnesses considered the absence of expected aerodynamic effects noteworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-snippet">UFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they s...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-3-dark.svg" | relative_url }}" alt="Sonic Booms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Apparent Speed Can Mislead
@@ -414,7 +409,6 @@ The strongest conventional explanation for many “no sonic boom” cases is tha
 An object's angular motion across a person's field of view does not reveal its true velocity unless its distance is known. A nearby bird, insect or drone can appear to move across the sky much faster than a distant aircraft. Likewise, a distant object turning towards or away from the observer can create an illusion of sudden acceleration.
 
 Several common errors can exaggerate perceived speed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -427,18 +421,16 @@ Several common errors can exaggerate perceived speed:
 
 Because of these limitations, a witness may sincerely report motion that seems hypersonic even when the actual speed was far lower. If the true speed never exceeded Mach 1, the absence of a sonic boom ceases to be surprising.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-2-dark.svg" | relative_url }}" alt="Sonic Booms illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cases and Claims in UFO Literature
 
-Claims of extraordinary speed without sonic booms appear in many UFO collections and official document releases. Some reports associated with military personnel, pilots and radar observations have described objects apparently moving at speeds that would normally imply significant shock-wave effects. In a number of these cases, witnesses specifically noted the lack of a boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[Narcap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">NARCAPTechnical Reports — National Aviation...A preliminary examination of the flight dynamics of four profiles of unidentified aerial p...</span></span></span>
+Claims of extraordinary speed without sonic booms appear in many UFO collections and official document releases. Some reports associated with military personnel, pilots and radar observations have described objects apparently moving at speeds that would normally imply significant shock-wave effects. In a number of these cases, witnesses specifically noted the lack of a boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[Narcap]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">Technical Reports — National Aviation...A preliminary examination of the flight dynamics of four profiles of unidentified aerial p...</span></span></span>
 
-More recent public discussion of unidentified aerial phenomena has continued to highlight reports involving apparent high-speed manoeuvres without obvious acoustic signatures. Some commentators have argued that this combination challenges conventional aerospace explanations, while others point out that speed estimates are often inferred from incomplete observational data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">To be declassified: UFO broke sound barrier with no sonic</span><span class="citation-popover-snippet">SpaceTo be declassified: UFO broke sound barrier with no sonic...March 24, 2021 — 24 Mar 2021 — Former Trump intelligence director John...</span><span class="citation-popover-meta">Published: March 24, 2021</span></span></span>
+More recent public discussion of unidentified aerial phenomena has continued to highlight reports involving apparent high-speed manoeuvres without obvious acoustic signatures. Some commentators have argued that this combination challenges conventional aerospace explanations, while others point out that speed estimates are often inferred from incomplete observational data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">To be declassified: UFO broke sound barrier with no sonic</span><span class="citation-popover-snippet">To be declassified: UFO broke sound barrier with no sonic...March 24, 2021 — 24 Mar 2021 — Former Trump intelligence director John...</span><span class="citation-popover-meta">Published: March 24, 2021</span></span></span>
 
 The critical limitation is that most such cases lack the complete set of measurements needed to establish true velocity, altitude, trajectory and acoustic conditions simultaneously. Without those measurements, the missing sonic boom remains an observation rather than a definitive physical anomaly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HUzdXIp1eBM" title="NASA Just Fixed The Concorde. It Is SILENT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HUzdXIp1eBM" target="_blank" rel="noopener noreferrer">NASA Just Fixed The Concorde. It Is SILENT</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 391.4K &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HUzdXIp1eBM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HUzdXIp1eBM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gu0EemWzZpM" title="NARCAP TR 20 - Video of UAP from cockpit taken by a commercial pilot over Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gu0EemWzZpM" target="_blank" rel="noopener noreferrer">NARCAP TR 20 - Video of UAP from cockpit taken by a commercial pilot over Mexico</a></p><p class="youtube-embed-meta">Channel: NARCAP &middot; Views: 126.8K &middot; Uploaded: May 2020 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gu0EemWzZpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gu0EemWzZpM">Open on YouTube</a></p></div></div></div>
 
 ## What the Missing Boom Really Tells Us
 
@@ -448,9 +440,7 @@ If an object were conclusively shown to travel through the atmosphere at superso
 
 The more cautious interpretation is that sonic-boom claims sit at the intersection of physics and perception. Sonic booms are real and well understood. Human estimates of speed and distance, especially for unexpected objects in the sky, are far less reliable. As a result, many reports of apparently impossible silent motion may reflect observational uncertainty rather than a violation of known aerodynamics, while a smaller number remain unresolved because the available evidence is insufficient to determine exactly what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-snippet">National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-k-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">what is supersonic flight grades k 4</span><span class="citation-popover-snippet">What Is Supersonic Flight? (Grades K-4)25 Jun 2014 — A sonic boom is a loud noise like thunder. A person on the ground hears a sonic boom...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">sonic boom</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gD7wMZL1eZ4" title="The Science of Silencing Sonic Booms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer">The Science of Silencing Sonic Booms</a></p><p class="youtube-embed-meta">Channel: Interesting Engineering &middot; Views: 143.8K &middot; Uploaded: June 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gD7wMZL1eZ4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -848,184 +838,184 @@ The more cautious interpretation is that sonic-boom claims sit at the intersecti
 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf](https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAcreate sonic boomsAn aircraft, for example, flying supersonic at 50,000 feet can produce a sonic boom cone about 50 miles wide. The s...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsAn aircraft, for example, flying supersonic at 50,000 feet can produce a sonic boom cone about 50 miles wide. The s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: sonic boom  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayAs an aircraft flies at supersonic speeds it is continually generating shock waves, d...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: What Is Supersonic Flight? (Grades 5-8)  
-   Link: [https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-5-8/](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-5-8/)  
+   Link: <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-5-8/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-5-8/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 19, 2009 — A sonic boom is a loud, thunder-like noise that is produced when an aircraft flies overhead at supersonic speeds. Air reac...</p></details>
    Published: May 19, 2009  
 
 4. <a id="endnote-4"></a>
    Source: narcap.de  
-   Link: [https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf](https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NarcapUFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they s...</p></details>
+   Link: <a href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/technical-reports](https://www.narcap.org/technical-reports)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAPTechnical Reports — National Aviation...A preliminary examination of the flight dynamics of four profiles of unidentified aerial p...</p></details>
+   Link: <a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Reports — National Aviation...A preliminary examination of the flight dynamics of four profiles of unidentified aerial p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/](https://www.narcap.org/)  
+   Link: <a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: supersonic technologies  
-   Link: [https://www.nasa.gov/centers-and-facilities/armstrong/supersonic-technologies/](https://www.nasa.gov/centers-and-facilities/armstrong/supersonic-technologies/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASASupersonic TechnologiesDec 7, 2021 — The technology calculates an airplane&#x27;s [sonic boom footprint](&amp;#123;&amp;#123; &#x27;boom-footprints/&#x27; | relative_url &amp;#125;&amp;#125;) and provides real-time information...</p></details>
+   Link: <a href="https://www.nasa.gov/centers-and-facilities/armstrong/supersonic-technologies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/armstrong/supersonic-technologies/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic TechnologiesDec 7, 2021 — The technology calculates an airplane&#x27;s [sonic boom footprint](&amp;#123;&amp;#123; &#x27;boom-footprints/&#x27; | relative_url &amp;#125;&amp;#125;) and provides real-time information...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aeroreport.de  
    Title: a brief guide supersonic flight without the boom  
-   Link: [https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom](https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom)  
+   Link: <a href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow">https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTU AEROREPORTA brief guide: Supersonic flight without the boom8 May 2025 — NASA&#x27;s X-59 quiet supersonic research aircraft was built to d...</p></details>
    Published: May 2025  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=laM0Nv8nkw4](https://www.youtube.com/watch?v=laM0Nv8nkw4)  
+   Link: <a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=laM0Nv8nkw4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X-59: Sonic Booms ExplainedThe x59 will be able to fly at supersonic speeds faster than the speed of sound without producing a loud sonic...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: To be declassified: UFO broke sound barrier with no sonic  
-   Link: [https://www.space.com/declassified-ufo-sightings](https://www.space.com/declassified-ufo-sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTo be declassified: UFO broke sound barrier with no sonic...March 24, 2021 — 24 Mar 2021 — Former Trump intelligence director John...</p></details>
+   Link: <a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>To be declassified: UFO broke sound barrier with no sonic...March 24, 2021 — 24 Mar 2021 — Former Trump intelligence director John...</p></details>
    Published: March 24, 2021  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nasa.gov  
    Title: NAS A Sets Coverage for Space X 34th Station Resupply Launch, Arrival  
-   Link: [https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/</a>  
 
 13. <a id="endnote-13"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap260506.html](https://apod.nasa.gov/apod/ap260506.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap260506.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap260506.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov2026 May 6 – The Retrograde Dance of Saturn and Neptune...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
    Title: what is supersonic flight grades k 4  
-   Link: [https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-k-4/](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-k-4/)  
+   Link: <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-k-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-supersonic-flight-grades-k-4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Supersonic Flight? (Grades K-4)25 Jun 2014 — A sonic boom is a loud noise like thunder. A person on the ground hears a sonic boom...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gD7wMZL1eZ4](https://www.youtube.com/watch?v=gD7wMZL1eZ4)  
+   Link: <a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=q5O_hmRe2KY](https://www.youtube.com/watch?v=q5O_hmRe2KY)  
+   Link: <a href="https://www.youtube.com/watch?v=q5O_hmRe2KY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q5O_hmRe2KY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK  
-   Link: [https://www.youtube.com/watch?v=u-2kGzR2-o0](https://www.youtube.com/watch?v=u-2kGzR2-o0)  
+   Link: <a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u-2kGzR2-o0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Just Fixed The Concorde. It Is SILENT...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: NASA Just Fixed The Concorde. It Is SILENT  
-   Link: [https://www.youtube.com/watch?v=HUzdXIp1eBM](https://www.youtube.com/watch?v=HUzdXIp1eBM)  
+   Link: <a href="https://www.youtube.com/watch?v=HUzdXIp1eBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HUzdXIp1eBM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP TR 20 - Video of UAP from cockpit taken by a commercial pilot over Mexico...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: NARCAP TR 20  
-   Link: [https://www.youtube.com/watch?v=Gu0EemWzZpM](https://www.youtube.com/watch?v=Gu0EemWzZpM)  
+   Link: <a href="https://www.youtube.com/watch?v=Gu0EemWzZpM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gu0EemWzZpM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quesst: A Future with Quiet Supersonic Flight...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Quesst: A Future with Quiet Supersonic Flight  
-   Link: [https://www.youtube.com/watch?v=BkhK88MDnac](https://www.youtube.com/watch?v=BkhK88MDnac)  
+   Link: <a href="https://www.youtube.com/watch?v=BkhK88MDnac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkhK88MDnac</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the Unit...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: [https://en.wikipedia.org/wiki/Sonic_boom](https://en.wikipedia.org/wiki/Sonic_boom)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic boomSonic booms due to large supersonic aircraft can be particularly loud and startling, tend to awaken people, and may cause mi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Supersonic aircraft  
-   Link: [https://en.wikipedia.org/wiki/Supersonic_aircraft](https://en.wikipedia.org/wiki/Supersonic_aircraft)  
+   Link: <a href="https://en.wikipedia.org/wiki/Supersonic_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Supersonic_aircraft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic aircraftThe aerodynamics of supersonic flight is called compressible flow because of the compression associated with the sh...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...Despite this, there exist hard data that demonstrate unreasonably high speeds (abov...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarOpenthe absence ofnoise, easily supersonic speed with no sonic boom, associated. I electromagnetic effects that int...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/technology/engineering/nasas-new-ultraquiet-supersonic-flying-swordfish-plane-makes-history-with-first-test-flight](https://www.livescience.com/technology/engineering/nasas-new-ultraquiet-supersonic-flying-swordfish-plane-makes-history-with-first-test-flight)  
+   Link: <a href="https://www.livescience.com/technology/engineering/nasas-new-ultraquiet-supersonic-flying-swordfish-plane-makes-history-with-first-test-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/technology/engineering/nasas-new-ultraquiet-supersonic-flying-swordfish-plane-makes-history-with-first-test-flight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dubbed the &quot;flying swordfish&quot; for its long, pointed nose, the X-59 is engineered to reduce the loud sonic booms typical of supersonic air...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/](https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of Non-Ballistic Flight Patterns: r/ufoTechnical Context: From a conceptual standpoint, the lack of a sonic boom at those sp...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: rdworldonline.com  
    Title: how nasa designed the x 59 to eliminate the sonic boom  
-   Link: [https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/](https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/)  
+   Link: <a href="https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.rdworldonline.com/how-nasa-designed-the-x-59-to-eliminate-the-sonic-boom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How NASA designed the X-59 to eliminate the sonic boom5 May 2026 — NASA&#x27;s X-59 aircraft, part of the Quesst mission, can reach supersonic...</p></details>
    Published: May 2026  
 
 29. <a id="endnote-29"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1](https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1)  
+   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BrightBytess/posts/scientists-are-investigating-reports-of-an-unidentified-craft-with-an-unusual-sh/941629755448607/](https://www.facebook.com/BrightBytess/posts/scientists-are-investigating-reports-of-an-unidentified-craft-with-an-unusual-sh/941629755448607/)  
+   Link: <a href="https://www.facebook.com/BrightBytess/posts/scientists-are-investigating-reports-of-an-unidentified-craft-with-an-unusual-sh/941629755448607/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BrightBytess/posts/scientists-are-investigating-reports-of-an-unidentified-craft-with-an-unusual-sh/941629755448607/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d structural details suggesting technology far beyond human capability.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
    Title: i analyzed 79621 declassified ufo reports with ai  
-   Link: [https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/](https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>77 reports describe silent flight combined with instant acceleration simultaneously. -... Sonic Boom and gone. CounterSimple3771.Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/recent-video-captured-strange-objects-streaking-across-the-sky-leaving-long-dark/964181469934608/](https://www.facebook.com/ancientwhispers/posts/recent-video-captured-strange-objects-streaking-across-the-sky-leaving-long-dark/964181469934608/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/recent-video-captured-strange-objects-streaking-across-the-sky-leaving-long-dark/964181469934608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/recent-video-captured-strange-objects-streaking-across-the-sky-leaving-long-dark/964181469934608/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sparking discussion among aviation enthusiasts and UFO...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/](https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/1987jhh/how_does_the_x59_reduce_the_loudness_of_a_sonic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e peak intensity of the shockwave reduces the noise...Read more...</p></details>

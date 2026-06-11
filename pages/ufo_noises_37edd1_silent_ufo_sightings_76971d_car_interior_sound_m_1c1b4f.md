@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /silence/
 nav_short_title: Inside Cars
 title: Silent UFOs Seen From Cars
-title_full: Silent UFOs Seen From Cars | Silence
+title_full: Silent UFOs Seen From Cars
 display_title_short: Inside Cars
 display_title: Inside Cars
 heading_title: Silent UFOs Seen From Cars
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:08:21'
-parent_title: Why Are Some UFOs Reported Silent? | UFO Noises
+parent_title: Why Are Some UFOs Reported Silent?
 parent_permalink: /silence/
 parent_nav_short_title: Silence
 parent_heading_title: Why Are Some UFOs Reported Silent?
@@ -276,14 +276,12 @@ image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior
 
 Many reports of apparently silent UFOs come from people who were driving or sitting inside cars. That detail matters more than it first appears. A witness inside a vehicle is not listening to the outside world under normal conditions. Engine vibration, tyre noise, airflow around the bodywork, the car’s insulation and even the position of closed windows can significantly reduce or distort outside sounds.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-1-dark.svg" | relative_url }}" alt="Inside Cars illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the context of [silent UFO sightings]({{ 'silence/' | relative_url }}), this means a low-flying [aircraft]({{ 'aircraft/' | relative_url }}), helicopter, drone or other aerial object may seem unnaturally quiet simply because the witness is hearing it through the acoustic filter of a vehicle cabin. The issue does not automatically explain every report, but it is one of the most practical factors investigators examine when assessing claims that a large object passed nearby without producing the expected engine noise.
+In the context of silent UFO sightings, this means a low-flying [aircraft]({{ 'aircraft/' | relative_url }}), helicopter, drone or other aerial object may seem unnaturally quiet simply because the witness is hearing it through the acoustic filter of a vehicle cabin. The issue does not automatically explain every report, but it is one of the most practical factors investigators examine when assessing claims that a large object passed nearby without producing the expected engine noise.
 
 ## How Vehicles Block and Mask Outside Sound
 
-Modern cars are designed to isolate occupants from noise. Automotive engineers devote extensive effort to reducing what is known as NVH: noise, vibration and harshness. Vehicle interiors use glass, seals, insulation, body panels and sound-damping materials to limit the transmission of outside sound into the cabin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grasacoustics.com">[GRAS Sound and Vibration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grasacoustics.com</span><span class="citation-popover-snippet">GRAS Sound and VibrationVehicle Interior Noise TestingIt concerns the overall noise level inside the vehicle at its full speed range and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">ScienceDirectInterior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span>, the vehicle generates its own acoustic environment. Common sources include:
-
+Modern cars are designed to isolate occupants from noise. Automotive engineers devote extensive effort to reducing what is known as NVH: noise, vibration and harshness. Vehicle interiors use glass, seals, insulation, body panels and sound-damping materials to limit the transmission of outside sound into the cabin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grasacoustics.com">[GRAS Sound and Vibration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grasacoustics.com</span><span class="citation-popover-snippet">GRAS Sound and VibrationVehicle Interior Noise TestingIt concerns the overall noise level inside the vehicle at its full speed range and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">Interior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span>, the vehicle generates its own acoustic environment. Common sources include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,13 +289,13 @@ Modern cars are designed to isolate occupants from noise. Automotive engineers d
 * Tyre contact with the road surface.
 * Wind moving around mirrors and body panels.
 * Ventilation and air-conditioning systems.
-* Vibrations transmitted through the chassis. ScienceDirect+2CTK <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">ScienceDirectInterior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span>
+* Vibrations transmitted through the chassis. ScienceDirect+2CTK <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">Interior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span>
 
 </div>
 
 These sounds can mask weaker external noises. Acoustic masking occurs when one sound makes another harder to detect. A listener may therefore notice a bright light or unusual shape outside the vehicle while failing to register a distant engine note that would have been easier to hear while standing outdoors.
 
-Studies of vehicle acoustics show that interior noise is often dominated by low-frequency components from road and vehicle operation. Researchers and manufacturers actively develop systems to suppress or manage these sounds because they strongly affect passenger perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">ScienceDirectInterior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/425892/1/MSSP18_348R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[2ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-title">e Prints Soton Local active control of road noise inside a vehicle</span><span class="citation-popover-snippet">ePrints SotonLocal active control of road noise inside a vehicle - ePrints Sotonby W Jung · 2019 · Cited by 217 — The performance is inve...</span></span></span>
+Studies of vehicle acoustics show that interior noise is often dominated by low-frequency components from road and vehicle operation. Researchers and manufacturers actively develop systems to suppress or manage these sounds because they strongly affect passenger perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">Interior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/425892/1/MSSP18_348R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[2ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-title">e Prints Soton Local active control of road noise inside a vehicle</span><span class="citation-popover-snippet">ePrints SotonLocal active control of road noise inside a vehicle - ePrints Sotonby W Jung · 2019 · Cited by 217 — The performance is inve...</span></span></span>
 
 The practical consequence for UFO reports is straightforward: [silence]({{ 'silence/' | relative_url }}) heard from inside a car is not the same thing as silence measured in open air.
 
@@ -311,7 +309,6 @@ Weather can also redirect sound. Wind, temperature gradients and atmospheric lay
 
 Now add a vehicle cabin to the situation:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The witness is already separated from the outside environment by glass and body panels.
@@ -322,7 +319,6 @@ Now add a vehicle cabin to the situation:
 </div>
 
 A person can therefore conclude that an object was directly overhead and completely silent when it was actually farther away and quieter than they realised.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0XjKLAe3jik" title="Road Traffic and Aircraft Noise Solution | Part 1 | Quietco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0XjKLAe3jik" target="_blank" rel="noopener noreferrer">Road Traffic and Aircraft Noise Solution | Part 1 | Quietco</a></p><p class="youtube-embed-meta">Channel: Quietco &middot; Views: 5.7K &middot; Uploaded: May 2021 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0XjKLAe3jik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0XjKLAe3jik">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +348,6 @@ Light reaches the observer effectively immediately, while sound travels through 
 
 This effect becomes especially relevant during short-duration sightings reported from roads, motorways and rural routes.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-2-dark.svg" | relative_url }}" alt="Inside Cars illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Closed Windows Matter More Than Witnesses Often Realise
 
@@ -376,7 +371,6 @@ The same issue appears in later black-triangle reports from North America and th
 
 In those situations, the acoustic evidence is usually weaker than the visual evidence because the observer was never in an ideal position to hear and evaluate external sounds.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wjn7CXW288M" title="7 Ways Soundproofing your Car Where it Actually WORKS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wjn7CXW288M" target="_blank" rel="noopener noreferrer">7 Ways Soundproofing your Car Where it Actually WORKS</a></p><p class="youtube-embed-meta">Channel: Soundproof Guide &middot; Views: 975.5K &middot; Uploaded: June 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wjn7CXW288M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wjn7CXW288M">Open on YouTube</a></p></div></div></div>
 
 ## How Car-Based Sightings Should Be Checked
@@ -386,7 +380,6 @@ When investigators assess reports of silent aerial objects seen from vehicles, s
 ### What Was Happening Inside the Vehicle?
 
 Key details include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -400,7 +393,6 @@ Key details include:
 
 A witness may remember an unusual object vividly while forgetting these factors, even though they strongly affect what could be heard.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-3-dark.svg" | relative_url }}" alt="Inside Cars illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_car_interior_sound_m_1c1b4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Was There Independent Outdoor Confirmation?
 
@@ -410,7 +402,7 @@ If a supposedly silent object was observed simultaneously by pedestrians, outdoo
 
 ### Were Known Aircraft Present?
 
-Flight-tracking records, airport approach paths and [military training]({{ 'military-roars/' | relative_url }}) routes can help determine whether ordinary aircraft were in the area. Aircraft noise studies consistently show that perceived loudness varies greatly with distance, weather and terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[Eagle Pubs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Eagle Pubs Aeroacoustics of Flight Vehicles –</span><span class="citation-popover-snippet">noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://flyquietoak.com/wp-content/uploads/2022/04/aircraft_noise_fundamentals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyquietoak.com">[Fly Quiet OAK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyquietoak.com</span><span class="citation-popover-title">Fly Quiet OAKAircraft Noise</span><span class="citation-popover-snippet">May 30, 2018 — Propagation of Noise — Outdoor sound levels decrease as the distance from the source increases... Spherical spreading of...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
+Flight-tracking records, airport approach paths and military training routes can help determine whether ordinary aircraft were in the area. Aircraft noise studies consistently show that perceived loudness varies greatly with distance, weather and terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eaglepubs.erau.edu">[Eagle Pubs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eaglepubs.erau.edu</span><span class="citation-popover-title">Eagle Pubs Aeroacoustics of Flight Vehicles –</span><span class="citation-popover-snippet">noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://flyquietoak.com/wp-content/uploads/2022/04/aircraft_noise_fundamentals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyquietoak.com">[Fly Quiet OAK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyquietoak.com</span><span class="citation-popover-title">Fly Quiet OAKAircraft Noise</span><span class="citation-popover-snippet">May 30, 2018 — Propagation of Noise — Outdoor sound levels decrease as the distance from the source increases... Spherical spreading of...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
 
 A witness who believed an object was a few hundred metres away may have been observing something much farther away, making the lack of obvious noise less surprising.
 
@@ -420,13 +412,11 @@ A useful distinction is whether the observer remained in the vehicle or exited i
 
 Reports in which witnesses stopped, got out and listened carefully are generally more informative acoustically than sightings observed entirely through a windscreen while driving. Once outside, the listener is no longer hearing the world through the vehicle’s acoustic filtering system.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lml6-1Ezhhc" title="Noise Control Techniques in Cars #AGBG | Gagan Choudhary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lml6-1Ezhhc" target="_blank" rel="noopener noreferrer">Noise Control Techniques in Cars #AGBG | Gagan Choudhary</a></p><p class="youtube-embed-meta">Channel: Gagan Choudhary &middot; Views: 192.2K &middot; Uploaded: December 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lml6-1Ezhhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lml6-1Ezhhc">Open on YouTube</a></p></div></div></div>
 
 ## What the Car-Interior Explanation Can and Cannot Explain
 
-Vehicle masking is one of the strongest ordinary explanations for many reports of silent aerial objects seen from roads. It is supported by established acoustics, vehicle engineering and known limits of human perception. Cars are specifically designed to reduce external noise, while simultaneously generating their own internal sound environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grasacoustics.com">[GRAS Sound and Vibration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grasacoustics.com</span><span class="citation-popover-snippet">GRAS Sound and VibrationVehicle Interior Noise TestingIt concerns the overall noise level inside the vehicle at its full speed range and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">ScienceDirectInterior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span>, the explanation has limits. It works best when:
-
+Vehicle masking is one of the strongest ordinary explanations for many reports of silent aerial objects seen from roads. It is supported by established acoustics, vehicle engineering and known limits of human perception. Cars are specifically designed to reduce external noise, while simultaneously generating their own internal sound environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grasacoustics.com">[GRAS Sound and Vibration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grasacoustics.com</span><span class="citation-popover-snippet">GRAS Sound and VibrationVehicle Interior Noise TestingIt concerns the overall noise level inside the vehicle at its full speed range and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Interior Noise</span><span class="citation-popover-snippet">Interior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</span></span></span>, the explanation has limits. It works best when:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -806,127 +796,127 @@ For that reason, the simple statement that a UFO was “silent” is rarely enou
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Interior Noise  
-   Link: [https://www.sciencedirect.com/topics/engineering/interior-noise](https://www.sciencedirect.com/topics/engineering/interior-noise)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInterior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/engineering/interior-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/engineering/interior-noise</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interior Noise - an overviewInterior noise is defined as the complex sound environment within a vehicle, primarily dominated...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: flyquietoak.com  
    Title: Fly Quiet OAKAircraft Noise  
-   Link: [https://flyquietoak.com/wp-content/uploads/2022/04/aircraft_noise_fundamentals.pdf](https://flyquietoak.com/wp-content/uploads/2022/04/aircraft_noise_fundamentals.pdf)  
+   Link: <a href="https://flyquietoak.com/wp-content/uploads/2022/04/aircraft_noise_fundamentals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flyquietoak.com/wp-content/uploads/2022/04/aircraft_noise_fundamentals.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2018 — Propagation of Noise — Outdoor sound levels decrease as the distance from the source increases... Spherical spreading of...</p></details>
    Published: May 30, 2018  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0376042114000311](https://www.sciencedirect.com/science/article/abs/pii/S0376042114000311)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042114000311" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042114000311</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noise predictionby A Filippone · 2014 · Cited by 244 — This contribution addresses the state-of-the-art in the field of aircraft...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S136192092200400X](https://www.sciencedirect.com/science/article/pii/S136192092200400X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S136192092200400X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S136192092200400X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollution and noise reduction through missed approach...by R Casado · 2023 · Cited by 12 — In this work we focus on missed approaches, w...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1361920921003096](https://www.sciencedirect.com/science/article/abs/pii/S1361920921003096)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361920921003096" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1361920921003096</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aviation noise complaint effect on home pricesby FL Friedt · 2021 · Cited by 24 — This noise pollution effect, persists for roughly 1...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1361920923003425](https://www.sciencedirect.com/science/article/abs/pii/S1361920923003425)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361920923003425" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1361920923003425</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft noise impact prediction with incorporation of...by C Wu · 2023 · Cited by 18 — As part of a research effort towards greener avi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0301479723019898](https://www.sciencedirect.com/science/article/pii/S0301479723019898)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0301479723019898" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0301479723019898</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using aircraft tracking data to estimate the geographic...by DH Betchkal · 2023 · Cited by 9 — This article addresses the ongoing need t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: grasacoustics.com  
-   Link: [https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh](https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh)  
+   Link: <a href="https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh" target="_blank" rel="noopener noreferrer nofollow">https://www.grasacoustics.com/industries/automotive/vehicle-interior-nvh</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GRAS Sound and VibrationVehicle Interior Noise TestingIt concerns the overall noise level inside the vehicle at its full speed range and...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: eprints.soton.ac.uk  
    Title: e Prints Soton Local active control of road noise inside a vehicle  
-   Link: [https://eprints.soton.ac.uk/425892/1/MSSP18_348R1.pdf](https://eprints.soton.ac.uk/425892/1/MSSP18_348R1.pdf)  
+   Link: <a href="https://eprints.soton.ac.uk/425892/1/MSSP18_348R1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/425892/1/MSSP18_348R1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ePrints SotonLocal active control of road noise inside a vehicle - ePrints Sotonby W Jung · 2019 · Cited by 217 — The performance is inve...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: eaglepubs.erau.edu  
    Title: Eagle Pubs Aeroacoustics of Flight Vehicles –  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>noise propagation by refracting and sometimes focusing sound over longer distances.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: portseattle.org  
-   Link: [https://www.portseattle.org/faq/what-are-effects-weather-noise](https://www.portseattle.org/faq/what-are-effects-weather-noise)  
+   Link: <a href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.portseattle.org/faq/what-are-effects-weather-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Port of SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be inf...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: trid.trb.org  
-   Link: [https://trid.trb.org/View/29195](https://trid.trb.org/View/29195)  
+   Link: <a href="https://trid.trb.org/View/29195" target="_blank" rel="noopener noreferrer nofollow">https://trid.trb.org/View/29195</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This report presents the results of a test program conducted to measure the effect of...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dacemotorgroup.co.uk  
    Title: how car soundproofing works and why some cars feel quieter  
-   Link: [https://www.dacemotorgroup.co.uk/blog/how-car-soundproofing-works-and-why-some-cars-feel-quieter](https://www.dacemotorgroup.co.uk/blog/how-car-soundproofing-works-and-why-some-cars-feel-quieter)  
+   Link: <a href="https://www.dacemotorgroup.co.uk/blog/how-car-soundproofing-works-and-why-some-cars-feel-quieter" target="_blank" rel="noopener noreferrer nofollow">https://www.dacemotorgroup.co.uk/blog/how-car-soundproofing-works-and-why-some-cars-feel-quieter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dace Motor GroupHow Car Soundproofing Works (And Why Some Cars Feel &#x27;...19 Dec 2025 — A car uses microphones to listen to the cabin nois...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: [https://www.faa.gov/noise/aircraft_noise](https://www.faa.gov/noise/aircraft_noise)  
+   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Jan 2025 — Topics on this page. Aircraft and airport noise programs; High-demand air traffic areas; Aircraft noise levels and stages...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360531970_Aircraft_noise_in_situations_with_grazing_sound_incidence-Comparing_different_modeling_approaches](https://www.researchgate.net/publication/360531970_Aircraft_noise_in_situations_with_grazing_sound_incidence-Comparing_different_modeling_approaches)  
+   Link: <a href="https://www.researchgate.net/publication/360531970_Aircraft_noise_in_situations_with_grazing_sound_incidence-Comparing_different_modeling_approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360531970_Aircraft_noise_in_situations_with_grazing_sound_incidence-Comparing_different_modeling_approaches</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aircraft noise in situations with grazing sound...The recently developed aircraft noise model sonAIR features a physically based s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362572864_A_literature_review_2000-2022_on_vehicle_acoustics_Investigations_on_perceptual_parameters_of_interior_soundscapes_in_electrified_vehicles](https://www.researchgate.net/publication/362572864_A_literature_review_2000-2022_on_vehicle_acoustics_Investigations_on_perceptual_parameters_of_interior_soundscapes_in_electrified_vehicles)  
+   Link: <a href="https://www.researchgate.net/publication/362572864_A_literature_review_2000-2022_on_vehicle_acoustics_Investigations_on_perceptual_parameters_of_interior_soundscapes_in_electrified_vehicles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362572864_A_literature_review_2000-2022_on_vehicle_acoustics_Investigations_on_perceptual_parameters_of_interior_soundscapes_in_electrified_vehicles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A literature review [2000-2022] on vehicle acoustics9 Aug 2022 — Here we offer a literature review on the perception of acoustic ch...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: duracote.com  
-   Link: [https://www.duracote.com/articles/sound-barriers-vs-sound-absorption/](https://www.duracote.com/articles/sound-barriers-vs-sound-absorption/)  
+   Link: <a href="https://www.duracote.com/articles/sound-barriers-vs-sound-absorption/" target="_blank" rel="noopener noreferrer nofollow">https://www.duracote.com/articles/sound-barriers-vs-sound-absorption/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Cabin Noise: Sound Barriers Vs Sound AbsorbersSo, in terms of an aircraft, sound barriers keep any sound made within a cabin con...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: akroncantonairport.com  
-   Link: [https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf](https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf)  
+   Link: <a href="https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.akroncantonairport.com/assets/Noise-Study-Files/141030draftchapter2introductiontonoiseterminology1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Draft Part 150 UpdateParticipants in airport noise studies often express interest in two sound-propagation issues: (1) source-to-listener...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: flynaples.com  
-   Link: [https://www.flynaples.com/wp-content/uploads/Appendix-D-Aircraft-Noise.pdf](https://www.flynaples.com/wp-content/uploads/Appendix-D-Aircraft-Noise.pdf)  
+   Link: <a href="https://www.flynaples.com/wp-content/uploads/Appendix-D-Aircraft-Noise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flynaples.com/wp-content/uploads/Appendix-D-Aircraft-Noise.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix D: Aircraft NoiseThe higher the sound pressure, the more energy carried by the sound and the louder the perception of that sound...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ctk.eu.com  
-   Link: [https://www.ctk.eu.com/ctk-vibration-absorbing-material-4/](https://www.ctk.eu.com/ctk-vibration-absorbing-material-4/)  
+   Link: <a href="https://www.ctk.eu.com/ctk-vibration-absorbing-material-4/" target="_blank" rel="noopener noreferrer nofollow">https://www.ctk.eu.com/ctk-vibration-absorbing-material-4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 reasons why car soundproofing is importantWith soundproofing, the cabin is much quieter and more relaxed, making driving more enjoyable...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dael.euracoustics.org  
-   Link: [https://dael.euracoustics.org/landing_pages/aaua/65295.html](https://dael.euracoustics.org/landing_pages/aaua/65295.html)  
+   Link: <a href="https://dael.euracoustics.org/landing_pages/aaua/65295.html" target="_blank" rel="noopener noreferrer nofollow">https://dael.euracoustics.org/landing_pages/aaua/65295.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acustica ELectronicaSo the sound propagation models of common aircraft noise calculation tools, like the German AzBor the Integrated Nois...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ioa.org.uk  
-   Link: [https://www.ioa.org.uk/sites/default/files/ioatransportsupp22_web.pdf](https://www.ioa.org.uk/sites/default/files/ioatransportsupp22_web.pdf)  
+   Link: <a href="https://www.ioa.org.uk/sites/default/files/ioatransportsupp22_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ioa.org.uk/sites/default/files/ioatransportsupp22_web.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANSPORT NOISENot only do quieter road surfaces better reflect benefits from a reduction in vehicle noise limits, they are also a critic...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: imc-tm.com  
-   Link: [https://www.imc-tm.com/solutions/automotive-testing/in-cabin-experience](https://www.imc-tm.com/solutions/automotive-testing/in-cabin-experience)  
+   Link: <a href="https://www.imc-tm.com/solutions/automotive-testing/in-cabin-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.imc-tm.com/solutions/automotive-testing/in-cabin-experience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>imc Test &amp; Measurement GmbHIn-Cabin Experience Testing | Automotive Comfort &amp; NVHEnsure a superior in-cabin experience with precise NVH a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: abmtrade.eu  
-   Link: [https://abmtrade.eu/does-car-soundproofing-affect-safety/](https://abmtrade.eu/does-car-soundproofing-affect-safety/)  
+   Link: <a href="https://abmtrade.eu/does-car-soundproofing-affect-safety/" target="_blank" rel="noopener noreferrer nofollow">https://abmtrade.eu/does-car-soundproofing-affect-safety/</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /aircraft/
 nav_short_title: Blade Slap
 title: When Helicopters Sound Like Sky Knocks
-title_full: When Helicopters Sound Like Sky Knocks | Aircraft
+title_full: When Helicopters Sound Like Sky Knocks
 display_title_short: Blade Slap
 display_title: Blade Slap
 heading_title: When Helicopters Sound Like Sky Knocks
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:04:29'
-parent_title: When Aircraft Sounds Become UFO Stories | UFO Noises
+parent_title: When Aircraft Sounds Become UFO Stories
 parent_permalink: /aircraft/
 parent_nav_short_title: Aircraft
 parent_heading_title: When Aircraft Sounds Become UFO Stories
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_b
 
 Some of the most convincing “UFO noise” reports involve sounds rather than lights. Witnesses describe sharp metallic knocks, rapid cracking noises, distant impacts, or rhythmic hammering in the sky, yet no obvious [aircraft]({{ 'aircraft/' | relative_url }}) can be seen. One of the most common aviation explanations for these reports is helicopter blade slap, a distinctive acoustic effect that can sound surprisingly unlike a normal helicopter when the aircraft is distant, obscured by cloud, or flying at night.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-1-dark.svg" | relative_url }}" alt="Blade Slap illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Blade slap is not a myth or a casual nickname. Rotorcraft researchers have studied it for decades as a specific aerodynamic noise phenomenon linked to interactions between rotor blades and the vortices they create. Under the right conditions, the resulting sound can resemble a series of hard aerial impacts rather than the familiar cinematic “whup-whup” associated with helicopters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server HELICOPTER&#x27; NOISE</span><span class="citation-popover-snippet">blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</span></span></span> Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/0022460X66901325" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This has been simulated on a rotor whirl stand...Read more...</span></span></span>
 
@@ -286,15 +285,13 @@ Most people recognise a nearby helicopter by its steady chopping rhythm. Blade s
 
 The effect can be startling because the sound is highly impulsive. Instead of hearing a smooth engine note, the listener receives a sequence of strong pressure pulses. Studies of helicopter noise perception have found that these impulsive characteristics make blade slap especially noticeable and often more annoying than other rotor sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server HELICOPTER&#x27; NOISE</span><span class="citation-popover-snippet">blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</span></span></span> Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/42879771.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Blade-slap noise was...Read more...</span></span></span> A useful clue is that the knocks usually occur in a regular rhythm. Even when the individual impacts sound metallic or mechanical, they tend to repeat with a consistent cadence linked to rotor motion rather than occurring randomly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server HELICOPTER&#x27; NOISE</span><span class="citation-popover-snippet">blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kPC4YWmPEJc" title="Crazy rotor blade slap! / Great helicopter sound approaching / RACC SEM EC135 EC-LAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kPC4YWmPEJc" target="_blank" rel="noopener noreferrer">Crazy rotor blade slap! / Great helicopter sound approaching / RACC SEM EC135 EC-LAL</a></p><p class="youtube-embed-meta">Channel: heli3 &middot; Views: 5.0K &middot; Uploaded: October 2022 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kPC4YWmPEJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kPC4YWmPEJc">Open on YouTube</a></p></div></div></div>
 
 ## Why Helicopters Produce These Sharp Cracks
 
-The mechanism behind blade slap is well understood. As a helicopter flies, each rotor blade leaves a swirling wake, known as a vortex, behind its tip. Under certain flight conditions, a following blade passes close to or directly through that vortex. The interaction creates a sudden aerodynamic disturbance and a strong acoustic pulse. This process is known as blade-vortex interaction, often abbreviated as BVI. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noisequest.psu.edu">[noisequest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noisequest.psu.edu</span><span class="citation-popover-snippet">NoisequestSources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</span></span></span> NASA research and other rotorcraft studies have long identified blade-vortex interaction as a major source of helicopter impulsive noise. The resulting sound is the classic blade slap associated with many helicopters, particularly during specific manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server HELICOPTER&#x27; NOISE</span><span class="citation-popover-snippet">blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</span></span></span> Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://rotorcraft.arc.nasa.gov/Publications/files/McCluer_1996%20TM110423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rotorcraft.arc.nasa.gov">[NASA Rotorcraft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rotorcraft.arc.nasa.gov</span><span class="citation-popover-snippet">NASA RotorcraftHelicopter Blade-Vortex Interaction Noise with...by MS McCluer · 1996 · Cited by 23 — This introductory section discusses...</span></span></span>
+The mechanism behind blade slap is well understood. As a helicopter flies, each rotor blade leaves a swirling wake, known as a vortex, behind its tip. Under certain flight conditions, a following blade passes close to or directly through that vortex. The interaction creates a sudden aerodynamic disturbance and a strong acoustic pulse. This process is known as blade-vortex interaction, often abbreviated as BVI. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noisequest.psu.edu">[noisequest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noisequest.psu.edu</span><span class="citation-popover-snippet">Sources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</span></span></span> NASA research and other rotorcraft studies have long identified blade-vortex interaction as a major source of helicopter impulsive noise. The resulting sound is the classic blade slap associated with many helicopters, particularly during specific manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server HELICOPTER&#x27; NOISE</span><span class="citation-popover-snippet">blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</span></span></span> Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://rotorcraft.arc.nasa.gov/Publications/files/McCluer_1996%20TM110423.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rotorcraft.arc.nasa.gov">[NASA Rotorcraft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rotorcraft.arc.nasa.gov</span><span class="citation-popover-snippet">NASA RotorcraftHelicopter Blade-Vortex Interaction Noise with...by MS McCluer · 1996 · Cited by 23 — This introductory section discusses...</span></span></span>
 
 Several factors can increase the effect:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -308,15 +305,14 @@ Several factors can increase the effect:
 
 The US Federal Aviation Administration's helicopter noise guidance notes that blade slap commonly appears during partial-power descents and other manoeuvres where rotor aerodynamics favour strong blade-vortex interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/documentlibrary/media/advisory_circular/ac_91-66.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration AC 91-66</span><span class="citation-popover-snippet">For a typical helicopter, blade slap occurs during partial pc.,,ier descents or when...Read more...</span></span></span>
 
-Because the sound is generated by brief pressure pulses rather than a continuous engine tone, it can carry a distinctly crack-like character that listeners may not immediately associate with an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verticalmag.com">[Vertical Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verticalmag.com</span><span class="citation-popover-title">the science behind helicopter noise how the industry is working to reduce it</span><span class="citation-popover-snippet">Vertical MagThe science behind helicopter noise25 Feb 2021 — The blade vortex interaction (BVI) produces highly impulsive vibrations in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noisequest.psu.edu">[Noisequest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noisequest.psu.edu</span><span class="citation-popover-snippet">NoisequestSources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</span></span></span>
-
+Because the sound is generated by brief pressure pulses rather than a continuous engine tone, it can carry a distinctly crack-like character that listeners may not immediately associate with an aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verticalmag.com">[Vertical Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verticalmag.com</span><span class="citation-popover-title">the science behind helicopter noise how the industry is working to reduce it</span><span class="citation-popover-snippet">Vertical MagThe science behind helicopter noise25 Feb 2021 — The blade vortex interaction (BVI) produces highly impulsive vibrations in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noisequest.psu.edu">[Noisequest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noisequest.psu.edu</span><span class="citation-popover-snippet">Sources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-2-dark.svg" | relative_url }}" alt="Blade Slap illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Distance Turns Rotor Noise Unfamiliar
 
 Distance changes what reaches the listener's ears. Higher-frequency details fade more quickly than lower-frequency components, and atmospheric conditions can further distort the sound field.
 
-Blade-vortex interaction noise is particularly directional. Research into rotorcraft acoustics shows that these impulsive pulses are often projected below the rotor disc and can be concentrated in specific directions. A person standing in one location may hear loud cracks while another person nearby hears a much less dramatic sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verticalmag.com">[Vertical Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verticalmag.com</span><span class="citation-popover-title">the science behind helicopter noise how the industry is working to reduce it</span><span class="citation-popover-snippet">Vertical MagThe science behind helicopter noise25 Feb 2021 — The blade vortex interaction (BVI) produces highly impulsive vibrations in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noisequest.psu.edu">[noisequest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noisequest.psu.edu</span><span class="citation-popover-snippet">NoisequestSources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</span></span></span> When the helicopter itself is hidden by:
+Blade-vortex interaction noise is particularly directional. Research into rotorcraft acoustics shows that these impulsive pulses are often projected below the rotor disc and can be concentrated in specific directions. A person standing in one location may hear loud cracks while another person nearby hears a much less dramatic sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verticalmag.com">[Vertical Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verticalmag.com</span><span class="citation-popover-title">the science behind helicopter noise how the industry is working to reduce it</span><span class="citation-popover-snippet">Vertical MagThe science behind helicopter noise25 Feb 2021 — The blade vortex interaction (BVI) produces highly impulsive vibrations in t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noisequest.psu.edu">[noisequest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noisequest.psu.edu</span><span class="citation-popover-snippet">Sources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</span></span></span> When the helicopter itself is hidden by:
 
 * Darkness,
 
@@ -334,7 +330,6 @@ the listener loses the visual cue that normally identifies the source. What rema
 Historical discussions of helicopter noise have noted that blade slap has sometimes been mistaken for entirely different events. Reports have even documented confusion between blade slap and distant gunfire because both involve repeating impulsive sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/report-suggests-noise-of-a-helicopter-may-be-mistaken-for-machinegun-fire-1.272645" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesReport suggests noise of a helicopter may be mistaken for...May 19, 2000 — 19 May 2000 — &quot;Many times, blade slap noise ha...</span><span class="citation-popover-meta">Published: May 19, 2000</span></span></span>
 
 This helps explain why some UFO-noise accounts focus on unexplained knocking, popping, or cracking rather than on a recognisable aircraft sound.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vr3rn_dBB0o" title="NASA&#x27;s Device for Providing Real-Time Rotorcraft Noise Abatement Information" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vr3rn_dBB0o" target="_blank" rel="noopener noreferrer">NASA&#x27;s Device for Providing Real-Time Rotorcraft Noise Abatement Information</a></p><p class="youtube-embed-meta">Channel: NASA Technology Transfer Program &middot; Views: 473 &middot; Uploaded: April 2024 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vr3rn_dBB0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vr3rn_dBB0o">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +353,6 @@ Many witnesses first hear the knocks and only later notice a helicopter emerging
 
 Medical, police, military, news, utility, and transport helicopters often fly at altitudes and speeds that can generate noticeable blade slap during approach or descent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/documentlibrary/media/advisory_circular/ac_91-66.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration AC 91-66</span><span class="citation-popover-snippet">For a typical helicopter, blade slap occurs during partial pc.,,ier descents or when...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-3-dark.svg" | relative_url }}" alt="Blade Slap illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_aircraft_sound_mista_f42cc5_helicopter_blade_sla_9ebeb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Blade Slap Remains a Frequent Source of UFO-Noise Reports
 
@@ -368,9 +362,7 @@ Unlike a jet's continuous roar or a propeller aircraft's steady buzz, blade slap
 
 For a listener who hears only the acoustic effect and never clearly sees the aircraft, the result can be an apparently source-less series of metallic sky knocks. In many cases, what seems at first like an unexplained aerial sound is simply a distant helicopter whose rotor aerodynamics have transformed an ordinary flight into something far stranger to the ear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server HELICOPTER&#x27; NOISE</span><span class="citation-popover-snippet">blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</span></span></span> Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verticalmag.com">[Vertical Mag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verticalmag.com</span><span class="citation-popover-title">the science behind helicopter noise how the industry is working to reduce it</span><span class="citation-popover-snippet">Vertical MagThe science behind helicopter noise25 Feb 2021 — The blade vortex interaction (BVI) produces highly impulsive vibrations in t...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rxM84rX-U4Q" title="Most Iconic Helicopter Sound UH-1 Huey: 20+Minutes compilation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rxM84rX-U4Q" target="_blank" rel="noopener noreferrer">Most Iconic Helicopter Sound UH-1 Huey: 20+Minutes compilation</a></p><p class="youtube-embed-meta">Channel: Helicopter King &middot; Views: 919.0K &middot; Uploaded: January 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rxM84rX-U4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rxM84rX-U4Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,166 +761,166 @@ For a listener who hears only the acoustic effect and never clearly sees the air
 1. <a id="endnote-1"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server HELICOPTER' NOISE  
-   Link: [https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf](https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19680028460/downloads/19680028460.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;blade slap&#x27; denotes this one type of naise, it varies considerably in intensity and quality with the type of helicopter and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0022460X66901325](https://www.sciencedirect.com/science/article/abs/pii/0022460X66901325)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X66901325" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0022460X66901325</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This has been simulated on a rotor whirl stand...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19810024614/downloads/19810024614.pdf](https://ntrs.nasa.gov/api/citations/19810024614/downloads/19810024614.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19810024614/downloads/19810024614.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19810024614/downloads/19810024614.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The waveform of this distinct and.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022460X73803530](https://www.sciencedirect.com/science/article/abs/pii/S0022460X73803530)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022460X73803530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022460X73803530</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vortex induced helicopter blade loads and noiseby LT Filotas · 1973 · Cited by 25 — The fluctuating lift on a helicopter rotor blade pass...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19780020737](https://ntrs.nasa.gov/citations/19780020737)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19780020737" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19780020737</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerA subjective field study of helicopter blade-slap noiseby CA Powell · 1978 · Cited by 7 — The effects of imp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/42879771.pdf](https://core.ac.uk/download/pdf/42879771.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/42879771.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/42879771.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blade-slap noise was...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19780024874/downloads/19780024874.pdf](https://ntrs.nasa.gov/api/citations/19780024874/downloads/19780024874.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19780024874/downloads/19780024874.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19780024874/downloads/19780024874.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports Serverhelicopter external noise requirements--faa perspectiveby CR Foster · 1978 · Cited by 1 — The main rotor noi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: rotorcraft.arc.nasa.gov  
-   Link: [https://rotorcraft.arc.nasa.gov/Publications/files/McCluer_1996%20TM110423.pdf](https://rotorcraft.arc.nasa.gov/Publications/files/McCluer_1996%20TM110423.pdf)  
+   Link: <a href="https://rotorcraft.arc.nasa.gov/Publications/files/McCluer_1996%20TM110423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rotorcraft.arc.nasa.gov/Publications/files/McCluer_1996%20TM110423.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA RotorcraftHelicopter Blade-Vortex Interaction Noise with...by MS McCluer · 1996 · Cited by 23 — This introductory section discusses...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Rotorcraft blade/vortex interaction noise  
-   Link: [https://ntrs.nasa.gov/citations/19910039717](https://ntrs.nasa.gov/citations/19910039717)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19910039717" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19910039717</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerRotorcraft blade/vortex interaction noise - Its generation...by JS Preisser · 1990 · Cited by 1 — Recent r...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19840021602](https://ntrs.nasa.gov/citations/19840021602)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19840021602" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19840021602</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerPriority for empirical methods developmentby RJ King · 1982 — Main rotor noise is believed to be the key to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0376042199000123](https://www.sciencedirect.com/science/article/abs/pii/S0376042199000123)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRotor blade–vortex interaction noiseby HY Yung · 2000 · Cited by 223 — Blade–vortex interaction noise-generated by helicopte...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042199000123" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042199000123</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rotor blade–vortex interaction noiseby HY Yung · 2000 · Cited by 223 — Blade–vortex interaction noise-generated by helicopte...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19840021593/downloads/19840021593.pdf](https://ntrs.nasa.gov/api/citations/19840021593/downloads/19840021593.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19840021593/downloads/19840021593.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19840021593/downloads/19840021593.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noiseby RJ Huston · 1982 · Cited by 3 — BLADE VORTEX INTERACTION NOISE REDUCTION BY ROTOR BLADE TIP MODIFICATION... with dominant blade...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap260506.html](https://apod.nasa.gov/apod/ap260506.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap260506.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap260506.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov2026 May 6 – The Retrograde Dance of Saturn and Neptune...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0022460X69900285](https://www.sciencedirect.com/science/article/pii/0022460X69900285)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0022460X69900285" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022460X69900285</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory includes blade slap, rotation noise and vortex...Rea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022460X73803530](https://www.sciencedirect.com/science/article/pii/S0022460X73803530)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022460X73803530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022460X73803530</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vortex induced helicopter blade loads and noiseby LT Filotas · 1973 · Cited by 25 — The fluctuating lift on a helicopter rotor blade pass...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: noisequest.psu.edu  
-   Link: [https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html](https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NoisequestSources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</p></details>
+   Link: <a href="https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noisequest.psu.edu/sourcesofnoise-helicopternoise.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Aviation NoiseThis noise results from the interactions of rotor blades with the shed vortex trails generated by the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: verticalmag.com  
    Title: the science behind helicopter noise how the [industry](&#123;&#123; 'industry/' | relative_url &#125;&#125;) is working to reduce it  
-   Link: [https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/](https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/)  
+   Link: <a href="https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/" target="_blank" rel="noopener noreferrer nofollow">https://verticalmag.com/features/the-science-behind-helicopter-noise-how-the-industry-is-working-to-reduce-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vertical MagThe science behind helicopter noise25 Feb 2021 — The blade vortex interaction (BVI) produces highly impulsive vibrations in t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration AC 91-66  
-   Link: [https://www.faa.gov/documentlibrary/media/advisory_circular/ac_91-66.pdf](https://www.faa.gov/documentlibrary/media/advisory_circular/ac_91-66.pdf)  
+   Link: <a href="https://www.faa.gov/documentlibrary/media/advisory_circular/ac_91-66.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentlibrary/media/advisory_circular/ac_91-66.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For a typical helicopter, blade slap occurs during partial pc.,,ier descents or when...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: irishtimes.com  
-   Link: [https://www.irishtimes.com/news/report-suggests-noise-of-a-helicopter-may-be-mistaken-for-machinegun-fire-1.272645](https://www.irishtimes.com/news/report-suggests-noise-of-a-helicopter-may-be-mistaken-for-machinegun-fire-1.272645)  
+   Link: <a href="https://www.irishtimes.com/news/report-suggests-noise-of-a-helicopter-may-be-mistaken-for-machinegun-fire-1.272645" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/report-suggests-noise-of-a-helicopter-may-be-mistaken-for-machinegun-fire-1.272645</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesReport suggests noise of a helicopter may be mistaken for...May 19, 2000 — 19 May 2000 — &quot;Many times, blade slap noise ha...</p></details>
    Published: May 19, 2000  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: geohazards.earth.utah.edu  
-   Link: [https://geohazards.earth.utah.edu/helicopters.html](https://geohazards.earth.utah.edu/helicopters.html)  
+   Link: <a href="https://geohazards.earth.utah.edu/helicopters.html" target="_blank" rel="noopener noreferrer nofollow">https://geohazards.earth.utah.edu/helicopters.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strongest sound is produced as so-called thickness noise, which arises due to pressure pulses emitted from the front and trailing edges o...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: stopthechopnynj.org  
-   Link: [https://stopthechopnynj.org/environmental-and-health/](https://stopthechopnynj.org/environmental-and-health/)  
+   Link: <a href="https://stopthechopnynj.org/environmental-and-health/" target="_blank" rel="noopener noreferrer nofollow">https://stopthechopnynj.org/environmental-and-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental &amp; Health ImpactsThe impulsive vibrations from &#x27;blade slap&#x27; make listeners perceive helicopters to be almost twice as loud a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/257192069_Rotor_blade-vortex_interaction_noise](https://www.researchgate.net/publication/257192069_Rotor_blade-vortex_interaction_noise)  
+   Link: <a href="https://www.researchgate.net/publication/257192069_Rotor_blade-vortex_interaction_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/257192069_Rotor_blade-vortex_interaction_noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rotor blade–vortex interaction noiseBlade–vortex interaction noise-generated by helicopter main rotor blades is one of the most severe no...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vr3rn_dBB0o](https://www.youtube.com/watch?v=vr3rn_dBB0o)  
+   Link: <a href="https://www.youtube.com/watch?v=vr3rn_dBB0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vr3rn_dBB0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Device for Providing Real-Time Rotorcraft Noise...The purpose of this device is to inform the rotorcraft operator of the acoustic...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/nasa](https://www.youtube.com/nasa)  
+   Link: <a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtu.be  
-   Link: [https://youtu.be/xairCL9m9ec](https://youtu.be/xairCL9m9ec)  
+   Link: <a href="https://youtu.be/xairCL9m9ec" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/xairCL9m9ec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I consulted these references in making this video- Aerodynamics of the Helicopter, Gessow, A Meyers, G Helicopter Fundamentals and Basic...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/42866704.pdf](https://core.ac.uk/download/pdf/42866704.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/42866704.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/42866704.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, and swept- tapered-tip configurations were effective in reducing the measured blade...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: aviationacrossamerica.org  
    Title: managing helicopter noise key to keeping access to urban areas  
-   Link: [https://aviationacrossamerica.org/news/2015/02/24/managing-helicopter-noise-key-to-keeping-access-to-urban-areas/](https://aviationacrossamerica.org/news/2015/02/24/managing-helicopter-noise-key-to-keeping-access-to-urban-areas/)  
+   Link: <a href="https://aviationacrossamerica.org/news/2015/02/24/managing-helicopter-noise-key-to-keeping-access-to-urban-areas/" target="_blank" rel="noopener noreferrer nofollow">https://aviationacrossamerica.org/news/2015/02/24/managing-helicopter-noise-key-to-keeping-access-to-urban-areas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alliance for Aviation Across AmericaManaging Helicopter Noise Key to Keeping Access...Feb 24, 2015 — Blade slap (technically “Blade Vort...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askscience/comments/27eg45/why_does_a_helicopters_propeller_make_a_broken/](https://www.reddit.com/r/askscience/comments/27eg45/why_does_a_helicopters_propeller_make_a_broken/)  
+   Link: <a href="https://www.reddit.com/r/askscience/comments/27eg45/why_does_a_helicopters_propeller_make_a_broken/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/27eg45/why_does_a_helicopters_propeller_make_a_broken/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ump thump&quot; sound that helicopter blades make, and a few minutes later a small...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jopdingemans_pilotswhoaskwhy-bladeslap-aerodynamics-activity-7425070731874455552-RA93](https://www.linkedin.com/posts/jopdingemans_pilotswhoaskwhy-bladeslap-aerodynamics-activity-7425070731874455552-RA93)  
+   Link: <a href="https://www.linkedin.com/posts/jopdingemans_pilotswhoaskwhy-bladeslap-aerodynamics-activity-7425070731874455552-RA93" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jopdingemans_pilotswhoaskwhy-bladeslap-aerodynamics-activity-7425070731874455552-RA93</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er design. Have you explored how active rotor control or...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: helicopterforum.verticalreference.com  
-   Link: [https://helicopterforum.verticalreference.com/topic/5809-pop-pop-pop-pop-pop-pop-pop-pop/](https://helicopterforum.verticalreference.com/topic/5809-pop-pop-pop-pop-pop-pop-pop-pop/)  
+   Link: <a href="https://helicopterforum.verticalreference.com/topic/5809-pop-pop-pop-pop-pop-pop-pop-pop/" target="_blank" rel="noopener noreferrer nofollow">https://helicopterforum.verticalreference.com/topic/5809-pop-pop-pop-pop-pop-pop-pop-pop/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pop pop pop pop pop pop popMar 9, 2007 — Blade Slap - The dominant noise produced by helicopters consists of a broadband spectrum generat...</p></details>

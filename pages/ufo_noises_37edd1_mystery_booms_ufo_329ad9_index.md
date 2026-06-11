@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-mystery-booms-ufo/
 description: Focused pages that expand on Booms.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_noises_37edd1_mystery_booms_ufo_329ad9
-parent_title: Booms | UFO Noises
+parent_title: Booms
 parent_nav_short_title: Booms
 parent_permalink: /booms/
 ---

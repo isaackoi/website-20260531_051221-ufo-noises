@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /taos-hum/
 nav_short_title: Sound Clues
 title: Why Low Sounds Are So Hard to Trace
-title_full: Why Low Sounds Are So Hard to Trace | Taos Hum
+title_full: Why Low Sounds Are So Hard to Trace
 display_title_short: Sound Clues
 display_title: Sound Clues
 heading_title: Why Low Sounds Are So Hard to Trace
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:08:46'
-parent_title: Why Is the Taos Hum Linked to UFOs? | UFO Noises
+parent_title: Why Is the Taos Hum Linked to UFOs?
 parent_permalink: /taos-hum/
 parent_nav_short_title: Taos Hum
 parent_heading_title: Why Is the Taos Hum Linked to UFOs?
@@ -268,8 +268,7 @@ image: /assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_fre
 
 ## Introduction
 
-One reason the [Taos Hum]({{ 'taos-hum/' | relative_url }}) became linked to UFO-noise theories is that low-frequency sound behaves in ways that feel deeply unnatural to human listeners. A distant engine, industrial fan, electrical installation or vibration source can seem as though it is coming from nowhere at all when most of its higher-frequency components have faded away. In the Taos reports, many people described a deep drone similar to a diesel engine or heavy machinery, yet investigators struggled to point to a single location. That combination — a sound that feels real but resists localisation — is exactly the kind of experience that encourages speculation about hidden [aircraft]({{ 'aircraft/' | relative_url }}), underground facilities or unknown technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">ThrillistInvestigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">Scientists found nothing, so what was it? Rachael Funnell headshot.Read more...</span></span></span> The most important clue may not be that the sound was mysterious, but that it was low-frequency. Acousticians have long noted that low-frequency noise travels differently, interacts differently with buildings and terrain, and is much harder for people to trace accurately than ordinary environmental sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commercial-acoustics.com/sound-advice/how-sound-travels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commercial-acoustics.com">[Commercial Acoustics®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commercial-acoustics.com</span><span class="citation-popover-title">High frequencies are more directional and less prone to bending.Read more</span><span class="citation-popover-snippet">Commercial Acoustics®How Sound Travels: The Science of Sound Waves!Dec 11, 2020 — Low-frequency waves diffract more easily, making them m...</span></span></span>
-
+One reason the [Taos Hum]({{ 'taos-hum/' | relative_url }}) became linked to UFO-noise theories is that low-frequency sound behaves in ways that feel deeply unnatural to human listeners. A distant engine, industrial fan, electrical installation or vibration source can seem as though it is coming from nowhere at all when most of its higher-frequency components have faded away. In the Taos reports, many people described a deep drone similar to a diesel engine or heavy machinery, yet investigators struggled to point to a single location. That combination — a sound that feels real but resists localisation — is exactly the kind of experience that encourages speculation about hidden [aircraft]({{ 'aircraft/' | relative_url }}), underground facilities or unknown technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[Thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[iflscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">Scientists found nothing, so what was it? Rachael Funnell headshot.Read more...</span></span></span> The most important clue may not be that the sound was mysterious, but that it was low-frequency. Acousticians have long noted that low-frequency noise travels differently, interacts differently with buildings and terrain, and is much harder for people to trace accurately than ordinary environmental sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commercial-acoustics.com/sound-advice/how-sound-travels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commercial-acoustics.com">[Commercial Acoustics®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commercial-acoustics.com</span><span class="citation-popover-title">High frequencies are more directional and less prone to bending.Read more</span><span class="citation-popover-snippet">Commercial Acoustics®How Sound Travels: The Science of Sound Waves!Dec 11, 2020 — Low-frequency waves diffract more easily, making them m...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-1-dark.svg" | relative_url }}" alt="Sound Clues illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Low-Frequency Noise Behaves Differently
@@ -287,7 +286,6 @@ A useful comparison is distant thunder. When a storm is far away, the sharp crac
 
 This matters because a conventional source can begin to sound strange when only its bass components survive the journey. A pump, ventilation system, compressor, industrial motor or traffic corridor may no longer resemble its original sound after travelling several kilometres. What reaches the listener can be an abstract drone with no obvious identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commercial-acoustics.com/sound-advice/how-sound-travels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commercial-acoustics.com">[Commercial Acoustics®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commercial-acoustics.com</span><span class="citation-popover-title">High frequencies are more directional and less prone to bending.Read more</span><span class="citation-popover-snippet">Commercial Acoustics®How Sound Travels: The Science of Sound Waves!Dec 11, 2020 — Low-frequency waves diffract more easily, making them m...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3WXUOLHp54w" title="The Hum ( Taos Hum for 12 Hours )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3WXUOLHp54w" target="_blank" rel="noopener noreferrer">The Hum ( Taos Hum for 12 Hours )</a></p><p class="youtube-embed-meta">Channel: crysknife007 &middot; Views: 490.5K &middot; Uploaded: October 2014 &middot; Length: 11 hours 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3WXUOLHp54w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3WXUOLHp54w">Open on YouTube</a></p></div></div></div>
 
 ## Why Direction Finding Becomes Unreliable
@@ -297,7 +295,6 @@ Humans are surprisingly poor at locating very low sounds.
 Normally, the brain determines [direction]({{ 'direction/' | relative_url }}) by comparing tiny differences in arrival time and intensity between the left and right ears. With higher-frequency sounds, these differences are easier to detect. With long-wavelength low-frequency sound, those directional cues become weaker and less precise. The result is that listeners often know a sound exists without knowing where it originates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commercial-acoustics.com/sound-advice/how-sound-travels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commercial-acoustics.com">[Commercial Acoustics®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commercial-acoustics.com</span><span class="citation-popover-title">High frequencies are more directional and less prone to bending.Read more</span><span class="citation-popover-snippet">Commercial Acoustics®How Sound Travels: The Science of Sound Waves!Dec 11, 2020 — Low-frequency waves diffract more easily, making them m...</span></span></span>
 
 For someone experiencing the Taos Hum, this can create a particularly unsettling effect. A sound may seem:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +309,6 @@ Buildings can make the problem worse. Low-frequency waves can excite vibrations 
 
 This helps explain why some Hum witnesses have reported that the sound seemed to move, disappear when they changed position, or become more noticeable in particular rooms. Such behaviour can arise from acoustic interactions rather than from a moving object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://westminsterresearch.westminster.ac.uk/download/48d989044c72806ed0ad4e0907c3ca7accb01311215117b6226d46abcf0a949c/921008/Benton_2003.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westminsterresearch.westminster.ac.uk">[westminsterresearch.westminster.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westminsterresearch.westminster.ac.uk</span><span class="citation-popover-snippet">Such sensitivity may be a result of heightened sensory.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-2-dark.svg" | relative_url }}" alt="Sound Clues illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some People Hear It and Others Do Not
 
@@ -324,7 +320,6 @@ Researchers studying Hum phenomena have also explored whether some reports may i
 
 The result is a confusing investigative picture. A sound may be real for one listener, absent for another, and difficult for instruments to capture if the signal is weak, intermittent or near the limits of ordinary recording equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">onitor low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eyIuD3yD3No" title="Mystery of The Taos Hum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer">Mystery of The Taos Hum</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 4.1K &middot; Uploaded: January 2025 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eyIuD3yD3No" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eyIuD3yD3No">Open on YouTube</a></p></div></div></div>
 
 ## Why Instruments Often Struggle With the Same Sounds
@@ -334,7 +329,6 @@ A common assumption is that if investigators cannot record a sound, the sound mu
 Many microphones and consumer recording devices are optimised for ordinary speech and everyday environmental sounds. Extremely low-frequency signals can fall near or below the range where such equipment performs reliably. Investigators of Hum reports have repeatedly noted the need for specialised monitoring systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">onitor low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span>
 
 The original Taos investigation used acoustic, seismic and electromagnetic monitoring in an attempt to correlate reports with measurable signals. Despite extensive effort, researchers did not identify a single external source that matched all reported experiences. Importantly, this was not the same as proving that no low-frequency source existed. It demonstrated how difficult it can be to isolate a weak, geographically variable signal in a complex environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iflscience.com">[IFLScience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iflscience.com</span><span class="citation-popover-snippet">Scientists found nothing, so what was it? Rachael Funnell headshot.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">onitor low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span> That distinction often gets lost in UFO discussions. Failure to identify a source is sometimes interpreted as evidence for an extraordinary source, when it may instead reflect the well-known challenges of measuring and tracing low-frequency noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1029864917690931" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLow frequency and infrasound: A critical review of the...by JH Mühlhans · 2017 · Cited by 26 — The aim of this review is to...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yPP1r7yWhXA" title="The Strange Buzzing of the Unexplained Taos Hum Noise Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yPP1r7yWhXA" target="_blank" rel="noopener noreferrer">The Strange Buzzing of the Unexplained Taos Hum Noise Theory</a></p><p class="youtube-embed-meta">Channel: Theories Demystified &middot; Views: 27 &middot; Uploaded: November 2023 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yPP1r7yWhXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yPP1r7yWhXA">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +341,6 @@ People reported a persistent sound with no visible source. The sound seemed diff
 Yet the acoustic clues point in a different direction. Every major feature of the Hum that appears mysterious from a human perspective — poor localisation, selective audibility, vibration-like sensation and long-range propagation — is also characteristic of low-frequency sound itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commercial-acoustics.com/sound-advice/how-sound-travels/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commercial-acoustics.com">[Commercial Acoustics®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commercial-acoustics.com</span><span class="citation-popover-title">High frequencies are more directional and less prone to bending.Read more</span><span class="citation-popover-snippet">Commercial Acoustics®How Sound Travels: The Science of Sound Waves!Dec 11, 2020 — Low-frequency waves diffract more easily, making them m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1029864917690931" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsLow frequency and infrasound: A critical review of the...by JH Mühlhans · 2017 · Cited by 26 — The aim of this review is to...</span></span></span>
 
 That does not solve the Taos mystery. The exact source or sources behind reported experiences remain disputed. What it does show is that the most important evidence in the case is not necessarily the absence of an explanation. It is the presence of a specific type of sound behaviour that naturally creates the impression of an invisible, difficult-to-trace origin. In the context of UFO-noise claims, that makes low-frequency acoustics less a clue pointing toward extraordinary technology and more a clue explaining why ordinary sound sources can sometimes feel extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">onitor low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-3-dark.svg" | relative_url }}" alt="Sound Clues illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_taos_hum_ufo_specula_b823ea_taos_low_frequency_c_8d567b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -748,126 +741,126 @@ That does not solve the Taos mystery. The exact source or sources behind reporte
 1. <a id="endnote-1"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: [https://www.thrillist.com/travel/nation/taos-hum-mystery](https://www.thrillist.com/travel/nation/taos-hum-mystery)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThrillistInvestigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a...</p></details>
+   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: iflscience.com  
-   Link: [https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672](https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672)  
+   Link: <a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists found nothing, so what was it? Rachael Funnell headshot.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 4. <a id="endnote-4"></a>
    Source: commercial-acoustics.com  
    Title: High frequencies are more directional and less prone to bending.Read more  
-   Link: [https://commercial-acoustics.com/sound-advice/how-sound-travels/](https://commercial-acoustics.com/sound-advice/how-sound-travels/)  
+   Link: <a href="https://commercial-acoustics.com/sound-advice/how-sound-travels/" target="_blank" rel="noopener noreferrer nofollow">https://commercial-acoustics.com/sound-advice/how-sound-travels/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Acoustics®How Sound Travels: The Science of Sound Waves!Dec 11, 2020 — Low-frequency waves diffract more easily, making them m...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Taos Hum: New Mexico's Unexplained Acoustic  
-   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</p></details>
    Published: December 14, 2023  
 
 6. <a id="endnote-6"></a>
    Source: physicslab.org  
-   Link: [https://www.physicslab.org/Document.aspx?doctype=3&filename=WavesSound_IntroSound.xml](https://www.physicslab.org/Document.aspx?doctype=3&filename=WavesSound_IntroSound.xml)  
+   Link: <a href="https://www.physicslab.org/Document.aspx?doctype=3&amp;filename=WavesSound_IntroSound.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.physicslab.org/Document.aspx?doctype=3&amp;filename=WavesSound_IntroSound.xml</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to SoundIn general, low frequency waves travel further than high frequency waves because there is less energy transferred to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: madsci.org  
-   Link: [https://www.madsci.org/posts/archives/nov99/943317470.Ph.r.html](https://www.madsci.org/posts/archives/nov99/943317470.Ph.r.html)  
+   Link: <a href="https://www.madsci.org/posts/archives/nov99/943317470.Ph.r.html" target="_blank" rel="noopener noreferrer nofollow">https://www.madsci.org/posts/archives/nov99/943317470.Ph.r.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do low frequency waves seem to travel farther than...Nov 19, 1999 — Next time you hear thunder notice that the farther away the ligh...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: westminsterresearch.westminster.ac.uk  
-   Link: [https://westminsterresearch.westminster.ac.uk/download/48d989044c72806ed0ad4e0907c3ca7accb01311215117b6226d46abcf0a949c/921008/Benton_2003.pdf](https://westminsterresearch.westminster.ac.uk/download/48d989044c72806ed0ad4e0907c3ca7accb01311215117b6226d46abcf0a949c/921008/Benton_2003.pdf)  
+   Link: <a href="https://westminsterresearch.westminster.ac.uk/download/48d989044c72806ed0ad4e0907c3ca7accb01311215117b6226d46abcf0a949c/921008/Benton_2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://westminsterresearch.westminster.ac.uk/download/48d989044c72806ed0ad4e0907c3ca7accb01311215117b6226d46abcf0a949c/921008/Benton_2003.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Such sensitivity may be a result of heightened sensory.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: icben.ethz.ch  
-   Link: [https://icben.ethz.ch/2008/PDFs/Cowan.pdf](https://icben.ethz.ch/2008/PDFs/Cowan.pdf)  
+   Link: <a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>onitor low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1029864917690931](https://journals.sagepub.com/doi/abs/10.1177/1029864917690931)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1029864917690931" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1029864917690931</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLow frequency and infrasound: A critical review of the...by JH Mühlhans · 2017 · Cited by 26 — The aim of this review is to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: acousticalsociety.org  
-   Link: [https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf](https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf)  
+   Link: <a href="https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of Americav5n3 echoes:Layout 116 Apr 2017 — First, the hum is selective. Only a small percentage of Taos residents per...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: latimes.com  
    Title: la xpm 1993 09 01 mn 30113 story  
-   Link: [https://www.latimes.com/archives/la-xpm-1993-09-01-mn-30113-story.html](https://www.latimes.com/archives/la-xpm-1993-09-01-mn-30113-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-1993-09-01-mn-30113-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1993-09-01-mn-30113-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesIn Taos, Researchers Can Hum It, but They Can&#x27;t Name...1 Sept 1993 — Such low-frequency oto-acoustic emissions occur wh...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Works30 Nov 2023 — Hum sufferers describe a low-frequency buzz accompanied by a rumbling vibration. It&#x27;s worse at night, making it almost...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: pressbooks.pub  
-   Link: [https://pressbooks.pub/sound/chapter/how-sound-moves/](https://pressbooks.pub/sound/chapter/how-sound-moves/)  
+   Link: <a href="https://pressbooks.pub/sound/chapter/how-sound-moves/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/sound/chapter/how-sound-moves/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How sound moves – Understanding SoundFrequency of the sound does not matter- high frequency sounds travel at the same speed as low freque...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/science/ms-physics/x1baed5db7c1bb50b%3Awaves/x1baed5db7c1bb50b%3Asound-waves/v/sound-waves](https://www.khanacademy.org/science/ms-physics/x1baed5db7c1bb50b%3Awaves/x1baed5db7c1bb50b%3Asound-waves/v/sound-waves)  
+   Link: <a href="https://www.khanacademy.org/science/ms-physics/x1baed5db7c1bb50b%3Awaves/x1baed5db7c1bb50b%3Asound-waves/v/sound-waves" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/science/ms-physics/x1baed5db7c1bb50b%3Awaves/x1baed5db7c1bb50b%3Asound-waves/v/sound-waves</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound waves (video) | WavesThe frequency of a sound wave corresponds to its pitch. The speed of a sound wave depends on the medium its tr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: victoriagunn.com  
-   Link: [https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum](https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum)  
+   Link: <a href="https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum" target="_blank" rel="noopener noreferrer nofollow">https://victoriagunn.com/blog/wonders-of-taos-the-taos-hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos Hum Mystery in Taos, NM | Wonders of TaosThe Taos Hum is a mysterious low-frequency sound reported by a significant number of locals...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/science/what-is-the-mysterious-[humming](https://timesofindia.indiatimes.com/science/what-is-the-mysterious-[humming)  
+   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-[humming" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-[humming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/89ndpp/unresolved_mystery_taos_hum/](https://www.reddit.com/r/UnresolvedMysteries/comments/89ndpp/unresolved_mystery_taos_hum/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/89ndpp/unresolved_mystery_taos_hum/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/89ndpp/unresolved_mystery_taos_hum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Unresolved Mystery] Taos Hum: r/UnresolvedMysteriesThe Hum is a phenomenon involving widespread reports of a persisent low frequency hu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: physics.stackexchange.com  
-   Link: [https://physics.stackexchange.com/questions/87751/do-low-frequency-sounds-really-carry-longer-distances](https://physics.stackexchange.com/questions/87751/do-low-frequency-sounds-really-carry-longer-distances)  
+   Link: <a href="https://physics.stackexchange.com/questions/87751/do-low-frequency-sounds-really-carry-longer-distances" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/87751/do-low-frequency-sounds-really-carry-longer-distances</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>low frequency sounds really carry longer distances?Nov 24, 2013 — It is a common belief that low frequencies travel longer distances...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/273078532_Low_Frequency_Noise_and_Phantom_Sounds](https://www.researchgate.net/publication/273078532_Low_Frequency_Noise_and_Phantom_Sounds)  
+   Link: <a href="https://www.researchgate.net/publication/273078532_Low_Frequency_Noise_and_Phantom_Sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273078532_Low_Frequency_Noise_and_Phantom_Sounds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustics Today, a publication of The Acoustic Society of America. It has a...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: biorxiv.org  
-   Link: [https://www.biorxiv.org/content/10.1101/2025.06.07.658448v2.full.pdf](https://www.biorxiv.org/content/10.1101/2025.06.07.658448v2.full.pdf)  
+   Link: <a href="https://www.biorxiv.org/content/10.1101/2025.06.07.658448v2.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.1101/2025.06.07.658448v2.full.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the potential sources of a low-frequency sound percept...by B Baumann · 2025 — Manifestations of a low-frequency sound of unknown ori...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/](https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d as a constant, droning noise—like the hum of a distant...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27488996/](https://pubmed.ncbi.nlm.nih.gov/27488996/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27488996/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — Hum-oscillations are typically influenced by head rotati...</p></details>

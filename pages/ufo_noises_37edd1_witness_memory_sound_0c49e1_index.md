@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-witness-memory-sound/
 description: Focused pages that expand on Memory.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: ufo_noises_37edd1_witness_memory_sound_0c49e1
-parent_title: Memory | UFO Noises
+parent_title: Memory
 parent_nav_short_title: Memory
 parent_permalink: /memory/
 ---

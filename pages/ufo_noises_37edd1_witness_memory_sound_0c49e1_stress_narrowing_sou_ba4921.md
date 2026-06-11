@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /memory/
 nav_short_title: Stress Focus
 title: Why Stress Can Blur UFO Sound Memories
-title_full: Why Stress Can Blur UFO Sound Memories | Memory
+title_full: Why Stress Can Blur UFO Sound Memories
 display_title_short: Stress Focus
 display_title: Stress Focus
 heading_title: Why Stress Can Blur UFO Sound Memories
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:09:40'
-parent_title: How Memory Changes UFO Sounds | UFO Noises
+parent_title: How Memory Changes UFO Sounds
 parent_permalink: /memory/
 parent_nav_short_title: Memory
 parent_heading_title: How Memory Changes UFO Sounds
@@ -270,15 +270,14 @@ image: /assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narro
 
 People who report unusual aerial phenomena often describe being startled, frightened or overwhelmed by what they believe they have seen. In those moments, attention does not spread evenly across every sight, sound and sensation. Instead, it often narrows. The witness may become intensely focused on the object itself while other details receive far less mental processing. This pattern, known in psychology as attention narrowing or tunnel [memory]({{ 'memory/' | relative_url }}), helps explain why UFO sound reports are sometimes vague, fragmentary or inconsistent even when visual descriptions remain vivid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The Dynamic and Fragile Nature of Eyewitness Memory</span><span class="citation-popover-snippet">FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...April 13, 2021 — by AN Wulff · 2021 · Cited by 23 — We argue that acute s...</span><span class="citation-popover-meta">Published: April 13, 2021</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-1-dark.svg" | relative_url }}" alt="Stress Focus illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For investigators examining [UFO noises]({{ 'ufo-noises/' | relative_url }}), this matters because a witness can be sincere and confident while still having a weak memory of accompanying sounds. Stress does not simply erase information. It can strengthen memory for the most emotionally important feature of an event while reducing recall of surrounding details, including where a sound came from, how loud it was or what it resembled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1074742713001858" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEncoding negative events under stress: High subjective...by SM Hoscheidt · 2014 · Cited by 108 — Some studies have demonstr...</span></span></span>
+For investigators examining [UFO noises]({{ 'ufo-noises/' | relative_url }}), this matters because a witness can be sincere and confident while still having a weak memory of accompanying sounds. Stress does not simply erase information. It can strengthen memory for the most emotionally important feature of an event while reducing recall of surrounding details, including where a sound came from, how loud it was or what it resembled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1074742713001858" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Encoding negative events under stress: High subjective...by SM Hoscheidt · 2014 · Cited by 108 — Some studies have demonstr...</span></span></span>
 
 ## Why Stress Pulls Attention Towards the Object
 
 A surprising sighting creates an immediate competition for attention. If a witness sees a bright object moving in an unusual way, the visual event often becomes the dominant focus. The brain prioritises what appears most important for understanding or responding to the situation.
 
-Research on eyewitness memory repeatedly shows that stress and emotional arousal can narrow attention around central details while reducing memory for peripheral information. In crime research, this effect is often discussed through the "weapon focus" phenomenon, where witnesses pay disproportionate attention to a threatening or unusual object and remember fewer surrounding details. PMC PubMed Although UFO sightings are very different from crimes <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=citnVXtRrTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Is What We See Real? | Weapon Focus Effect...</span></span></span>, the underlying mechanism is relevant. An unexpected aerial object can become the central point of attention in much the same way. Witnesses may concentrate on:
+Research on eyewitness memory repeatedly shows that stress and emotional arousal can narrow attention around central details while reducing memory for peripheral information. In crime research, this effect is often discussed through the "weapon focus" phenomenon, where witnesses pay disproportionate attention to a threatening or unusual object and remember fewer surrounding details. PMC PubMed Although UFO sightings are very different from crimes <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=citnVXtRrTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Is What We See Real? &#124; Weapon Focus Effect...</span></span></span>, the underlying mechanism is relevant. An unexpected aerial object can become the central point of attention in much the same way. Witnesses may concentrate on:
 
 * Shape and size.
 * Movement patterns.
@@ -298,7 +297,6 @@ This does not necessarily mean the sound was unimportant. Instead, the sound may
 
 A common pattern in UFO reports is:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5xVVFOsf2I" title="Anxiety Hack: Soften the Gaze: Panic Attacks and Tunnel Vision: Anxiety Skills #9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5xVVFOsf2I" target="_blank" rel="noopener noreferrer">Anxiety Hack: Soften the Gaze: Panic Attacks and Tunnel Vision: Anxiety Skills #9</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 86.3K &middot; Uploaded: June 2017 &middot; Length: 3 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5xVVFOsf2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5xVVFOsf2I">Open on YouTube</a></p></div></div></div>
 
 1. Strong recollection of the object's appearance.
@@ -312,10 +310,9 @@ The last point is especially important. When people later attempt to describe a 
 
 A common misunderstanding is that stress simply makes memory worse. Research suggests a more complicated picture.
 
-Some highly emotional or central aspects of an event may become strongly remembered, while less central information deteriorates. Studies of emotional memory have found that arousal can sometimes strengthen recall for the most significant parts of an experience while leaving peripheral details vulnerable to error or omission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1074742713001858" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEncoding negative events under stress: High subjective...by SM Hoscheidt · 2014 · Cited by 108 — Some studies have demonstr...</span></span></span>
+Some highly emotional or central aspects of an event may become strongly remembered, while less central information deteriorates. Studies of emotional memory have found that arousal can sometimes strengthen recall for the most significant parts of an experience while leaving peripheral details vulnerable to error or omission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1074742713001858" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Encoding negative events under stress: High subjective...by SM Hoscheidt · 2014 · Cited by 108 — Some studies have demonstr...</span></span></span>
 
 Applied to UFO sound reports, this means a witness might accurately remember:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -327,7 +324,6 @@ Applied to UFO sound reports, this means a witness might accurately remember:
 
 At the same time, the same witness may struggle to recall:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Whether the sound started before or after the movement.
@@ -338,7 +334,6 @@ At the same time, the same witness may struggle to recall:
 </div>
 
 The witness may therefore appear highly detailed in one area and uncertain in another. That unevenness is often consistent with known patterns of human memory rather than evidence of dishonesty. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The Dynamic and Fragile Nature of Eyewitness Memory</span><span class="citation-popover-snippet">FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...April 13, 2021 — by AN Wulff · 2021 · Cited by 23 — We argue that acute s...</span><span class="citation-popover-meta">Published: April 13, 2021</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-2-dark.svg" | relative_url }}" alt="Stress Focus illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem of Reconstructing a Half-Remembered Sound
@@ -355,12 +350,11 @@ This does not require deliberate fabrication. The witness may genuinely believe 
 
 One reason stress narrowing is relevant to UFO sound memories comes from research showing that intense focus on one kind of information can affect memory for another.
 
-Studies examining weapon focus have found that attention captured by a visually important object can impair memory for other details. Researchers have even explored cross-modal effects, asking whether visual fixation can reduce memory for auditory information occurring at the same time. The findings support the broader idea that attention is limited and that concentrating heavily on one stimulus can leave fewer resources available for encoding another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12908676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedA cross-modal weapon focus effect: The influence of a...by KL Pickel · 2003 · Cited by 59 — To examine whether a weapon&#x27;s presence...</span></span></span>
+Studies examining weapon focus have found that attention captured by a visually important object can impair memory for other details. Researchers have even explored cross-modal effects, asking whether visual fixation can reduce memory for auditory information occurring at the same time. The findings support the broader idea that attention is limited and that concentrating heavily on one stimulus can leave fewer resources available for encoding another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12908676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A cross-modal weapon focus effect: The influence of a...by KL Pickel · 2003 · Cited by 59 — To examine whether a weapon&#x27;s presence...</span></span></span>
 
 For a UFO witness, this creates a straightforward possibility: the more extraordinary the visual experience seemed, the less thoroughly the accompanying sound may have been processed.
 
 That does not mean the sound was imagined. It means the remembered sound may represent only a partial record of what was actually present.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/93ocNhHyGVo" title="The New Science of Eyewitness Memory | John Wixted | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer">The New Science of Eyewitness Memory | John Wixted | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 24.6K &middot; Uploaded: April 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=93ocNhHyGVo">Open on YouTube</a></p></div></div></div>
 
@@ -369,7 +363,6 @@ That does not mean the sound was imagined. It means the remembered sound may rep
 Because sound memories may be fragile, interview techniques matter. Investigators who rush towards specific descriptions can unintentionally shape later recollections.
 
 Instead of asking, "Did it sound electrical?" or "Was there a [humming]({{ 'humming/' | relative_url }}) noise?", interviewers can use open questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,7 +386,6 @@ Keeping those two answers separate helps preserve the original memory while stil
 
 Investigators may also ask witnesses to describe sounds before exposing them to examples from other UFO cases. This reduces the risk that later descriptions become contaminated by comparison with famous reports or popular UFO imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/40018280.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">However, recent research suggests that eyewitnesses remember more about a witnessed event if they close their eyes...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-3-dark.svg" | relative_url }}" alt="Stress Focus illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_witness_memory_sound_0c49e1_stress_narrowing_sou_ba4921-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Stress Narrowing Matters for UFO Sound Reports
 
@@ -401,11 +393,9 @@ Stress narrowing provides a practical explanation for a recurring feature of UFO
 
 The mechanism does not prove that a sighting was misidentified, nor does it prove that an unusual sound was absent. Instead, it explains why witnesses may remember an object's appearance with confidence while recalling the accompanying noise only in broad, shifting or reconstructed terms.
 
-For anyone evaluating UFO sound reports, the key lesson is that weak auditory detail is not automatically evidence against sincerity. Under surprise and stress, attention often concentrates on the most striking feature of an event. In many UFO encounters, that feature is the object itself. The sound may have been present all along, yet encoded only partially, leaving later memory vulnerable to uncertainty, interpretation and reshaping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The Dynamic and Fragile Nature of Eyewitness Memory</span><span class="citation-popover-snippet">FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...April 13, 2021 — by AN Wulff · 2021 · Cited by 23 — We argue that acute s...</span><span class="citation-popover-meta">Published: April 13, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRevisiting the role of attention in the “weapon focus effect”</span><span class="citation-popover-snippet">PMCby HM Körner · 2023 · Cited by 14 — The presence of a weapon in a scene has been found to attract observers&#x27; attention and to impair t...</span></span></span>
-
+For anyone evaluating UFO sound reports, the key lesson is that weak auditory detail is not automatically evidence against sincerity. Under surprise and stress, attention often concentrates on the most striking feature of an event. In many UFO encounters, that feature is the object itself. The sound may have been present all along, yet encoded only partially, leaving later memory vulnerable to uncertainty, interpretation and reshaping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The Dynamic and Fragile Nature of Eyewitness Memory</span><span class="citation-popover-snippet">FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...April 13, 2021 — by AN Wulff · 2021 · Cited by 23 — We argue that acute s...</span><span class="citation-popover-meta">Published: April 13, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRevisiting the role of attention in the “weapon focus effect”</span><span class="citation-popover-snippet">by HM Körner · 2023 · Cited by 14 — The presence of a weapon in a scene has been found to attract observers&#x27; attention and to impair t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/citnVXtRrTM" title="Memory - Eyewitness Testimony (EWT): Anxiety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=citnVXtRrTM" target="_blank" rel="noopener noreferrer">Memory - Eyewitness Testimony (EWT): Anxiety</a></p><p class="youtube-embed-meta">Channel: RED Psychology &middot; Views: 7.9K &middot; Uploaded: February 2018 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=citnVXtRrTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=citnVXtRrTM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -803,131 +793,131 @@ For anyone evaluating UFO sound reports, the key lesson is that weak auditory de
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1074742713001858](https://www.sciencedirect.com/science/article/pii/S1074742713001858)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEncoding negative events under stress: High subjective...by SM Hoscheidt · 2014 · Cited by 108 — Some studies have demonstr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1074742713001858" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1074742713001858</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding negative events under stress: High subjective...by SM Hoscheidt · 2014 · Cited by 108 — Some studies have demonstr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRevisiting the role of attention in the “weapon focus effect”  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10545598/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10545598/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby HM Körner · 2023 · Cited by 14 — The presence of a weapon in a scene has been found to attract observers&#x27; attention and to impair t...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545598/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545598/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by HM Körner · 2023 · Cited by 14 — The presence of a weapon in a scene has been found to attract observers&#x27; attention and to impair t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Marr · 2020 · Cited by 59 — This survey examined lay and expert beliefs about statements concerning stress effects on (eyewitness...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 59 — This survey examined lay and expert beliefs about statements concerning stress effects on (eyewitness...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/40018280.pdf](https://core.ac.uk/download/pdf/40018280.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/40018280.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/40018280.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, recent research suggests that eyewitnesses remember more about a witnessed event if they close their eyes...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m6aY9Wr-xjI](https://www.youtube.com/watch?v=m6aY9Wr-xjI)  
+   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Eyewitness Memory | John Wixted | TED...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Soften the Gaze: Panic Attacks and Tunnel Vision: Anxiety Skills #9  
-   Link: [https://www.youtube.com/watch?v=y5xVVFOsf2I](https://www.youtube.com/watch?v=y5xVVFOsf2I)  
+   Link: <a href="https://www.youtube.com/watch?v=y5xVVFOsf2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y5xVVFOsf2I</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory - Eyewitness Testimony (EWT): Anxiety...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=citnVXtRrTM](https://www.youtube.com/watch?v=citnVXtRrTM)  
+   Link: <a href="https://www.youtube.com/watch?v=citnVXtRrTM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=citnVXtRrTM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is What We See Real? | Weapon Focus Effect...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
    Title: Frontiers The Dynamic and Fragile Nature of Eyewitness Memory  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.666724/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Dynamic and Fragile Nature of Eyewitness Memory...April 13, 2021 — by AN Wulff · 2021 · Cited by 23 — We argue that acute s...</p></details>
    Published: April 13, 2021  
 
 9. <a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1294730/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1294730/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1294730/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1294730/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths of trauma memory: on the oversimplification...by D Davis · 2024 · Cited by 7 — We focus on the specific claims of many CBEs concer...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Eyewitness memory  
-   Link: [https://en.wikipedia.org/wiki/Eyewitness_memory](https://en.wikipedia.org/wiki/Eyewitness_memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_memory</a>  
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12908676/](https://pubmed.ncbi.nlm.nih.gov/12908676/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedA cross-modal weapon focus effect: The influence of a...by KL Pickel · 2003 · Cited by 59 — To examine whether a weapon&#x27;s presence...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12908676/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12908676/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A cross-modal weapon focus effect: The influence of a...by KL Pickel · 2003 · Cited by 59 — To examine whether a weapon&#x27;s presence...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: college.police.uk  
    Title: effect visual distractors weapon focus effect eyewitness memory  
-   Link: [https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory](https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory)  
+   Link: <a href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of visual distractors on weapon focus effect in...8 Apr 2024 — The proposed study aims to establish whether the weapon focus...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scholarsbank.uoregon.edu  
    Title: There are two main effects  
-   Link: [https://scholarsbank.uoregon.edu/bitstreams/940a7e88-2471-4961-98cd-25718472a53f/download](https://scholarsbank.uoregon.edu/bitstreams/940a7e88-2471-4961-98cd-25718472a53f/download)  
+   Link: <a href="https://scholarsbank.uoregon.edu/bitstreams/940a7e88-2471-4961-98cd-25718472a53f/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/bitstreams/940a7e88-2471-4961-98cd-25718472a53f/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholars&#x27; BankEYEWITNESS MEMORY: HOW STRESS AND...by AS YILMAZ · 2016 — For eyewitnesses, high stress levels are typically due to fear—w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: open.lib.umn.edu  
-   Link: [https://open.lib.umn.edu/humanbiology/chapter/1-12-problems-with-memory-eyewitness-testimony/](https://open.lib.umn.edu/humanbiology/chapter/1-12-problems-with-memory-eyewitness-testimony/)  
+   Link: <a href="https://open.lib.umn.edu/humanbiology/chapter/1-12-problems-with-memory-eyewitness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://open.lib.umn.edu/humanbiology/chapter/1-12-problems-with-memory-eyewitness-testimony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Publishing Services1.12 Problems with Memory: Eyewitness TestimonyWhen someone witnesses a crime, that person&#x27;s memory of the details of...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233325637_Of_guns_and_geese_A_meta-analytic_review_of_the_%27weapon_focus%27_literature](https://www.researchgate.net/publication/233325637_Of_guns_and_geese_A_meta-analytic_review_of_the_%27weapon_focus%27_literature)  
+   Link: <a href="https://www.researchgate.net/publication/233325637_Of_guns_and_geese_A_meta-analytic_review_of_the_%27weapon_focus%27_literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233325637_Of_guns_and_geese_A_meta-analytic_review_of_the_%27weapon_focus%27_literature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analytic review of the &#x27;weapon focus&#x27; literatureThe weapon focus effect (WFE) refers to eyewitnesses&#x27; tendency to attend to a weap...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)  
+   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesIn addition to correctly remembering many details of the crimes they witness, eyewitnesses often ne...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/eyewitness-testimony.html](https://www.simplypsychology.org/eyewitness-testimony.html)  
+   Link: <a href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/eyewitness-testimony.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony in Psychologyby S McLeod · Cited by 1 — Eyewitness testimony is a legal term that refers to an account given by peop...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: university.open.ac.uk  
-   Link: [https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence](https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence)  
+   Link: <a href="https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence" target="_blank" rel="noopener noreferrer nofollow">https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can visual attention research tell us about...In this article, Gemma Briggs and Louise Westmarland discuss research on visual attention...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398582821_Psychological_Factors_Affecting_Eyewitness_Testimony_A_Modern_Literature_Review](https://www.researchgate.net/publication/398582821_Psychological_Factors_Affecting_Eyewitness_Testimony_A_Modern_Literature_Review)  
+   Link: <a href="https://www.researchgate.net/publication/398582821_Psychological_Factors_Affecting_Eyewitness_Testimony_A_Modern_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398582821_Psychological_Factors_Affecting_Eyewitness_Testimony_A_Modern_Literature_Review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Factors Affecting Eyewitness Testimony13 Dec 2025 — This review presents the literature from the last twenty years to consi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tutor2u.net  
-   Link: [https://www.tutor2u.net/psychology/reference/memory-factors-affecting-the-accuracy-of-eyewitness-testimony-aqa-a-level-psychology?srsltid=AfmBOooinB_4dKWP5KbG7JFu9XA5mmtG1RQJA0WAmqzOU6wHo0GetWpi](https://www.tutor2u.net/psychology/reference/memory-factors-affecting-the-accuracy-of-eyewitness-testimony-aqa-a-level-psychology?srsltid=AfmBOooinB_4dKWP5KbG7JFu9XA5mmtG1RQJA0WAmqzOU6wHo0GetWpi)  
+   Link: <a href="https://www.tutor2u.net/psychology/reference/memory-factors-affecting-the-accuracy-of-eyewitness-testimony-aqa-a-level-psychology?srsltid=AfmBOooinB_4dKWP5KbG7JFu9XA5mmtG1RQJA0WAmqzOU6wHo0GetWpi" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/memory-factors-affecting-the-accuracy-of-eyewitness-testimony-aqa-a-level-psychology?srsltid=AfmBOooinB_4dKWP5KbG7JFu9XA5mmtG1RQJA0WAmqzOU6wHo0GetWpi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory: Factors Affecting the Accuracy of Eyewitness...22 Dec 2023 — Stress and emotion. Eyewitnesses who are stressed or emotional at t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: themantic-education.com  
    Title: key studies weapon focus and its effects on eye witness memories loftus 1987  
-   Link: [https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/](https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/)  
+   Link: <a href="https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/" target="_blank" rel="noopener noreferrer nofollow">https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Studies: &quot;Weapon focus&quot; and its effects on eye-witness...18 Feb 2019 — Weapons focus could explain poor eye-witness memories because...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pure.port.ac.uk  
-   Link: [https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf](https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf)  
+   Link: <a href="https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Staffby C Marr · 2017 — How does stress at time of identification affect eyewitness memory?... The impact of attention on eyewitness ide...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: library2.smu.ca  
    Title: Weapon Focus Effect A Literature Review  
-   Link: [https://library2.smu.ca/bitstream/handle/01/28200/Weapon%20Focus%20Effect%20-%20A%20Literature%20Review.pdf?isAllowed=y&sequence=1](https://library2.smu.ca/bitstream/handle/01/28200/Weapon%20Focus%20Effect%20-%20A%20Literature%20Review.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://library2.smu.ca/bitstream/handle/01/28200/Weapon%20Focus%20Effect%20-%20A%20Literature%20Review.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library2.smu.ca/bitstream/handle/01/28200/Weapon%20Focus%20Effect%20-%20A%20Literature%20Review.pdf?isAllowed=y&amp;sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SMU LibraryWeapon Focus Effect: A Literature Reviewby T Hatfield · 2015 — The weapon focus effect is described in the literature as the n...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bps.org.uk  
    Title: rethinking reliability eyewitness testimony  
-   Link: [https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony](https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony)  
+   Link: <a href="https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In doing so, we fill the gaps with bias, stress, or suggestion. Just like Elizabeth Loftus says: &quot;Memory works...</p></details>

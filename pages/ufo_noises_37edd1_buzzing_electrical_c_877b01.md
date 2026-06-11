@@ -40,7 +40,7 @@ sidebar_expanded_urls:
 - /ufo-noises/
 nav_short_title: Buzzing
 title: Are Buzzing UFO Sounds Really Electrical?
-title_full: Are Buzzing UFO Sounds Really Electrical? | UFO Noises
+title_full: Are Buzzing UFO Sounds Really Electrical?
 display_title_short: Buzzing
 display_title: Buzzing
 heading_title: Are Buzzing UFO Sounds Really Electrical?
@@ -354,12 +354,10 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-overview-soc
 
 Buzzing is one of the most frequently reported UFO sounds. Witnesses often describe a noise resembling electrical transformers, power lines, fluorescent lighting, high-voltage equipment, insects, or machinery running under strain. The comparison appears across decades of reports because it gives people a familiar way to describe something they perceive as unnatural: a steady vibration, a pulsing hum, or a metallic electrical drone that seems to come from nowhere in particular. Yet the same feature that makes buzzing reports vivid also makes them difficult to verify. Electrical noises are common in everyday environments, sound localisation is often unreliable, and unusual experiences can alter how people remember what they heard. The result is a category of UFO testimony that feels specific but remains hard to investigate conclusively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-overview.webp" | relative_url }}" alt="Overview image for Buzzing" loading="eager" decoding="sync" fetchpriority="high">
 ## Buzzing in Witness Accounts
 
 Buzzing descriptions appear throughout UFO literature, government report archives and civilian case collections. Witnesses rarely agree on the exact sound, but many use overlapping comparisons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +375,6 @@ What makes these reports notable is not merely that a sound was heard, but that 
 In some close-encounter narratives, the buzzing is reported before the object becomes visible. In others, witnesses claim the sound intensified as an object approached and faded abruptly when it departed. Researchers have long noted that [humming]({{ 'humming/' | relative_url }}) and buzzing descriptions recur often enough to form a recognisable pattern within UFO [folklore]({{ 'folklore/' | relative_url }}), even though the reports vary widely in quality and reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">UFOs buzzing cars, UFOs with satellite o. Three branches of the...Read more...</span></span></span>
 
 The reported sound is also frequently linked to bodily sensations. Witnesses sometimes describe vibration in the chest, tingling skin, pressure in the ears or a feeling that the noise was being experienced internally rather than heard conventionally. These additional claims are difficult to separate from stress responses, expectation effects or ordinary physiological reactions during a startling event.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-1-dark.svg" | relative_url }}" alt="Buzzing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Electrical Comparisons Feel So Convincing
@@ -399,15 +396,19 @@ Several unrelated phenomena can produce similar sounds:
 * Electrical infrastructure, including transformers and substations.
 * Distant industrial machinery.
 * Air-conditioning systems.
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Insects, especially large groups of cicadas or bees.
 * Rotating mechanical equipment.
-* [Helicopter blade]({{ 'blade-slap/' | relative_url }}) interactions under certain atmospheric conditions.
+* Helicopter blade interactions under certain atmospheric conditions.
 * Resonance effects created by wind and structures.
+
+</div>
 
 A witness hearing a low-frequency vibration at night may accurately report the sound while still misidentifying its origin. Darkness, distance and environmental acoustics can all interfere with localisation.
 
 Sound investigators frequently note that humans are less effective at locating low-frequency sources than many people realise. A persistent hum may appear to come from the sky when it is actually reflecting from terrain, buildings or atmospheric layers. This is one reason that mysterious humming events often remain unresolved even when no UFO is involved. The long-running [Taos Hum]({{ 'taos-hum/' | relative_url }}) discussions illustrate how difficult it can be to identify a source when listeners perceive vibration-like sounds near the threshold of hearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India What is the mysterious humming noise in New Mexico that</span><span class="citation-popover-snippet">The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundoflife.com">[Sound of Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundoflife.com</span><span class="citation-popover-title">strange sounds heard around the world</span><span class="citation-popover-snippet">The Most Mysterious Noises Heard Around the World2 Apr 2023 — The Hum is a strange low-frequency humming sound that can only be heard by...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4wYNUP8FJDc" title="The Proof Is Out There: Strange Alien Sounds FINALLY Explained | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4wYNUP8FJDc" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Strange Alien Sounds FINALLY Explained | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 283.9K &middot; Uploaded: March 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4wYNUP8FJDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4wYNUP8FJDc">Open on YouTube</a></p></div></div></div>
 
@@ -415,24 +416,22 @@ Sound investigators frequently note that humans are less effective at locating l
 
 Some UFO accounts became famous partly because of their sound descriptions.
 
-The 1973 Pascagoula incident in Mississippi included reports of unusual noises associated with the alleged encounter. Later retellings emphasised a mechanical or buzzing quality that witnesses considered unlike ordinary aircraft. Supporters point to the consistency of the witnesses' descriptions, while sceptics argue that repeated retellings can gradually standardise details and make later accounts appear more consistent than the original testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+The 1973 [Pascagoula]({{ 'pascagoula/' | relative_url }}) incident in Mississippi included reports of unusual noises associated with the alleged encounter. Later [retellings]({{ 'retellings/' | relative_url }}) emphasised a mechanical or buzzing quality that witnesses considered unlike ordinary aircraft. Supporters point to the consistency of the witnesses' descriptions, while sceptics argue that repeated retellings can gradually standardise details and make later accounts appear more consistent than the original testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
-Other historical reports from the late nineteenth and twentieth centuries similarly describe bright aerial objects accompanied by humming or vibrating sounds. In many cases, the auditory details became more prominent as stories were retold through UFO publications, documentaries and discussion forums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">strange case from 1886 involving a humming noise</span><span class="citation-popover-snippet">RedditStrange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</span><span class="citation-popover-meta">Published: May 17, 2023</span></span></span>
+Other historical reports from the late nineteenth and twentieth centuries similarly describe bright aerial objects accompanied by humming or vibrating sounds. In many cases, the auditory details became more prominent as stories were retold through UFO publications, documentaries and discussion forums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">strange case from 1886 involving a humming noise</span><span class="citation-popover-snippet">Strange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</span><span class="citation-popover-meta">Published: May 17, 2023</span></span></span>
 
 This does not necessarily mean witnesses invented the sounds. Rather, it highlights a recurring challenge in UFO research: sound descriptions are often remembered and interpreted after the visual event has already acquired significance.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-3-dark.svg" | relative_url }}" alt="Buzzing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could Electromagnetic Effects Create Unusual Sounds?
 
 One reason buzzing claims attract attention is that some researchers have proposed links between electromagnetic fields and perceived sound.
 
-A controversial line of speculation within older UFO literature suggested that microwave or radio-frequency effects could induce auditory sensations directly in human subjects. The idea draws loosely on real scientific work showing that pulsed electromagnetic energy can under certain conditions produce perceived clicks or buzzing sounds, sometimes called the [microwave auditory]({{ 'microwave-effect/' | relative_url }}) effect. UFO writers occasionally used this research to speculate that witnesses might hear buzzing without a conventional airborne sound source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUfology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</span></span></span>
+A controversial line of speculation within older UFO literature suggested that microwave or radio-frequency effects could induce auditory sensations directly in human subjects. The idea draws loosely on real scientific work showing that pulsed electromagnetic energy can under certain conditions produce perceived clicks or buzzing sounds, sometimes called the microwave auditory effect. UFO writers occasionally used this research to speculate that witnesses might hear buzzing without a conventional airborne sound source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</span></span></span>
 
 The problem is that such claims are usually highly speculative when applied to UFO reports. Even where the underlying physics is genuine, there is almost never enough evidence in a UFO case to determine whether any electromagnetic exposure occurred. Most reports contain no instrumental measurements, no medical data and no independent confirmation.
 
 As a result, electromagnetic explanations often remain interesting hypotheses rather than testable conclusions.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-2-dark.svg" | relative_url }}" alt="Buzzing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Investigators Test Alternative Explanations
@@ -447,7 +446,7 @@ Transformers, substations and overhead lines can generate surprisingly noticeabl
 
 **What were the weather conditions?**
 
-Humidity, temperature inversions and wind layers can alter how sound travels and where listeners perceive it to originate.
+Humidity, temperature [inversions]({{ 'inversions/' | relative_url }}) and wind layers can alter how sound travels and where listeners perceive it to originate.
 
 **Were insects active?**
 
@@ -461,8 +460,7 @@ Independent accounts are generally more valuable than a single recollection, par
 
 Audio recordings can sometimes identify frequencies, harmonics or environmental sources, although many alleged UFO sounds are never captured.
 
-Modern efforts to monitor unusual aerial phenomena increasingly include acoustic [sensors]({{ 'sensors/' | relative_url }}). Programmes that collect infrasound, audible sound and ultrasonic data attempt to distinguish aircraft, weather events and other known sources from genuinely unusual detections. Such systems do not prove a UFO explanation, but they offer a more objective approach than relying solely on memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">MediumMystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</span></span></span>
-
+Modern efforts to monitor unusual aerial phenomena increasingly include acoustic sensors. Programmes that collect infrasound, audible sound and ultrasonic data attempt to distinguish aircraft, weather events and other known sources from genuinely unusual detections. Such systems do not prove a UFO explanation, but they offer a more objective approach than relying solely on memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Mystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ML0eB3HFagM" title="UFO Sound Effects All Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer">UFO Sound Effects All Sounds</a></p><p class="youtube-embed-meta">Channel: All Sounds &middot; Views: 374.8K &middot; Uploaded: January 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ML0eB3HFagM">Open on YouTube</a></p></div></div></div>
 
@@ -474,9 +472,7 @@ The persistence of these reports does not demonstrate that UFOs use exotic elect
 
 That ambiguity is precisely why buzzing reports endure. They are specific enough to feel meaningful, familiar enough to be memorable, and difficult enough to verify that they remain one of the most debated sound patterns in UFO testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India What is the mysterious humming noise in New Mexico that</span><span class="citation-popover-snippet">The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/24cVb_ppFx8" title="UFO Over New York City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=24cVb_ppFx8" target="_blank" rel="noopener noreferrer">UFO Over New York City</a></p><p class="youtube-embed-meta">Channel: renetto &middot; Views: 46.7K &middot; Uploaded: July 2006 &middot; Length: 1 minute 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=24cVb_ppFx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=24cVb_ppFx8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -874,136 +870,136 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufology/ufochap4.htm](https://www.nicap.org/ufology/ufochap4.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUfology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</p></details>
+   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kirkmcd.princeton.edu  
    Title: bloecher 67  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf](https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs buzzing cars, UFOs with satellite o. Three branches of the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</p></details>
    Published: April 29, 2026  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: strange case from 1886 involving a humming noise  
-   Link: [https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/](https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditStrange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</p></details>
    Published: May 17, 2023  
 
 5. <a id="endnote-5"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2](https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumMystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</p></details>
+   Link: <a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/](https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the way beings move like rewinding...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: High Strangeness of an Auditory Kind  
-   Link: [https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/](https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Ringing in the...Prime Contactees are a special type of UFO experiencer. They can request UFO sightings with others present, and an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/](https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extremely loud (UFO?) noise heard at night, anybody...r/aliens - 2006 France Rare footage of the sound of a ufo with sound...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b](https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b)  
+   Link: <a href="https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>errupting dog walks...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... alien in origin, unrelated to astrobiology or xenobiology. List of UFO religions · List of investiga...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1966fullrep.htm](https://www.nicap.org/chronos/1966fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 UFO ChronologySelfridge AFB reported tracking UFOs on radar over Lake Erie. (Hall, 2001, pp. 184-86; U.F.O. Investigator, Vol...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: timesofindia.indiatimes.com  
    Title: The Times of India What is the mysterious humming noise in New Mexico that  
-   Link: [https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms](https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</p></details>
    Published: January 3, 2026  
 
 14. <a id="endnote-14"></a>
    Source: soundoflife.com  
    Title: strange sounds heard around the world  
-   Link: [https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world](https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world)  
+   Link: <a href="https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Mysterious Noises Heard Around the World2 Apr 2023 — The Hum is a strange low-frequency humming sound that can only be heard by...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings](https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings)  
+   Link: <a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: whyy.org  
-   Link: [https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/](https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/)  
+   Link: <a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing. Some of them are happy the idea of UFOs is becoming more mainstream; others, Nickerson says, are disturbed. “They also try t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: its world ufo day we want to share this photo of a ufo flying over belton lake i  
-   Link: [https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/](https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/)  
+   Link: <a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...1 (July 1975) &quot;UFO ILLUMINATES LAKE&quot; “Two men who prefer to remain anonymous sigh...</p></details>
    Published: July 1975  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ML0eB3HFagM](https://www.youtube.com/watch?v=ML0eB3HFagM)  
+   Link: <a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sound Effects All SoundsThe 18 Most Scary Sounds Ever Captured In Space! Darkness Beyond &amp;middot; 2.5M views; Did The Soviet Union D...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/](https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/)  
+   Link: <a href="https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part of me believes that they&#x27;re here to see what happens when sentence serves the world and then...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm](https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — While most of the eyewitnesses described a slow-moving V-shaped UFO, other reports said the object appeared to be...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: artsandculture.google.com  
-   Link: [https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en](https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en)  
+   Link: <a href="https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>google.com10 UFO Sightings Around the World10 UFO Sightings Around the World. Join us on a journey around the world, to discover 10 of th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/](https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/)  
+   Link: <a href="https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon UFO Recording - UFOs The Lost Evidence...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: buriedsecretspodcast.com  
    Title: hallucinatory ufos and sound  
-   Link: [https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/](https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/)  
+   Link: <a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>

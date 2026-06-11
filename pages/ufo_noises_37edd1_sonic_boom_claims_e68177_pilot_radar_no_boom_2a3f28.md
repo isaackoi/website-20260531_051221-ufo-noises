@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sonic-booms/
 nav_short_title: Pilot Cases
 title: Do Better Witnesses Solve the Boom Mystery?
-title_full: Do Better Witnesses Solve the Boom Mystery? | Sonic Booms
+title_full: Do Better Witnesses Solve the Boom Mystery?
 display_title_short: Pilot Cases
 display_title: Pilot Cases
 heading_title: Do Better Witnesses Solve the Boom Mystery?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:58:34'
-parent_title: Can UFOs Break Sound Without Booms? | UFO Noises
+parent_title: Can UFOs Break Sound Without Booms?
 parent_permalink: /sonic-booms/
 parent_nav_short_title: Sonic Booms
 parent_heading_title: Can UFOs Break Sound Without Booms?
@@ -270,7 +270,6 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_
 
 Pilot and radar UFO cases are often presented as the strongest category of reports involving apparent high-speed objects that produce no sonic boom. The logic is straightforward: airline crews, military aviators and radar operators are trained observers, and radar can provide an independent record beyond human perception. If such witnesses report extraordinary acceleration, abrupt manoeuvres or apparent supersonic motion without any accompanying shock-wave effects, the cases seem more difficult to dismiss than ordinary civilian sightings.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Cases illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Yet these reports rarely provide the full set of measurements needed to prove that an object actually exceeded the speed of sound. The central lesson from decades of aviation-related UFO cases is that better witnesses improve the quality of the evidence, but they do not automatically solve the sonic-boom problem. Radar tracks, visual estimates, cockpit observations and later reconstructions often leave crucial gaps about distance, trajectory, altitude and true velocity. The result is a category of cases that is more interesting than most UFO reports, but still often falls short of demonstrating a confirmed aerodynamic anomaly.
 
@@ -278,9 +277,9 @@ Yet these reports rarely provide the full set of measurements needed to prove th
 
 Aviation cases attract attention because they combine several kinds of evidence that are usually absent in ordinary UFO reports.
 
-Pilots are accustomed to judging [aircraft]({{ 'aircraft/' | relative_url }}) movement, navigation lights, weather phenomena and flight behaviour. Military crews in particular are trained to identify airborne contacts rapidly. When radar operators, air-traffic controllers or onboard [sensors]({{ 'sensors/' | relative_url }}) also report unusual returns, investigators gain an additional layer of information that is independent of visual perception. The National Aviation Reporting Center on Anomalous Phenomena (NARCAP) has repeatedly highlighted radar-visual cases as especially valuable because they combine witness testimony with instrument data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">IR 4 DWeinstein NEW 3 21 12</span><span class="citation-popover-snippet">NARCAP1 Aviation Safety and Unidentified Aerial PhenomenaMarch 4, 2015 — by DF Weinstein · 2012 · Cited by 6 — Radar-visual cases are ver...</span><span class="citation-popover-meta">Published: March 4, 2015</span></span></span>
+Pilots are accustomed to judging [aircraft]({{ 'aircraft/' | relative_url }}) movement, navigation lights, weather phenomena and flight behaviour. Military crews in particular are trained to identify airborne contacts rapidly. When radar operators, air-traffic controllers or onboard [sensors]({{ 'sensors/' | relative_url }}) also report unusual returns, investigators gain an additional layer of information that is independent of visual perception. The National Aviation Reporting Center on Anomalous Phenomena (NARCAP) has repeatedly highlighted radar-visual cases as especially valuable because they combine witness testimony with instrument data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">IR 4 DWeinstein NEW 3 21 12</span><span class="citation-popover-snippet">1 Aviation Safety and Unidentified Aerial PhenomenaMarch 4, 2015 — by DF Weinstein · 2012 · Cited by 6 — Radar-visual cases are ver...</span><span class="citation-popover-meta">Published: March 4, 2015</span></span></span>
 
-For questions about [missing sonic booms]({{ 'sonic-booms-6ebda0/' | relative_url }}), this matters because aviation witnesses are more likely than casual observers to understand how fast conventional aircraft normally appear, how long sound delays occur, and what kinds of manoeuvres are aerodynamically plausible.
+For questions about missing sonic [booms]({{ 'booms/' | relative_url }}), this matters because aviation witnesses are more likely than casual observers to understand how fast conventional aircraft normally appear, how long sound delays occur, and what kinds of manoeuvres are aerodynamically plausible.
 
 Even so, radar confirmation does not automatically establish extraordinary speed. Radar may show an unidentified return, but determining precise velocity requires reliable tracking, known distances and confidence that the return represents a physical object rather than clutter, processing artefacts or multiple merged targets.
 
@@ -288,7 +287,7 @@ Even so, radar confirmation does not automatically establish extraordinary speed
 
 One of the most famous pilot-and-radar UFO cases occurred on 17 November 1986, when Japan Air Lines Cargo Flight 1628 crossed Alaska. Captain Kenju Terauchi and his crew reported multiple luminous objects pacing their Boeing 747 and later described a much larger object nearby. FAA personnel recorded lengthy radio communications and the event generated extensive official documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span>
 
-At the time, some reports claimed radar confirmation from both civilian and military systems. Contemporary news coverage emphasised that controllers observed unusual returns near the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-snippet">UPI31 Dec 1986 — &#x27; FAA flight control reports indicate the object stayed with JAL Flight 1628 for at least 32 minutes. Terauchi said he t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">UPI ArchivesDec 30, 1986 — An air controller said radar showed a mysterious object following a Japan Air Lines cargo flight at the time t...</span></span></span>
+At the time, some reports claimed radar confirmation from both civilian and military systems. Contemporary news coverage emphasised that controllers observed unusual returns near the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-snippet">31 Dec 1986 — &#x27; FAA flight control reports indicate the object stayed with JAL Flight 1628 for at least 32 minutes. Terauchi said he t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">UPI ArchivesDec 30, 1986 — An air controller said radar showed a mysterious object following a Japan Air Lines cargo flight at the time t...</span></span></span>
 
 The case is often cited in discussions of silent UFOs because the reported objects allegedly manoeuvred around the aircraft for an extended period without producing any obvious acoustic effects. Yet the sonic-boom question becomes difficult to evaluate once the details are examined.
 
@@ -303,7 +302,6 @@ Most importantly, the event did not provide a measured trajectory showing an obj
 
 This illustrates a recurring pattern in aviation UFO cases: the witness quality is high, but the speed estimate remains uncertain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85OhTbTtK_I" title="The 2004 USS Nimitz UFO Incident | Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85OhTbTtK_I" target="_blank" rel="noopener noreferrer">The 2004 USS Nimitz UFO Incident | Contact</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 1.3M &middot; Uploaded: August 2019 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85OhTbTtK_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85OhTbTtK_I">Open on YouTube</a></p></div></div></div>
 
 ## The Nimitz “Tic Tac” Case and the Missing Boom Question
@@ -316,12 +314,11 @@ However, separating what was actually observed from later interpretations is dif
 
 The strongest evidence consists of:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Pilot testimony from trained military aviators.
 * Radar reports from naval operators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
-* Infrared targeting footage recorded during related events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofiles.app/case-files/nimitz-tic-tac-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofiles.app">[UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofiles.app</span><span class="citation-popover-snippet">UFO FilesNimitz Tic Tac UFO | UFOFiles.appKey Witnesses. U.S. Navy pilots and radar operators. Evidence and Documents. Pilot testimony, s...</span></span></span>
+* Infrared targeting footage recorded during related events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofiles.app/case-files/nimitz-tic-tac-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofiles.app">[UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofiles.app</span><span class="citation-popover-snippet">UFO FilesNimitz Tic Tac UFO &#124; UFOFiles.appKey Witnesses. U.S. Navy pilots and radar operators. Evidence and Documents. Pilot testimony, s...</span></span></span>
 
 </div>
 
@@ -330,7 +327,6 @@ What remains uncertain is whether the object's apparent motion represented true 
 The sonic-boom issue is particularly important here. If an object truly accelerated through dense [atmosphere]({{ 'atmosphere/' | relative_url }}) at the rates often claimed in popular discussions, one would normally expect severe aerodynamic consequences, including shock-wave effects. Yet the available public evidence does not provide the detailed flight path, altitude profile and continuous tracking data required to calculate whether such a boom should have occurred.
 
 As a result, the absence of a reported boom is intriguing but not decisive. The event remains one of the most discussed aviation UFO cases precisely because it combines credible witnesses with incomplete physical measurements.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Cases illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Measurements Are Still Usually Missing?
@@ -351,7 +347,6 @@ Many famous cases involve intermittent observations rather than uninterrupted me
 
 An object may appear in one position, disappear, then appear elsewhere. Witnesses often interpret this as extraordinary acceleration, but proving that interpretation requires continuous tracking between those points.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rQs2NL7hcDA" title="The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer">The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official &middot; Views: 63.5K &middot; Uploaded: January 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rQs2NL7hcDA">Open on YouTube</a></p></div></div></div>
 
 ### Altitude Data
@@ -366,7 +361,6 @@ Radar returns are valuable, but investigators need access to raw data rather tha
 
 Many historical UFO cases rely on witness descriptions of what radar operators supposedly saw rather than archived radar records that can be independently analysed. The JAL 1628 dispute demonstrates how later reviews can alter interpretations of what radar actually showed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/418NWvdh-C4" title="Pilots Witness UFO Flying Over During Landing | What was it?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer">Pilots Witness UFO Flying Over During Landing | What was it?</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 13.8K &middot; Uploaded: April 2026 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=418NWvdh-C4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=418NWvdh-C4">Open on YouTube</a></p></div></div></div>
 
 ## Strong Clues Versus Proven Anomalies
@@ -379,10 +373,9 @@ A useful way to assess aviation UFO cases is to separate evidence that suggests 
 * Independent radar and visual observations.
 * Consistent testimony across different observers.
 * Contemporaneous recordings and official documentation.
-* Observations involving known aviation environments where conventional aircraft should be identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">IR 4 DWeinstein NEW 3 21 12</span><span class="citation-popover-snippet">NARCAP1 Aviation Safety and Unidentified Aerial PhenomenaMarch 4, 2015 — by DF Weinstein · 2012 · Cited by 6 — Radar-visual cases are ver...</span><span class="citation-popover-meta">Published: March 4, 2015</span></span></span>
+* Observations involving known aviation environments where conventional aircraft should be identifiable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.org">[NARCAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.org</span><span class="citation-popover-title">IR 4 DWeinstein NEW 3 21 12</span><span class="citation-popover-snippet">1 Aviation Safety and Unidentified Aerial PhenomenaMarch 4, 2015 — by DF Weinstein · 2012 · Cited by 6 — Radar-visual cases are ver...</span><span class="citation-popover-meta">Published: March 4, 2015</span></span></span>
 
 **Proof of an aerodynamic anomaly would require more:**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -397,7 +390,6 @@ A useful way to assess aviation UFO cases is to separate evidence that suggests 
 Many famous pilot UFO reports satisfy the first list but not the second.
 
 This distinction matters because the absence of a sonic boom only becomes scientifically significant after speed has been independently established. If the object's actual velocity remains uncertain, then "no boom" may simply reflect uncertainty in the speed estimate rather than evidence of unknown technology.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Cases illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_pilot_radar_no_boom_2a3f28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Boom Mystery Remains Unresolved
@@ -805,151 +797,151 @@ The enduring mystery is therefore narrower than it often appears. The strongest 
 1. <a id="endnote-1"></a>
    Source: narcap.org  
    Title: IR 4 DWeinstein NEW 3 21 12  
-   Link: [https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf](https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP1 Aviation Safety and Unidentified Aerial PhenomenaMarch 4, 2015 — by DF Weinstein · 2012 · Cited by 6 — Radar-visual cases are ver...</p></details>
+   Link: <a href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aviation Safety and Unidentified Aerial PhenomenaMarch 4, 2015 — by DF Weinstein · 2012 · Cited by 6 — Radar-visual cases are ver...</p></details>
    Published: March 4, 2015  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Japan Air Lines Cargo Flight 1628  
-   Link: [https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628](https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628)  
+   Link: <a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
 
 3. <a id="endnote-3"></a>
    Source: upi.com  
-   Link: [https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/](https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI31 Dec 1986 — &#x27; FAA flight control reports indicate the object stayed with JAL Flight 1628 for at least 32 minutes. Terauchi said he t...</p></details>
+   Link: <a href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 1986 — &#x27; FAA flight control reports indicate the object stayed with JAL Flight 1628 for at least 32 minutes. Terauchi said he t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: [https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/](https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/)  
+   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI ArchivesDec 30, 1986 — An air controller said radar showed a mysterious object following a Japan Air Lines cargo flight at the time t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: upi.com  
    Title: Radar review fails to confirm UFO  
-   Link: [https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/](https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/)  
+   Link: <a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO shadowing a Japan Air Lines cargo jet, c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: uss nimitz 2004 tic tac ufo encounter  
-   Link: [https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter](https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter)  
+   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIAWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</p></details>
    Published: May 2019  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosUnderwood recorded the FLIR video, and coined the description &quot;Tic Tac&quot; to describe the infrared image; Underwood l...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/2004](https://en.wikipedia.org/wiki/2004)  
+   Link: <a href="https://en.wikipedia.org/wiki/2004" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2004</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>20042004 (MMIV) was a leap year starting on Thursday of the Gregorian calendar, the 2004th year of the Common Era (CE) and Anno Domini...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsJL1628Japan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confirm...</p></details>
    Published: November 18, 1986  
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: the vault files 1986 alaska jal flight 1628  
-   Link: [https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/](https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vault Files: 1986 Alaska JAL Flight 1628 - The...25 Aug 2025 — FAA records, pilot testimonies, and radar evidence make the JAL 1628...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: navalgazing.net  
    Title: Naval Gaze The Navy UFO Incident  
-   Link: [https://www.navalgazing.net/Navy-UFOs](https://www.navalgazing.net/Navy-UFOs)  
+   Link: <a href="https://www.navalgazing.net/Navy-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.navalgazing.net/Navy-UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval GazeThe Navy UFO IncidentMay 10, 2020 — Commander Fravor experienced jamming when he attempted to put an STT lock on the “Tic-Tac”...</p></details>
    Published: May 10, 2020  
 
 12. <a id="endnote-12"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces](https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces)  
+   Link: <a href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneDetailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that o...</p></details>
    Published: May 2018  
 
 13. <a id="endnote-13"></a>
    Source: ufofiles.app  
-   Link: [https://ufofiles.app/case-files/nimitz-tic-tac-ufo/](https://ufofiles.app/case-files/nimitz-tic-tac-ufo/)  
+   Link: <a href="https://ufofiles.app/case-files/nimitz-tic-tac-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/nimitz-tic-tac-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FilesNimitz Tic Tac UFO | UFOFiles.appKey Witnesses. U.S. Navy pilots and radar operators. Evidence and Documents. Pilot testimony, s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight 1628Captian Terauchi ascertained through visual sighting and radar, that the UAT was~ in size to a B747, possibly larger. Captain...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/jal1628](https://archive.org/details/jal1628)  
+   Link: <a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Japan Air Lines flight 1628 was a UFO incident that occurred on November 17, 1986 in...</p></details>
    Published: November 17, 1986  
 
 16. <a id="endnote-16"></a>
    Source: static1.squarespace.com  
    Title: narcap revised tr 4  
-   Link: [https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf](https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf)  
+   Link: <a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gross. 408. Radar-visual UFO cases in 1952, Richard Hall, FUFOR, 1996. 409. UFOs a history: 1949, L. Gross. 410. UFOs a...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NEWSMAX/posts/a-resurfaced-air-traffic-control-recording-has-renewed-attention-on-a-bizarre-mi/1370180851821180/](https://www.facebook.com/NEWSMAX/posts/a-resurfaced-air-traffic-control-recording-has-renewed-attention-on-a-bizarre-mi/1370180851821180/)  
+   Link: <a href="https://www.facebook.com/NEWSMAX/posts/a-resurfaced-air-traffic-control-recording-has-renewed-attention-on-a-bizarre-mi/1370180851821180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/a-resurfaced-air-traffic-control-recording-has-renewed-attention-on-a-bizarre-mi/1370180851821180/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A resurfaced air traffic control recording has renewed...COMMERCIAL PILOT UFO SIGHTING OVER ALABAMA Posted on October 25, 2024 “A classi...</p></details>
    Published: October 25, 2024  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/957662861711333/posts/2228812577929682/](https://www.facebook.com/groups/957662861711333/posts/2228812577929682/)  
+   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports unusual aerial encounterMysterious object spotted during paramotor flight. Worldside Stories ▻ UFO, Aliens, Other Planets a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/](https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/)  
+   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his experience s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/337985034_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter](https://www.researchgate.net/publication/337985034_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter)  
+   Link: <a href="https://www.researchgate.net/publication/337985034_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337985034_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified...We consider the 2004 UAP encounters with the Nimitz Carrier Group off the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: english.nv.ua  
    Title: newly released us ufo files reveal unexplained military encounters 50608767  
-   Link: [https://english.nv.ua/life/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html](https://english.nv.ua/life/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html)  
+   Link: <a href="https://english.nv.ua/life/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/life/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US UFO documents reveal unexplained encounters18 May 2026 — Newly declassified US government UFO documents include unresolved military en...</p></details>
    Published: May 2026  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: Observation of Non-Ballistic Flight Patterns: r/ufor/unitedkingdom  
-   Link: [https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/](https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t65dcn/unusual_aerial_phenomenon_observation_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighter pilots feared going public after &#x27;incredible&#x27; UFO sighting... r/UFOs - UFO Video Lisbon 15 March 2026. 0:17. 0. 7. On...Read more...</p></details>
    Published: March 2026  
 
 23. <a id="endnote-23"></a>
    Source: gizbot.com  
-   Link: [https://www.gizbot.com/internet/features/two-titles-two-eras-how-tech-transformed-between-arsenal-2004-and-2026-premier-league-triumphs-125785.html](https://www.gizbot.com/internet/features/two-titles-two-eras-how-tech-transformed-between-arsenal-2004-and-2026-premier-league-triumphs-125785.html)  
+   Link: <a href="https://www.gizbot.com/internet/features/two-titles-two-eras-how-tech-transformed-between-arsenal-2004-and-2026-premier-league-triumphs-125785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gizbot.com/internet/features/two-titles-two-eras-how-tech-transformed-between-arsenal-2004-and-2026-premier-league-triumphs-125785.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Titles, Two Eras! How Tech Transformed Between Arsenal’s 2004 and 2026 Premier League Triumphs...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: meer.com  
    Title: 79187 uss nimitz tic tac ufo unveiling inexplicable physics  
-   Link: [https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics](https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics)  
+   Link: <a href="https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Nimitz Tic Tac UFO: unveiling inexplicable physics23 Apr 2024 — Skeptics argue that the phenomena may have natural or man-made explan...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/](https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/)  
+   Link: <a href="https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vor and Dietrich; Navy pilots recall “unsettling” 2004 UAP sighting.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: explorescu.org  
    Title: 2004 uss nimitz strike navy group incident report  
-   Link: [https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report](https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report)  
+   Link: <a href="https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Forensic Analysis of Navy Carrier Strike Group Eleven&#x27;s...13 Nov 2024 — This paper describes the analysis of an Infrared video taken o...</p></details>

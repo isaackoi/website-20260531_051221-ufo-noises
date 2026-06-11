@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sensors/
 nav_short_title: Multi Band
 title: When a Silent UFO Is Not Silent
-title_full: When a Silent UFO Is Not Silent | Sensors
+title_full: When a Silent UFO Is Not Silent
 display_title_short: Multi Band
 display_title: Multi Band
 heading_title: When a Silent UFO Is Not Silent
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:02:40'
-parent_title: Can Sensors Catch UFO Noises? | UFO Noises
+parent_title: Can Sensors Catch UFO Noises?
 parent_permalink: /sensors/
 parent_nav_short_title: Sensors
 parent_heading_title: Can Sensors Catch UFO Noises?
@@ -268,18 +268,16 @@ image: /assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_sil
 
 ## Introduction
 
-Many UFO reports describe an object that appeared close enough to see clearly yet seemed completely silent. In older accounts, [silence]({{ 'silence/' | relative_url }}) was often treated as a mystery in itself. Modern [acoustic monitoring]({{ 'sensors/' | relative_url }}) has changed that assumption. A silent sighting is no longer automatically interpreted as an absence of sound. Instead, investigators ask whether the strongest acoustic energy may have existed outside normal human hearing, either below the audible range as infrasound or above it as ultrasound. Multi-band sensor systems were designed specifically to test that possibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">Section 2 presents the technical specifications of the AMOS...Read more...</span></span></span>
-
+Many UFO reports describe an object that appeared close enough to see clearly yet seemed completely silent. In older accounts, [silence]({{ 'silence/' | relative_url }}) was often treated as a mystery in itself. Modern acoustic monitoring has changed that assumption. A silent sighting is no longer automatically interpreted as an absence of sound. Instead, investigators ask whether the strongest acoustic energy may have existed outside normal human hearing, either below the audible range as infrasound or above it as ultrasound. Multi-band sensor systems were designed specifically to test that possibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">Section 2 presents the technical specifications of the AMOS...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-1-dark.svg" | relative_url }}" alt="Multi Band illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This shift matters because witness testimony alone cannot determine whether an event generated low-frequency pressure waves, ultrasonic emissions, or only conventional sound. A person may hear nothing while nearby instruments record substantial acoustic activity. In UFO investigations, that distinction changes the question from “Was it silent?” to “What frequencies were actually present?”
 
 ## What Audible Microphones Miss
 
-Human hearing covers only a narrow slice of the acoustic spectrum, generally from about 20 hertz to 20 kilohertz. Many natural and technological processes produce energy outside that range. Traditional audio recordings therefore capture only part of the picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTOInfrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
+Human hearing covers only a narrow slice of the acoustic spectrum, generally from about 20 hertz to 20 kilohertz. Many natural and technological processes produce energy outside that range. Traditional audio recordings therefore capture only part of the picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
 
 A witness can accurately report silence while still standing inside an active acoustic environment. Several factors contribute to this:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -292,21 +290,19 @@ A witness can accurately report silence while still standing inside an active ac
 
 This creates a recurring problem in UFO reports. Witnesses often describe a visible object accompanied by unusual bodily sensations, faint vibration, or a feeling of pressure despite reporting little or no conventional noise. Such reports do not prove an unusual source, but they illustrate why audible-range microphones alone are an incomplete test.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/daZ7IQFqPyA" title="How To Detect A Secret Nuclear Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=daZ7IQFqPyA" target="_blank" rel="noopener noreferrer">How To Detect A Secret Nuclear Test</a></p><p class="youtube-embed-meta">Channel: minutephysics &middot; Views: 1.4M &middot; Uploaded: June 2015 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=daZ7IQFqPyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=daZ7IQFqPyA">Open on YouTube</a></p></div></div></div>
 
 ## Why Infrasound Changes the Meaning of “Silent”
 
-Infrasound has become one of the most important tools for analysing apparently silent aerial events because low-frequency waves can travel extraordinary distances with relatively little loss. The Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) operates a global infrasound monitoring network originally built to detect atmospheric nuclear explosions. The same [sensors]({{ 'sensors/' | relative_url }}) routinely detect meteors, volcanic eruptions, rocket launches and other large atmospheric disturbances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTOCTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</span></span></span>
+Infrasound has become one of the most important tools for analysing apparently silent aerial events because low-frequency waves can travel extraordinary distances with relatively little loss. The Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) operates a global infrasound monitoring network originally built to detect atmospheric nuclear explosions. The same [sensors]({{ 'sensors/' | relative_url }}) routinely detect meteors, volcanic eruptions, rocket launches and other large atmospheric disturbances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</span></span></span>
 
-The 2013 Chelyabinsk meteor provided a striking example. Many people observed the bright fireball visually before hearing major sound effects, while infrasonic waves from the explosion were recorded across continents by the CTBTO network. The signals travelled thousands of kilometres and allowed researchers to estimate characteristics of the event that ordinary witnesses could not perceive directly. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span>, the lesson is methodological rather than sensational. A report that describes a silent luminous object does not automatically imply an acoustically silent event. If the object produced low-frequency atmospheric disturbances, conventional hearing might reveal little while dedicated sensors recorded a measurable signature.
+The 2013 [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) meteor provided a striking example. Many people observed the bright fireball visually before hearing major sound effects, while infrasonic waves from the explosion were recorded across continents by the CTBTO network. The signals travelled thousands of kilometres and allowed researchers to estimate characteristics of the event that ordinary witnesses could not perceive directly. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span>, the lesson is methodological rather than sensational. A report that describes a silent luminous object does not automatically imply an acoustically silent event. If the object produced low-frequency atmospheric disturbances, conventional hearing might reveal little while dedicated sensors recorded a measurable signature.
 
 ### Distance Can Mislead Witnesses
 
-Sound does not reach every observer in the same way. Wind, temperature layers and atmospheric structure can reshape acoustic signals during propagation. Recent infrasound studies have shown that atmospheric conditions can selectively filter frequency content, meaning observers in different locations may experience the same event differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+Sound does not reach every observer in the same way. Wind, temperature layers and atmospheric structure can reshape acoustic signals during propagation. Recent infrasound studies have shown that atmospheric conditions can selectively filter frequency content, meaning observers in different locations may experience the same event differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 As a result:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -319,12 +315,11 @@ As a result:
 
 That variability complicates attempts to treat witness silence as decisive evidence either for or against an unusual aerial event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/alqYrP53DIg" title="24048 – Drone Detection &amp; Tracking via Acoustic Signatures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=alqYrP53DIg" target="_blank" rel="noopener noreferrer">24048 – Drone Detection &amp; Tracking via Acoustic Signatures</a></p><p class="youtube-embed-meta">Channel: UA Design Day Online &middot; Views: 3.8K &middot; Uploaded: April 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=alqYrP53DIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=alqYrP53DIg">Open on YouTube</a></p></div></div></div>
 
 ## Why Ultrasound Adds Another Layer
 
-Ultrasound receives less attention in public UFO discussions, but multi-band monitoring systems increasingly include ultrasonic microphones. The rationale is straightforward: some mechanical and aerodynamic processes produce high-frequency emissions that are difficult or impossible for humans to hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+Ultrasound receives less attention in public UFO discussions, but multi-band monitoring systems increasingly include ultrasonic microphones. The rationale is straightforward: some mechanical and aerodynamic processes produce high-frequency emissions that are difficult or impossible for humans to hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 Modern drone research illustrates the value of this approach. Acoustic detection systems identify unmanned [aircraft]({{ 'aircraft/' | relative_url }}) by analysing characteristic sound signatures produced by motors and propellers. Some diagnostic information appears in frequency regions that are less obvious to casual listeners yet remain measurable with specialised equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osltechnology.com">[OSL Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osltechnology.com</span><span class="citation-popover-title">OSL Technology How Acoustic Detection of Drones Enhances</span><span class="citation-popover-snippet">OSL TechnologyHow Acoustic Detection of Drones Enhances...March 19, 2025 — 11 May 2023 — Acoustic sensors use precision audio capture te...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span> MicrodB This does not mean UFO reports are secretly ultrasonic. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microdb.fr">[microdb.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microdb.fr</span><span class="citation-popover-snippet">UAV Detection from Acoustic Signature: Requirements and...This paper reviews the state of the art in this field and presents possible te...</span></span></span>, it demonstrates that aerial objects can generate useful acoustic information outside ordinary hearing. If investigators limit themselves to audible microphones, they may discard potentially important data before analysis even begins.
 
@@ -332,10 +327,9 @@ Modern drone research illustrates the value of this approach. Acoustic detection
 
 The strongest argument for multi-band monitoring is not that it finds exotic sounds. It is that it creates a way to check claims against measurements.
 
-The Galileo Project's Acoustic Monitoring Omni-directional System (AMOS) was designed around this principle. Rather than recording only conventional audio, it simultaneously monitors infrasonic, audible and ultrasonic frequencies. The system covers roughly 0.05 hertz to 190 kilohertz through overlapping sensor bands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">GalileoMulti-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
+The Galileo Project's Acoustic Monitoring Omni-directional System (AMOS) was designed around this principle. Rather than recording only conventional audio, it simultaneously monitors infrasonic, audible and ultrasonic frequencies. The system covers roughly 0.05 hertz to 190 kilohertz through overlapping sensor bands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
 
 When an aerial event is observed, investigators can compare:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,7 +346,6 @@ A witness might report:
 > The object was directly overhead and completely silent.
 
 Multi-band data can then test several possibilities:
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-2-dark.svg" | relative_url }}" alt="Multi Band illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -379,10 +372,9 @@ A seemingly silent object may turn out to be:
 * A drone whose acoustic signature was partially masked by environmental noise.
 * An atmospheric event that produced measurable pressure waves outside the hearing range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/914564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">Nothing escapes The Global Ear: Nuclear tests, volcanoes...Jun 17, 2015 — Twenty of the CTBTO&#x27;s infrasound monitoring stations detected...</span></span></span>
 
-This is why acoustic researchers emphasise classification and signature libraries. The goal is not merely to detect sound but to compare detected patterns against known phenomena. AMOS researchers explicitly describe building datasets of aircraft and other aerial signatures so that future detections can be assessed against established acoustic profiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+This is why acoustic researchers emphasise classification and signature libraries. The goal is not merely to detect sound but to compare detected patterns against known phenomena. AMOS researchers explicitly describe building datasets of aircraft and other aerial signatures so that future detections can be assessed against established acoustic profiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 In practice, many apparently mysterious cases become less mysterious when multiple sensor bands are available.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9uZjDA9kFcM" title="Video 3: Infrasound Stations (subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9uZjDA9kFcM" target="_blank" rel="noopener noreferrer">Video 3: Infrasound Stations (subtitles)</a></p><p class="youtube-embed-meta">Channel: CTBTO &middot; Views: 296 &middot; Uploaded: November 2025 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9uZjDA9kFcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9uZjDA9kFcM">Open on YouTube</a></p></div></div></div>
 
@@ -391,7 +383,6 @@ In practice, many apparently mysterious cases become less mysterious when multip
 Multi-band systems do not eliminate unexplained reports. They simply narrow the range of possibilities.
 
 An event becomes more noteworthy when several conditions occur simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -402,10 +393,9 @@ An event becomes more noteworthy when several conditions occur simultaneously:
 
 </div>
 
-Even then, silence alone is not evidence of an unconventional craft. It is only one data point among many. Acoustic propagation is complex, and a lack of recorded sound can result from distance, weather, terrain, instrument placement or simple signal weakness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+Even then, silence alone is not evidence of an unconventional craft. It is only one data point among many. Acoustic propagation is complex, and a lack of recorded sound can result from distance, weather, terrain, instrument placement or simple signal weakness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 The most important contribution of multi-band monitoring is therefore methodological. It transforms silence from a subjective witness impression into a measurable question. Instead of asking whether people heard something unusual, investigators can ask which frequencies were present, which were absent, and whether the resulting pattern matches known aerial phenomena.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-3-dark.svg" | relative_url }}" alt="Multi Band illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Multi-Band Data Changes Witness Testimony
@@ -416,7 +406,7 @@ Multi-band monitoring changes the role of testimony. Witness accounts remain imp
 
 That shift has a subtle but important consequence for UFO research. The question is no longer whether a witness was correct about hearing nothing. The witness may have been entirely correct. The more useful question is whether the event generated acoustic energy beyond the limits of human hearing.
 
-Modern infrasound and ultrasonic monitoring were developed precisely because nature repeatedly produces significant signals that people cannot hear. Applying those same tools to unusual aerial reports does not prove extraordinary explanations. It provides a way to determine whether a supposedly silent event was truly silent, or merely silent to human ears. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">GalileoMulti-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
+Modern infrasound and ultrasonic monitoring were developed precisely because nature repeatedly produces significant signals that people cannot hear. Applying those same tools to unusual aerial reports does not prove extraordinary explanations. It provides a way to determine whether a supposedly silent event was truly silent, or merely silent to human ears. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -814,177 +804,177 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
 
 1. <a id="endnote-1"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring](https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTOInfrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</p></details>
+   Link: <a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2305.18551](https://arxiv.org/pdf/2305.18551)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMulti-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18551</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.00421](https://arxiv.org/abs/2602.00421)  
+   Link: <a href="https://arxiv.org/abs/2602.00421" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.00421</a>  
 
 4. <a id="endnote-4"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/international-monitoring-system](https://www.ctbto.org/our-work/international-monitoring-system)  
+   Link: <a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
 
 5. <a id="endnote-5"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast](https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTOCTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</p></details>
+   Link: <a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S209099771630075X](https://www.sciencedirect.com/science/article/pii/S209099771630075X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S209099771630075X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: [https://www.eurekalert.org/news-releases/914564](https://www.eurekalert.org/news-releases/914564)  
+   Link: <a href="https://www.eurekalert.org/news-releases/914564" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/914564</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing escapes The Global Ear: Nuclear tests, volcanoes...Jun 17, 2015 — Twenty of the CTBTO&#x27;s infrasound monitoring stations detected...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: microdb.fr  
-   Link: [https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/](https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/)  
+   Link: <a href="https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/" target="_blank" rel="noopener noreferrer nofollow">https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAV Detection from Acoustic Signature: Requirements and...This paper reviews the state of the art in this field and presents possible te...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Scientific Investigation of Unidentified Aerial  
-   Link: [https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories](https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories)  
+   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Scientific Investigation of Unidentified Aerial...May 29, 2023 — (Abridged) The Galileo Project aims to investigat...</p></details>
    Published: May 29, 2023  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: [https://arxiv.org/abs/2305.18551](https://arxiv.org/abs/2305.18551)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMulti-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
 11. <a id="endnote-11"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/our-work/civil-and-scientific-applications](https://www.ctbto.org/our-work/civil-and-scientific-applications)  
+   Link: <a href="https://www.ctbto.org/our-work/civil-and-scientific-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/civil-and-scientific-applications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil and Scientific ApplicationsIMS infrasound stations can detect the ultra-low frequency sound waves emitted by volcanic eruptions and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: conferences.ctbto.org  
-   Link: [https://conferences.ctbto.org/event/27/contributions/](https://conferences.ctbto.org/event/27/contributions/)  
+   Link: <a href="https://conferences.ctbto.org/event/27/contributions/" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/27/contributions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology Workshop 2024 (ITW2024)Rocket launches are a source of infrasound detectable at infrasound [arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) in thousands of kilometers d...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ctbto.org  
    Title: Listening without sound  
-   Link: [https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique](https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO engineers refine a...17 Jun 2010 — The Trafelberg facility is a proving ground for infrasound, which is able to detect sounds belo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ctbto.org  
-   Link: [https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics](https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics)  
+   Link: <a href="https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: How To Detect A Secret Nuclear Test by Minute PhysicsA monitoring system that can detect pretty much any nuclear explosion that ta...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.20407](https://arxiv.org/abs/2512.20407)  
+   Link: <a href="https://arxiv.org/abs/2512.20407" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.20407</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AUDRON: A Deep Learning Framework with Fused...by R Chatterjee · 2025 · Cited by 1 — This study introduces AUDRON (AUdio-based Drone Rec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena](https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial results from the first field expedition of UAPx to study...23 Jan 2026 — The acoustic monitoring, omni-directional system (AMOS)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays](https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays)  
+   Link: <a href="https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Location Using Infrasound ArraysThe acoustic monitoring, omni-directional system (AMOS) in the Galileo Project is a passive, m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: worldscientific.com  
-   Link: [https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW](https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW)  
+   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2 presents the technical specifications of the AMOS...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: [https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures](https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GalileoMulti-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</p></details>
+   Link: <a href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: osltechnology.com  
    Title: OSL Technology How Acoustic Detection of Drones Enhances  
-   Link: [https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level](https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level)  
+   Link: <a href="https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level" target="_blank" rel="noopener noreferrer nofollow">https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OSL TechnologyHow Acoustic Detection of Drones Enhances...March 19, 2025 — 11 May 2023 — Acoustic sensors use precision audio capture te...</p></details>
    Published: March 19, 2025  
 
 21. <a id="endnote-21"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: [https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal](https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal)  
+   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an integrated softwar...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: armscontrol.org  
    Title: ctbtos monitoring capabilities continue improve  
-   Link: [https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve](https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve)  
+   Link: <a href="https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO&#x27;s Monitoring Capabilities Continue to ImproveThe IMS uses a combination of seismic, hydroacoustic, infrasound, and radionuclide sta...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rsc.org  
-   Link: [https://www.rsc.org/images/eb-duran_tcm18-223098.pdf](https://www.rsc.org/images/eb-duran_tcm18-223098.pdf)  
+   Link: <a href="https://www.rsc.org/images/eb-duran_tcm18-223098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/images/eb-duran_tcm18-223098.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source... 7 IMS infrasound stations detected sound waves generated by the ground.Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: drone-warfare.com  
-   Link: [https://drone-warfare.com/counter-uas/acoustic-detection/](https://drone-warfare.com/counter-uas/acoustic-detection/)  
+   Link: <a href="https://drone-warfare.com/counter-uas/acoustic-detection/" target="_blank" rel="noopener noreferrer nofollow">https://drone-warfare.com/counter-uas/acoustic-detection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS 101 – Acoustic Drone DetectionAcoustic drone detection exploits propeller noise to identify threats passively. Ukraine&#x27;s 1400...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332](https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332)  
+   Link: <a href="https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Multi-Band Acoustic Monitoring of Aerial SignaturesThe Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aids i...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ldeo.columbia.edu  
-   Link: [https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf](https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf)  
+   Link: <a href="https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>columbia.edu2 CTBT Monitoring CapabilityThe IMS system will establish a global array of infrasound sensors to enable routine monitoring o...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aiforgood.itu.int  
-   Link: [https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/](https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/)  
+   Link: <a href="https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/" target="_blank" rel="noopener noreferrer nofollow">https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear-Test-Ban Treaty Organization (CTBTO)The CTBTO works to ban nuclear tests globally with a comprehensive [verification](&amp;#123;&amp;#123; &#x27;verification/&#x27; | relative_url &amp;#125;&amp;#125;) system, inclu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/](https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Microphones Recently Capture the &#x27;Mystery Sound&#x27; of...10 Nov 2023 — The acoustic monitoring, omni-directional system (AMOS) of the G...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pubs.aip.org  
-   Link: [https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A](https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A)  
+   Link: <a href="https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>holistic review of acoustic detection for unmanned aerial...2 Dec 2025 — UAV acoustic signal datasets typically encompass sound signatur...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: phys.org  
    Title: 2013 02 russian fireball largest ctbto infrasound  
-   Link: [https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html](https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html)  
+   Link: <a href="https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian fireball largest ever detected by CTBTO&#x27;s...19 Feb 2013 — Infrasound has been used as part of the CTBTO&#x27;s tools to detect atomic...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: dsiac.dtic.mil  
    Title: DSIACWhat is an acoustic drone detection system?  
-   Link: [https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/](https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DSIAC - dtic.mil8 Sept 2025 — An acoustic drone detection system uses the sound of a drone&#x27;s motors and blades to determine the type of d...</p></details>
+   Link: <a href="https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/" target="_blank" rel="noopener noreferrer nofollow">https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>dtic.mil8 Sept 2025 — An acoustic drone detection system uses the sound of a drone&#x27;s motors and blades to determine the type of d...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: space.com  
    Title: 19860 russia meteor explosion largest detected  
-   Link: [https://www.space.com/19860-russia-meteor-explosion-largest-detected.html](https://www.space.com/19860-russia-meteor-explosion-largest-detected.html)  
+   Link: <a href="https://www.space.com/19860-russia-meteor-explosion-largest-detected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19860-russia-meteor-explosion-largest-detected.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia Meteor Blast Largest Seen by Nuclear Detection Grid19 Feb 2013 — There are currently 45 infrasound stations in the CTBTO&#x27;s network...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10471/chapter/5](https://www.nationalacademies.org/read/10471/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/10471/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10471/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y detecting the presence of a characteristic bubble pulse...</p></details>

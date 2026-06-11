@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sonic-booms/
 nav_short_title: Distance Errors
 title: When Fast UFOs Are Closer Than They Look
-title_full: When Fast UFOs Are Closer Than They Look | Sonic Booms
+title_full: When Fast UFOs Are Closer Than They Look
 display_title_short: Distance Errors
 display_title: Distance Errors
 heading_title: When Fast UFOs Are Closer Than They Look
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:59:58'
-parent_title: Can UFOs Break Sound Without Booms? | UFO Noises
+parent_title: Can UFOs Break Sound Without Booms?
 parent_permalink: /sonic-booms/
 parent_nav_short_title: Sonic Booms
 parent_heading_title: Can UFOs Break Sound Without Booms?
@@ -276,20 +276,18 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors
 
 Many silent high-speed UFO reports begin with a hidden assumption: the witness believes they know how far away the object was. Once that distance estimate is wrong, the calculated speed can become wildly unrealistic.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-1-dark.svg" | relative_url }}" alt="Distance Errors illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because the apparent contradiction at the centre of many UFO accounts is often the same: an object seemed to cross the sky in seconds, yet nobody heard a sonic boom. In some cases the simplest explanation is not exotic propulsion but a distance error. A nearby object moving at ordinary [aircraft]({{ 'aircraft/' | relative_url }}) speed can appear astonishingly fast if it is mistaken for something much farther away. When the range estimate collapses, the supposed supersonic speed often disappears with it.
 
 ## When Fast UFOs Are Closer Than They Look
 
-Human vision is surprisingly poor at estimating distance in the night sky. On the ground, people use familiar references such as buildings, trees and terrain. Against a dark sky, many of those cues vanish. A single light can be anywhere from a few hundred metres away to tens of kilometres away and still look similar to the observer. Aviation safety literature repeatedly warns that darkness, haze and limited visual references distort distance perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">FAASpatial Disorientation: Visual IllusionsDuring visual flight rules (VFR) flights, central vision allows pilots to acquire external inf...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Spatial D</span><span class="citation-popover-snippet">FAASpatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</span></span></span>
+Human vision is surprisingly poor at estimating distance in the night sky. On the ground, people use familiar references such as buildings, trees and terrain. Against a dark sky, many of those cues vanish. A single light can be anywhere from a few hundred metres away to tens of kilometres away and still look similar to the observer. Aviation safety literature repeatedly warns that darkness, haze and limited visual references distort distance perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Spatial Disorientation: Visual IllusionsDuring visual flight rules (VFR) flights, central vision allows pilots to acquire external inf...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Spatial D</span><span class="citation-popover-snippet">Spatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</span></span></span>
 
 This creates a simple but powerful problem for UFO speed estimates.
 
 If an observer sees a light move across ten degrees of sky in a few seconds, they know only its **angular motion**: how fast it appears to move relative to their line of sight. They do not automatically know its true speed.
 
 The difference is crucial:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ Without a reliable distance measurement, apparent speed is largely guesswork.
 Witnesses often describe UFOs as covering “half the sky” or moving “from horizon to horizon”. Those descriptions sound dramatic, but they describe angular movement rather than physical distance travelled.
 
 Imagine two objects:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AL6vBWh09SU" title="Top 5 Visual Illusions During Drone Night Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer">Top 5 Visual Illusions During Drone Night Operations</a></p><p class="youtube-embed-meta">Channel: Do You Know Drones? &middot; Views: 976 &middot; Uploaded: January 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AL6vBWh09SU">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +323,6 @@ The observed motion remains identical. Only the distance assumption changes.
 
 This is one reason investigators are cautious about witness-derived speed figures. Extraordinary velocities often depend on a chain of assumptions involving distance, size and altitude that were never directly measured.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
 ## Night Sightings and Missing Distance Cues
@@ -343,7 +339,7 @@ A bright point of light against a dark sky provides almost no information about 
 
 **Atmospheric haze**
 
-The FAA notes that haze can create the impression that objects are farther away than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-snippet">Boldmethod8 Optical Illusions Pilots Should Understand And Know...19 Apr 2025 — According to the FAA, &quot;atmospheric haze can create an il...</span></span></span>
+The FAA notes that haze can create the impression that objects are farther away than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-snippet">8 Optical Illusions Pilots Should Understand And Know...19 Apr 2025 — According to the FAA, &quot;atmospheric haze can create an il...</span></span></span>
 
 If a witness unconsciously pushes the object farther into the distance, the implied speed increases automatically.
 
@@ -357,14 +353,12 @@ Dark skies, open water and empty horizons remove visual depth cues. Aviation gui
 
 These effects do not merely create small inaccuracies. They can multiply speed estimates by large factors.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-2-dark.svg" | relative_url }}" alt="Distance Errors illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Autokinesis Problem
 
 Some UFO reports involve lights that appear to dart, accelerate or change [direction]({{ 'direction/' | relative_url }}) without warning. In certain cases, the movement may not be real.
 
-The autokinetic effect is a well-known visual illusion in which a stationary light viewed against a dark, featureless background appears to move. It has been recognised in both psychology and aviation for decades. FAA material and aviation safety references specifically warn pilots about the phenomenon. FAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect | SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual perceptio...</span></span></span> The illusion becomes stronger when:
-
+The autokinetic effect is a well-known visual illusion in which a stationary light viewed against a dark, featureless background appears to move. It has been recognised in both psychology and aviation for decades. FAA material and aviation safety references specifically warn pilots about the phenomenon. FAA <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual perceptio...</span></span></span> The illusion becomes stronger when:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +371,6 @@ The autokinetic effect is a well-known visual illusion in which a stationary lig
 Fighter pilots have reported chasing apparent moving lights later identified as stars affected by autokinesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indjaerospacemed.com">[Indian Journal of Aerospace Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indjaerospacemed.com</span><span class="citation-popover-title">autokinesis illusion in fighter flying revisited</span><span class="citation-popover-snippet">Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</span></span></span>
 
 In UFO cases, this creates a double error:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
@@ -398,7 +391,6 @@ A silent object apparently travelling at Mach 5 raises obvious questions because
 
 The absence of a sonic boom therefore cannot be evaluated independently from the distance estimate. In many reports, the two issues are inseparable:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Large estimated distance leads to enormous estimated speed.
@@ -411,7 +403,6 @@ The absence of a sonic boom therefore cannot be evaluated independently from the
 But if the original distance estimate was wrong, the entire chain breaks down.
 
 Instead of explaining why a hypersonic craft made no sonic boom, the more immediate question becomes whether the object was ever moving at extraordinary speed in the first place.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-3-dark.svg" | relative_url }}" alt="Distance Errors illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_distance_errors_fast_8bf408-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Investigators Treat Extreme Speed Claims Carefully
@@ -820,106 +811,106 @@ That uncertainty can be so large that an apparently impossible, silent, superson
 
 1. <a id="endnote-1"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAASpatial Disorientation: Visual IllusionsDuring visual flight rules (VFR) flights, central vision allows pilots to acquire external inf...</p></details>
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation: Visual IllusionsDuring visual flight rules (VFR) flights, central vision allows pilots to acquire external inf...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Spatial D  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAASpatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</p></details>
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/SpatialD.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation_English18 Sept 2024 — The Autokinetic Illusion gives you the impression that a stationary object is moving in f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: boldmethod.com  
-   Link: [https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/](https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boldmethod8 Optical Illusions Pilots Should Understand And Know...19 Apr 2025 — According to the FAA, &quot;atmospheric haze can create an il...</p></details>
+   Link: <a href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Optical Illusions Pilots Should Understand And Know...19 Apr 2025 — According to the FAA, &quot;atmospheric haze can create an il...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/autokinetic-effect](https://skybrary.aero/articles/autokinetic-effect)  
+   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic Effect | SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual perceptio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufos-1544273. 45. Golgowski N. Congress Briefed on Classified UFO Sightings as Threat to Aviator Safety, Navy Says. [(accessed on 27 July...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 8. <a id="endnote-8"></a>
    Source: faasafety.gov  
-   Link: [https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580](https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580)  
+   Link: <a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6580</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA SafetyLibrary Contents - FAA - FAASTeam - FAASafety.govAn up-sloping runway, up-sloping terrain, or both, can create the illusion tha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: indjaerospacemed.com  
    Title: autokinesis illusion in fighter flying revisited  
-   Link: [https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/](https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/)  
+   Link: <a href="https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://indjaerospacemed.com/autokinesis-illusion-in-fighter-flying-revisited/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Journal of Aerospace MedicineAutokinesis illusion in fighter flying revisitedby P Sannigrahi · 2020 · Cited by 1 — In dark night c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: [https://en.wikipedia.org/wiki/Autokinetic_effect](https://en.wikipedia.org/wiki/Autokinetic_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinetic effectThe autokinetic effect is a phenomenon of visual perception in which a stationary, small point of light in an otherw...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions](https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions)  
+   Link: <a href="https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing, Vision, Spatial Disorientation, and Visual Illusions4 Feb 2026 — This paper examines the critical flight physiological factors t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight](https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight)  
+   Link: <a href="https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/aeromedical-and-human-factors/spatial-disorientation-and-illusions-in-flight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation &amp; Illusions In FlightSpatial disorientation in aviation occurs when a pilot&#x27;s senses misinterpret aircraft positio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles](https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles)  
+   Link: <a href="https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufos-1544273 (accessed on 27 July 2019). 45. Golgowski, N. Congress Briefed on Classiﬁed UFO Sightings as Threat to Aviator Safety. Navy...</p></details>
    Published: July 2019  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: autokinesis is a visual phenomenon observed in aviation especially during night  
-   Link: [https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/](https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/)  
+   Link: <a href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/user/FAAnews](https://www.youtube.com/user/FAAnews)  
+   Link: <a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AL6vBWh09SU](https://www.youtube.com/watch?v=AL6vBWh09SU)  
+   Link: <a href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AL6vBWh09SU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Visual Illusions During Drone Night OperationsLet&#x27;s get into the top five night visual illusions that you will encounter when you w...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/](https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/)  
+   Link: <a href="https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/posts/pilots-dyk-optical-illusions-can-drastically-compromise-your-safety-while-flying/1119304286892494/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reduced Visual Acuity: Low light levels can make it harder for pilots to see and judge distances accurately, impacting spatial awareness...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: casa.gov.au  
-   Link: [https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf](https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf)  
+   Link: <a href="https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.casa.gov.au/sites/default/files/2021-06/safety-behaviours-human-factor-for-pilots-9-human-information-processing.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Table 1 shows some of the factors which can affect vision, particularly at night.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — Fighter jets were dispatched to intercept the UFOs, and one jet even reportedly...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUifCigiFZF/](https://www.instagram.com/reel/DUifCigiFZF/)  
+   Link: <a href="https://www.instagram.com/reel/DUifCigiFZF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUifCigiFZF/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The runway looks closer and steeper than normal, so the pilot may lower the nose...</p></details>

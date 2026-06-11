@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /infrasound/
 nav_short_title: Hum analogues
 title: What Mystery Hums Teach UFO Researchers
-title_full: What Mystery Hums Teach UFO Researchers | Infrasound
+title_full: What Mystery Hums Teach UFO Researchers
 display_title_short: Hum analogues
 display_title: Hum analogues
 heading_title: What Mystery Hums Teach UFO Researchers
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:07:15'
-parent_title: Could Infrasound Explain UFO Vibrations? | UFO Noises
+parent_title: Could Infrasound Explain UFO Vibrations?
 parent_permalink: /infrasound/
 parent_nav_short_title: Infrasound
 parent_heading_title: Could Infrasound Explain UFO Vibrations?
@@ -276,13 +276,12 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmenta
 
 Reports of mysterious environmental hums occupy an unusual place between acoustics, psychology and [folklore]({{ 'folklore/' | relative_url }}). People who experience them often describe more than a sound. They report pressure in the ears, vibration in the chest, headaches, sleep disruption, anxiety and a persistent sense that something large or powerful is nearby. Those descriptions overlap strikingly with some UFO witness accounts in which a low-frequency presence is felt as much as heard.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-1-dark.svg" | relative_url }}" alt="Hum analogues illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That overlap does not mean mystery hums explain UFO encounters. Most hum cases involve long-term environmental complaints rather than brief aerial sightings. Yet they provide a useful real-world comparison. Hum investigations show how low-frequency sound and vibration can create bodily sensations that are difficult to identify, difficult to locate and sometimes difficult even to measure. For researchers studying reports of UFO-related [humming]({{ 'humming/' | relative_url }}), pressure waves or physical discomfort, hum cases offer a grounded body of evidence about how people experience unusual low-frequency environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — Objective: This study investigates...</span></span></span>
+That overlap does not mean mystery hums explain UFO encounters. Most hum cases involve long-term environmental complaints rather than brief aerial sightings. Yet they provide a useful real-world comparison. Hum investigations show how low-frequency sound and vibration can create bodily sensations that are difficult to identify, difficult to locate and sometimes difficult even to measure. For researchers studying reports of UFO-related [humming]({{ 'humming/' | relative_url }}), pressure waves or physical discomfort, hum cases offer a grounded body of evidence about how people experience unusual low-frequency environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — Objective: This study investigates...</span></span></span>
 
 ## Why Environmental Hums Are So Difficult to Pin Down
 
-One reason hum cases attract attention is that many investigations fail to find a single clear source. The famous [Taos Hum]({{ 'taos-hum/' | relative_url }}) in New Mexico led to studies involving [acoustic monitoring]({{ 'sensors/' | relative_url }}), interviews and specialised equipment, yet investigators did not identify one definitive cause that explained every report. Researchers found that many affected residents described a low-frequency droning sensation, but measurements often failed to reveal a matching acoustic signal. Acoustical Society of America <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">results of hum studies in the United Statesby JP Cowan · Cited by 4 — In fact, a special microphone was developed by the Taos Hum team to...</span></span></span> This pattern appears repeatedly in other hum reports:
+One reason hum cases attract attention is that many investigations fail to find a single clear source. The famous [Taos Hum]({{ 'taos-hum/' | relative_url }}) in New Mexico led to studies involving acoustic monitoring, interviews and specialised equipment, yet investigators did not identify one definitive cause that explained every report. Researchers found that many affected residents described a low-frequency droning sensation, but measurements often failed to reveal a matching acoustic signal. Acoustical Society of America <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[ICBEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">results of hum studies in the United Statesby JP Cowan · Cited by 4 — In fact, a special microphone was developed by the Taos Hum team to...</span></span></span> This pattern appears repeatedly in other hum reports:
 
 * Only a minority of people in the same area perceive the sound.
 * The noise is often strongest indoors or at night.
@@ -292,7 +291,6 @@ One reason hum cases attract attention is that many investigations fail to find 
 
 In UFO testimony, witnesses sometimes describe a similar ambiguity: a sensation of vibration, pressure or humming that seems to fill the environment rather than radiate from a clearly identifiable object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/imjHN2Ts2DU" title="GHOST FREQUENCY 👻 | 17Hz Infrasound Experiment | Haunted Tone Audio Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=imjHN2Ts2DU" target="_blank" rel="noopener noreferrer">GHOST FREQUENCY 👻 | 17Hz Infrasound Experiment | Haunted Tone Audio Test</a></p><p class="youtube-embed-meta">Channel: Grayson Wells &middot; Views: 2.3K &middot; Uploaded: June 2025 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=imjHN2Ts2DU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=imjHN2Ts2DU">Open on YouTube</a></p></div></div></div>
 
 ## The Body Sensations That Resemble UFO Reports
@@ -300,7 +298,6 @@ In UFO testimony, witnesses sometimes describe a similar ambiguity: a sensation 
 The strongest connection between hum cases and UFO-related vibration reports is not the sound itself but the accompanying physical reactions.
 
 Studies and reviews of low-frequency noise complaints repeatedly document symptoms such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,10 +312,9 @@ Studies and reviews of low-frequency noise complaints repeatedly document sympto
 
 </div>
 
-Questionnaire-based research into hum sufferers found that many described the phenomenon as an intrusive physical presence rather than a conventional audible noise. Researchers investigating worldwide hum reports noted that affected individuals often experience a combination of sensory and bodily effects, helping explain why the phenomenon can feel mysterious and emotionally intense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — Objective: This study investigates...</span></span></span>
+Questionnaire-based research into hum sufferers found that many described the phenomenon as an intrusive physical presence rather than a conventional audible noise. Researchers investigating worldwide hum reports noted that affected individuals often experience a combination of sensory and bodily effects, helping explain why the phenomenon can feel mysterious and emotionally intense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — Objective: This study investigates...</span></span></span>
 
 That description echoes a recurring theme in UFO literature. Witnesses frequently report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,7 +327,6 @@ That description echoes a recurring theme in UFO literature. Witnesses frequentl
 </div>
 
 The similarity is not proof of a shared cause. Instead, hum cases demonstrate that low-frequency environments can produce exactly the kind of mixed sensory experience that witnesses often struggle to describe. The boundary between hearing, feeling and emotional response becomes blurred.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJV2emUA8J0" title="Earth&#x27;s Heartbeat - What is Earth&#x27;s Hum, and what creates it?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJV2emUA8J0" target="_blank" rel="noopener noreferrer">Earth&#x27;s Heartbeat - What is Earth&#x27;s Hum, and what creates it?</a></p><p class="youtube-embed-meta">Channel: Stefan Burns &middot; Views: 12.7K &middot; Uploaded: March 2024 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJV2emUA8J0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJV2emUA8J0">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +343,6 @@ What makes Taos especially relevant to UFO studies is not the unresolved mystery
 The [Bristol Hum]({{ 'bristol-hum/' | relative_url }}) became one of the best-known British examples. Industrial ventilation systems were frequently proposed as a source, but complaints continued even after some suspected facilities changed operations. Witnesses reported sleep disruption and significant distress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 
 More recent cases in Northern Ireland, the Outer Hebrides and elsewhere have followed similar patterns. Residents have described low-frequency vibrations, headaches, dizziness and a sense of being physically affected by an unseen source. Investigators have sometimes traced probable origins to fans, machinery or infrastructure, but certainty has often remained elusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-2-dark.svg" | relative_url }}" alt="Hum analogues illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Windsor and Industrial Explanations
@@ -371,7 +365,6 @@ Researchers have proposed several contributing factors:
 
 The comparison is useful because it shows that sensory experiences can vary dramatically even when people share the same environment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bP80DEAbuo" title="Datacenters Behaving Like Acoustic Weapons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bP80DEAbuo" target="_blank" rel="noopener noreferrer">Datacenters Behaving Like Acoustic Weapons</a></p><p class="youtube-embed-meta">Channel: Benn Jordan &middot; Views: 1.5M &middot; Uploaded: February 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bP80DEAbuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bP80DEAbuo">Open on YouTube</a></p></div></div></div>
 
 ## What Hum Research Suggests About UFO Vibration Claims
@@ -393,7 +386,6 @@ The most important differences include:
 Hum casesUFO vibration reportsOften persist for weeks, months or years.Usually occur during a specific sighting event.Frequently involve repeated complaints from residents.Often involve isolated witness experiences.Commonly linked to possible environmental or industrial sources.Usually associated with an observed aerial object or light.Investigations focus on acoustics and infrastructure.Investigations focus on witness testimony, radar data or visual evidence.Effects are often chronic and ongoing.Effects are usually brief and event-specific.
 
 This distinction matters because hum cases are best viewed as analogues rather than direct explanations. They demonstrate that low-frequency environments can generate sensations resembling some UFO reports, but they do not account for every element of a sighting narrative.
-
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-3-dark.svg" | relative_url }}" alt="Hum analogues illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_environmental_hum_an_c553e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Mystery Hums Teach UFO Researchers
@@ -801,109 +793,109 @@ For UFO researchers interested in reports of humming objects, [chest pressure]({
 1. <a id="endnote-1"></a>
    Source: docs.wind-watch.org  
    Title: leventhall defra lowfreqnoise  
-   Link: [https://docs.wind-watch.org/leventhall-defra-lowfreqnoise.pdf](https://docs.wind-watch.org/leventhall-defra-lowfreqnoise.pdf)  
+   Link: <a href="https://docs.wind-watch.org/leventhall-defra-lowfreqnoise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/leventhall-defra-lowfreqnoise.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocumentationLow Frequency Noise Report 2003This present study considers some properties of low frequency sounds, their percep...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: icben.ethz.ch  
-   Link: [https://icben.ethz.ch/2008/PDFs/Cowan.pdf](https://icben.ethz.ch/2008/PDFs/Cowan.pdf)  
+   Link: <a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>results of hum studies in the United Statesby JP Cowan · Cited by 4 — In fact, a special microphone was developed by the Taos Hum team to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 237245317 A Review of Published Research on Low Frequency Noise and its Effects  
-   Link: [https://www.researchgate.net/publication/237245317_A_Review_of_Published_Research_on_Low_Frequency_Noise_and_its_Effects](https://www.researchgate.net/publication/237245317_A_Review_of_Published_Research_on_Low_Frequency_Noise_and_its_Effects)  
+   Link: <a href="https://www.researchgate.net/publication/237245317_A_Review_of_Published_Research_on_Low_Frequency_Noise_and_its_Effects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237245317_A_Review_of_Published_Research_on_Low_Frequency_Noise_and_its_Effects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Published Research on Low Frequency Noise...PDF | On Jan 1, 2003, Geoff Leventhall and others published A Review of Publishe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/27488996/](https://pubmed.ncbi.nlm.nih.gov/27488996/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — Objective: This study investigates...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27488996/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27488996/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — Objective: This study investigates...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms](https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: [https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life](https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life)  
+   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thetimes.co.uk  
    Title: The Times [Omagh hum](&#123;&#123; 'omagh-hum/' | relative_url &#125;&#125;) mystery solved  
-   Link: [https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp](https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp)  
+   Link: <a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/government-adviser-mystery-hum-relax-lewis-zj9wx62dk](https://www.thetimes.co.uk/article/government-adviser-mystery-hum-relax-lewis-zj9wx62dk)  
+   Link: <a href="https://www.thetimes.co.uk/article/government-adviser-mystery-hum-relax-lewis-zj9wx62dk" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/government-adviser-mystery-hum-relax-lewis-zj9wx62dk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than 300 people have joined a support group led by Dr. Lauren-Grace Kirtley, who criticized the suggestion from government noise exp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/8642114/](https://pubmed.ncbi.nlm.nih.gov/8642114/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8642114/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8642114/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and effects of low-frequency noiseby B Berglund · 1996 · Cited by 837 — Low-frequency noise is common as background noise in urban enviro...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: natural-frequencies.co  
-   Link: [https://www.natural-frequencies.co/research/research-dept-004-the-hum](https://www.natural-frequencies.co/research/research-dept-004-the-hum)  
+   Link: <a href="https://www.natural-frequencies.co/research/research-dept-004-the-hum" target="_blank" rel="noopener noreferrer nofollow">https://www.natural-frequencies.co/research/research-dept-004-the-hum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RESEARCH DEPT 004: The HumThe Hum is described as a continuous low-frequency sound, likened to a diesel engine idling in the distance. It...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/4xddov/the_hum_is_a_mysterious_lowfrequency_noise/](https://www.reddit.com/r/UnresolvedMysteries/comments/4xddov/the_hum_is_a_mysterious_lowfrequency_noise/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/4xddov/the_hum_is_a_mysterious_lowfrequency_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/4xddov/the_hum_is_a_mysterious_lowfrequency_noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The hum is a mysterious low-frequency noiseThe hum is a phenomenon, or collection of phenomena, involving widespread reports of a persist...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: repository.lboro.ac.uk  
-   Link: [https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf](https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf)  
+   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of environmental low-frequency noiseby VV Krylov · Cited by 3 — The present paper describes the methodology and some of the results of ou...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tinnitusjournal.com  
-   Link: [https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html](https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html)  
+   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Tinnitus JournalManifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 7 — The Hum...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/68851481/The_Hum_An_Anomalous_Sound_Heard_Around_the_World](https://www.academia.edu/68851481/The_Hum_An_Anomalous_Sound_Heard_Around_the_World)  
+   Link: <a href="https://www.academia.edu/68851481/The_Hum_An_Anomalous_Sound_Heard_Around_the_World" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/68851481/The_Hum_An_Anomalous_Sound_Heard_Around_the_World</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Huppke, R. W. (2002). In Indiana city, it&#x27;s not hum, sweet hum; Mystery noise fuels Kokomo complaints.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: discoveryuk.com  
    Title: the taos hum new mexicos unexplained acoustic phenomenon  
-   Link: [https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/](https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: Disturbing Humming Noise Reported Across Multiple U.S  
-   Link: [https://www.facebook.com/KnowledgeIsPower09/posts/breaking-disturbing-humming-noise-reported-across-multiple-us-states-keeping-res/122171478782908853/](https://www.facebook.com/KnowledgeIsPower09/posts/breaking-disturbing-humming-noise-reported-across-multiple-us-states-keeping-res/122171478782908853/)  
+   Link: <a href="https://www.facebook.com/KnowledgeIsPower09/posts/breaking-disturbing-humming-noise-reported-across-multiple-us-states-keeping-res/122171478782908853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeIsPower09/posts/breaking-disturbing-humming-noise-reported-across-multiple-us-states-keeping-res/122171478782908853/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To make matters worse, the continuous hum has caused the hearers to suffer from loss of sleep, dizziness, anxiety, irritability and in on...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bonblossman.com  
    Title: the enigma of the taos hum a mysterious phenomenon  
-   Link: [https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon](https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon)  
+   Link: <a href="https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: A Mysterious Phenomenon15 Dec 2023 — The Taos Hum is described as a faint, low-frequency humming noise, akin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/](https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/ever-heard-a-mysterious-deep-humming-sound-that-others-around-you-couldnt-hear-t/1337937641778740/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le intrusion, leading to sleep disturbances, headaches, and...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: undark.org  
    Title: low frequency noise health  
-   Link: [https://undark.org/2024/04/15/low-frequency-noise-health/](https://undark.org/2024/04/15/low-frequency-noise-health/)  
+   Link: <a href="https://undark.org/2024/04/15/low-frequency-noise-health/" target="_blank" rel="noopener noreferrer nofollow">https://undark.org/2024/04/15/low-frequency-noise-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Undark MagazineLow-frequency Noise Is Pervasive. Does That Matter?Apr 15, 2024 — Sounds that are lower pitched are less studied than othe...</p></details>

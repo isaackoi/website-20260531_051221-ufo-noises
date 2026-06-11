@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /industry/
 nav_short_title: Omagh Hum
 title: Why Some Hum Investigations Do Not End Cleanly
-title_full: Why Some Hum Investigations Do Not End Cleanly | Industry
+title_full: Why Some Hum Investigations Do Not End Cleanly
 display_title_short: Omagh Hum
 display_title: Omagh Hum
 heading_title: Why Some Hum Investigations Do Not End Cleanly
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:34'
-parent_title: Could That UFO Noise Be Machinery? | UFO Noises
+parent_title: Could That UFO Noise Be Machinery?
 parent_permalink: /industry/
 parent_nav_short_title: Industry
 parent_heading_title: Could That UFO Noise Be Machinery?
@@ -276,9 +276,8 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_so
 
 The Omagh Hum became a useful example of a recurring problem in unexplained-noise investigations: finding a likely source is not the same as proving it. Residents in Omagh, County Tyrone, reported a persistent low-frequency [humming]({{ 'humming/' | relative_url }}) sound during 2023 and into 2024. The noise was often described as a distant engine, vibration or droning presence, especially noticeable at night. As officials narrowed their search, attention increasingly focused on an industrial source. Yet even after investigators identified what appeared to be a probable origin, they stopped short of publicly declaring the case solved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-1-dark.svg" | relative_url }}" alt="Omagh Hum illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That gap between suspicion and proof is what makes the Omagh case important within the broader history of mysterious hums. It demonstrates how low-frequency [industrial noise]({{ 'industry/' | relative_url }}) can be strongly indicated by acoustic evidence while remaining difficult to prove to a legal standard. For people who associate strange sounds with UFO activity or other extraordinary explanations, Omagh shows why unresolved cases can persist even when investigators think they know what is happening.
+That gap between suspicion and proof is what makes the Omagh case important within the broader history of mysterious hums. It demonstrates how low-frequency industrial noise can be strongly indicated by acoustic evidence while remaining difficult to prove to a legal standard. For people who associate strange sounds with UFO activity or other extraordinary explanations, Omagh shows why unresolved cases can persist even when investigators think they know what is happening.
 
 ## How Investigators Narrow a Likely Source
 
@@ -300,7 +299,6 @@ The logic followed a familiar pattern in environmental acoustics:
 </div>
 
 By mid-2024, officials stated that a particular industrial premises had become the focus of the investigation. That represented a significant narrowing of possibilities. The mystery had moved from "something unknown is making a noise" to "this type of equipment at this type of site is the most plausible explanation." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZSFI3vRabo" title="2% of People Have Heard &quot;The Hum&quot; ...Have You?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer">2% of People Have Heard &quot;The Hum&quot; ...Have You?</a></p><p class="youtube-embed-meta">Channel: Thoughty2 &middot; Views: 2.7M &middot; Uploaded: August 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZSFI3vRabo">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +324,6 @@ Low-frequency sound behaves differently under varying atmospheric conditions. Te
 
 Industrial areas rarely contain a single machine producing a single tone. Several facilities may generate similar low-frequency sounds. Investigators can become confident that the sound is industrial while remaining uncertain about exactly which installation is responsible. This problem has appeared in other hum investigations around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-2-dark.svg" | relative_url }}" alt="Omagh Hum illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Suspicion is not evidence
 
@@ -342,7 +339,6 @@ On the surface, this sounds like confirmation that investigators had found the c
 
 The disappearance could be interpreted in several ways:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A business may have altered operations after discussions with authorities.
@@ -356,7 +352,6 @@ The disappearance could be interpreted in several ways:
 Because investigators lacked direct evidence connecting the recorded tone to a specific machine at a specific time, the end of the noise remained suggestive rather than conclusive. Officials continued to keep the complaint open for review rather than declaring the matter permanently settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 That unresolved ending is precisely what frustrates both residents and sceptics. The public often expects investigations to conclude with a named source and a definitive explanation. Environmental acoustics does not always cooperate.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8Bu0IOsD-CI" title="Omagh hum source traced but not made public" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8Bu0IOsD-CI" target="_blank" rel="noopener noreferrer">Omagh hum source traced but not made public</a></p><p class="youtube-embed-meta">Channel: BBC News NI &middot; Views: 27.5K &middot; Uploaded: April 2026 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8Bu0IOsD-CI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8Bu0IOsD-CI">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +369,6 @@ Omagh demonstrates several lessons relevant to alleged UFO sounds:
 
 **An unsolved case is not necessarily an unexplained phenomenon.** Omagh illustrates the difference between "we do not know" and "we cannot prove." The evidence pointed toward industrial equipment, yet investigators could not close every evidential gap required for a definitive public conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-3-dark.svg" | relative_url }}" alt="Omagh Hum illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Larger Critique: Why Hum Cases Rarely End Neatly
 
@@ -384,9 +378,7 @@ This creates a recurring pattern seen in hum reports worldwide. Investigators na
 
 For that reason, the Omagh Hum is less a story about an unexplained sound than a story about evidential limits. It shows how a community can move very close to an answer while still falling short of the certainty many people expect. In the context of [UFO noises]({{ 'ufo-noises/' | relative_url }}), that distinction matters. A case may remain officially unresolved not because the source is unknown, but because proving the source is harder than finding it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aPYp1TU9cc0" title="Canadian frustration at US border &#x27;hum&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aPYp1TU9cc0" target="_blank" rel="noopener noreferrer">Canadian frustration at US border &#x27;hum&#x27;</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 18.7K &middot; Uploaded: February 2012 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aPYp1TU9cc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aPYp1TU9cc0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -784,99 +776,99 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
 
 1. <a id="endnote-1"></a>
    Source: fermanaghomagh.com  
-   Link: [https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/](https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/)  
+   Link: <a href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: belfasttelegraph.co.uk  
-   Link: [https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html](https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html)  
+   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source of humming noise plaguing residents in NI town &#x27;...12 Jun 2024 — An investigation has traced what is believed to be the source of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: thetimes.co.uk  
    Title: The Times Omagh hum mystery solved  
-   Link: [https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp](https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp)  
+   Link: <a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: belfasttelegraph.co.uk  
-   Link: [https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html](https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html)  
+   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belfast TelegraphNI council hints source of mystery noise plaguing residents...17 Apr 2024 — The source of a mystery hum plaguing Omagh...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: theguardian.com  
    Title: omagh hum mystery wind lamps subsidence  
-   Link: [https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence](https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence)  
+   Link: <a href="https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s a bit of a mystery&#x27;: what&#x27;s causing Omagh&#x27;s hum?21 Nov 2023 — Reports of the low-frequency buzz began in September and theories ran...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: [https://en.wikipedia.org/wiki/The_Hum](https://en.wikipedia.org/wiki/The_Hum)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian The Omagh hum: what is the source of the town's mystery  
-   Link: [https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan](https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan)  
+   Link: <a href="https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A low-pitched rumble, like a car engine idling, electronic pulsing, that kind of thing. You can find simulations online...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thetimes.com  
    Title: omagh hum sound source solved lhdwj62gp  
-   Link: [https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp](https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp)  
+   Link: <a href="https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Omagh hum mystery solved — but source to remain a secret19 Sept 2024 — Environmental health managers liaised with several businesses and...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: irishtimes.com  
-   Link: [https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/](https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/)  
+   Link: <a href="https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Omagh Hum: The low-frequency drone drove locals to...19 Aug 2024 — Residents of Omagh, in Co Tyrone, noticed a mysterious humming no...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: x.com  
-   Link: [https://x.com/BBCNewsNI/status/1801181074216612108](https://x.com/BBCNewsNI/status/1801181074216612108)  
+   Link: <a href="https://x.com/BBCNewsNI/status/1801181074216612108" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BBCNewsNI/status/1801181074216612108</a>  
 
 11. <a id="endnote-11"></a>
    Source: irishpost.com  
    Title: council to investigate after town struck by mysterious humming noise 263680  
-   Link: [https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680](https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680)  
+   Link: <a href="https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680" target="_blank" rel="noopener noreferrer nofollow">https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish PostCouncil to investigate after town struck by mysterious...15 Nov 2023 — A council in Northern Ireland is to call in special...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8Bu0IOsD-CI](https://www.youtube.com/watch?v=8Bu0IOsD-CI)  
+   Link: <a href="https://www.youtube.com/watch?v=8Bu0IOsD-CI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Bu0IOsD-CI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Omagh hum source traced but not made publicThe source of a mystery humming sound which has plagued people living in Omagh may now have be...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/](https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/)  
+   Link: <a href="https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and now noise experts could be called in to get to the bottom of it...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: telegraph.co.uk  
    Title: night hum noise council investigation omagh  
-   Link: [https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/](https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/)  
+   Link: <a href="https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery hum gives a whole town sleepless nights14 Nov 2023 — A mysterious humming noise heard at night across a town in Northern Ireland...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/](https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/)  
+   Link: <a href="https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>started in autumn of 2023. Can Phil Taggart track down its...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: harmonicnotes.co.uk  
    Title: Harmonic Notes The Hum  
-   Link: [https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/](https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/)  
+   Link: <a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sluggerotoole.com  
-   Link: [https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/](https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/)  
+   Link: <a href="https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/" target="_blank" rel="noopener noreferrer nofollow">https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious humming noise is disturbing the good people...14 Nov 2023 — Now, noise experts could be called in by a Northern Ireland cou...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Controversial Sound Only 2% Of People Hear  
-   Link: [https://www.youtube.com/watch?v=PZSFI3vRabo](https://www.youtube.com/watch?v=PZSFI3vRabo)  
+   Link: <a href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PZSFI3vRabo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Haunting Hymn of the [Taos Hum](&amp;#123;&amp;#123; &#x27;taos-hum/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>

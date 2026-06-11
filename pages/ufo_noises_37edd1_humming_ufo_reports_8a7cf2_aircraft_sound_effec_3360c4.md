@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /humming/
 nav_short_title: Aircraft Sounds
 title: When Aircraft Sound Like UFOs
-title_full: When Aircraft Sound Like UFOs | Humming
+title_full: When Aircraft Sound Like UFOs
 display_title_short: Aircraft Sounds
 display_title: Aircraft Sounds
 heading_title: When Aircraft Sound Like UFOs
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:03:01'
-parent_title: Why Do So Many UFOs Hum? | UFO Noises
+parent_title: Why Do So Many UFOs Hum?
 parent_permalink: /humming/
 parent_nav_short_title: Humming
 parent_heading_title: Why Do So Many UFOs Hum?
@@ -270,13 +270,12 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_soun
 
 Many reports of [humming]({{ 'humming/' | relative_url }}) UFOs begin with a genuine sound rather than a clearly identified object. One of the most common ordinary explanations is [aircraft]({{ 'aircraft/' | relative_url }}) noise heard under unusual atmospheric conditions. At night, in cold weather or across long distances, the sound from a jet or helicopter can become detached from its apparent source. A witness may see a light that seems stationary while hearing a low hum from somewhere else entirely, creating the impression of a silent or mysterious craft.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Sounds illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean every report is explained by aircraft, but it highlights a recurring risk in UFO investigations: people are often better at noticing an unusual sound than correctly locating where it came from. Sound bends, reflects and travels differently depending on weather, terrain and time of day. Under the right conditions, ordinary aircraft can produce exactly the kind of distant drone, vibration or electrical-sounding hum that appears in many UFO accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[tampaairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portseattle.org">[Port of Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portseattle.org</span><span class="citation-popover-snippet">Port of SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be inf...</span></span></span>
 
 ## How Temperature Inversions Bend Sound
 
-One of the most important mechanisms behind misleading aircraft acoustics is the temperature inversion. Normally, air becomes colder with altitude. During an inversion, a layer of warmer air sits above cooler air near the ground, especially on calm nights and early mornings. Meteorologists have long recognised that these conditions alter how sound travels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Temperatures</span><span class="citation-popover-snippet">National Weather ServiceTemperatures - The InversionAir in the lower PBL will cool much more rapidly than air at the top of the PBL at ni...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</span></span></span> When sound passes through layers of air with different temperatures, it refracts, or bends. Under inversion conditions, sound waves are often bent back toward the ground rather than dispersing upward. The result is that noises from distant sources can travel much farther and seem unusually loud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">cold snaps and sound waves atmospheric acoustics</span><span class="citation-popover-snippet">AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — In a temperature inversion, the sound from far away bends back to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">1520 0469 2003 060 2473 spitnb 2.0.co 2.xml</span><span class="citation-popover-snippet">American Meteorological Society JournalsSound Propagation in the Nocturnal Boundary Layer inby DK Wilson · 2003 · Cited by 33 — Most prom...</span></span></span>
+One of the most important mechanisms behind misleading aircraft acoustics is the temperature inversion. Normally, air becomes colder with altitude. During an inversion, a layer of warmer air sits above cooler air near the ground, especially on calm nights and early mornings. Meteorologists have long recognised that these conditions alter how sound travels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">National Weather Service Temperatures</span><span class="citation-popover-snippet">National Weather ServiceTemperatures - The InversionAir in the lower PBL will cool much more rapidly than air at the top of the PBL at ni...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</span></span></span> When sound passes through layers of air with different temperatures, it refracts, or bends. Under inversion conditions, sound waves are often bent back toward the ground rather than dispersing upward. The result is that noises from distant sources can travel much farther and seem unusually loud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">cold snaps and sound waves atmospheric acoustics</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — In a temperature inversion, the sound from far away bends back to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">1520 0469 2003 060 2473 spitnb 2.0.co 2.xml</span><span class="citation-popover-snippet">American Meteorological Society JournalsSound Propagation in the Nocturnal Boundary Layer inby DK Wilson · 2003 · Cited by 33 — Most prom...</span></span></span>
 
 For someone observing unusual lights in the sky, this can create several misleading impressions:
 
@@ -288,7 +287,6 @@ For someone observing unusual lights in the sky, this can create several mislead
 Airport noise specialists routinely note that cloud cover, [inversions]({{ 'inversions/' | relative_url }}), humidity and wind can make aircraft sound louder and carry farther than expected. These effects are well documented in aviation noise studies and are not rare events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hmmh.com">[HMMH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hmmh.com</span><span class="citation-popover-snippet">• Daily temperature inversion. • Wind direction and speed. • Relative humidity...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[3tampaairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portseattle.org">[Port of Seattle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portseattle.org</span><span class="citation-popover-snippet">Port of SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be inf...</span></span></span>
 
 For UFO investigations, the key point is that a witness may correctly hear an unusual hum while incorrectly associating it with the object they are watching.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBZIojBHn1Q" title="What Is The Invisible Phenomenon Making The Sky Scream?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBZIojBHn1Q" target="_blank" rel="noopener noreferrer">What Is The Invisible Phenomenon Making The Sky Scream?</a></p><p class="youtube-embed-meta">Channel: Absolute Documentaries &middot; Views: 104.9K &middot; Uploaded: July 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBZIojBHn1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBZIojBHn1Q">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +304,7 @@ Night conditions amplify the problem:
 * Familiar size references disappear.
 * Navigation lights can appear brighter than expected.
 * Sound localisation becomes less reliable.
-* Temperature inversions are more common after sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.comsol.com/blogs/why-sounds-travel-farther-at-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comsol.com">[COMSOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comsol.com</span><span class="citation-popover-title">why sounds travel farther at night</span><span class="citation-popover-snippet">COMSOLWhy Sounds Travel Farther at Night28 Jan 2025 — The cause of this sound phenomenon is the change in temperature distribution in the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">1520 0469 2003 060 2473 spitnb 2.0.co 2.xml</span><span class="citation-popover-snippet">American Meteorological Society JournalsSound Propagation in the Nocturnal Boundary Layer inby DK Wilson · 2003 · Cited by 33 — Most prom...</span></span></span>
+* Temperature inversions are more common after sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.comsol.com/blogs/why-sounds-travel-farther-at-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comsol.com">[COMSOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comsol.com</span><span class="citation-popover-title">why sounds travel farther at night</span><span class="citation-popover-snippet">Why Sounds Travel Farther at Night28 Jan 2025 — The cause of this sound phenomenon is the change in temperature distribution in the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-title">1520 0469 2003 060 2473 spitnb 2.0.co 2.xml</span><span class="citation-popover-snippet">American Meteorological Society JournalsSound Propagation in the Nocturnal Boundary Layer inby DK Wilson · 2003 · Cited by 33 — Most prom...</span></span></span>
 
 The result is a classic UFO scenario: a light that seems fixed in place while an unexplained hum fills the air.
 
@@ -314,14 +312,12 @@ The result is a classic UFO scenario: a light that seems fixed in place while an
 
 Different aircraft produce different kinds of sounds, and some match UFO descriptions more closely than others.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft Sounds illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Helicopter Rotor Beats
 
 Helicopters are especially effective at creating mysterious-sounding hums because their noise contains strong rhythmic pulses from the rotating blades. Researchers studying helicopter acoustics note that helicopter noise is distinctive because of its repetitive pulsation and directional characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.aip.org/asa/jasa/article/145/2/956/994457/Short-term-annoyance-reactions-to-civil-helicopter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.aip.org">[AIP Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.aip.org</span><span class="citation-popover-title">Short term annoyance reactions to civil helicopter</span><span class="citation-popover-snippet">AIP PublishingShort-term annoyance reactions to civil helicopter and...21 Feb 2019 — Helicopter noise exhibits distinctive acoustical ch...</span></span></span>
 
 Under certain atmospheric conditions, those pulses can blend into a deep oscillating hum. Witnesses sometimes describe the sound as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -333,7 +329,6 @@ Under certain atmospheric conditions, those pulses can blend into a deep oscilla
 </div>
 
 Because rotor noise is highly directional, a helicopter can also sound stronger in one area than another, making it harder to identify visually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/12/10/903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Knowledge of this noise radiation...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c9dE7HIF-Mc" title="Distant Plane Sound Effect." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c9dE7HIF-Mc" target="_blank" rel="noopener noreferrer">Distant Plane Sound Effect.</a></p><p class="youtube-embed-meta">Channel: Free Audio Zone &middot; Views: 49.2K &middot; Uploaded: May 2018 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c9dE7HIF-Mc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c9dE7HIF-Mc">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +350,6 @@ Human hearing is not especially good at determining the direction of low-frequen
 
 Aircraft hums reported in UFO cases often fall into exactly this problematic range. Instead of seeming to come from a specific point, the sound may appear to fill the environment. Witnesses sometimes report that the hum was:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Everywhere at once.
@@ -367,14 +361,12 @@ Aircraft hums reported in UFO cases often fall into exactly this problematic ran
 
 Atmospheric refraction can worsen the effect. Studies of outdoor sound propagation describe situations in which sound becomes trapped near the ground and travels efficiently over long distances, creating confusing listening conditions far from the source. American Meteorological Society Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://fiveable.me/noise-control-engineering/unit-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fiveable.me">[fiveable]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fiveable.me</span><span class="citation-popover-snippet">long distances · Wind gradients can cause sound waves to bend upward (upwind) or...Read more...</span></span></span> In practical terms, a witness may accurately report hearing a hum while being completely wrong about where it originated.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft Sounds illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_aircraft_sound_effec_3360c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Humming UFO Reports
 
 Aircraft explanations are not simply a matter of saying that witnesses "heard a plane". The more important point is that aircraft sound can be transformed by weather, distance and darkness into something that no longer resembles a familiar aircraft at all.
 
 A strong UFO report may contain sincere and accurate observations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,11 +377,9 @@ A strong UFO report may contain sincere and accurate observations:
 
 </div>
 
-Yet those observations can still emerge from ordinary aviation activity combined with unusual acoustic conditions. Temperature inversions, delayed sound arrival, low-frequency propagation and nighttime visual illusions form a combination capable of producing some of the most convincing humming UFO experiences. American Meteorological Society Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[3tampaairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">cold snaps and sound waves atmospheric acoustics</span><span class="citation-popover-snippet">AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — In a temperature inversion, the sound from far away bends back to...</span></span></span>, experienced investigators often treat unexplained humming as a clue to examine atmospheric conditions and nearby aircraft traffic rather than as evidence of an unknown craft by itself. The hum may be real, but the connection between the sound and the perceived object is frequently the weakest part of the story.
-
+Yet those observations can still emerge from ordinary aviation activity combined with unusual acoustic conditions. Temperature inversions, delayed sound arrival, low-frequency propagation and nighttime visual illusions form a combination capable of producing some of the most convincing humming UFO experiences. American Meteorological Society Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tampaairport.com">[3tampaairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tampaairport.com</span><span class="citation-popover-snippet">Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">cold snaps and sound waves atmospheric acoustics</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — In a temperature inversion, the sound from far away bends back to...</span></span></span>, experienced investigators often treat unexplained humming as a clue to examine atmospheric conditions and nearby aircraft traffic rather than as evidence of an unknown craft by itself. The hum may be real, but the connection between the sound and the perceived object is frequently the weakest part of the story.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aeA5jzQWeek" title="Sounds during temperature inversion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aeA5jzQWeek" target="_blank" rel="noopener noreferrer">Sounds during temperature inversion</a></p><p class="youtube-embed-meta">Channel: Tristan Gooley &middot; Views: 3.7K &middot; Uploaded: January 2019 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aeA5jzQWeek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aeA5jzQWeek">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -787,151 +777,151 @@ Yet those observations can still emerge from ordinary aviation activity combined
 
 1. <a id="endnote-1"></a>
    Source: tampaairport.com  
-   Link: [https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise](https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise)  
+   Link: <a href="https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.tampaairport.com/business/airport-operations/noise-abatement/tips-homeowners/effects-weather-noise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Weather on NoiseInversions, which occur when the air temperature increases as altitude increases, have the same effect on nois...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: weather.gov  
    Title: National Weather Service Temperatures  
-   Link: [https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html](https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html)  
+   Link: <a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/Miscellaneous/inversion/inversion.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceTemperatures - The InversionAir in the lower PBL will cool much more rapidly than air at the top of the PBL at ni...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Inversion_%28meteorology%29](https://en.wikipedia.org/wiki/Inversion_%28meteorology%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inversion_%28meteorology%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: acentech.com  
-   Title: cold snaps and sound waves [atmospheric acoustics](&#123;&#123; 'atmosphere/' | relative_url &#125;&#125;)  
-   Link: [https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/](https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcentechCold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — In a temperature inversion, the sound from far away bends back to...</p></details>
+   Title: cold snaps and sound waves atmospheric acoustics  
+   Link: <a href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow">https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — In a temperature inversion, the sound from far away bends back to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fiveable.me  
-   Link: [https://fiveable.me/noise-control-engineering/unit-6](https://fiveable.me/noise-control-engineering/unit-6)  
+   Link: <a href="https://fiveable.me/noise-control-engineering/unit-6" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/noise-control-engineering/unit-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>long distances · Wind gradients can cause sound waves to bend upward (upwind) or...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hmmh.com  
-   Link: [https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf](https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf)  
+   Link: <a href="https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hmmh.com/wp-content/uploads/2019/08/NOISECON2019_Czech_WxEffects.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Daily temperature inversion. • Wind direction and speed. • Relative humidity...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: comsol.com  
    Title: why sounds travel farther at night  
-   Link: [https://www.comsol.com/blogs/why-sounds-travel-farther-at-night](https://www.comsol.com/blogs/why-sounds-travel-farther-at-night)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COMSOLWhy Sounds Travel Farther at Night28 Jan 2025 — The cause of this sound phenomenon is the change in temperature distribution in the...</p></details>
+   Link: <a href="https://www.comsol.com/blogs/why-sounds-travel-farther-at-night" target="_blank" rel="noopener noreferrer nofollow">https://www.comsol.com/blogs/why-sounds-travel-farther-at-night</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Sounds Travel Farther at Night28 Jan 2025 — The cause of this sound phenomenon is the change in temperature distribution in the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubs.aip.org  
    Title: Short term annoyance reactions to civil helicopter  
-   Link: [https://pubs.aip.org/asa/jasa/article/145/2/956/994457/Short-term-annoyance-reactions-to-civil-helicopter](https://pubs.aip.org/asa/jasa/article/145/2/956/994457/Short-term-annoyance-reactions-to-civil-helicopter)  
+   Link: <a href="https://pubs.aip.org/asa/jasa/article/145/2/956/994457/Short-term-annoyance-reactions-to-civil-helicopter" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article/145/2/956/994457/Short-term-annoyance-reactions-to-civil-helicopter</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIP PublishingShort-term annoyance reactions to civil helicopter and...21 Feb 2019 — Helicopter noise exhibits distinctive acoustical ch...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2226-4310/12/10/903](https://www.mdpi.com/2226-4310/12/10/903)  
+   Link: <a href="https://www.mdpi.com/2226-4310/12/10/903" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/12/10/903</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge of this noise radiation...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20060049123/downloads/20060049123.pdf](https://ntrs.nasa.gov/api/citations/20060049123/downloads/20060049123.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20060049123/downloads/20060049123.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060049123/downloads/20060049123.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Propagation in Aircraft Noise... It was concluded that local temperature and humidity should be accounted for in aircraft noise modeling...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceUnsettled Weather in the Eastern U.S. through Memorial Day · Frost Advisory · Rip Current Statement · Beach Hazar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2073-4433/12/11/1424](https://www.mdpi.com/2073-4433/12/11/1424)  
+   Link: <a href="https://www.mdpi.com/2073-4433/12/11/1424" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/11/1424</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Propagation Modelling for Manned and Unmanned...by R Kapoor · 2021 · Cited by 50 — A more reliable and accurate modelling of noise...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2226-4310/12/9/815](https://www.mdpi.com/2226-4310/12/9/815)  
+   Link: <a href="https://www.mdpi.com/2226-4310/12/9/815" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/12/9/815</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impacts of Climate Change on Aircraft Noise near...by J Williams · 2025 · Cited by 2 — The warmer air resulting from climate change...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20200003210/downloads/20200003210.pdf](https://ntrs.nasa.gov/api/citations/20200003210/downloads/20200003210.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20200003210/downloads/20200003210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20200003210/downloads/20200003210.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCTIONby M Boucher · 2019 · Cited by 23 — 2 A total of 105 sounds were played to 40 subjects. The relationship between helicopter n...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: portseattle.org  
-   Link: [https://www.portseattle.org/faq/what-are-effects-weather-noise](https://www.portseattle.org/faq/what-are-effects-weather-noise)  
+   Link: <a href="https://www.portseattle.org/faq/what-are-effects-weather-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.portseattle.org/faq/what-are-effects-weather-noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Port of SeattleWhat are the Effects of Weather on Noise?Noise propagation, or the transmission of sound waves through the air, can be inf...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journals.ametsoc.org  
    Title: 1520 0469 2003 060 2473 spitnb 2.0.co 2.xml  
-   Link: [https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml](https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atsc/60/20/1520-0469_2003_060_2473_spitnb_2.0.co_2.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsSound Propagation in the Nocturnal Boundary Layer inby DK Wilson · 2003 · Cited by 33 — Most prom...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oceanservice.noaa.gov  
-   Link: [https://oceanservice.noaa.gov/facts/sound.html](https://oceanservice.noaa.gov/facts/sound.html)  
+   Link: <a href="https://oceanservice.noaa.gov/facts/sound.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/sound.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>far does sound travel in the ocean?16 Jun 2024 — The distance that sound travels in the ocean varies greatly, depending primarily upon wa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: [https://www.faa.gov/noise/aircraft_noise](https://www.faa.gov/noise/aircraft_noise)  
+   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 31, 2025 — Aircraft and airport noise are complex issues that have been studied for decades and are still the focus of many research...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5324926_Comparative_helicopter_noise_analysis_in_static_and_in-flight_conditions](https://www.researchgate.net/publication/5324926_Comparative_helicopter_noise_analysis_in_static_and_in-flight_conditions)  
+   Link: <a href="https://www.researchgate.net/publication/5324926_Comparative_helicopter_noise_analysis_in_static_and_in-flight_conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5324926_Comparative_helicopter_noise_analysis_in_static_and_in-flight_conditions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>helicopter, is a source of intense noise, external and internal alike, in conclusion becoming serious environmental and health issue.Read...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: acoustics.com.au  
-   Link: [https://acoustics.com.au/wp-content/uploads/2013/08/aircraft-noise-paper-final.pdf](https://acoustics.com.au/wp-content/uploads/2013/08/aircraft-noise-paper-final.pdf)  
+   Link: <a href="https://acoustics.com.au/wp-content/uploads/2013/08/aircraft-noise-paper-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acoustics.com.au/wp-content/uploads/2013/08/aircraft-noise-paper-final.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: gml.noaa.gov  
    Title: MAA using sound waves to study climate change  
-   Link: [https://gml.noaa.gov/outreach/info_activities/pdfs/MAA_using_sound_waves_to_study_climate_change.pdf](https://gml.noaa.gov/outreach/info_activities/pdfs/MAA_using_sound_waves_to_study_climate_change.pdf)  
+   Link: <a href="https://gml.noaa.gov/outreach/info_activities/pdfs/MAA_using_sound_waves_to_study_climate_change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/outreach/info_activities/pdfs/MAA_using_sound_waves_to_study_climate_change.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Waves to Study Climate ChangeMolecules at higher temperatures have more energy and can vibrate faster and allow sound waves to trav...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions](https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions)  
+   Link: <a href="https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268581117_Aircraft_Noise_Impact_Under_Diverse_Weather_Conditions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, the impact of aircraft noise on communities surrounding airports can...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: eaglepubs.erau.edu  
    Title: Noise is any unwanted or undesirable sound that is heard by a person.Read more  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Flight Vehicles – Introduction to Aerospace...by JG Leishman · 2023 · Cited by 2 — Acoustics is the scientific study of sound generat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044](https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation of a morning air temperature inversion break-up...by LR Hole · 2003 · Cited by 18 — Sound propagation in the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) is in...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: loveland.nl  
-   Link: [https://loveland.nl/news/possible-sound-disturbance/](https://loveland.nl/news/possible-sound-disturbance/)  
+   Link: <a href="https://loveland.nl/news/possible-sound-disturbance/" target="_blank" rel="noopener noreferrer nofollow">https://loveland.nl/news/possible-sound-disturbance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>including music and crowd noise can travel much further than normal.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gml.noaa.gov  
    Title: TBI sound waves and temperature  
-   Link: [https://gml.noaa.gov/outreach/info_activities/pdfs/TBI_sound_waves_and_temperature.pdf](https://gml.noaa.gov/outreach/info_activities/pdfs/TBI_sound_waves_and_temperature.pdf)  
+   Link: <a href="https://gml.noaa.gov/outreach/info_activities/pdfs/TBI_sound_waves_and_temperature.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/outreach/info_activities/pdfs/TBI_sound_waves_and_temperature.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WAVES AND CLIMATE CHANGEPART I: The Ocean- The atmosphere and ocean act as &quot;heat engines,&quot; always trying to restore a temperature balance...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: elib.dlr.de  
-   Link: [https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf](https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf)  
+   Link: <a href="https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/206663/1/Master_s_Thesis_Informatics.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Aircraft Noise Data in the Area...by P Bettermann · 2024 — Depending on the location, time of day, and season, the temperatu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: bbaconsultants.com  
    Title: Acoustic measurements: the effects of weather on sound…  
-   Link: [https://www.bbaconsultants.com/publications/acoustic-measurements-the-effects-of-weather-on-sound-propagation](https://www.bbaconsultants.com/publications/acoustic-measurements-the-effects-of-weather-on-sound-propagation)  
+   Link: <a href="https://www.bbaconsultants.com/publications/acoustic-measurements-the-effects-of-weather-on-sound-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.bbaconsultants.com/publications/acoustic-measurements-the-effects-of-weather-on-sound-propagation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inversion. During a “temperature inversion,” warm air above the surface bends the sound waves toward the ground. On a...Read more...</p></details>

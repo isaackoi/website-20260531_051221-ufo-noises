@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sensors/
 nav_short_title: Drone Buzz
 title: Is That Strange Buzz Just a Drone?
-title_full: Is That Strange Buzz Just a Drone? | Sensors
+title_full: Is That Strange Buzz Just a Drone?
 display_title_short: Drone Buzz
 display_title: Drone Buzz
 heading_title: Is That Strange Buzz Just a Drone?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:02:14'
-parent_title: Can Sensors Catch UFO Noises? | UFO Noises
+parent_title: Can Sensors Catch UFO Noises?
 parent_permalink: /sensors/
 parent_nav_short_title: Sensors
 parent_heading_title: Can Sensors Catch UFO Noises?
@@ -276,18 +276,16 @@ image: /assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_l
 
 When people report a strange [buzzing]({{ 'buzzing/' | relative_url }}) object overhead, one of the first questions investigators now ask is whether the sound matches a known drone. Small multirotor [aircraft]({{ 'aircraft/' | relative_url }}) have become common in urban areas, rural fields and nighttime skies, yet many listeners still struggle to identify them by ear alone. A hovering drone can sound like a swarm of insects, a distant transformer, an electrical hum or an unfamiliar aircraft, especially when heard at night or through cloud cover.
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-1-dark.svg" | relative_url }}" alt="Drone Buzz illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For modern [acoustic monitoring]({{ 'sensors/' | relative_url }}) projects, drone sound libraries provide an important reality check. Collections of recorded drone noises, [spectrograms]({{ 'spectrograms/' | relative_url }}) and frequency measurements allow analysts to compare a reported sound with known acoustic signatures. In many cases, a supposedly mysterious buzz turns out to share the same harmonic structure seen in commercial quadcopters. In other cases, the comparison reveals that the sound does not fit typical drone behaviour and deserves further investigation. The value of these libraries is not that they solve every unidentified aerial report, but that they replace guesswork with measurable evidence.
+For modern acoustic monitoring projects, drone sound libraries provide an important reality check. Collections of recorded drone noises, [spectrograms]({{ 'spectrograms/' | relative_url }}) and frequency measurements allow analysts to compare a reported sound with known acoustic signatures. In many cases, a supposedly mysterious buzz turns out to share the same harmonic structure seen in commercial quadcopters. In other cases, the comparison reveals that the sound does not fit typical drone behaviour and deserves further investigation. The value of these libraries is not that they solve every unidentified aerial report, but that they replace guesswork with measurable evidence.
 
 ## Why Drones Have Recognisable Acoustic Signatures
 
 Unlike many conventional aircraft, small drones generate highly distinctive tonal patterns. Their electric motors spin propellers at high speed, creating repeated pressure pulses known as blade-passing frequencies. These frequencies produce a fundamental tone and a series of harmonics that appear as evenly spaced peaks in audio analysis software. Researchers consistently describe this harmonic structure as one of the defining features of drone acoustics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The BPF is the frequency at which the blades pass through the same point. · Harmonics of the main frequency (...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustique.ec-lyon.fr">[2Acoustique École Centrale Lyon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustique.ec-lyon.fr</span><span class="citation-popover-snippet">BPF, rotational frequency Ω multiplied by the blade...Read more...</span></span></span>
 
-Most consumer multirotor drones concentrate significant acoustic energy in the low hundreds of hertz, while also generating harmonics that extend into the kilohertz range. Studies of commercial UAVs have repeatedly found dominant tonal components around 100–300 Hz, with higher harmonics creating the familiar buzzing or whining character that many witnesses notice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Drone Noise – A New Challenge in Acoustics</span><span class="citation-popover-snippet">AcentechDrone Noise – A New Challenge in AcousticsMay 21, 2020 — Just like fans, the dominant (unweighted) sound levels are produced at t...</span><span class="citation-popover-meta">Published: May 21, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The BPF is the frequency at which the blades pass through the same point. · Harmonics of the main frequency (...</span></span></span>
+Most consumer multirotor drones concentrate significant acoustic energy in the low hundreds of hertz, while also generating harmonics that extend into the kilohertz range. Studies of commercial UAVs have repeatedly found dominant tonal components around 100–300 Hz, with higher harmonics creating the familiar buzzing or whining character that many witnesses notice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Drone Noise – A New Challenge in Acoustics</span><span class="citation-popover-snippet">Drone Noise – A New Challenge in AcousticsMay 21, 2020 — Just like fans, the dominant (unweighted) sound levels are produced at t...</span><span class="citation-popover-meta">Published: May 21, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The BPF is the frequency at which the blades pass through the same point. · Harmonics of the main frequency (...</span></span></span>
 
 Several factors influence the exact sound:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ Witnesses frequently describe drone sounds using vague terms such as "hum", "vib
 For example, measurements of DJI aircraft have shown stable harmonic bands that remain visible even at considerable distances from the recording microphone. One study reported persistent harmonic peaks around 360 Hz, 720 Hz and 1080 Hz for a DJI Mavic Pro, while other models displayed their own characteristic frequency patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Due to the...Read more...</span></span></span>
 
 That stability makes drones especially suitable for library-based comparison. A recorded buzz can be transformed into a spectrogram and checked against known examples, allowing investigators to compare frequency spacing, harmonic intensity and temporal behaviour rather than relying solely on subjective descriptions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lfZ6XSRaRR8" title="Step by step through a spectrogram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lfZ6XSRaRR8" target="_blank" rel="noopener noreferrer">Step by step through a spectrogram</a></p><p class="youtube-embed-meta">Channel: Andy McMillin &middot; Views: 90.2K &middot; Uploaded: February 2016 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lfZ6XSRaRR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lfZ6XSRaRR8">Open on YouTube</a></p></div></div></div>
 
@@ -336,10 +333,9 @@ The comparison is often more informative than simple listening. Two sounds that 
 
 ### Growing Public and Research Datasets
 
-Academic and industrial interest in drone acoustics has expanded rapidly. Researchers have developed multiclass datasets containing recordings from dozens of drone models, often accompanied by spectrograms and machine-learning features such as Mel-Frequency Cepstral Coefficients (MFCCs). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.04715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Multiclass Acoustic Dataset and Interactive Tool for Analyzing Drone Signatures in Real-World EnvironmentsSeptember 5, 2025...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
+Academic and industrial interest in drone acoustics has expanded rapidly. Researchers have developed multiclass datasets containing recordings from dozens of drone models, often accompanied by spectrograms and machine-learning features such as Mel-Frequency Cepstral Coefficients (MFCCs). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.04715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multiclass Acoustic Dataset and Interactive Tool for Analyzing Drone Signatures in Real-World EnvironmentsSeptember 5, 2025...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
 
 These datasets serve several purposes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -351,8 +347,7 @@ These datasets serve several purposes:
 
 </div>
 
-Some projects also include damaged propellers, unusual flight conditions and varying microphone angles because real-world recordings rarely occur under ideal laboratory conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.04715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Multiclass Acoustic Dataset and Interactive Tool for Analyzing Drone Signatures in Real-World EnvironmentsSeptember 5, 2025...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
-
+Some projects also include damaged propellers, unusual flight conditions and varying microphone angles because real-world recordings rarely occur under ideal laboratory conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.04715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multiclass Acoustic Dataset and Interactive Tool for Analyzing Drone Signatures in Real-World EnvironmentsSeptember 5, 2025...</span><span class="citation-popover-meta">Published: September 5, 2025</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-2-dark.svg" | relative_url }}" alt="Drone Buzz illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO Noise Investigations Now Check Drone Libraries First
@@ -373,7 +368,6 @@ Acoustic libraries help determine whether the reported sound exhibits the harmon
 
 In practical monitoring programmes, drone databases therefore function as elimination tools. They help reduce the pool of unidentified cases by removing events that match known technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cI9lw5xyN_k" title="ML Project 4: DRONE detection in Real Time using Sound Analysis on Python." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cI9lw5xyN_k" target="_blank" rel="noopener noreferrer">ML Project 4: DRONE detection in Real Time using Sound Analysis on Python.</a></p><p class="youtube-embed-meta">Channel: Embedded Garage &middot; Views: 2.7K &middot; Uploaded: December 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cI9lw5xyN_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cI9lw5xyN_k">Open on YouTube</a></p></div></div></div>
 
 ## Where Sound Matching Can Mislead Investigators
@@ -390,7 +384,6 @@ The remaining signal can become a vague low-frequency hum that resembles many un
 
 Cities contain numerous sources of periodic noise:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Air-conditioning systems.
@@ -403,7 +396,6 @@ Cities contain numerous sources of periodic noise:
 
 Some of these sources produce frequency peaks that resemble portions of a drone spectrum. Distinguishing them requires more than identifying a single tone. Analysts generally examine the entire harmonic structure, time variation and directional information rather than relying on isolated frequencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000006.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasip.org">[Eurasip]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasip.org</span><span class="citation-popover-snippet">UAVs appears to be particularly difficult in adverse situations, such as in heavy wind noise or in the presence of construction noise...</span></span></span>
 
-
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-3-dark.svg" | relative_url }}" alt="Drone Buzz illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_drone_sound_librarie_0b4be6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Different Drones Can Sound Surprisingly Similar
 
@@ -413,7 +405,7 @@ This means a library comparison may indicate that a sound is consistent with a d
 
 ### New Designs Are Changing the Acoustic Landscape
 
-Manufacturers increasingly experiment with quieter propellers, phase-synchronised rotor systems and acoustic signature reduction techniques. NASA and other researchers have explored methods that reduce tonal peaks by controlling rotor phase relationships, while commercial and defence sectors continue developing lower-noise propeller designs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://technology.nasa.gov/patent/LAR-TOPS-325" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: technology.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">technology.nasa.gov</span><span class="citation-popover-snippet">NASA Technology Transfer PortalMultirotor Aircraft Noise Reduction | T2 PortalGroups of rotors operating at the same rotation rate with a...</span></span></span> Technology Transfer Portal <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/10/1/25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">MDPIResearch on Sound Recognition of Long-Distance UAV...by K Fan · 2026 — Furthermore, when the DJI Mavic Pro hovers at a distance of 6...</span></span></span>
+Manufacturers increasingly experiment with quieter propellers, phase-synchronised rotor systems and acoustic signature reduction techniques. NASA and other researchers have explored methods that reduce tonal peaks by controlling rotor phase relationships, while commercial and defence sectors continue developing lower-noise propeller designs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://technology.nasa.gov/patent/LAR-TOPS-325" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: technology.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">technology.nasa.gov</span><span class="citation-popover-snippet">NASA Technology Transfer PortalMultirotor Aircraft Noise Reduction &#124; T2 PortalGroups of rotors operating at the same rotation rate with a...</span></span></span> Technology Transfer Portal <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/10/1/25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Research on Sound Recognition of Long-Distance UAV...by K Fan · 2026 — Furthermore, when the DJI Mavic Pro hovers at a distance of 6...</span></span></span>
 
 As quieter drones become more common, older reference libraries may become less reliable unless they are continually updated.
 
@@ -422,7 +414,6 @@ As quieter drones become more common, older reference libraries may become less 
 The strongest drone identifications rarely rely on sound alone. Investigators increasingly combine audio recordings with other evidence streams.
 
 A high-confidence comparison often includes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -438,9 +429,7 @@ When multiple sensor types agree, acoustic libraries become much more powerful. 
 
 For modern aerial monitoring systems, drone sound libraries occupy a middle ground between anecdote and proof. They cannot identify every source, and they do not automatically resolve unusual reports. What they do provide is a growing catalogue of known acoustic signatures that helps investigators distinguish ordinary buzzing machines from the much smaller set of cases that remain genuinely unexplained.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r0lZFeRY6SM" title="UAV detection and classification Using micro-Doppler and Machine Learning Presentation video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r0lZFeRY6SM" target="_blank" rel="noopener noreferrer">UAV detection and classification Using micro-Doppler and Machine Learning Presentation video</a></p><p class="youtube-embed-meta">Channel: M A &middot; Views: 471 &middot; Uploaded: November 2021 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r0lZFeRY6SM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r0lZFeRY6SM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -838,166 +827,166 @@ For modern aerial monitoring systems, drone sound libraries occupy a middle grou
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13029893/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BPF is the frequency at which the blades pass through the same point. · Harmonics of the main frequency (...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/25/22/7057](https://www.mdpi.com/1424-8220/25/22/7057)  
+   Link: <a href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/22/7057</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Due to the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: acentech.com  
    Title: Drone Noise – A New Challenge in Acoustics  
-   Link: [https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/](https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcentechDrone Noise – A New Challenge in AcousticsMay 21, 2020 — Just like fans, the dominant (unweighted) sound levels are produced at t...</p></details>
+   Link: <a href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow">https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Noise – A New Challenge in AcousticsMay 21, 2020 — Just like fans, the dominant (unweighted) sound levels are produced at t...</p></details>
    Published: May 21, 2020  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8348319/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8348319/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAudio-Based Drone Detection and Identification Using Deep...by S Al-Emadi · 2021 · Cited by 141 — We propose a novel solution that au...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8348319/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8348319/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Based Drone Detection and Identification Using Deep...by S Al-Emadi · 2021 · Cited by 141 — We propose a novel solution that au...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: [https://www.mdpi.com/2504-446X/10/1/25](https://www.mdpi.com/2504-446X/10/1/25)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIResearch on Sound Recognition of Long-Distance UAV...by K Fan · 2026 — Furthermore, when the DJI Mavic Pro hovers at a distance of 6...</p></details>
+   Link: <a href="https://www.mdpi.com/2504-446X/10/1/25" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/10/1/25</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Sound Recognition of Long-Distance UAV...by K Fan · 2026 — Furthermore, when the DJI Mavic Pro hovers at a distance of 6...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hammer.purdue.edu  
-   Link: [https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_SYSTEM_WITH_MULTIPLE_ACOUSTIC_NODES_USING_MACHINE_LEARNING_MODELS/7975991/files/14869244.pdf](https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_SYSTEM_WITH_MULTIPLE_ACOUSTIC_NODES_USING_MACHINE_LEARNING_MODELS/7975991/files/14869244.pdf)  
+   Link: <a href="https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_SYSTEM_WITH_MULTIPLE_ACOUSTIC_NODES_USING_MACHINE_LEARNING_MODELS/7975991/files/14869244.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hammer.purdue.edu/articles/thesis/UAV_DETECTION_SYSTEM_WITH_MULTIPLE_ACOUSTIC_NODES_USING_MACHINE_LEARNING_MODELS/7975991/files/14869244.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An audio...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eurasip.org  
-   Link: [https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000006.pdf](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000006.pdf)  
+   Link: <a href="https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000006.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAVs appears to be particularly difficult in adverse situations, such as in heavy wind noise or in the presence of construction noise...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.04715](https://arxiv.org/abs/2509.04715)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Multiclass Acoustic Dataset and Interactive Tool for Analyzing Drone Signatures in Real-World EnvironmentsSeptember 5, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2509.04715" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.04715</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multiclass Acoustic Dataset and Interactive Tool for Analyzing Drone Signatures in Real-World EnvironmentsSeptember 5, 2025...</p></details>
    Published: September 5, 2025  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.00790](https://arxiv.org/abs/2503.00790)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAcoustic Anomaly Detection on UAM Propeller Defect with Acoustic dataset for Crack of drone Propeller (ADCP)March 2, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.00790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.00790</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Anomaly Detection on UAM Propeller Defect with Acoustic dataset for Crack of drone Propeller (ADCP)March 2, 2025...</p></details>
    Published: March 2, 2025  
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: [https://www.mdpi.com/2504-446X/2/1/4](https://www.mdpi.com/2504-446X/2/1/4)  
+   Link: <a href="https://www.mdpi.com/2504-446X/2/1/4" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/2/1/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: technology.nasa.gov  
-   Link: [https://technology.nasa.gov/patent/LAR-TOPS-325](https://technology.nasa.gov/patent/LAR-TOPS-325)  
+   Link: <a href="https://technology.nasa.gov/patent/LAR-TOPS-325" target="_blank" rel="noopener noreferrer nofollow">https://technology.nasa.gov/patent/LAR-TOPS-325</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technology Transfer PortalMultirotor Aircraft Noise Reduction | T2 PortalGroups of rotors operating at the same rotation rate with a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: [https://www.mdpi.com/2504-446X/9/8/544](https://www.mdpi.com/2504-446X/9/8/544)  
+   Link: <a href="https://www.mdpi.com/2504-446X/9/8/544" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/9/8/544</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phase Synchronisation for Tonal Noise Reduction in a...by BB Turhan · 2025 · Cited by 3 — This study aims to investigate the effects of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2673-4591/133/1/43](https://www.mdpi.com/2673-4591/133/1/43)  
+   Link: <a href="https://www.mdpi.com/2673-4591/133/1/43" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4591/133/1/43</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Assessment of Drone Noise for Sustainable Urban...by M Rinaldi · 2026 · Cited by 1 — Various acoustic metrics are reviewed to cha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: acta-acustica.edpsciences.org  
-   Link: [https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html](https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html)  
+   Link: <a href="https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html" target="_blank" rel="noopener noreferrer nofollow">https://acta-acustica.edpsciences.org/articles/aacus/full_html/2026/01/aacus250134/aacus250134.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>acoustic detection and localization of drones using...by Z Ghouli · 2026 — Drones produce unique acoustic signatures, primarily due to t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hammer.purdue.edu  
-   Link: [https://hammer.purdue.edu/ndownloader/files/60428204](https://hammer.purdue.edu/ndownloader/files/60428204)  
+   Link: <a href="https://hammer.purdue.edu/ndownloader/files/60428204" target="_blank" rel="noopener noreferrer nofollow">https://hammer.purdue.edu/ndownloader/files/60428204</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This creates a rich but complex...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.20407v1](https://arxiv.org/html/2512.20407v1)  
+   Link: <a href="https://arxiv.org/html/2512.20407v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.20407v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AUDRON: A Deep Learning Framework with Fused...Dec 23, 2025 — This study introduces AUDRON (AUdio-based Drone Recognition Network), a hy...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: acoustics.org  
    Title: what makes drones sound annoying the answer may lie in noise fluctuations  
-   Link: [https://acoustics.org/what-makes-drones-sound-annoying-the-answer-may-lie-in-noise-fluctuations/](https://acoustics.org/what-makes-drones-sound-annoying-the-answer-may-lie-in-noise-fluctuations/)  
+   Link: <a href="https://acoustics.org/what-makes-drones-sound-annoying-the-answer-may-lie-in-noise-fluctuations/" target="_blank" rel="noopener noreferrer nofollow">https://acoustics.org/what-makes-drones-sound-annoying-the-answer-may-lie-in-noise-fluctuations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What makes drones sound annoying? The answer may lie...7 May 2024 — One reason why drones sound so annoying may be noise fluctuations ca...</p></details>
    Published: May 2024  
 
 18. <a id="endnote-18"></a>
    Source: dji.com  
-   Link: [https://www.dji.com/](https://www.dji.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DJI - Official WebsiteDJI technology empowers us to see the future of possible. Learn about our consumer drones like DJI Mavic 3 Pro, DJI...</p></details>
+   Link: <a href="https://www.dji.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.dji.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official WebsiteDJI technology empowers us to see the future of possible. Learn about our consumer drones like DJI Mavic 3 Pro, DJI...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: acoustique.ec-lyon.fr  
-   Link: [https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf](https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf)  
+   Link: <a href="https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acoustique.ec-lyon.fr/publi/roger_acoustics20.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(BPF, rotational frequency Ω multiplied by the blade...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: eprints.gla.ac.uk  
-   Link: [https://eprints.gla.ac.uk/278590/2/278590.pdf](https://eprints.gla.ac.uk/278590/2/278590.pdf)  
+   Link: <a href="https://eprints.gla.ac.uk/278590/2/278590.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/278590/2/278590.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enlighten PublicationsDrone Authentication via Acoustic Fingerprintby Y Diao · 2022 · Cited by 24 — In this paper, we propose an idea of...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: drone-warfare.com  
-   Link: [https://drone-warfare.com/counter-uas/acoustic-detection/](https://drone-warfare.com/counter-uas/acoustic-detection/)  
+   Link: <a href="https://drone-warfare.com/counter-uas/acoustic-detection/" target="_blank" rel="noopener noreferrer nofollow">https://drone-warfare.com/counter-uas/acoustic-detection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS 101 – Acoustic Drone DetectionFor commercial drones, fundamental frequencies typically fall between 150-400 Hz, with harmonic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: publications.rwth-aachen.de  
-   Link: [https://publications.rwth-aachen.de/record/995944/files/995944.pdf](https://publications.rwth-aachen.de/record/995944/files/995944.pdf)  
+   Link: <a href="https://publications.rwth-aachen.de/record/995944/files/995944.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.rwth-aachen.de/record/995944/files/995944.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimization of the Aviation Noise of Electric...This thesis analyzes the psychoacoustic optimization of electric drones at low Reynolds...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dsp.stackexchange.com  
    Title: classifying acoustic drone signal which notably has multiple consistent dominan  
-   Link: [https://dsp.stackexchange.com/questions/95641/classifying-acoustic-drone-signal-which-notably-has-multiple-consistent-dominan](https://dsp.stackexchange.com/questions/95641/classifying-acoustic-drone-signal-which-notably-has-multiple-consistent-dominan)  
+   Link: <a href="https://dsp.stackexchange.com/questions/95641/classifying-acoustic-drone-signal-which-notably-has-multiple-consistent-dominan" target="_blank" rel="noopener noreferrer nofollow">https://dsp.stackexchange.com/questions/95641/classifying-acoustic-drone-signal-which-notably-has-multiple-consistent-dominan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>acoustic drone signal, which notably has...Nov 19, 2024 — The typical acoustic spectrum of a drone is characterized by a distinctive pat...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: extrica.com  
-   Link: [https://www.extrica.com/article/24607](https://www.extrica.com/article/24607)  
+   Link: <a href="https://www.extrica.com/article/24607" target="_blank" rel="noopener noreferrer nofollow">https://www.extrica.com/article/24607</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parametric study of the noise of a propeller-driven fixed-...by P Moshkov · 2025 · Cited by 1 — At the same time, background levels up t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/318143224_Tonal_Noise_Acoustic_Interaction_Characteristics_of_Multi-Rotor_Vehicles](https://www.researchgate.net/publication/318143224_Tonal_Noise_Acoustic_Interaction_Characteristics_of_Multi-Rotor_Vehicles)  
+   Link: <a href="https://www.researchgate.net/publication/318143224_Tonal_Noise_Acoustic_Interaction_Characteristics_of_Multi-Rotor_Vehicles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318143224_Tonal_Noise_Acoustic_Interaction_Characteristics_of_Multi-Rotor_Vehicles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2 Broadband noise arises from the turbulence created by the interaction...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: microdb.fr  
    Title: 4 Monitoring A108 QuietDrone2020 Pinel Lamotte final  
-   Link: [https://microdb.fr/wp-content/uploads/sites/3/2024/04/4-Monitoring_A108_QuietDrone2020_Pinel-Lamotte-final.pdf](https://microdb.fr/wp-content/uploads/sites/3/2024/04/4-Monitoring_A108_QuietDrone2020_Pinel-Lamotte-final.pdf)  
+   Link: <a href="https://microdb.fr/wp-content/uploads/sites/3/2024/04/4-Monitoring_A108_QuietDrone2020_Pinel-Lamotte-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://microdb.fr/wp-content/uploads/sites/3/2024/04/4-Monitoring_A108_QuietDrone2020_Pinel-Lamotte-final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19th to 21st October 2020 UAV detection from acoustic signatureThe detection, identification and classification of micro-Unmanned Aerial...</p></details>
    Published: October 2020  
 
 27. <a id="endnote-27"></a>
    Source: pubs.aip.org  
-   Link: [https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A](https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A)  
+   Link: <a href="https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>holistic review of acoustic detection for unmanned aerial...Dec 2, 2025 — UAV acoustic properties mainly consist of low-frequency and hi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: assureuas.com  
    Title: noise characteristics, such as the frequency content (high or.Read more  
-   Link: [https://assureuas.com/wp-content/uploads/2022/05/2022-05-26-Report-final-Prof-Stalnov.pdf](https://assureuas.com/wp-content/uploads/2022/05/2022-05-26-Report-final-Prof-Stalnov.pdf)  
+   Link: <a href="https://assureuas.com/wp-content/uploads/2022/05/2022-05-26-Report-final-Prof-Stalnov.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assureuas.com/wp-content/uploads/2022/05/2022-05-26-Report-final-Prof-Stalnov.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AssureAeroacoustic Signature of Quadrotors - FAA&#x27;s ASSUREby APO Stalnov — The tonal noise contribution shows up in the low frequency rang...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: par.nsf.gov  
-   Link: [https://par.nsf.gov/servlets/purl/10191068](https://par.nsf.gov/servlets/purl/10191068)  
+   Link: <a href="https://par.nsf.gov/servlets/purl/10191068" target="_blank" rel="noopener noreferrer nofollow">https://par.nsf.gov/servlets/purl/10191068</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of Drones through Real-time Audio...by S Mandal · 2020 · Cited by 31 — In contrast, acoustic-based detection methods are omnid...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: idmt.fraunhofer.de  
    Title: de Reliable acoustic drone detection  
-   Link: [https://www.idmt.fraunhofer.de/en/Press_and_Media/press_releases/2025/acoustic-drone-detection.html](https://www.idmt.fraunhofer.de/en/Press_and_Media/press_releases/2025/acoustic-drone-detection.html)  
+   Link: <a href="https://www.idmt.fraunhofer.de/en/Press_and_Media/press_releases/2025/acoustic-drone-detection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idmt.fraunhofer.de/en/Press_and_Media/press_releases/2025/acoustic-drone-detection.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>acoustic drone detection - Fraunhofer IDMT13 Nov 2025 — Fraunhofer IDMT in Oldenburg has developed an intelligent sensor solution that de...</p></details>
