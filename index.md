@@ -166,10 +166,6 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-header:
-  og_image: /assets/images/ufo_noises_37edd1-overview-social.jpg
-  preview_image: /assets/images/ufo_noises_37edd1-overview-social.jpg
-image: /assets/images/ufo_noises_37edd1-overview-social.jpg
 site_image_description: A quiet rural road at night with a glowing unidentified light above the horizon and a person holding an audio recorder toward the...
 ---
 
