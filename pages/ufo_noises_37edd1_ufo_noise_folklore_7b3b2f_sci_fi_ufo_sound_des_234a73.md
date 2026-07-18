@@ -283,9 +283,9 @@ Science-fiction sound designers faced a practical problem. Alien spacecraft had 
 
 The flying-saucer craze arrived at the same moment that electronic sound was becoming available to filmmakers. In the late 1940s and early 1950s, producers increasingly turned to unusual instruments and recording techniques to represent advanced technology, space travel and alien intelligence.
 
-One of the most influential sounds came from the theremin, an electronic instrument played without physical contact. Its wavering pitch produced a voice-like tone that felt neither mechanical nor human. Although it appeared in several genres, science-fiction audiences quickly learned to associate it with extraterrestrial presence. Films such as *Rocketship X-M* and especially *The Day the Earth Stood Still* helped cement that connection. Critics and historians of film music have repeatedly noted that the instrument became shorthand for alienness in post-war cinema. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acmi.net.au/stories-and-ideas/electric-sound-sci-fi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acmi.net.au">[ACMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acmi.net.au</span><span class="citation-popover-title">electric sound sci fi</span><span class="citation-popover-snippet">Electric sound in sci-fi25 Nov 2020 — The bizarre noise it&#x27;s known for making is most commonly associated with the alien invasion in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskHistorians/comments/qbe9rg/where_did_the_outer_space_oscillating_sound_come/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">where did the outer space oscillating sound come</span><span class="citation-popover-snippet">Where did the Outer Space &quot;Oscillating&quot; sound come from...Several early 1950s sci-fi movies employed the theremin to create eerie...</span></span></span>
+One of the most influential sounds came from the theremin, an electronic instrument played without physical contact. Its wavering pitch produced a voice-like tone that felt neither mechanical nor human. Although it appeared in several genres, science-fiction audiences quickly learned to associate it with extraterrestrial presence. Films such as *Rocketship X-M* and especially *The Day the Earth Stood Still* helped cement that connection. Critics and historians of film music have repeatedly noted that the instrument became shorthand for alienness in post-war cinema.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acmi.net.au/stories-and-ideas/electric-sound-sci-fi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acmi.net.au">[ACMI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acmi.net.au</span><span class="citation-popover-title">electric sound sci fi</span><span class="citation-popover-snippet">Electric sound in sci-fi25 Nov 2020 — The bizarre noise it&#x27;s known for making is most commonly associated with the alien invasion in...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskHistorians/comments/qbe9rg/where_did_the_outer_space_oscillating_sound_come/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">where did the outer space oscillating sound come</span><span class="citation-popover-snippet">Where did the Outer Space &quot;Oscillating&quot; sound come from...Several early 1950s sci-fi movies employed the theremin to create eerie...</span></span></span>
 
-Bernard Herrmann's score for *The Day the Earth Stood Still* (1951) was particularly important. Rather than using a traditional orchestral approach, Herrmann combined theremins with electric strings, organs, vibraphones and unusual percussion. The result was a hovering, unstable sound that seemed to emanate from the spacecraft itself rather than merely accompany it. Audiences hearing Klaatu's saucer arrive were not just watching an alien vehicle; they were learning an audio language for alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still (soundtrack</span><span class="citation-popover-snippet">The Day the Earth Stood Still (soundtrack</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still</span><span class="citation-popover-snippet">The Day the Earth Stood Still</span></span></span>
+Bernard Herrmann's score for *The Day the Earth Stood Still* (1951) was particularly important. Rather than using a traditional orchestral approach, Herrmann combined theremins with electric strings, organs, vibraphones and unusual percussion. The result was a hovering, unstable sound that seemed to emanate from the spacecraft itself rather than merely accompany it. Audiences hearing Klaatu's saucer arrive were not just watching an alien vehicle; they were learning an audio language for alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still (soundtrack</span><span class="citation-popover-snippet">The Day the Earth Stood Still (soundtrack</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still</span><span class="citation-popover-snippet">The Day the Earth Stood Still</span></span></span>
 
 Radio dramas contributed as well. Long before sophisticated visual effects became common, broadcasters relied on sound alone to suggest spacecraft and other worlds. Oscillators, feedback, tape manipulation and reverberation allowed producers to create machines that appeared advanced precisely because they sounded unlike familiar engines. The listener's imagination completed the picture.
 
@@ -295,7 +295,7 @@ Radio dramas contributed as well. Long before sophisticated visual effects becam
 
 By the mid-1950s, science-fiction soundtracks moved beyond eerie melodies and began treating electronic sound itself as part of the environment. The most influential example was *Forbidden Planet* (1956), whose soundtrack by Louis and Bebe Barron abandoned conventional orchestral scoring in favour of self-built electronic circuits and manipulated recordings.
 
-The Barrons described their work as "electronic tonalities" rather than music. The distinction mattered because many sounds functioned simultaneously as soundtrack and machinery. Audiences often could not tell whether they were hearing background score, alien computers or the spacecraft itself. That ambiguity helped define later expectations about UFO sounds. Alien technology became associated with continuous humming, bubbling circuitry, metallic pulses and evolving electronic textures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.effectrode.com/knowledge-base/the-self-destructing-modules-behind-revolutionary-1956-soundtrack-of-forbidden-planet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectrode.com">[Effectrode]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectrode.com</span><span class="citation-popover-snippet">The Self-Destructing Modules Behind Revolutionary 1956...Suddenly a flying saucer appears on the black-and-white screen, and the...</span></span></span> Wikipedia Several features of these soundscapes became recurring UFO motifs: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still (soundtrack</span><span class="citation-popover-snippet">The Day the Earth Stood Still (soundtrack</span></span></span>
+The Barrons described their work as "electronic tonalities" rather than music. The distinction mattered because many sounds functioned simultaneously as soundtrack and machinery. Audiences often could not tell whether they were hearing background score, alien computers or the spacecraft itself. That ambiguity helped define later expectations about UFO sounds. Alien technology became associated with continuous humming, bubbling circuitry, metallic pulses and evolving electronic textures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.effectrode.com/knowledge-base/the-self-destructing-modules-behind-revolutionary-1956-soundtrack-of-forbidden-planet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectrode.com">[Effectrode]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectrode.com</span><span class="citation-popover-snippet">The Self-Destructing Modules Behind Revolutionary 1956...Suddenly a flying saucer appears on the black-and-white screen, and the...</span></span></span> Wikipedia Several features of these soundscapes became recurring UFO motifs:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Day the Earth Stood Still (soundtrack</span><span class="citation-popover-snippet">The Day the Earth Stood Still (soundtrack</span></span></span>
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -309,7 +309,7 @@ The Barrons described their work as "electronic tonalities" rather than music. T
 
 Unlike [aircraft sounds]({{ 'aircraft-sounds/' | relative_url }}), which usually reveal propulsion systems, these cinematic noises implied technology operating according to unknown principles. That distinction became important in later UFO [folklore]({{ 'folklore/' | relative_url }}). Witnesses often described objects as sounding technological while remaining unlike jets, helicopters or rockets.
 
-The influence spread beyond individual films. Television series including *Lost in Space* reused musical and sonic ideas developed during the 1950s electronic-science-fiction boom. Herrmann's UFO-associated textures and the Barrons' electronic experiments became part of a broader library of sounds that audiences encountered repeatedly across decades of science-fiction programming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Forbidden_Planet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Forbidden Planet</span><span class="citation-popover-snippet">Forbidden Planet</span></span></span>
+The influence spread beyond individual films. Television series including *Lost in Space* reused musical and sonic ideas developed during the 1950s electronic-science-fiction boom. Herrmann's UFO-associated textures and the Barrons' electronic experiments became part of a broader library of sounds that audiences encountered repeatedly across decades of science-fiction programming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Forbidden_Planet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Forbidden Planet</span><span class="citation-popover-snippet">Forbidden Planet</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4wQsWL-lMJw" title="Theremin: How science fiction got its sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4wQsWL-lMJw" target="_blank" rel="noopener noreferrer">Theremin: How science fiction got its sound</a></p><p class="youtube-embed-meta">Channel: engineerguy &middot; Views: 185.8K &middot; Uploaded: July 2014 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4wQsWL-lMJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4wQsWL-lMJw">Open on YouTube</a></p></div></div></div>
 
@@ -327,9 +327,9 @@ This helped establish one of the strangest features of UFO folklore. Witnesses f
 
 If the 1950s established the sound of alien machinery, the 1970s added the sound of alien intelligence.
 
-Steven Spielberg's *Close Encounters of the Third Kind* (1977) transformed musical tones into a form of contact. Instead of presenting extraterrestrials as monsters or invaders, the film imagined communication through a simple five-note phrase exchanged between humans and a UFO mothership. Composer John Williams developed hundreds of variations before settling on the final sequence, performed through an ARP 2500 synthesizer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
+Steven Spielberg's *Close Encounters of the Third Kind* (1977) transformed musical tones into a form of contact. Instead of presenting extraterrestrials as monsters or invaders, the film imagined communication through a simple five-note phrase exchanged between humans and a UFO mothership. Composer John Williams developed hundreds of variations before settling on the final sequence, performed through an ARP 2500 synthesizer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Close Encounters of the Third Kind</span></span></span>
 
-The importance of those five notes extended beyond the film itself. They became a cultural signal instantly associated with UFOs. Even people who had never watched the entire film often recognised the melody. The motif suggested that alien craft might communicate through tones, pulses and structured frequencies rather than speech. <span class="citation-chip-wrap"><a class="citation-chip" href="https://didyoublankthat.wordpress.com/2020/05/04/the-meaning-of-the-five-music-tones-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: didyoublankthat.wordpress.com">[did you blank it?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">didyoublankthat.wordpress.com</span><span class="citation-popover-snippet">did you blank it?The Meaning of the Five Music Tones [Close Encounters of...May 4, 2020 — 4 May 2020 — The sounds made their way into po...</span><span class="citation-popover-meta">Published: May 4, 2020</span></span></span>
+The importance of those five notes extended beyond the film itself. They became a cultural signal instantly associated with UFOs. Even people who had never watched the entire film often recognised the melody. The motif suggested that alien craft might communicate through tones, pulses and structured frequencies rather than speech.<span class="citation-chip-wrap"><a class="citation-chip" href="https://didyoublankthat.wordpress.com/2020/05/04/the-meaning-of-the-five-music-tones-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: didyoublankthat.wordpress.com">[did you blank it?]</a><span class="citation-popover" role="note"><span class="citation-popover-source">didyoublankthat.wordpress.com</span><span class="citation-popover-snippet">did you blank it?The Meaning of the Five Music Tones [Close Encounters of...May 4, 2020 — 4 May 2020 — The sounds made their way into po...</span><span class="citation-popover-meta">Published: May 4, 2020</span></span></span>
 
 That shift mattered because it reframed unusual sounds from signs of machinery into signs of intelligence. A mysterious hum could now be interpreted not merely as an engine but as a message. Later UFO narratives sometimes described tonal sequences, rhythmic pulses or musical sounds in ways that echoed ideas popularised by *Close Encounters*.
 
@@ -384,194 +384,194 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
 <img src="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_sci_fi_ufo_sound_des_234a73-Illustration-3-dark.svg" | relative_url }}" alt="Screen Sounds illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_sci_fi_ufo_sound_des_234a73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_ufo_noise_folklore_7b3b2f_sci_fi_ufo_sound_des_234a73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Movies Taught UFOs to Sound Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Movies Taught UFOs to Sound Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how UFO reports and cultural expectations developed together.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how UFO reports and cultural expectations developed together.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines feedback loops between media, technology and UFO belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines feedback loops between media, technology and UFO belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader+by+Gregg+Rickman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Science Fiction Film Reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4WvwdBhKMeAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Science Fiction Film Reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader+by+Gregg+Rickman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science Fiction Film Reader">The Science Fiction Film Reader</a>
-        </h4>
-        <p class="fr-book-author">By Gregg Rickman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader+by+Gregg+Rickman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Science Fiction Film Reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4WvwdBhKMeAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Science Fiction Film Reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader+by+Gregg+Rickman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science Fiction Film Reader">The Science Fiction Film Reader</a>
+</h4>
+<p class="fr-book-author">By Gregg Rickman</p>
         
-        <p class="fr-book-desc">Provides context for how science-fiction films shaped audience expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader+by+Gregg+Rickman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how science-fiction films shaped audience expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader+by+Gregg+Rickman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Music+of+the+Spheres+by+Jamie+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music of the Spheres on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Music+of+the+Spheres+by+Jamie+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music of the Spheres">The Music of the Spheres</a>
-        </h4>
-        <p class="fr-book-author">By Jamie James</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Music+of+the+Spheres+by+Jamie+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Music of the Spheres on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Music+of+the+Spheres+by+Jamie+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Music of the Spheres">The Music of the Spheres</a>
+</h4>
+<p class="fr-book-author">By Jamie James</p>
         
-        <p class="fr-book-desc">Connects ideas about sound and the representation of the unknown.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Music+of+the+Spheres+by+Jamie+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects ideas about sound and the representation of the unknown.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Music+of+the+Spheres+by+Jamie+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Science Fiction Film Reader</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Science+Fiction+Film+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Science Fiction Film Reader</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Train Your Dragon 3 The Hidden World 2019 Movie Poster A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/TasAAOSw04ZcdsL~/s-l225.jpg" alt="Listing image for How To Train Your Dragon 3 The Hidden World 2019 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">How To Train Your Dragon 3 The Hidden World 2019 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Train Your Dragon 3 The Hidden World 2019 Movie Poster A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/TasAAOSw04ZcdsL~/s-l225.jpg" alt="Listing image for How To Train Your Dragon 3 The Hidden World 2019 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">How To Train Your Dragon 3 The Hidden World 2019 Movie Poster A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Steal A Million Audrey Hepburn Peter O&#x27;Toole Movie Photo Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/ZBMAAOSwppRm00PP/s-l225.jpg" alt="Listing image for How To Steal A Million Audrey Hepburn Peter O&#x27;Toole Movie Photo Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">How To Steal A Million Audrey Hepburn Peter O&#x27;Toole Movie Photo Poster Up To 36&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Steal A Million Audrey Hepburn Peter O&#x27;Toole Movie Photo Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/ZBMAAOSwppRm00PP/s-l225.jpg" alt="Listing image for How To Steal A Million Audrey Hepburn Peter O&#x27;Toole Movie Photo Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">How To Steal A Million Audrey Hepburn Peter O&#x27;Toole Movie Photo Poster Up To 36&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Great Movie Posters Wall Art Poster Prints Collection 2"><img src="https://i.ebayimg.com/images/g/npMAAOSwLKlmvLQC/s-l225.jpg" alt="Listing image for Classic Great Movie Posters Wall Art Poster Prints Collection 2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Great Movie Posters Wall Art Poster Prints Collection 2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Great Movie Posters Wall Art Poster Prints Collection 2"><img src="https://i.ebayimg.com/images/g/npMAAOSwLKlmvLQC/s-l225.jpg" alt="Listing image for Classic Great Movie Posters Wall Art Poster Prints Collection 2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Great Movie Posters Wall Art Poster Prints Collection 2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Vintage Movie Posters 1950s 50s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/Gc4AAOSwXGVerw11/s-l225.jpg" alt="Listing image for Poster Vintage Movie Posters 1950s 50s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Vintage Movie Posters 1950s 50s Film Poster Films HD Borderless Printing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Vintage Movie Posters 1950s 50s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/Gc4AAOSwXGVerw11/s-l225.jpg" alt="Listing image for Poster Vintage Movie Posters 1950s 50s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Vintage Movie Posters 1950s 50s Film Poster Films HD Borderless Printing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for how movies poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: how movies poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=how+movies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-movies-taught-ufos-to-sound-alien-how-movies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="how movies poster" data-ebay-reference="how-movies-taught-ufos-to-sound-alien-how-movies-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,119 +777,119 @@ When people imagine a UFO today, they rarely imagine the roar of a piston engine
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: acmi.net.au  
    Title: electric sound sci fi  
-   Link: <a href="https://www.acmi.net.au/stories-and-ideas/electric-sound-sci-fi/" target="_blank" rel="noopener noreferrer nofollow">https://www.acmi.net.au/stories-and-ideas/electric-sound-sci-fi/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electric sound in sci-fi25 Nov 2020 — The bizarre noise it&#x27;s known for making is most commonly associated with the alien invasion in...</p></details>
+   Link:<a href="https://www.acmi.net.au/stories-and-ideas/electric-sound-sci-fi/" target="_blank" rel="noopener noreferrer nofollow">https://www.acmi.net.au/stories-and-ideas/electric-sound-sci-fi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electric sound in sci-fi25 Nov 2020 — The bizarre noise it&#x27;s known for making is most commonly associated with the alien invasion in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: where did the outer space oscillating sound come  
-   Link: <a href="https://www.reddit.com/r/AskHistorians/comments/qbe9rg/where_did_the_outer_space_oscillating_sound_come/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/qbe9rg/where_did_the_outer_space_oscillating_sound_come/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where did the Outer Space &quot;Oscillating&quot; sound come from...Several early 1950s sci-fi movies employed the theremin to create eerie...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskHistorians/comments/qbe9rg/where_did_the_outer_space_oscillating_sound_come/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/qbe9rg/where_did_the_outer_space_oscillating_sound_come/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where did the Outer Space &quot;Oscillating&quot; sound come from...Several early 1950s sci-fi movies employed the theremin to create eerie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Day the Earth Stood Still (soundtrack)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still_%28soundtrack%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Day the Earth Stood Still  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: effectrode.com  
-   Link: <a href="https://www.effectrode.com/knowledge-base/the-self-destructing-modules-behind-revolutionary-1956-soundtrack-of-forbidden-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.effectrode.com/knowledge-base/the-self-destructing-modules-behind-revolutionary-1956-soundtrack-of-forbidden-planet/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Destructing Modules Behind Revolutionary 1956...Suddenly a flying saucer appears on the black-and-white screen, and the...</p></details>
+   Link:<a href="https://www.effectrode.com/knowledge-base/the-self-destructing-modules-behind-revolutionary-1956-soundtrack-of-forbidden-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.effectrode.com/knowledge-base/the-self-destructing-modules-behind-revolutionary-1956-soundtrack-of-forbidden-planet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Destructing Modules Behind Revolutionary 1956...Suddenly a flying saucer appears on the black-and-white screen, and the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Forbidden Planet  
-   Link: <a href="https://en.wikipedia.org/wiki/Forbidden_Planet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forbidden_Planet</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Forbidden_Planet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forbidden_Planet</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: r/moviesI think it&#x27;s both a metaphor but also very much how UFO reports affect people.... Alien Cre...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: r/moviesI think it&#x27;s both a metaphor but also very much how UFO reports affect people.... Alien Cre...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Day The Earth Stood Still | Soundtrack Suite (Bernard Herrmann)  
-   Link: <a href="https://www.youtube.com/watch?v=utuDgREIS7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utuDgREIS7Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=utuDgREIS7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utuDgREIS7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: didyoublankthat.wordpress.com  
-   Link: <a href="https://didyoublankthat.wordpress.com/2020/05/04/the-meaning-of-the-five-music-tones-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://didyoublankthat.wordpress.com/2020/05/04/the-meaning-of-the-five-music-tones-close-encounters-of-the-third-kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did you blank it?The Meaning of the Five Music Tones [Close Encounters of...May 4, 2020 — 4 May 2020 — The sounds made their way into po...</p></details>
+   Link:<a href="https://didyoublankthat.wordpress.com/2020/05/04/the-meaning-of-the-five-music-tones-close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://didyoublankthat.wordpress.com/2020/05/04/the-meaning-of-the-five-music-tones-close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did you blank it?The Meaning of the Five Music Tones [Close Encounters of...May 4, 2020 — 4 May 2020 — The sounds made their way into po...</p></details>
    Published: May 4, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: avforums.com  
    Title: the day the earth stood still 1951 complete score soundtrack review.2024  
-   Link: <a href="https://www.avforums.com/reviews/the-day-the-earth-stood-still-1951-complete-score-soundtrack-review.2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.avforums.com/reviews/the-day-the-earth-stood-still-1951-complete-score-soundtrack-review.2024/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - Complete Score...24 Dec 2008 — But, by far the most interesting cues are those depicting the alie...</p></details>
+   Link:<a href="https://www.avforums.com/reviews/the-day-the-earth-stood-still-1951-complete-score-soundtrack-review.2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.avforums.com/reviews/the-day-the-earth-stood-still-1951-complete-score-soundtrack-review.2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - Complete Score...24 Dec 2008 — But, by far the most interesting cues are those depicting the alie...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allusion and Teleological Genesis in John Williams&#x27;s Close...19 Aug 2025 — This strange testimony gives us the first inkling of the over...</p></details>
+   Link:<a href="https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6928980/Sweet_Fulfillment_Allusion_and_Teleological_Genesis_in_John_Williams_s_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allusion and Teleological Genesis in John Williams&#x27;s Close...19 Aug 2025 — This strange testimony gives us the first inkling of the over...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/forbiddenplanetmovie/posts/10163125230193777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/forbiddenplanetmovie/posts/10163125230193777/</a>  
+   Link:<a href="https://www.facebook.com/groups/forbiddenplanetmovie/posts/10163125230193777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/forbiddenplanetmovie/posts/10163125230193777/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10159846801861696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10159846801861696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As a musician and composer, CE3K was a huge influence on me. From the first time I saw it (junior high) I noticed how the first time we h...</p></details>
+   Link:<a href="https://www.facebook.com/groups/12117541695/posts/10159846801861696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10159846801861696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As a musician and composer, CE3K was a huge influence on me. From the first time I saw it (junior high) I noticed how the first time we h...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reactormag.com  
    Title: 70 years ago forbidden planet changed science fiction cinema  
-   Link: <a href="https://reactormag.com/70-years-ago-forbidden-planet-changed-science-fiction-cinema/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/70-years-ago-forbidden-planet-changed-science-fiction-cinema/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>70 Years Ago, Forbidden Planet Changed Science Fiction...25 Mar 2026 — It was set in the far future, with the entire film taking place a...</p></details>
+   Link:<a href="https://reactormag.com/70-years-ago-forbidden-planet-changed-science-fiction-cinema/" target="_blank" rel="noopener noreferrer nofollow">https://reactormag.com/70-years-ago-forbidden-planet-changed-science-fiction-cinema/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>70 Years Ago, Forbidden Planet Changed Science Fiction...25 Mar 2026 — It was set in the far future, with the entire film taking place a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: redsharknews.com  
    Title: 6553 forbidden planet was a landmark in film scoring  
-   Link: <a href="https://www.redsharknews.com/audio/item/6553-forbidden-planet-was-a-landmark-in-film-scoring" target="_blank" rel="noopener noreferrer nofollow">https://www.redsharknews.com/audio/item/6553-forbidden-planet-was-a-landmark-in-film-scoring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial chords that merge into a spinning propulsive sound matching the appearance from behind the audience of a flying saucer.R...</p></details>
+   Link:<a href="https://www.redsharknews.com/audio/item/6553-forbidden-planet-was-a-landmark-in-film-scoring" target="_blank" rel="noopener noreferrer nofollow">https://www.redsharknews.com/audio/item/6553-forbidden-planet-was-a-landmark-in-film-scoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial chords that merge into a spinning propulsive sound matching the appearance from behind the audience of a flying saucer.R...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: electricsheepmagazine.co.uk  
    Title: monsters from the id the music of forbidden planet  
-   Link: <a href="https://www.electricsheepmagazine.co.uk/2013/08/19/monsters-from-the-id-the-music-of-forbidden-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.electricsheepmagazine.co.uk/2013/08/19/monsters-from-the-id-the-music-of-forbidden-planet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monsters from the Id – The Music of Forbidden Planet19 Aug 2013 — In any other film, this short burst of alien sonics would have stuck ou...</p></details>
+   Link:<a href="https://www.electricsheepmagazine.co.uk/2013/08/19/monsters-from-the-id-the-music-of-forbidden-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.electricsheepmagazine.co.uk/2013/08/19/monsters-from-the-id-the-music-of-forbidden-planet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monsters from the Id – The Music of Forbidden Planet19 Aug 2013 — In any other film, this short burst of alien sonics would have stuck ou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scifi.stackexchange.com  
    Title: Lacombe, the UFO expert, is shown in a conference  
-   Link: <a href="https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the point of the hand signals in &quot;Close Encounters&quot;?15 Jul 2012 — In &quot;Close Encounters of the Third Kind&quot;, the aliens communicate with...</p></details>
+   Link:<a href="https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://scifi.stackexchange.com/questions/20564/what-is-the-point-of-the-hand-signals-in-close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the point of the hand signals in &quot;Close Encounters&quot;?15 Jul 2012 — In &quot;Close Encounters of the Third Kind&quot;, the aliens communicate with...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scifislacker.com  
    Title: forbidden planet electronic tonalities  
-   Link: <a href="https://www.scifislacker.com/scifi-music/forbidden-planet-electronic-tonalities/" target="_blank" rel="noopener noreferrer nofollow">https://www.scifislacker.com/scifi-music/forbidden-planet-electronic-tonalities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forbidden Planet: Early Experiment​s in Electronic Tonalities19 Feb 2011 — As the Saturn-shaped spaceship touches down on Altair IV, ther...</p></details>
+   Link:<a href="https://www.scifislacker.com/scifi-music/forbidden-planet-electronic-tonalities/" target="_blank" rel="noopener noreferrer nofollow">https://www.scifislacker.com/scifi-music/forbidden-planet-electronic-tonalities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forbidden Planet: Early Experiment​s in Electronic Tonalities19 Feb 2011 — As the Saturn-shaped spaceship touches down on Altair IV, ther...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: krotos.studio  
    Title: ten best sci fi films sound effects  
-   Link: <a href="https://krotos.studio/blog/ten-best-sci-fi-films-sound-effects" target="_blank" rel="noopener noreferrer nofollow">https://krotos.studio/blog/ten-best-sci-fi-films-sound-effects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Sound Design In Ten of the Best Sci-Fi Films...16 Apr 2024 — The iconic sounds of the Alien creature were developed using...</p></details>
+   Link:<a href="https://krotos.studio/blog/ten-best-sci-fi-films-sound-effects" target="_blank" rel="noopener noreferrer nofollow">https://krotos.studio/blog/ten-best-sci-fi-films-sound-effects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Sound Design In Ten of the Best Sci-Fi Films...16 Apr 2024 — The iconic sounds of the Alien creature were developed using...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: soundworkscollection.com  
-   Link: <a href="https://soundworkscollection.com/news/creating-the-music-and-sound-effects-of-forbidden-planet" target="_blank" rel="noopener noreferrer nofollow">https://soundworkscollection.com/news/creating-the-music-and-sound-effects-of-forbidden-planet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soundworks CollectionCreating the Music and Sound Effects of Forbidden Planet14 Mar 2013 — Electronic music composition and production we...</p></details>
+   Link:<a href="https://soundworkscollection.com/news/creating-the-music-and-sound-effects-of-forbidden-planet" target="_blank" rel="noopener noreferrer nofollow">https://soundworkscollection.com/news/creating-the-music-and-sound-effects-of-forbidden-planet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soundworks CollectionCreating the Music and Sound Effects of Forbidden Planet14 Mar 2013 — Electronic music composition and production we...</p></details>

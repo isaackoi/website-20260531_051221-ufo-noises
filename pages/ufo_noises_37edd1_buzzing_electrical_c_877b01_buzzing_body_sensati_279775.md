@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body
 Reports of UFO [buzzing]({{ 'buzzing/' | relative_url }}) often blur the line between hearing and feeling. Witnesses do not always describe a simple sound coming from an object in the sky. Instead, some claim that the noise seemed to pass through their bodies, producing chest vibration, tingling skin, pressure in the ears, numbness, trembling, or a sensation that the buzzing originated inside the head rather than in the surrounding environment. These accounts are among the most vivid parts of close-encounter stories, but they are also among the hardest to verify.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-1-dark.svg" | relative_url }}" alt="Body Effects illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is not merely that such sensations are subjective. Human perception already combines sound, vibration, balance, stress responses and expectation into a single experience. Low-frequency sound can sometimes be felt physically, fear can create powerful bodily symptoms, and [memory]({{ 'memory/' | relative_url }}) can reshape how an event is recalled. As a result, bodily vibration reports occupy an uncertain space between genuine sensory experiences and interpretations that may not reflect an external physical cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perception of infrasound</span><span class="citation-popover-snippet">December 19, 2011 — Infrasound can come from many natural as well as man-made sources, including weather patterns, topographic features...</span><span class="citation-popover-meta">Published: December 19, 2011</span></span></span>
+The difficulty is not merely that such sensations are subjective. Human perception already combines sound, vibration, balance, stress responses and expectation into a single experience. Low-frequency sound can sometimes be felt physically, fear can create powerful bodily symptoms, and [memory]({{ 'memory/' | relative_url }}) can reshape how an event is recalled. As a result, bodily vibration reports occupy an uncertain space between genuine sensory experiences and interpretations that may not reflect an external physical cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perception of infrasound</span><span class="citation-popover-snippet">December 19, 2011 — Infrasound can come from many natural as well as man-made sources, including weather patterns, topographic features...</span><span class="citation-popover-meta">Published: December 19, 2011</span></span></span>
 
 ## Did Witnesses Hear It or Feel It?
 
@@ -296,7 +296,7 @@ Descriptions commonly include:
 
 </div>
 
-In UFO literature, these sensations frequently appear alongside reports of [humming]({{ 'humming/' | relative_url }}), buzzing or whistling sounds. John Schuessler's catalogue of claimed UFO-related physiological effects collected numerous cases involving prickling sensations, electric-shock feelings, paralysis, bodily vibration and significant sound effects during alleged close encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
+In UFO literature, these sensations frequently appear alongside reports of [humming]({{ 'humming/' | relative_url }}), buzzing or whistling sounds. John Schuessler's catalogue of claimed UFO-related physiological effects collected numerous cases involving prickling sensations, electric-shock feelings, paralysis, bodily vibration and significant sound effects during alleged close encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
 
 What makes these reports distinctive is that witnesses often treat the bodily sensation as evidence that the sound was unusual. The experience is remembered not as hearing a distant engine but as being physically affected by a field, vibration or force that seemed to interact directly with the body.
 
@@ -306,7 +306,7 @@ What makes these reports distinctive is that witnesses often treat the bodily se
 
 One of the most repeated claims is a sensation resembling mild electric shock. Witnesses sometimes describe pins and needles, itching, skin prickling or a wave of tingling moving across the body.
 
-Historical close-encounter reports from France, Italy and other countries during the 1950s frequently paired buzzing or unusual craft observations with descriptions of prickling sensations and temporary paralysis. In many of these accounts, witnesses interpreted the feeling as evidence of an unknown energy source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
+Historical close-encounter reports from France, Italy and other countries during the 1950s frequently paired buzzing or unusual craft observations with descriptions of prickling sensations and temporary paralysis. In many of these accounts, witnesses interpreted the feeling as evidence of an unknown energy source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
 
 The problem is that tingling sensations have many possible causes. Adrenaline surges, hyperventilation, muscle tension and anxiety can all produce similar symptoms. Because the feeling itself is non-specific, it does not reveal what generated it.
 
@@ -314,7 +314,7 @@ The problem is that tingling sensations have many possible causes. Adrenaline su
 
 Some witnesses report that a humming sound seemed to resonate through the chest cavity. Rather than hearing a noise at a distance, they felt a vibration in the sternum, ribs or diaphragm.
 
-This aspect is notable because low-frequency sound can sometimes be experienced physically. Humans are less sensitive to very low frequencies as audible sounds, but sufficiently intense low-frequency vibration can be detected through the body. Research on infrasound and low-frequency acoustic exposure has documented reports of bodily vibration, pressure sensations and discomfort under certain conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</span><span class="citation-popover-meta">Published: March 1, 2004</span></span></span>
+This aspect is notable because low-frequency sound can sometimes be experienced physically. Humans are less sensitive to very low frequencies as audible sounds, but sufficiently intense low-frequency vibration can be detected through the body. Research on infrasound and low-frequency acoustic exposure has documented reports of bodily vibration, pressure sensations and discomfort under certain conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</span><span class="citation-popover-meta">Published: March 1, 2004</span></span></span>
 
 That does not prove a UFO source. It simply means that the sensation itself is not impossible from a known physical standpoint. Industrial machinery, vehicles, ventilation systems, distant engines and environmental vibration can all produce bodily resonance under the right circumstances.
 
@@ -322,7 +322,7 @@ That does not prove a UFO source. It simply means that the sensation itself is n
 
 Witnesses sometimes describe blocked ears, popping sensations, pressure changes or feelings similar to motion sickness.
 
-These reports attract attention because the inner ear plays a dual role. It contributes not only to hearing but also to balance and spatial orientation. Disturbances affecting the vestibular system can create sensations that feel deeply unusual, including dizziness, disorientation and a feeling that something external is acting on the body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</span><span class="citation-popover-meta">Published: March 1, 2004</span></span></span>
+These reports attract attention because the inner ear plays a dual role. It contributes not only to hearing but also to balance and spatial orientation. Disturbances affecting the vestibular system can create sensations that feel deeply unusual, including dizziness, disorientation and a feeling that something external is acting on the body.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</span><span class="citation-popover-meta">Published: March 1, 2004</span></span></span>
 
 In a frightening or unexpected situation, these sensations may become incorporated into a larger interpretation of what is happening.
 
@@ -331,7 +331,7 @@ In a frightening or unexpected situation, these sensations may become incorporat
 
 Many discussions of bodily vibration eventually turn to infrasound, meaning sound below the normal threshold of human hearing.
 
-Researchers have long been interested in whether low-frequency vibration can influence perception. Infrasound has been associated in some studies with discomfort, altered mood, stress responses and vague sensations of unease. Recent experiments have reported increased cortisol levels and more negative emotional reactions among participants exposed to low-frequency vibration, even when they were unaware of the stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-title">infrasound stress cortisol mood 30611</span><span class="citation-popover-snippet">Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</span></span></span>
+Researchers have long been interested in whether low-frequency vibration can influence perception. Infrasound has been associated in some studies with discomfort, altered mood, stress responses and vague sensations of unease. Recent experiments have reported increased cortisol levels and more negative emotional reactions among participants exposed to low-frequency vibration, even when they were unaware of the stimulus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-title">infrasound stress cortisol mood 30611</span><span class="citation-popover-snippet">Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</span></span></span>
 
 This has led some investigators to suggest that at least certain reports of strange presences, haunted locations or unusual environmental experiences may involve low-frequency acoustic effects rather than supernatural or extraterrestrial causes.
 
@@ -357,7 +357,7 @@ When people encounter something unexpected, the body's stress response can rapid
 
 </div>
 
-These reactions are well documented and do not require an external energy source. The more frightening or emotionally charged the event, the stronger the physical symptoms may become. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[docs.wind-watch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-snippet">irect patho- physiological link between the generation of infrasound by wind turbines and health complaints...Read more...</span></span></span>
+These reactions are well documented and do not require an external energy source. The more frightening or emotionally charged the event, the stronger the physical symptoms may become.<span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[docs.wind-watch.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-snippet">irect patho- physiological link between the generation of infrasound by wind turbines and health complaints...Read more...</span></span></span>
 
 Expectation can also shape interpretation. Once a witness associates an unusual sound with a strange object, later memories may integrate separate sensory details into a single coherent narrative. A distant hum, bodily tension and visual uncertainty can become remembered as one connected experience.
 
@@ -366,11 +366,11 @@ This does not mean witnesses are fabricating events. It means that human percept
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-3-dark.svg" | relative_url }}" alt="Body Effects illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzzing_body_sensati_279775-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem with Paralysis Claims
 
-Among the strongest bodily-effect reports are claims of temporary paralysis. Numerous close-encounter narratives describe witnesses becoming unable to move as a buzzing sound intensified or as an object approached. These reports appear repeatedly in classic UFO case collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
+Among the strongest bodily-effect reports are claims of temporary paralysis. Numerous close-encounter narratives describe witnesses becoming unable to move as a buzzing sound intensified or as an object approached. These reports appear repeatedly in classic UFO case collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archivea catalog of ufo-related human physiological effects</span><span class="citation-popover-snippet">EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</span></span></span>
 
 Yet paralysis presents an evidential problem.
 
-A genuine external cause capable of immobilising a person would represent a dramatic physical effect, but most reports rely solely on testimony rather than medical documentation. Furthermore, temporary immobility can occur through several known mechanisms, including intense fear, dissociation and sleep-related phenomena in cases where encounters occur near waking or sleeping states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The physical sensations feel real, but...Read more...</span></span></span>
+A genuine external cause capable of immobilising a person would represent a dramatic physical effect, but most reports rely solely on testimony rather than medical documentation. Furthermore, temporary immobility can occur through several known mechanisms, including intense fear, dissociation and sleep-related phenomena in cases where encounters occur near waking or sleeping states.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The physical sensations feel real, but...Read more...</span></span></span>
 
 Because the symptom is both striking and difficult to verify after the fact, it remains one of the most controversial features of buzzing encounter reports.
 
@@ -385,7 +385,7 @@ A witness can sincerely experience:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Vibration without an external vibrating source.
-* Tingling without electrical exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span>
+* Tingling without electrical exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</span></span></span>
 * Ear pressure without unusual technology.
 * Fear-induced paralysis without physical restraint.
 
@@ -393,199 +393,199 @@ A witness can sincerely experience:
 
 The key question is not whether the sensation was real. The sensation almost certainly was real to the person reporting it. The question is what caused it.
 
-To establish an unusual external cause, investigators would ideally need supporting evidence such as medical findings, multiple independent witnesses reporting the same physical effects, environmental measurements, instrument readings or contemporaneous documentation. Most buzzing encounter reports lack these forms of corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">UFO-induced physiological effects on humans during close encounters. Physiological effects enumerated include such phenomena as paralysis...</span></span></span>
+To establish an unusual external cause, investigators would ideally need supporting evidence such as medical findings, multiple independent witnesses reporting the same physical effects, environmental measurements, instrument readings or contemporaneous documentation. Most buzzing encounter reports lack these forms of corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">UFO-induced physiological effects on humans during close encounters. Physiological effects enumerated include such phenomena as paralysis...</span></span></span>
 
 That leaves bodily vibration claims in an ambiguous position. They are among the most memorable and emotionally persuasive elements of UFO buzzing reports, but they remain difficult to separate from the known ways that sound perception, low-frequency vibration, stress and expectation can interact inside the human body.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Witnesses Hear It or Feel It?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Witnesses Hear It or Feel It?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XXwFSpy-sFMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hallucinations+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XXwFSpy-sFMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hallucinations+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">Examines unusual sensory experiences that blur perception and bodily sensation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hallucinations+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines unusual sensory experiences that blur perception and bodily sensation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hallucinations+by+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phantoms+in+the+Brain+by+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phantoms in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XbyMJzNNGq4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Phantoms in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phantoms+in+the+Brain+by+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phantoms in the Brain">Phantoms in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By V. S. Ramachandran</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phantoms+in+the+Brain+by+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phantoms in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XbyMJzNNGq4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Phantoms in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phantoms+in+the+Brain+by+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phantoms in the Brain">Phantoms in the Brain</a>
+</h4>
+<p class="fr-book-author">By V. S. Ramachandran</p>
         
-        <p class="fr-book-desc">Explores how the brain constructs sensory and bodily experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phantoms+in+the+Brain+by+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how the brain constructs sensory and bodily experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phantoms+in+the+Brain+by+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader witness-report context for claimed physical effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader witness-report context for claimed physical effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phantoms+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phantoms in the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phantoms+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phantoms in the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="body-effects-did-witnesses-hear-it-or-feel-it-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,144 +791,144 @@ That leaves bodily vibration claims in an ambiguous position. They are among the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Perception of infrasound  
-   Link: <a href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perception_of_infrasound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2011 — Infrasound can come from many natural as well as man-made sources, including weather patterns, topographic features...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Perception_of_infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perception_of_infrasound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2011 — Infrasound can come from many natural as well as man-made sources, including weather patterns, topographic features...</p></details>
    Published: December 19, 2011  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archivea catalog of ufo-related human physiological effects  
-   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</p></details>
+   Link:<a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTS: Tingling sensation. Electric shock. Vibration. ITALY, VICO...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378935510_An_Investigation_on_the_Physiological_and_Psychological_Effects_of_Infrasound_on_Persons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) An Investigation on the Physiological and...March 1, 2004 — 30 Apr 2026 — Participants in recent studies of pure infra...</p></details>
    Published: March 1, 2004  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: docs.wind-watch.org  
-   Link: <a href="https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>irect patho- physiological link between the generation of infrasound by wind turbines and health complaints...Read more...</p></details>
+   Link:<a href="https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Crichton-Can-Expectations-Produce-Symptoms-From-Infrasound.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>irect patho- physiological link between the generation of infrasound by wind turbines and health complaints...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The physical sensations feel real, but...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/many-of-us-have-a-ghost-story-that-we-cant-quite-explain-whether-its-sensing-tha/1136205241412286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The physical sensations feel real, but...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Narrative of the abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: No, it's not just your imagination  
-   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists have linked...These vibrations are too low to hear but can cause dizziness, fear, or the sense of a haunting. 22. Reports of...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/no-its-not-just-your-imagination-scientists-have-linked-ghostly-encounters-to-in/1516568959923968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists have linked...These vibrations are too low to hear but can cause dizziness, fear, or the sense of a haunting. 22. Reports of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hysical and emotional scars. With experts analyzing the evidence...</p></details>
+   Link:<a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hysical and emotional scars. With experts analyzing the evidence...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/418091763063248/posts/1584389046433508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418091763063248/posts/1584389046433508/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The invisible universe and our limited perception of realityMany readers of this may have abilities far beyond others, making them recept...</p></details>
+   Link:<a href="https://www.facebook.com/groups/418091763063248/posts/1584389046433508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418091763063248/posts/1584389046433508/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The invisible universe and our limited perception of realityMany readers of this may have abilities far beyond others, making them recept...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A recent scientific study suggests that the uneasy, “haunted...A Frontiers study shows that infrasound—low- frequency sound below human...</p></details>
+   Link:<a href="https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EngineeringAndScienceByGenmice/posts/a-recent-scientific-study-suggests-that-the-uneasy-haunted-feeling-people-often-/1237443161933575/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A recent scientific study suggests that the uneasy, “haunted...A Frontiers study shows that infrasound—low- frequency sound below human...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce- 5 close encounters of the fifth kindHuman-alien encounters. I. Title. BF2050.H35. 1998. 001.942—dc21. 98... UFO Responses to Human T...</p></details>
+   Link:<a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce- 5 close encounters of the fifth kindHuman-alien encounters. I. Title. BF2050.H35. 1998. 001.942—dc21. 98... UFO Responses to Human T...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-induced physiological effects on humans during close encounters. Physiological effects enumerated include such phenomena as paralysis...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-induced physiological effects on humans during close encounters. Physiological effects enumerated include such phenomena as paralysis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42125313/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/42125313/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42125313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound exposure is linked to aversive responding...by KR Scatterty · 2026 · Cited by 2 — Without auditory detection nor expect...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: neurosciencenews.com  
    Title: infrasound stress cortisol mood 30611  
-   Link: <a href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</p></details>
+   Link:<a href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — 18 Hz infrasound, though inaudible, spikes cortisol and triggers irri...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchonline.ljmu.ac.uk  
-   Link: <a href="https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ljmu.ac.ukSONIC, INFRASONIC, AND ULTRASONIC FREQUENCIESby T Heys · 2011 · Cited by 5 — we are baring ear witness to the modal strategies...</p></details>
+   Link:<a href="https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ljmu.ac.ukSONIC, INFRASONIC, AND ULTRASONIC FREQUENCIESby T Heys · 2011 · Cited by 5 — we are baring ear witness to the modal strategies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallels: Ancient Insights into Modern UFO Phenomena...CE3: Sighting of alien entities, either by themselves or in association with a UFO...</p></details>
+   Link:<a href="https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/parallels-ancient-insights-into-modern-ufo-phenomena-0998187143-9780998187143-i-6277054.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parallels: Ancient Insights into Modern UFO Phenomena...CE3: Sighting of alien entities, either by themselves or in association with a UFO...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: We can only see and hear a tiny sliver of reality  
-   Link: <a href="https://www.instagram.com/p/DYYp7V6vTiR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYYp7V6vTiR/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are most commonly known as being fast, so it may be that the UFO was moving so quickly that she didn&#x27;t have the ability to...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYYp7V6vTiR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYYp7V6vTiR/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are most commonly known as being fast, so it may be that the UFO was moving so quickly that she didn&#x27;t have the ability to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction: What Science Really DiscoveredHearing buzzing, humming, or whispering sounds; Experiencing sensations of floating or vib...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/alien-abduction?srsltid=AfmBOoqZI4jdruKC_B-2E4ZVFxL18-b7_H2pLpI1ykqVN9Xz5rPxCDtA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction: What Science Really DiscoveredHearing buzzing, humming, or whispering sounds; Experiencing sensations of floating or vib...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYCmNlAlD2m/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYCmNlAlD2m/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y low-frequency sound waves below 20 Hz that humans...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYCmNlAlD2m/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYCmNlAlD2m/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y low-frequency sound waves below 20 Hz that humans...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: madinamerica.com  
    Title: tms damaged my brain  
-   Link: <a href="https://www.madinamerica.com/2020/04/tms-damaged-my-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.madinamerica.com/2020/04/tms-damaged-my-brain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Too Good to Be True: How TMS Damaged My Brain21 Apr 2020 — It&#x27;s a disservice to prospective TMS patients to go digging in unverified data...</p></details>
+   Link:<a href="https://www.madinamerica.com/2020/04/tms-damaged-my-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.madinamerica.com/2020/04/tms-damaged-my-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Too Good to Be True: How TMS Damaged My Brain21 Apr 2020 — It&#x27;s a disservice to prospective TMS patients to go digging in unverified data...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound, Vibration, and Entity Perception: How Low-...Low-frequency vibrations resonate with internal organs, in some cases even indu...</p></details>
+   Link:<a href="https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound, Vibration, and Entity Perception: How Low-...Low-frequency vibrations resonate with internal organs, in some cases even indu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Sonic Vibrations: How Inaudible Noise Vibrates Human Organs  
-   Link: <a href="https://www.youtube.com/watch?v=XbVbH2q1g7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XbVbH2q1g7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound and Illusion: Explaining Anomalous Low Frequency Experiences...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XbVbH2q1g7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XbVbH2q1g7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound and Illusion: Explaining Anomalous Low Frequency Experiences...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness/Sighting.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witness/Sighting.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Sound and Illusion: Explaining Anomalous Low Frequency Experiences  
-   Link: <a href="https://www.youtube.com/watch?v=2eR6v7-yvV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2eR6v7-yvV0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Audio Anomalies and Physical Effects Explored...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2eR6v7-yvV0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2eR6v7-yvV0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Audio Anomalies and Physical Effects Explored...</p></details>

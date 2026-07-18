@@ -274,16 +274,16 @@ image: /assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_califor
 
 ## Introduction
 
-Among the many archived reports linking UFO sightings to unusual sounds, one California case from June 1957 remains notable because it combined three elements that researchers repeatedly return to: a reported triangular object, a distinct [humming]({{ 'humming/' | relative_url }}) noise and witnesses that included a United States Air Force officer. The case was preserved by the National Investigations Committee on Aerial Phenomena (NICAP), one of the most influential civilian UFO organisations of the 1950s and 1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
+Among the many archived reports linking UFO sightings to unusual sounds, one California case from June 1957 remains notable because it combined three elements that researchers repeatedly return to: a reported triangular object, a distinct [humming]({{ 'humming/' | relative_url }}) noise and witnesses that included a United States Air Force officer. The case was preserved by the National Investigations Committee on Aerial Phenomena (NICAP), one of the most influential civilian UFO organisations of the 1950s and 1960s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-1-dark.svg" | relative_url }}" alt="NICAP Case illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The sighting does not provide proof of an extraordinary craft. No physical evidence emerged, and the event rests largely on witness testimony. Yet it continues to attract attention because it illustrates how sound details can elevate a report from a simple light-in-the-sky account into a more complex case involving perceived structure, motion and acoustics. Within discussions of [UFO noises]({{ 'ufo-noises/' | relative_url }}), the Carmichael, California report is often cited as an example of a witness describing a hum as an integral part of the experience rather than as an afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</span></span></span>
+The sighting does not provide proof of an extraordinary craft. No physical evidence emerged, and the event rests largely on witness testimony. Yet it continues to attract attention because it illustrates how sound details can elevate a report from a simple light-in-the-sky account into a more complex case involving perceived structure, motion and acoustics. Within discussions of [UFO noises]({{ 'ufo-noises/' | relative_url }}), the Carmichael, California report is often cited as an example of a witness describing a hum as an integral part of the experience rather than as an afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</span></span></span>
 
 ## What Witnesses Reported Seeing and Hearing
 
-According to NICAP's archived summary, the event occurred on 23 June 1957 in Carmichael, California, near Sacramento. Witnesses reported a triangular object passing overhead. The object was not merely described as a distant light; observers claimed enough visual detail to identify a geometric shape. NICAP later classified the incident as a distant encounter rather than a close encounter because the object was believed to be more than 500 feet away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</span></span></span>
+According to NICAP's archived summary, the event occurred on 23 June 1957 in Carmichael, California, near Sacramento. Witnesses reported a triangular object passing overhead. The object was not merely described as a distant light; observers claimed enough visual detail to identify a geometric shape. NICAP later classified the incident as a distant encounter rather than a close encounter because the object was believed to be more than 500 feet away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</span></span></span>
 
-The feature that keeps the case relevant in discussions of UFO sounds is the reported noise. Witnesses described a humming or vibrating sound accompanying the object's passage. In later summaries of UFO hum reports, the sound is often characterised as a high-frequency hum or vibration rather than a conventional [aircraft]({{ 'aircraft/' | relative_url }}) engine note. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">570502edwardsafb dir</span><span class="citation-popover-snippet">UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</span></span></span>
+The feature that keeps the case relevant in discussions of UFO sounds is the reported noise. Witnesses described a humming or vibrating sound accompanying the object's passage. In later summaries of UFO hum reports, the sound is often characterised as a high-frequency hum or vibration rather than a conventional [aircraft]({{ 'aircraft/' | relative_url }}) engine note.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">570502edwardsafb dir</span><span class="citation-popover-snippet">UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</span></span></span>
 
 Several aspects of the account stand out when compared with more ordinary aerial observations:
 
@@ -292,7 +292,7 @@ Several aspects of the account stand out when compared with more ordinary aerial
 * The sound was linked directly to the object's movement.
 * The witnesses reported a defined shape rather than an ambiguous point of light.
 * The object was said to pass overhead rather than remain stationary on the horizon.
-* The acoustic detail was considered memorable enough to become part of the archived case description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
+* The acoustic detail was considered memorable enough to become part of the archived case description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
 
 </div>
 
@@ -302,18 +302,18 @@ That combination helps explain why the report is still referenced when researche
 
 ## Why the USAF Officer Detail Drew Attention
 
-Many UFO reports gain visibility not because of what was seen but because of who reported it. In this case, researchers highlighted that one of the witnesses was a United States Air Force officer. The presence of military personnel has long been treated by UFO investigators as potentially significant because such individuals are presumed to have at least some familiarity with aircraft, flight operations and common aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
+Many UFO reports gain visibility not because of what was seen but because of who reported it. In this case, researchers highlighted that one of the witnesses was a United States Air Force officer. The presence of military personnel has long been treated by UFO investigators as potentially significant because such individuals are presumed to have at least some familiarity with aircraft, flight operations and common aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</span></span></span>
 
-NICAP was especially interested in reports involving military witnesses. During the organisation's peak years, it frequently argued that pilots, radar operators and service members deserved greater credibility than casual observers. The group's leadership included former military officers and actively collected reports from serving and retired personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Investigations Committee On Aerial Phenomena</span><span class="citation-popover-snippet">National Investigations Committee On Aerial Phenomena</span></span></span>
+NICAP was especially interested in reports involving military witnesses. During the organisation's peak years, it frequently argued that pilots, radar operators and service members deserved greater credibility than casual observers. The group's leadership included former military officers and actively collected reports from serving and retired personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Investigations Committee On Aerial Phenomena</span><span class="citation-popover-snippet">National Investigations Committee On Aerial Phenomena</span></span></span>
 
-That does not mean the officer's presence proves the sighting was extraordinary. A military witness can still misidentify an aircraft, atmospheric effect or other stimulus. However, within UFO research culture, the Air Force connection helped the Carmichael report survive in catalogues and case summaries long after countless ordinary sightings were forgotten. The witness background gave later investigators a reason to treat the account as more than a routine civilian observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</span></span></span>
+That does not mean the officer's presence proves the sighting was extraordinary. A military witness can still misidentify an aircraft, atmospheric effect or other stimulus. However, within UFO research culture, the Air Force connection helped the Carmichael report survive in catalogues and case summaries long after countless ordinary sightings were forgotten. The witness background gave later investigators a reason to treat the account as more than a routine civilian observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-3-dark.svg" | relative_url }}" alt="NICAP Case illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_humming_ufo_reports_8a7cf2_nicap_california_hum_137be7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Hum Matters More Than the Triangle
 
 Modern readers often focus first on the triangular shape because triangular UFO reports became especially famous during later decades. Yet in historical terms, the sound component may be the more interesting feature.
 
-Many UFO reports involve apparently silent objects. Witnesses frequently describe lights or shapes moving without any audible engine noise. The Carmichael case differs because the reported hum formed part of the central observation. The witnesses were not merely reporting an object and separately recalling a background sound; the archived description presents the humming noise as a characteristic of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</span></span></span>
+Many UFO reports involve apparently silent objects. Witnesses frequently describe lights or shapes moving without any audible engine noise. The Carmichael case differs because the reported hum formed part of the central observation. The witnesses were not merely reporting an object and separately recalling a background sound; the archived description presents the humming noise as a characteristic of the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</span></span></span>
 
 For researchers studying patterns in UFO testimony, this matters because recurring acoustic descriptions appear across different eras:
 
@@ -324,7 +324,7 @@ For researchers studying patterns in UFO testimony, this matters because recurri
 * Mechanical droning.
 * Low-frequency vibration.
 * High-pitched humming.
-* Resonant sounds that seem difficult to locate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">570502edwardsafb dir</span><span class="citation-popover-snippet">UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</span></span></span>
+* Resonant sounds that seem difficult to locate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">570502edwardsafb dir</span><span class="citation-popover-snippet">UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</span></span></span>
 
 </div>
 
@@ -335,20 +335,20 @@ The Carmichael report is often grouped with these accounts because it provides b
 
 The strongest argument for the case is not that it demonstrates an unknown technology. Rather, it shows that detailed hum reports were being documented well before later waves of triangular UFO sightings became popular in public culture.
 
-[The case provides evidence that:](#endnote-7 "Snippet: Nicap6 Apr 2014 — <strong>The</strong> Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i")
+[The case provides evidence that:](#endnote-7 "Snippet: Nicap6 Apr 2014 —<strong>The</strong> Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i")
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Witnesses associated unusual aerial objects with humming sounds as early as the 1950s.
 * The sound description was considered important enough to preserve in official case archives.
 * Multiple witnesses reportedly observed the event.
-* At least one witness had a military background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
+* At least one witness had a military background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
 
 </div>
 
 At the same time, the limitations are substantial.
 
-There are no publicly available recordings of the sound. No physical traces were reported. The surviving evidence is largely documentary and depends on witness recollection recorded through UFO investigative channels. The case also lacks the radar, photographic or instrument data that researchers generally regard as stronger forms of corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
+There are no publicly available recordings of the sound. No physical traces were reported. The surviving evidence is largely documentary and depends on witness recollection recorded through UFO investigative channels. The case also lacks the radar, photographic or instrument data that researchers generally regard as stronger forms of corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
 
 Another challenge is that humming sounds are not unique to alleged UFOs. Aircraft heard under unusual atmospheric conditions, distant industrial activity and other environmental noises can all produce perceptions that witnesses describe as buzzing or humming. Without direct measurements, it is impossible to determine whether the reported sound originated from the observed object or from an unrelated source that became associated with it during the event.
 
@@ -356,201 +356,201 @@ Another challenge is that humming sounds are not unique to alleged UFOs. Aircraf
 
 ## Why One California Hum Case Still Matters
 
-The Carmichael report remains useful less as proof and more as a reference point. It captures several themes that continue to appear in UFO noise discussions: a structured object, a distinctive hum, multiple witnesses and a military observer. Those features make it a compact example of the type of case that researchers cite when arguing that recurring sound descriptions deserve attention rather than dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
+The Carmichael report remains useful less as proof and more as a reference point. It captures several themes that continue to appear in UFO noise discussions: a structured object, a distinctive hum, multiple witnesses and a military observer. Those features make it a compact example of the type of case that researchers cite when arguing that recurring sound descriptions deserve attention rather than dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
 
-At the same time, the case demonstrates the limits of historical UFO evidence. The account is intriguing precisely because it contains details that are difficult to verify decades later. The humming sound makes the report memorable, but it also highlights the central problem facing investigators: a sound can be vividly described, repeatedly recalled and widely discussed while still remaining impossible to test after the fact. In that sense, the 1957 California hum case serves as both an interesting data point and a reminder of how much UFO sound evidence depends on human observation rather than measurable records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
+At the same time, the case demonstrates the limits of historical UFO evidence. The account is intriguing precisely because it contains details that are difficult to verify decades later. The humming sound makes the report memorable, but it also highlights the central problem facing investigators: a sound can be vividly described, repeatedly recalled and widely discussed while still remaining impossible to test after the fact. In that sense, the 1957 California hum case serves as both an interesting data point and a reminder of how much UFO sound evidence depends on human observation rather than measurable records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yumpu.com">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yumpu.com</span><span class="citation-popover-title">The UFO Evidence</span><span class="citation-popover-snippet">Nicap6 Apr 2014 — The Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3MjsfuLGYw" title="The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer">The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 620.2K &middot; Uploaded: March 2023 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3MjsfuLGYw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One California Hum Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One California Hum Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong fit for readers interested in notable witness-based UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for readers interested in notable witness-based UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides framework for assessing cases like the 1957 California report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for assessing cases like the 1957 California report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background for understanding official and civilian UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for understanding official and civilian UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Balances extraordinary claims with critical evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Balances extraordinary claims with critical evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="nicap-case-why-one-california-hum-case-still-matters-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,94 +756,94 @@ At the same time, the case demonstrates the limits of historical UFO evidence. T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</p></details>
+   Link:<a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportA Hynek Classification of Distant Encounter is usually an incident involving an object more than 500 feet from the witness...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Investigations Committee On Aerial Phenomena  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Donald Keyhoe  
-   Link: <a href="https://en.wikipedia.org/wiki/Donald_Keyhoe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Keyhoe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Donald_Keyhoe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Keyhoe</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/570623carmichael_report.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</p></details>
+   Link:<a href="https://www.nicap.org/reports/570623carmichael_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/570623carmichael_report.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe following pdf file contains all of the resized Project Blue Book documents below and is now housed on the NICAP site for se...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1957fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1957fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1957 ChronologyPrior to the wave flap, the Sept 20, 1957 radar tracking caused a White House and top intelligence alert. A very important...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
    Title: 570502edwardsafb dir  
-   Link: <a href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570502edwardsafb_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</p></details>
+   Link:<a href="https://www.nicap.org/570502edwardsafb_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570502edwardsafb_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportIn 1957, when Cooper was 30 and a captain, he was assigned to Fighter Section of the Experimental Flight Test Engineering Divis...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: yumpu.com  
    Title: The UFO Evidence  
-   Link: <a href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nicap6 Apr 2014 — &lt;strong&gt;The&lt;/strong&gt; Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/24225463/the-ufo-evidence-nicap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nicap6 Apr 2014 — &lt;strong&gt;The&lt;/strong&gt; Ellsworth Air Force Base case is still listed as unknown or unsolved.... After NICAP was formed i...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...NICAP Member Jack Varnell listened from the next table. The Air Force officer&#x27;s opening impli...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...NICAP Member Jack Varnell listened from the next table. The Air Force officer&#x27;s opening impli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;... California, UFO as observed by two witnesses and reported to Blue Book.... higher...</p></details>
+   Link:<a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Hynek UFO Report&quot;... California, UFO as observed by two witnesses and reported to Blue Book.... higher...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: upload.wikimedia.org  
    Title: UFOs and Related Subjects, An Annotated Bibliography, AD0688332, edit  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force. Princeton, R, J.. Van Nostrand, 1960. 164 p. Author, a former USAF public information officer on UFOs, discusses UFO.Read more...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/ac/UFOs_and_Related_Subjects%2C_An_Annotated_Bibliography%2C_AD0688332%2C_edit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force. Princeton, R, J.. Van Nostrand, 1960. 164 p. Author, a former USAF public information officer on UFOs, discusses UFO.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are taken every year and enthusiasts believe many of them...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are taken every year and enthusiasts believe many of them...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>911 lines trying to report UFOs that were actually just planets...</p></details>
+   Link:<a href="https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrcvideo/posts/a-california-police-department-had-to-tell-residents-to-stop-clogging-up-911-lin/6404882942868033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>911 lines trying to report UFOs that were actually just planets...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byUFOs; special ~l&#x27;iefings on UFO activity; public reaction to UFOs; Air Force... Author, a former USAF public informati...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byUFOs; special ~l&#x27;iefings on UFO activity; public reaction to UFOs; Air Force... Author, a former USAF public informati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ssvszeR4VoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssvszeR4VoM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>over California military base for 10 minutes before Vanishing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ssvszeR4VoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssvszeR4VoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>over California military base for 10 minutes before Vanishing...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sohp.us  
    Title: GROSS 1957 Nov 3 5  
-   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1957: November 3–5Activity being reported by the newswires was so great a NICAP secretary wondered out loud if the Air F...</p></details>
+   Link:<a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1957-Nov-3-5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1957: November 3–5Activity being reported by the newswires was so great a NICAP secretary wondered out loud if the Air F...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted by. Officers...Read more...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted by. Officers...Read more...</p></details>

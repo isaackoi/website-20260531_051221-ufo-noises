@@ -268,7 +268,7 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo
 
 ## Introduction
 
-Reports of a UFO that seemed to cause a deep vibration, [chest pressure]({{ 'chest-pressure/' | relative_url }}), window rattling or a strange bodily sensation are often cited as possible signs of infrasound. The challenge is that infrasound is difficult to confirm after the event. Low-frequency sound can come from [aircraft]({{ 'aircraft/' | relative_url }}), industrial machinery, weather systems, distant explosions, traffic, ventilation equipment and other ordinary sources, and witnesses often remember physical sensations more clearly than the surrounding environmental details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Reports of a UFO that seemed to cause a deep vibration, [chest pressure]({{ 'chest-pressure/' | relative_url }}), window rattling or a strange bodily sensation are often cited as possible signs of infrasound. The challenge is that infrasound is difficult to confirm after the event. Low-frequency sound can come from [aircraft]({{ 'aircraft/' | relative_url }}), industrial machinery, weather systems, distant explosions, traffic, ventilation equipment and other ordinary sources, and witnesses often remember physical sensations more clearly than the surrounding environmental details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-1-dark.svg" | relative_url }}" alt="Check clues illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_checking_ufo_vibrati_231429-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A useful investigation does not begin by assuming a mysterious craft produced the vibration. Instead, it asks whether the report contains clues that fit known low-frequency sound behaviour, whether ordinary sources were present, and whether any independent records exist. In many UFO vibration cases, the most valuable evidence is not the sighting itself but the timing, location and physical details surrounding it.
@@ -296,13 +296,13 @@ Ask:
 
 These details matter because genuine low-frequency vibration often affects the environment as well as the witness. If several people independently describe pressure, rattling surfaces or a deep vibration at roughly the same time, that is generally more useful than a single retrospective account.
 
-Another useful question concerns localisation. Infrasound is notoriously difficult to pinpoint because very low-frequency waves travel differently from ordinary sound. Witnesses frequently struggle to identify a [direction]({{ 'direction/' | relative_url }}) or source. A report claiming that a vibration seemed to come from "everywhere" is not proof of infrasound, but it is more consistent with known low-frequency behaviour than a report describing a clearly directional noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Another useful question concerns localisation. Infrasound is notoriously difficult to pinpoint because very low-frequency waves travel differently from ordinary sound. Witnesses frequently struggle to identify a [direction]({{ 'direction/' | relative_url }}) or source. A report claiming that a vibration seemed to come from "everywhere" is not proof of infrasound, but it is more consistent with known low-frequency behaviour than a report describing a clearly directional noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### Separate physical sensations from emotional reactions
 
 Some UFO reports combine vibration claims with fear, unease, dizziness or a feeling of presence.
 
-That does not automatically make the account unreliable. Researchers studying low-frequency sound have repeatedly examined reports of annoyance, discomfort, pressure sensations and altered mood during exposure to low-frequency noise. More recent laboratory work has also explored whether infrasound can influence stress responses even when people are not consciously aware of hearing it. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Sensed a bump in the night?</span><span class="citation-popover-snippet">It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</span></span></span>
+That does not automatically make the account unreliable. Researchers studying low-frequency sound have repeatedly examined reports of annoyance, discomfort, pressure sensations and altered mood during exposure to low-frequency noise. More recent laboratory work has also explored whether infrasound can influence stress responses even when people are not consciously aware of hearing it. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Sensed a bump in the night?</span><span class="citation-popover-snippet">It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</span></span></span>
 
 However, investigators should record emotional effects separately from physical observations. "I felt pressure in my chest" is a different category of evidence from "I felt that something intelligent was nearby."
 
@@ -332,9 +332,9 @@ Before treating a UFO vibration claim as anomalous, check for:
 
 </div>
 
-Aircraft deserve particular attention because witnesses sometimes notice vibration before recognising an aircraft overhead, especially at night or in poor visibility. Noise complaint systems maintained by aviation authorities often reveal whether aircraft activity was occurring near the reported time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</span></span></span>
+Aircraft deserve particular attention because witnesses sometimes notice vibration before recognising an aircraft overhead, especially at night or in poor visibility. Noise complaint systems maintained by aviation authorities often reveal whether aircraft activity was occurring near the reported time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</span></span></span>
 
-Weather conditions also matter. Strong winds, storm systems and atmospheric conditions can generate or channel low-frequency sound over long distances. Infrasound researchers routinely monitor signals from storms, volcanic activity, avalanches and other natural events because such waves can travel remarkable distances through the [atmosphere]({{ 'atmosphere/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">get know cvo alex and infrasound</span><span class="citation-popover-snippet">Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring &#124; U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span>
+Weather conditions also matter. Strong winds, storm systems and atmospheric conditions can generate or channel low-frequency sound over long distances. Infrasound researchers routinely monitor signals from storms, volcanic activity, avalanches and other natural events because such waves can travel remarkable distances through the [atmosphere]({{ 'atmosphere/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">get know cvo alex and infrasound</span><span class="citation-popover-snippet">Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring &#124; U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span>
 
 ### Check whether the vibration fits the claimed object
 
@@ -361,13 +361,13 @@ Potential sources include:
 
 * Local weather records.
 * Air traffic data.
-* Seismic monitoring stations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Response to NoiseMar 29, 2022 — Annoyance is a cumulative measure of the general adverse reaction of people to noise that causes interfer...</span></span></span> ty noise complaints.
+* Seismic monitoring stations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[community]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Response to NoiseMar 29, 2022 — Annoyance is a cumulative measure of the general adverse reaction of people to noise that causes interfer...</span></span></span> ty noise complaints.
 * Industrial incident logs.
 * Security camera audio.
 * Smart home recordings.
 * News reports describing unusual [booms]({{ 'booms/' | relative_url }}) or shaking.
 
-Modern monitoring networks routinely use infrasound for detecting natural and human-made events. Volcano observatories, for example, use infrasound [sensors]({{ 'sensors/' | relative_url }}) to track eruptions, explosions and debris flows. International monitoring systems also detect large atmospheric events over enormous distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Modern monitoring networks routinely use infrasound for detecting natural and human-made events. Volcano observatories, for example, use infrasound [sensors]({{ 'sensors/' | relative_url }}) to track eruptions, explosions and debris flows. International monitoring systems also detect large atmospheric events over enormous distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not mean a local UFO report will appear in those systems. Most reported sensations are far too small and localised. Still, checking whether any documented event occurred near the reported time can eliminate some possibilities or reveal overlooked explanations.
 
@@ -403,7 +403,7 @@ Unlike a photograph, radar track or physical trace, a low-frequency acoustic eve
 
 This creates a common misunderstanding in UFO discussions. People sometimes assume that because a witness reported vibration, investigators should be able to prove whether infrasound was present. In reality, most cases lack the instruments needed for confirmation.
 
-Atmospheric conditions further complicate matters. Researchers have shown that winds and temperature structure can alter how infrasound travels, making source direction and intensity difficult to reconstruct after the fact. A vibration perceived in one location may not reflect a simple straight-line path from its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring &#124; U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Atmospheric conditions further complicate matters. Researchers have shown that winds and temperature structure can alter how infrasound travels, making source direction and intensity difficult to reconstruct after the fact. A vibration perceived in one location may not reflect a simple straight-line path from its origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">infrasound volcano monitoring</span><span class="citation-popover-snippet">Infrasound for volcano monitoring &#124; U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 ### What counts as a useful clue
 
@@ -422,167 +422,167 @@ A vibration report is most informative when several elements line up:
 
 A single memory recorded years later can still be interesting, but it is rarely enough to establish that infrasound occurred.
 
-For that reason, the most productive way to examine UFO vibration claims is not to ask, "Did a UFO create infrasound?" but rather, "What evidence shows that a low-frequency acoustic event happened at all?" Once that question is answered, the remaining explanations can be compared more realistically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
+For that reason, the most productive way to examine UFO vibration claims is not to ask, "Did a UFO create infrasound?" but rather, "What evidence shows that a low-frequency acoustic event happened at all?" Once that question is answered, the remaining explanations can be compared more realistically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3AC0m2HlNDE" title="The Kokomo Hum: An Acoustical Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3AC0m2HlNDE" target="_blank" rel="noopener noreferrer">The Kokomo Hum: An Acoustical Investigation</a></p><p class="youtube-embed-meta">Channel: AVL Designs &middot; Views: 1.7K &middot; Uploaded: February 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3AC0m2HlNDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3AC0m2HlNDE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Test a UFO Vibration Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Test a UFO Vibration Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Emphasises evidence collection and investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence collection and investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
-        </h4>
-        <p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
+</h4>
+<p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
         
-        <p class="fr-book-desc">Provides technical context for investigating vibration and low-frequency claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides technical context for investigating vibration and low-frequency claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Relevant to memory, interpretation, and post-event reconstruction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to memory, interpretation, and post-event reconstruction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasises evidence collection and investigation methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence collection and investigation methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patent Wall Art: Sci Fi Gift, Area 51 Art, Nerd Geek Gift, UFO Art"><img src="{{ '/assets/images/marketplace-covers/b67275ea5f26c4a8c085.jpg' | relative_url }}" alt="Listing image for Flying Saucer Patent Wall Art: Sci Fi Gift, Area 51 Art, Nerd Geek Gift, UFO Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patent Wall Art: Sci Fi Gift, Area 51 Art, Nerd Geek Gift, UFO Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer blueprint poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer blueprint poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patent Wall Art: Sci Fi Gift, Area 51 Art, Nerd Geek Gift, UFO Art"><img src="{{ '/assets/images/marketplace-covers/b67275ea5f26c4a8c085.jpg' | relative_url }}" alt="Listing image for Flying Saucer Patent Wall Art: Sci Fi Gift, Area 51 Art, Nerd Geek Gift, UFO Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patent Wall Art: Sci Fi Gift, Area 51 Art, Nerd Geek Gift, UFO Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer blueprint poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer blueprint poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft"><img src="{{ '/assets/images/marketplace-covers/03f9b9f1db439abeea53.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer blueprint poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer blueprint poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft"><img src="{{ '/assets/images/marketplace-covers/03f9b9f1db439abeea53.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer blueprint poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer blueprint poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+blueprint+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer blueprint poster -book -books" data-ebay-reference="check-clues-how-to-test-a-ufo-vibration-claim-ufo-noises-flying-saucer-blueprint-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ For that reason, the most productive way to examine UFO vibration claims is not 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ For that reason, the most productive way to examine UFO vibration claims is not 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ For that reason, the most productive way to examine UFO vibration claims is not 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ For that reason, the most productive way to examine UFO vibration claims is not 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ For that reason, the most productive way to examine UFO vibration claims is not 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,212 +788,212 @@ For that reason, the most productive way to examine UFO vibration claims is not 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70229751</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</p></details>
+   Link:<a href="https://pubs.usgs.gov/publication/70229751" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70229751</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyApplication of an updated atmospheric model to explore...by AM Iezzi · 2019 · Cited by 20 — Winds and temperature gradi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usgs.gov  
    Title: get know cvo alex and infrasound  
-   Link: <a href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</p></details>
+   Link:<a href="https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/cvo/news/get-know-cvo-alex-and-infrasound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get to know CVO: Alex and Infrasound25 Nov 2024 — Infrasound has an important role in volcano monitoring because it can help locate and l...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: usgs.gov  
    Title: infrasound volcano monitoring  
-   Link: <a href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/infrasound-volcano-monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound for volcano monitoring | U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/infrasound-volcano-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/infrasound-volcano-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound for volcano monitoring | U.S. Geological Survey4 Oct 2024 — Introduction. Volcanic eruptions produce acoustic waves when volca...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: usgs.gov  
    Title: listening hydrothermal activity and more yellowstone  
-   Link: <a href="https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because infrasound energy travels easily through the atmosphere, monitoring...Read more...</p></details>
+   Link:<a href="https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/yvo/news/listening-hydrothermal-activity-and-more-yellowstone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because infrasound energy travels easily through the atmosphere, monitoring...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usgs.gov  
    Title: detecting snow avalanche activity using infrasound hooker valley new zealand  
-   Link: <a href="https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here, we...Read more...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/detecting-snow-avalanche-activity-using-infrasound-hooker-valley-new-zealand</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here, we...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Infrasound in the USGS Eruption ResponseInfrasound is an important tools for volcanologists, allowing them to detect eruptions, l...</p></details>
+   Link:<a href="https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/role-infrasound-usgs-eruption-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Infrasound in the USGS Eruption ResponseInfrasound is an important tools for volcanologists, allowing them to detect eruptions, l...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usgs.gov  
    Title: volcano watch infrasound coming hvocan you hear it  
-   Link: <a href="https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear explosions produce infrasound that can propagate large distances...Read more...</p></details>
+   Link:<a href="https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/hvo/news/volcano-watch-infrasound-coming-hvocan-you-hear-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear explosions produce infrasound that can propagate large distances...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.05601</a>  
+   Link:<a href="https://arxiv.org/abs/1907.05601" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.05601</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2004.07972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.07972</a>  
+   Link:<a href="https://arxiv.org/abs/2004.07972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.07972</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2023 — Recent works additionally suggest that infrasound can be used to discriminate between different volcanic processes (Watson...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/introduction-special-section-seismoacoustics-and-seismoacoustic-data-fusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2023 — Recent works additionally suggest that infrasound can be used to discriminate between different volcanic processes (Watson...</p></details>
    Published: July 7, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: usgs.gov  
    Title: Infrasound from giant bubbles during explosive submarine eruptions  
-   Link: <a href="https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 14, 2019 — We show that the infrasound originates from the oscillation and rupture of magmatic gas bubbles that initially formed...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/infrasound-giant-bubbles-during-explosive-submarine-eruptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 14, 2019 — We show that the infrasound originates from the oscillation and rupture of magmatic gas bubbles that initially formed...</p></details>
    Published: October 14, 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science for a changing worldWe provide scientific information and near real-time data on current conditions that helps communities prepar...</p></details>
+   Link:<a href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science for a changing worldWe provide scientific information and near real-time data on current conditions that helps communities prepar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C: Infrasound for Volcano Monitoringby AK Diefenbach · 2024 — A windscreen covers a single infrasound sensor, co-located with a seismomet...</p></details>
+   Link:<a href="https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/sir/2024/5062/c/sir20245062c.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C: Infrasound for Volcano Monitoringby AK Diefenbach · 2024 — A windscreen covers a single infrasound sensor, co-located with a seismomet...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/publication/70242756" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70242756</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, infrasound sensors are usually...</p></details>
+   Link:<a href="https://pubs.usgs.gov/publication/70242756" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70242756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, infrasound sensors are usually...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubs.usgs.gov  
    Title: OFR2014 1253  
-   Link: <a href="https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Three New Infrasound [Arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) Around Kīlauea...by WA Thelen · 2015 · Cited by 8 — Infrasound is an emerging monitoring method...</p></details>
+   Link:<a href="https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/2014/1253/downloads/OFR2014-1253.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Three New Infrasound [Arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) Around Kīlauea...by WA Thelen · 2015 · Cited by 8 — Infrasound is an emerging monitoring method...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: usgs.gov  
    Title: uas based observations infrasound directionality stromboli volcano italy  
-   Link: <a href="https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, infrasound sensors are usually...</p></details>
+   Link:<a href="https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/uas-based-observations-infrasound-directionality-stromboli-volcano-italy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, infrasound sensors are usually...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: usgs.gov  
    Title: volcano watch tonga eruption recorded hawaii infrasound network and globally  
-   Link: <a href="https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volcano Watch — Tonga eruption recorded on Hawaii...10 Feb 2022 — Pressure waves from the Hunga Tonga-Hunga Ha&#x27;apai eruption on January...</p></details>
+   Link:<a href="https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/observatories/hvo/news/volcano-watch-tonga-eruption-recorded-hawaii-infrasound-network-and-globally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volcano Watch — Tonga eruption recorded on Hawaii...10 Feb 2022 — Pressure waves from the Hunga Tonga-Hunga Ha&#x27;apai eruption on January...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/inquiries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</p></details>
+   Link:<a href="https://www.faa.gov/noise/inquiries" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/inquiries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationNoise Complaints &amp; InquiriesTo send a complaint or inquire about a noise concern to an airport sponsor, lo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faa.gov  
    Title: noise complaints  
-   Link: <a href="https://www.faa.gov/air_traffic/noise_emissions/noise_complaints" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/noise_emissions/noise_complaints</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise Complaints | Federal Aviation AdministrationFeb 25, 2025 — FAA&#x27;s Aviation Noise Ombudsman i...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/noise_emissions/noise_complaints" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/noise_emissions/noise_complaints</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise Complaints | Federal Aviation AdministrationFeb 25, 2025 — FAA&#x27;s Aviation Noise Ombudsman i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/ancir" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/ancir</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationANCIR Service PortalJan 30, 2026 — The FAA&#x27;s ANCIR Portal allows users to submit aircraft noise complaints...</p></details>
+   Link:<a href="https://www.faa.gov/ancir" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/ancir</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationANCIR Service PortalJan 30, 2026 — The FAA&#x27;s ANCIR Portal allows users to submit aircraft noise complaints...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to NoiseMar 29, 2022 — Annoyance is a cumulative measure of the general adverse reaction of people to noise that causes interfer...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Response to NoiseMar 29, 2022 — Annoyance is a cumulative measure of the general adverse reaction of people to noise that causes interfer...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: faa.gov  
    Title: noise complaint  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Region Aircraft Noise and Community Engagement...Jan 8, 2026 — We provide information on community involvement and aircraft nois...</p></details>
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/ara/central_region/noise_complaint</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Central Region Aircraft Noise and Community Engagement...Jan 8, 2026 — We provide information on community involvement and aircraft nois...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: faa.gov  
    Title: airport noise  
-   Link: <a href="https://www.faa.gov/airports/environmental/airport_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/airports/environmental/airport_noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationMar 20, 2025 — These Part 150 checklists identify the necessary components of Part 150 Noise Compatibility...</p></details>
+   Link:<a href="https://www.faa.gov/airports/environmental/airport_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/airports/environmental/airport_noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationMar 20, 2025 — These Part 150 checklists identify the necessary components of Part 150 Noise Compatibility...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDec 13, 2024 — The FAA strives to reduce noise in ways within our purview, including conducting noise rese...</p></details>
+   Link:<a href="https://www.faa.gov/noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDec 13, 2024 — The FAA strives to reduce noise in ways within our purview, including conducting noise rese...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: metroairports.org  
-   Link: <a href="https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Noise PortalSep 16, 2020 — Purpose: to identify how the FAA can more efficiently and effectively respond to and address noise complai...</p></details>
+   Link:<a href="https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/documents/presentations/faa-noise-portal-presentation-2020/direct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Noise PortalSep 16, 2020 — Purpose: to identify how the FAA can more efficiently and effectively respond to and address noise complai...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: avo.alaska.edu  
-   Link: <a href="https://avo.alaska.edu/about/infrasound" target="_blank" rel="noopener noreferrer nofollow">https://avo.alaska.edu/about/infrasound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>can be used to detect, locate, characterize, and quantify volcanic eruptions, providing a valuable tool for volcano monitoring.Read more...</p></details>
+   Link:<a href="https://avo.alaska.edu/about/infrasound" target="_blank" rel="noopener noreferrer nofollow">https://avo.alaska.edu/about/infrasound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>can be used to detect, locate, characterize, and quantify volcanic eruptions, providing a valuable tool for volcano monitoring.Read more...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Responding to the Nation&#x27;s Aviation Noise ConcernsTo better understand the FAA guidelines for processing noise complaints, we urge you to...</p></details>
+   Link:<a href="https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/inquiries/noise-complaint-inquiry-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Responding to the Nation&#x27;s Aviation Noise ConcernsTo better understand the FAA guidelines for processing noise complaints, we urge you to...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: icben.org  
-   Link: <a href="https://www.icben.org/2023/presenting134.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icben.org/2023/presenting134.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental study on the perception of infrasoundThe aim of this study was to experimentally determine the hearing threshold level, a...</p></details>
+   Link:<a href="https://www.icben.org/2023/presenting134.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icben.org/2023/presenting134.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental study on the perception of infrasoundThe aim of this study was to experimentally determine the hearing threshold level, a...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: lfresearch.org  
-   Link: <a href="https://lfresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://lfresearch.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Frequency ResearchAt very high intensities (typically &gt;110 dB), infrasound can produce measurable physiological responses including b...</p></details>
+   Link:<a href="https://lfresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://lfresearch.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low Frequency ResearchAt very high intensities (typically &gt;110 dB), infrasound can produce measurable physiological responses including b...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cltairport.com  
-   Link: <a href="https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NAF Mission &amp; GuidelinesThe overall purpose is to facilitate community awareness and involvement in Airport noise management efforts, ens...</p></details>
+   Link:<a href="https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://www.cltairport.com/community/noise/noise-advisory-forum/naf-mission-guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NAF Mission &amp; GuidelinesThe overall purpose is to facilitate community awareness and involvement in Airport noise management efforts, ens...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dal.noiselab.casper.aero  
-   Link: <a href="https://dal.noiselab.casper.aero/content/1/guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://dal.noiselab.casper.aero/content/1/guidelines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complaints Guidelines &amp; StandardsSubmitting Noise Complaints to the FAA. The FAA&#x27;s Aviation Noise Ombudsman serves as a public liaison fo...</p></details>
+   Link:<a href="https://dal.noiselab.casper.aero/content/1/guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://dal.noiselab.casper.aero/content/1/guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complaints Guidelines &amp; StandardsSubmitting Noise Complaints to the FAA. The FAA&#x27;s Aviation Noise Ombudsman serves as a public liaison fo...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All this noise is ruining my peaceful life”. FAA agrees to study the amount of noise. “This is ridiculous...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1fd4bds/just_a_little_taste_of_the_craziness_colorado/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All this noise is ruining my peaceful life”. FAA agrees to study the amount of noise. “This is ridiculous...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/0M1KALNibug" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/0M1KALNibug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For more from Seth and how AVL Designs can assist you with your acoustical needs, please visit: [https://AVLDesigns.com...&quot;](https://AVLDesigns.com...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/0M1KALNibug" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/0M1KALNibug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For more from Seth and how AVL Designs can assist you with your acoustical needs, please visit: [https://AVLDesigns.com...&quot;](https://AVLDesigns.com...&quot;)...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXuA-9BjKRC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXuA-9BjKRC/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>levels and reported feeling more irritable, less interested...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXuA-9BjKRC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXuA-9BjKRC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>levels and reported feeling more irritable, less interested...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oring System (IMS), which is intended to detect nuclear tests.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USGSVolcanoes/posts/continuous-infrasound-low-frequency-acoustic-monitoring-is-now-established-in-ye/1111469761027491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oring System (IMS), which is intended to detect nuclear tests.Read more...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: nps.gov  
    Title: volcano monitoring  
-   Link: <a href="https://www.nps.gov/articles/volcano-monitoring.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/volcano-monitoring.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring Volcanoes7 Aug 2024 — Monitoring is best done at an observatory where data from infrasonic sensors can be viewed simultaneousl...</p></details>
+   Link:<a href="https://www.nps.gov/articles/volcano-monitoring.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/volcano-monitoring.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring Volcanoes7 Aug 2024 — Monitoring is best done at an observatory where data from infrasonic sensors can be viewed simultaneousl...</p></details>

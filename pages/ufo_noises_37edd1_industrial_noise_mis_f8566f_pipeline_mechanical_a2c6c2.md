@@ -274,28 +274,28 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mec
 
 ## Introduction
 
-Reports of “[UFO noises]({{ 'ufo-noises/' | relative_url }})” often focus on lights in the sky, but many witnesses first notice something else: a deep mechanical drone that seems too large, too distant or too directionless to have an obvious source. One overlooked explanation is gas infrastructure. High-pressure pipelines, compressor stations, metering facilities and large industrial pumps can generate persistent low-frequency sounds and vibrations that travel far beyond the visible facility itself. Under the right conditions, the result can feel less like machinery and more like a hovering object, a distant engine suspended in the air, or an unseen presence vibrating through the ground. Studies of compressor-station noise and investigations into long-running “hum” complaints show that pipeline systems can produce exactly the kinds of low rumbles, pulses and resonant vibrations that people often describe in mystery-noise reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.06277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Controlling transient gas flow in real-world pipeline intersection areas</span><span class="citation-popover-snippet">arXiv Controlling transient gas flow in real-world pipeline intersection areas</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5378322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5378322</span><span class="citation-popover-snippet">annoyance) for homes located within 750 m from the nearest compressor station. ... Low frequency noise and annoyance. Noise Health [Inter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+Reports of “[UFO noises]({{ 'ufo-noises/' | relative_url }})” often focus on lights in the sky, but many witnesses first notice something else: a deep mechanical drone that seems too large, too distant or too directionless to have an obvious source. One overlooked explanation is gas infrastructure. High-pressure pipelines, compressor stations, metering facilities and large industrial pumps can generate persistent low-frequency sounds and vibrations that travel far beyond the visible facility itself. Under the right conditions, the result can feel less like machinery and more like a hovering object, a distant engine suspended in the air, or an unseen presence vibrating through the ground. Studies of compressor-station noise and investigations into long-running “hum” complaints show that pipeline systems can produce exactly the kinds of low rumbles, pulses and resonant vibrations that people often describe in mystery-noise reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.06277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Controlling transient gas flow in real-world pipeline intersection areas</span><span class="citation-popover-snippet">arXiv Controlling transient gas flow in real-world pipeline intersection areas</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5378322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5378322</span><span class="citation-popover-snippet">annoyance) for homes located within 750 m from the nearest compressor station. ... Low frequency noise and annoyance. Noise Health [Inter...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-dark.svg" | relative_url }}" alt="Pipelines illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most important detail is not loudness alone but frequency. Many pipeline-related sounds fall into the low-frequency range, producing a deep hum or rumble rather than a sharp mechanical noise. Engineers studying compressor facilities identify several contributing mechanisms:
 
 * Rotating compressor machinery creating continuous tonal noise.
-* Pressure fluctuations inside pipelines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[cerjan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+* Pressure fluctuations inside pipelines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[cerjan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
 * Turbulent gas flow through valves and regulators.
 * Acoustic resonance within pipes and connected equipment.
-* Pulsations generated by reciprocating compressors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventx.co.uk">[Ventx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventx.co.uk</span><span class="citation-popover-title">Ventx How is noise created in natural gas pipelines?</span><span class="citation-popover-snippet">23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Cerjan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span> Acoustics](#endnote-1 "Snippet: Cerjan AcousticsGas Transmission & Compressor Station NoiseThe noise originates from various sources, including the compressors themselve")
+* Pulsations generated by reciprocating compressors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventx.co.uk">[Ventx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventx.co.uk</span><span class="citation-popover-title">Ventx How is noise created in natural gas pipelines?</span><span class="citation-popover-snippet">23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Cerjan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span> Acoustics](#endnote-1 "Snippet: Cerjan AcousticsGas Transmission & Compressor Station NoiseThe noise originates from various sources, including the compressors themselve")
 
 In practical terms, these sounds can resemble distant [aircraft]({{ 'aircraft/' | relative_url }}), heavy diesel engines or the rhythmic throb of a helicopter heard from many kilometres away. Because the source is often fenced off, hidden behind terrain or located in remote utility corridors, listeners may never connect the sound to pipeline infrastructure.
 
-Some specialist noise-control firms serving the gas [industry]({{ 'industry/' | relative_url }}) specifically describe “hum” and “flutter” effects associated with high-pressure gas transmission, where pressure waves and turbulence create low-frequency acoustic phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventx.co.uk">[Ventx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventx.co.uk</span><span class="citation-popover-title">Ventx How is noise created in natural gas pipelines?</span><span class="citation-popover-snippet">23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</span></span></span>
+Some specialist noise-control firms serving the gas [industry]({{ 'industry/' | relative_url }}) specifically describe “hum” and “flutter” effects associated with high-pressure gas transmission, where pressure waves and turbulence create low-frequency acoustic phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventx.co.uk">[Ventx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventx.co.uk</span><span class="citation-popover-title">Ventx How is noise created in natural gas pipelines?</span><span class="citation-popover-snippet">23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</span></span></span>
 
 ## Why Pipeline Noise May Be Felt as Vibration
 
 One reason pipeline-related sounds can seem unusual is that people do not always experience them primarily through hearing.
 
-Low-frequency sound travels differently from higher-pitched noise. It penetrates buildings more effectively, bends around obstacles and can be accompanied by physical vibration. Residents near compressor stations have reported sensations ranging from window rattling and floor vibration to pressure-like feelings in rooms. Research examining homes near compressor stations found evidence of low-frequency noise exposure, particularly at locations closest to the facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5378322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5378322</span><span class="citation-popover-snippet">annoyance) for homes located within 750 m from the nearest compressor station. ... Low frequency noise and annoyance. Noise Health [Inter...</span></span></span>
+Low-frequency sound travels differently from higher-pitched noise. It penetrates buildings more effectively, bends around obstacles and can be accompanied by physical vibration. Residents near compressor stations have reported sensations ranging from window rattling and floor vibration to pressure-like feelings in rooms. Research examining homes near compressor stations found evidence of low-frequency noise exposure, particularly at locations closest to the facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5378322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5378322</span><span class="citation-popover-snippet">annoyance) for homes located within 750 m from the nearest compressor station. ... Low frequency noise and annoyance. Noise Health [Inter...</span></span></span>
 
-Acoustic researchers have also noted that some environmental low-frequency noise may be transmitted partly through ground vibration, creating structure-borne sound inside buildings. In those situations, a person may hear a hum indoors while struggling to identify a clear outdoor source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.lboro.ac.uk">[Loughborough Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.lboro.ac.uk</span><span class="citation-popover-snippet">Loughborough Research RepositoryInvestigation of environmental low-frequency noiseby VV Krylov · Cited by 7 — According to this hypothesi...</span></span></span>
+Acoustic researchers have also noted that some environmental low-frequency noise may be transmitted partly through ground vibration, creating structure-borne sound inside buildings. In those situations, a person may hear a hum indoors while struggling to identify a clear outdoor source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.lboro.ac.uk">[Loughborough Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.lboro.ac.uk</span><span class="citation-popover-snippet">Loughborough Research RepositoryInvestigation of environmental low-frequency noiseby VV Krylov · Cited by 7 — According to this hypothesi...</span></span></span>
 
 This helps explain a recurring feature of mystery-noise reports:
 
@@ -317,7 +317,7 @@ Transmission pipelines may run through forests, farmland, industrial estates or 
 
 Weather conditions further complicate matters. Temperature [inversions]({{ 'inversions/' | relative_url }}) and stable nighttime air can allow low-frequency sounds to propagate over longer distances. The listener hears a persistent rumble but sees no factory chimney, turbine hall or obvious industrial complex. The result can feel detached from any earthly source.
 
-Noise-control specialists working with pipeline operators note that topography, terrain and atmospheric conditions can strongly influence how compressor-station noise spreads across surrounding areas. A facility hidden beyond a ridge or behind woodland may still be audible in a distant neighbourhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundfighter.com">[Sound Fighter Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundfighter.com</span><span class="citation-popover-title">reducing noise natural gas compressor station</span><span class="citation-popover-snippet">Sound Fighter SystemsNatural Gas Compressor Stations And Reducing Noise...Nov 2, 2017 — Minimizing the constant hum of equipment · Using...</span></span></span>
+Noise-control specialists working with pipeline operators note that topography, terrain and atmospheric conditions can strongly influence how compressor-station noise spreads across surrounding areas. A facility hidden beyond a ridge or behind woodland may still be audible in a distant neighbourhood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundfighter.com">[Sound Fighter Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundfighter.com</span><span class="citation-popover-title">reducing noise natural gas compressor station</span><span class="citation-popover-snippet">Sound Fighter SystemsNatural Gas Compressor Stations And Reducing Noise...Nov 2, 2017 — Minimizing the constant hum of equipment · Using...</span></span></span>
 
 This disconnect between sound and visibility is one reason pipeline-related noise occasionally enters UFO discussions. Witnesses are responding to a real physical stimulus, but the source remains hidden.
 
@@ -325,11 +325,11 @@ This disconnect between sound and visibility is one reason pipeline-related nois
 
 The broader “Hum” phenomenon provides a useful example of how gas infrastructure enters discussions of unexplained sound.
 
-Reports of persistent low-frequency hums have appeared in places including the United Kingdom, Canada, New Zealand and the United States. While no single explanation accounts for every case, industrial machinery is one of the most frequently investigated causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Reports of persistent low-frequency hums have appeared in places including the United Kingdom, Canada, New Zealand and the United States. While no single explanation accounts for every case, industrial machinery is one of the most frequently investigated causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-Mechanical engineer Steve Kohlhase became known for arguing that many reported hum locations appeared near high-pressure gas pipelines. His work attracted attention because witnesses often described vibrations and low-frequency droning rather than ordinary audible noise. Although his conclusions remain debated and are not universally accepted, the theory illustrates how pipeline infrastructure became part of serious attempts to explain mystery-hum reports rather than purely speculative UFO narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Mechanical engineer Steve Kohlhase became known for arguing that many reported hum locations appeared near high-pressure gas pipelines. His work attracted attention because witnesses often described vibrations and low-frequency droning rather than ordinary audible noise. Although his conclusions remain debated and are not universally accepted, the theory illustrates how pipeline infrastructure became part of serious attempts to explain mystery-hum reports rather than purely speculative UFO narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-Importantly, the evidence does not show that all hum reports originate from pipelines. Researchers studying the phenomenon continue to point to multiple possible causes, including industrial facilities, power infrastructure, environmental acoustics and, in some cases, human auditory perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Importantly, the evidence does not show that all hum reports originate from pipelines. Researchers studying the phenomenon continue to point to multiple possible causes, including industrial facilities, power infrastructure, environmental acoustics and, in some cases, human auditory perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-2-dark.svg" | relative_url }}" alt="Pipelines illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clues From Maps, Routes and Operating Patterns
@@ -340,13 +340,13 @@ When investigators attempt to identify a mysterious drone or vibration, pipeline
 
 A residential area may appear quiet on the surface while sitting near:
 
-* High-pressure transmission pipelines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[cerjan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span> * Compressor stations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrdc.org">[nrdc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrdc.org</span><span class="citation-popover-title">live tape dangerous noise emitted natural gas compressor stations neighborhoods</span><span class="citation-popover-snippet">Live on tape: the dangerous noise emitted by natural gas...Feb 22, 2010 — Low-frequency noise (LFN), also created by compressor stations...</span></span></span>
+* High-pressure transmission pipelines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[cerjan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span> * Compressor stations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrdc.org">[nrdc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrdc.org</span><span class="citation-popover-title">live tape dangerous noise emitted natural gas compressor stations neighborhoods</span><span class="citation-popover-snippet">Live on tape: the dangerous noise emitted by natural gas...Feb 22, 2010 — Low-frequency noise (LFN), also created by compressor stations...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Gas metering facilities.
 * Pressure-regulation stations.
-* Industrial pumping installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+* Industrial pumping installations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
 
 </div>
 
@@ -362,7 +362,7 @@ This irregularity can make the phenomenon seem even more mysterious. A noise tha
 
 ### Correlation With Industrial Activity
 
-Some investigations find that reported vibrations become stronger during periods of increased industrial operation. Engineers studying compressor-station vibration have identified pressure fluctuations, acoustic resonance and flow-related effects as major contributors to abnormal vibration behaviour in pipeline systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Analysis and Research on Pipeline Vibration of a Natural...December 17, 2020 — The main conclusions are as follows: (1) The...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+Some investigations find that reported vibrations become stronger during periods of increased industrial operation. Engineers studying compressor-station vibration have identified pressure fluctuations, acoustic resonance and flow-related effects as major contributors to abnormal vibration behaviour in pipeline systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Analysis and Research on Pipeline Vibration of a Natural...December 17, 2020 — The main conclusions are as follows: (1) The...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 For investigators, matching complaint times against known infrastructure operations can sometimes reveal patterns that are invisible to residents experiencing the sound.
 
@@ -370,7 +370,7 @@ For investigators, matching complaint times against known infrastructure operati
 
 ## Why a Mechanical Drone Can Sound Like Something in the Sky
 
-Human hearing is relatively poor at locating low-frequency sound. Deep drones lack the directional cues that make higher-frequency sounds easier to pinpoint. As a result, listeners often describe low-frequency industrial noise as surrounding them rather than coming from a specific location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Human hearing is relatively poor at locating low-frequency sound. Deep drones lack the directional cues that make higher-frequency sounds easier to pinpoint. As a result, listeners often describe low-frequency industrial noise as surrounding them rather than coming from a specific location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 A pipeline-related hum can therefore create a surprisingly UFO-like experience:
 
@@ -384,199 +384,199 @@ A pipeline-related hum can therefore create a surprisingly UFO-like experience:
 
 </div>
 
-When combined with darkness, atmospheric sound propagation and the hidden nature of gas infrastructure, ordinary compressor or pipeline operations can produce reports that sound extraordinary in retelling. The mystery often lies not in the existence of the sound itself, but in how effectively low-frequency industrial noise conceals its true origin. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
+When combined with darkness, atmospheric sound propagation and the hidden nature of gas infrastructure, ordinary compressor or pipeline operations can produce reports that sound extraordinary in retelling. The mystery often lies not in the existence of the sound itself, but in how effectively low-frequency industrial noise conceals its true origin. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cerjan.com">[Cerjan Acoustics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cerjan.com</span><span class="citation-popover-snippet">Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-3-dark.svg" | relative_url }}" alt="Pipelines illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_pipeline_mechanical_a2c6c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Pipeline Machinery Explain a Mystery Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Pipeline Machinery Explain a Mystery Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
-        </h4>
-        <p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
+</h4>
+<p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
         
-        <p class="fr-book-desc">Covers low-frequency machinery, vibration, and environmental noise transmission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers low-frequency machinery, vibration, and environmental noise transmission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Environmental Engineering and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_JgoAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Environmental Engineering and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Environmental Engineering and Science">Introduction to Environmental Engineering and Science</a>
-        </h4>
-        <p class="fr-book-author">By Gilbert M. Masters, Wendell Ela</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Environmental Engineering and Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_JgoAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Environmental Engineering and Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Environmental Engineering and Science">Introduction to Environmental Engineering and Science</a>
+</h4>
+<p class="fr-book-author">By Gilbert M. Masters, Wendell Ela</p>
         
-        <p class="fr-book-desc">Provides infrastructure and environmental impact context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides infrastructure and environmental impact context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Environmental+Engineering+and+Science+by+Gilbert+M.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Mike Goldsmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Mike Goldsmith</p>
         
-        <p class="fr-book-desc">Useful primer on sound behaviour relevant to pipeline drones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful primer on sound behaviour relevant to pipeline drones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
-        </h4>
-        <p class="fr-book-author">By Eric J. Heller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
+</h4>
+<p class="fr-book-author">By Eric J. Heller</p>
         
-        <p class="fr-book-desc">Explains how low-frequency sound can be perceived over distance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how low-frequency sound can be perceived over distance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Environmental+Engineering+and+Science+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Environmental Engineering and Science books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Environmental+Engineering+and+Science+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Environmental Engineering and Science books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="pipelines-can-pipeline-machinery-explain-a-mystery-drone-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ When combined with darkness, atmospheric sound propagation and the hidden nature
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ When combined with darkness, atmospheric sound propagation and the hidden nature
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ When combined with darkness, atmospheric sound propagation and the hidden nature
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ When combined with darkness, atmospheric sound propagation and the hidden nature
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ When combined with darkness, atmospheric sound propagation and the hidden nature
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,127 +782,127 @@ When combined with darkness, atmospheric sound propagation and the hidden nature
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cerjan.com  
-   Link: <a href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.cerjan.com/gas-transmission-and-compressor-station-noise/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</p></details>
+   Link:<a href="https://www.cerjan.com/gas-transmission-and-compressor-station-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.cerjan.com/gas-transmission-and-compressor-station-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cerjan AcousticsGas Transmission &amp; Compressor Station NoiseThe noise originates from various sources, including the compressors themselve...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Controlling transient gas flow in real-world pipeline intersection areas  
-   Link: <a href="https://arxiv.org/abs/2206.06277" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.06277</a>  
+   Link:<a href="https://arxiv.org/abs/2206.06277" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.06277</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1350630714003379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis and Research on Pipeline Vibration of a Natural...December 17, 2020 — The main conclusions are as follows: (1) The...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347423789_Analysis_and_Research_on_Pipeline_Vibration_of_a_Natural_Gas_Compressor_Station_and_Vibration_Reduction_Measures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis and Research on Pipeline Vibration of a Natural...December 17, 2020 — The main conclusions are as follows: (1) The...</p></details>
    Published: December 17, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0955598625001220" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0955598625001220</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on vibration characteristics and reduction...by J Lu · 2025 · Cited by 1 — This study provides theoretical insights and practic...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0955598625001220" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0955598625001220</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on vibration characteristics and reduction...by J Lu · 2025 · Cited by 1 — This study provides theoretical insights and practic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vdn.woodgroup.com  
-   Link: <a href="https://vdn.woodgroup.com/knowledge-center/vibration-issues-affecting-gas-compressor-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://vdn.woodgroup.com/knowledge-center/vibration-issues-affecting-gas-compressor-facilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Issues Affecting Gas Compressor FacilitiesPressure pulsations at pocket passing frequency can create high vibration leading to pipe failu...</p></details>
+   Link:<a href="https://vdn.woodgroup.com/knowledge-center/vibration-issues-affecting-gas-compressor-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://vdn.woodgroup.com/knowledge-center/vibration-issues-affecting-gas-compressor-facilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Issues Affecting Gas Compressor FacilitiesPressure pulsations at pocket passing frequency can create high vibration leading to pipe failu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ventx.co.uk  
    Title: Ventx How is noise created in natural gas pipelines?  
-   Link: <a href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow">https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</p></details>
+   Link:<a href="https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/" target="_blank" rel="noopener noreferrer nofollow">https://ventx.co.uk/how-is-noise-created-in-natural-gas-pipelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Control valves, components that regulate gas flow through the pipeline, can also be major noise sources. This happens...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ventx.co.uk  
-   Link: <a href="https://ventx.co.uk/flutter-and-hum-explained/" target="_blank" rel="noopener noreferrer nofollow">https://ventx.co.uk/flutter-and-hum-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flutter and hum noise - Natural gas silencers - VentxApril 29, 2022 — 29 Apr 2022 — They occur due to the transmission of high press...</p></details>
+   Link:<a href="https://ventx.co.uk/flutter-and-hum-explained/" target="_blank" rel="noopener noreferrer nofollow">https://ventx.co.uk/flutter-and-hum-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flutter and hum noise - Natural gas silencers - VentxApril 29, 2022 — 29 Apr 2022 — They occur due to the transmission of high press...</p></details>
    Published: April 29, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: repository.lboro.ac.uk  
-   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loughborough Research RepositoryInvestigation of environmental low-frequency noiseby VV Krylov · Cited by 7 — According to this hypothesi...</p></details>
+   Link:<a href="https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Investigation_of_environmental_low-frequency_noise/9225014/1/files/16804508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loughborough Research RepositoryInvestigation of environmental low-frequency noiseby VV Krylov · Cited by 7 — According to this hypothesi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: soundfighter.com  
    Title: reducing noise natural gas compressor station  
-   Link: <a href="https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Fighter SystemsNatural Gas Compressor Stations And Reducing Noise...Nov 2, 2017 — Minimizing the constant hum of equipment · Using...</p></details>
+   Link:<a href="https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.soundfighter.com/reducing-noise-natural-gas-compressor-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Fighter SystemsNatural Gas Compressor Stations And Reducing Noise...Nov 2, 2017 — Minimizing the constant hum of equipment · Using...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: docs.wind-watch.org  
-   Link: <a href="https://docs.wind-watch.org/Kohlhase-180215-infrasound-hum-gas-pipeline-syndrome.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Kohlhase-180215-infrasound-hum-gas-pipeline-syndrome.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocsThe Hum, It&#x27;s all about an Epidemic called Gas Pipeline...Moving high pressure through pipelines can create turbulence, v...</p></details>
+   Link:<a href="https://docs.wind-watch.org/Kohlhase-180215-infrasound-hum-gas-pipeline-syndrome.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Kohlhase-180215-infrasound-hum-gas-pipeline-syndrome.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocsThe Hum, It&#x27;s all about an Epidemic called Gas Pipeline...Moving high pressure through pipelines can create turbulence, v...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/natural</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryas found in nature and not involving anything made or done by people: a natural substance...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/natural</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryas found in nature and not involving anything made or done by people: a natural substance...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/natural</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; Meaning4 days ago — 1. based on an inherent sense of right and wrong; natural justice. 2. a: being in accordance wi...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/natural</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; Meaning4 days ago — 1. based on an inherent sense of right and wrong; natural justice. 2. a: being in accordance wi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheHum/comments/1ascin1/the_hum_explained_by_an_industry_service_provider/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheHum/comments/1ascin1/the_hum_explained_by_an_industry_service_provider/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hum explained by an industry service providerThey occur due to the transmission of high pressure natural gas through the set ups. The...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheHum/comments/1ascin1/the_hum_explained_by_an_industry_service_provider/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheHum/comments/1ascin1/the_hum_explained_by_an_industry_service_provider/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hum explained by an industry service providerThey occur due to the transmission of high pressure natural gas through the set ups. The...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/natural</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; MeaningNatural describes something that comes from nature, rather than being man-made. Your healthy friend who only...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/natural</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; MeaningNatural describes something that comes from nature, rather than being man-made. Your healthy friend who only...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: energy.sustainability-directory.com  
-   Link: <a href="https://energy.sustainability-directory.com/area/compressor-station-broadband-noise/resource/3/" target="_blank" rel="noopener noreferrer nofollow">https://energy.sustainability-directory.com/area/compressor-station-broadband-noise/resource/3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Compressor Station Broadband Noise represents the pervasive, low-frequency acoustic energy emitted by natural gas compression facilities...</p></details>
+   Link:<a href="https://energy.sustainability-directory.com/area/compressor-station-broadband-noise/resource/3/" target="_blank" rel="noopener noreferrer nofollow">https://energy.sustainability-directory.com/area/compressor-station-broadband-noise/resource/3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compressor Station Broadband Noise represents the pervasive, low-frequency acoustic energy emitted by natural gas compression facilities...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nrdc.org  
    Title: live tape dangerous noise emitted natural gas compressor stations neighborhoods  
-   Link: <a href="https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods" target="_blank" rel="noopener noreferrer nofollow">https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live on tape: the dangerous noise emitted by natural gas...Feb 22, 2010 — Low-frequency noise (LFN), also created by compressor stations...</p></details>
+   Link:<a href="https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods" target="_blank" rel="noopener noreferrer nofollow">https://www.nrdc.org/bio/amy-mall/live-tape-dangerous-noise-emitted-natural-gas-compressor-stations-neighborhoods</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live on tape: the dangerous noise emitted by natural gas...Feb 22, 2010 — Low-frequency noise (LFN), also created by compressor stations...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;[Bristol hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such as submarines...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;[Bristol hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such as submarines...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Fluke Webinar: Using Acoustic Imaging to Detect Compressed Gas Leaks  
-   Link: <a href="https://www.youtube.com/watch?v=-IENT7aBZik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-IENT7aBZik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noisy Gas Compressor Station and Toxic Emissions - 9 -14-16 - YouTube Noisy Gas Compressor Station and Toxic Emissions - 9 -14-16 - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-IENT7aBZik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-IENT7aBZik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noisy Gas Compressor Station and Toxic Emissions - 9 -14-16 - YouTube Noisy Gas Compressor Station and Toxic Emissions - 9 -14-16 - YouTube...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hazardexonthenet.net  
    Title: Combating noise in gas pipeline transmission.aspx  
-   Link: <a href="https://www.hazardexonthenet.net/article/114505/Combating-noise-in-gas-pipeline-transmission.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hazardexonthenet.net/article/114505/Combating-noise-in-gas-pipeline-transmission.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating noise in gas pipeline transmission24 Dec 2015 — Low frequency noise, usually caused by standing waves, can result in the mechan...</p></details>
+   Link:<a href="https://www.hazardexonthenet.net/article/114505/Combating-noise-in-gas-pipeline-transmission.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.hazardexonthenet.net/article/114505/Combating-noise-in-gas-pipeline-transmission.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combating noise in gas pipeline transmission24 Dec 2015 — Low frequency noise, usually caused by standing waves, can result in the mechan...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: extension.psu.edu  
    Title: understanding natural gas compressor stations  
-   Link: <a href="https://extension.psu.edu/understanding-natural-gas-compressor-stations/" target="_blank" rel="noopener noreferrer nofollow">https://extension.psu.edu/understanding-natural-gas-compressor-stations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Gas Compressor Stations26 Mar 2015 — As natural gas moves through a pipeline, distance, friction, and elevation differences slow...</p></details>
+   Link:<a href="https://extension.psu.edu/understanding-natural-gas-compressor-stations/" target="_blank" rel="noopener noreferrer nofollow">https://extension.psu.edu/understanding-natural-gas-compressor-stations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Gas Compressor Stations26 Mar 2015 — As natural gas moves through a pipeline, distance, friction, and elevation differences slow...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sites.google.com  
-   Link: <a href="https://sites.google.com/site/metropolitanforensics/noise-issues-with-the-gas-compressor-stations-at-the-millennium-pipeline---minisink-compressor-station" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/metropolitanforensics/noise-issues-with-the-gas-compressor-stations-at-the-millennium-pipeline---minisink-compressor-station</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISSUES WITH THE GAS COMPRESSOR...The next closest residences located to the north or east of the compressor station, after NSA No. 1, ar...</p></details>
+   Link:<a href="https://sites.google.com/site/metropolitanforensics/noise-issues-with-the-gas-compressor-stations-at-the-millennium-pipeline---minisink-compressor-station" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/metropolitanforensics/noise-issues-with-the-gas-compressor-stations-at-the-millennium-pipeline---minisink-compressor-station</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISSUES WITH THE GAS COMPRESSOR...The next closest residences located to the north or east of the compressor station, after NSA No. 1, ar...</p></details>

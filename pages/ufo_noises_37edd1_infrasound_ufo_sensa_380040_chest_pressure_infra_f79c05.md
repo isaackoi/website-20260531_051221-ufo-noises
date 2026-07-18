@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressu
 Many UFO witnesses describe a sensation that feels less like hearing a sound and more like being physically affected by something in the air. One of the most common reports is pressure in the chest: a feeling of heaviness, vibration, tightness, internal resonance or an invisible force pressing against the body. In some accounts, this sensation appears before a witness notices any obvious noise at all.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-1-dark.svg" | relative_url }}" alt="Chest pressure illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040_chest_pressure_infra_f79c05-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Low-frequency sound, especially infrasound below about 20 hertz, is often discussed as a possible explanation. Researchers have shown that very low-frequency vibrations can affect the body even when people do not consciously hear them. The idea does not prove that UFO sightings are caused by sound waves, nor does it explain every report. However, it offers a plausible mechanism for why some witnesses describe chest pressure, unease and a powerful sense of presence during unusual aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Low-frequency sound, especially infrasound below about 20 hertz, is often discussed as a possible explanation. Researchers have shown that very low-frequency vibrations can affect the body even when people do not consciously hear them. The idea does not prove that UFO sightings are caused by sound waves, nor does it explain every report. However, it offers a plausible mechanism for why some witnesses describe chest pressure, unease and a powerful sense of presence during unusual aerial events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What Chest Pressure Reports Usually Describe
 
@@ -296,7 +296,7 @@ In UFO narratives, chest pressure is rarely described as ordinary pain. Witnesse
 
 What makes these reports notable is that the sensation often seems mechanical rather than emotional. Witnesses frequently distinguish it from simple fear. They describe the pressure as something happening to them physically, not merely anxiety caused by seeing something unusual.
 
-This distinction is one reason infrasound has attracted attention in discussions of UFO-related bodily effects. Low-frequency sound can be experienced as vibration, pressure or movement rather than as a conventional audible tone. At high enough intensities, people may feel the sound through the body before they consciously recognise it as noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This distinction is one reason infrasound has attracted attention in discussions of UFO-related bodily effects. Low-frequency sound can be experienced as vibration, pressure or movement rather than as a conventional audible tone. At high enough intensities, people may feel the sound through the body before they consciously recognise it as noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gJVzp-21yuw" title="Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer">Two of the Strangest Physical UFO Events Ever Recorded | Close Encounters 111</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 318.2K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gJVzp-21yuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gJVzp-21yuw">Open on YouTube</a></p></div></div></div>
 
@@ -304,11 +304,11 @@ This distinction is one reason infrasound has attracted attention in discussions
 
 The proposed mechanism centres on the unusual behaviour of long-wavelength sound waves.
 
-Infrasound occupies frequencies below the normal hearing range. Human hearing becomes progressively less sensitive as frequency drops, meaning that a powerful infrasonic signal may be sensed physically even when it is barely audible. Researchers studying low-frequency noise have documented reports of pressure sensations, bodily vibration, annoyance, discomfort and stress responses during exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
+Infrasound occupies frequencies below the normal hearing range. Human hearing becomes progressively less sensitive as frequency drops, meaning that a powerful infrasonic signal may be sensed physically even when it is barely audible. Researchers studying low-frequency noise have documented reports of pressure sensations, bodily vibration, annoyance, discomfort and stress responses during exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
 
-Some scientists have suggested that low-frequency sound can interact with natural resonances within the body. Research on infrasound and human physiology notes that many bodily vibrations occur within similar frequency ranges, roughly between 5 and 40 hertz. Because of this overlap, certain frequencies may be perceived more strongly than ordinary sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11069-013-0827-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</span></span></span>
+Some scientists have suggested that low-frequency sound can interact with natural resonances within the body. Research on infrasound and human physiology notes that many bodily vibrations occur within similar frequency ranges, roughly between 5 and 40 hertz. Because of this overlap, certain frequencies may be perceived more strongly than ordinary sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</span></span></span>
 
-The chest is particularly relevant because it is a large cavity containing air-filled lungs and constantly moving tissues. Experimental research on low-frequency noise has reported chest resonance effects during exposure to strong low-frequency sound fields. Aviation and industrial studies have also documented sensations of vibration or pressure in the thoracic region under certain acoustic conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: movingforwardnetwork.org">[Moving Forward Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">movingforwardnetwork.org</span><span class="citation-popover-title">Moving Forward Network Effects of Low Frequency Noise and Vibrations</span><span class="citation-popover-snippet">Moving Forward NetworkEffects of Low Frequency Noise and VibrationsApril 20, 2023 — 6 Oct 2017 — A marked resonance around 60 Hz of the c...</span><span class="citation-popover-meta">Published: April 20, 2023</span></span></span>
+The chest is particularly relevant because it is a large cavity containing air-filled lungs and constantly moving tissues. Experimental research on low-frequency noise has reported chest resonance effects during exposure to strong low-frequency sound fields. Aviation and industrial studies have also documented sensations of vibration or pressure in the thoracic region under certain acoustic conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: movingforwardnetwork.org">[Moving Forward Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">movingforwardnetwork.org</span><span class="citation-popover-title">Moving Forward Network Effects of Low Frequency Noise and Vibrations</span><span class="citation-popover-snippet">Moving Forward NetworkEffects of Low Frequency Noise and VibrationsApril 20, 2023 — 6 Oct 2017 — A marked resonance around 60 Hz of the c...</span><span class="citation-popover-meta">Published: April 20, 2023</span></span></span>
 
 This does not mean that every low-frequency sound produces chest pressure. The effect depends on factors such as frequency, sound intensity, duration, individual sensitivity and the surrounding environment. Nevertheless, the mechanism offers a concrete explanation for why a witness might feel a bodily force without identifying a conventional source.
 
@@ -317,13 +317,13 @@ This does not mean that every low-frequency sound produces chest pressure. The e
 
 One of the more intriguing aspects of UFO reports is that chest pressure is often accompanied by a powerful feeling that "something is there".
 
-Researchers studying unusual environmental sensations have repeatedly noted that infrasound can contribute to feelings of unease, anxiety and heightened awareness. Some experiments suggest that people exposed to low-frequency vibrations may experience increased stress responses even when they cannot consciously detect the sound. Recent laboratory work found elevated cortisol levels and increased irritability during hidden infrasound exposure, despite participants being unable to reliably identify when the sound was present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span>
+Researchers studying unusual environmental sensations have repeatedly noted that infrasound can contribute to feelings of unease, anxiety and heightened awareness. Some experiments suggest that people exposed to low-frequency vibrations may experience increased stress responses even when they cannot consciously detect the sound. Recent laboratory work found elevated cortisol levels and increased irritability during hidden infrasound exposure, despite participants being unable to reliably identify when the sound was present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span>
 
 This combination matters because human perception does not neatly separate physical sensation from interpretation. If a person suddenly feels chest pressure, vibration and unexplained discomfort while observing an unusual light or object, the brain naturally attempts to connect those experiences.
 
 The result can be a powerful impression that the object itself is exerting an influence. Even if the physical sensation originated from an environmental acoustic source, the witness may reasonably associate it with whatever unusual event is occurring at the same moment.
 
-Researchers investigating allegedly haunted environments have proposed a similar process. In these cases, unexplained bodily sensations can become attached to paranormal interpretations because people seek an explanation for a physical feeling they cannot identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[Wind Watch Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-title">Wind Watch Documentation Something in the Cellar</span><span class="citation-popover-snippet">Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgs.ph.ed.ac.uk">[The Higgs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgs.ph.ed.ac.uk</span><span class="citation-popover-snippet">The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</span></span></span> Centre for Theoretical Physics
+Researchers investigating allegedly haunted environments have proposed a similar process. In these cases, unexplained bodily sensations can become attached to paranormal interpretations because people seek an explanation for a physical feeling they cannot identify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[Wind Watch Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-title">Wind Watch Documentation Something in the Cellar</span><span class="citation-popover-snippet">Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgs.ph.ed.ac.uk">[The Higgs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgs.ph.ed.ac.uk</span><span class="citation-popover-snippet">The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</span></span></span> Centre for Theoretical Physics
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g_sXydyZwDs" title="Rural UFO Encounters That Defy Logic | UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g_sXydyZwDs" target="_blank" rel="noopener noreferrer">Rural UFO Encounters That Defy Logic | UFO Files</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 128.2K &middot; Uploaded: May 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g_sXydyZwDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g_sXydyZwDs">Open on YouTube</a></p></div></div></div>
 
@@ -331,9 +331,9 @@ Researchers investigating allegedly haunted environments have proposed a similar
 
 One frequently cited case involves engineer Vic Tandy, who worked in a laboratory believed by colleagues to be haunted.
 
-Tandy reported feelings of anxiety, discomfort and the impression of a grey shape in his peripheral vision. He later discovered a source of low-frequency vibration in the room. His subsequent investigation suggested that an infrasonic standing wave around 19 hertz might have contributed to the strange experiences. The theory proposed that low-frequency vibration affected both bodily sensations and visual perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[Wind Watch Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-title">Wind Watch Documentation Something in the Cellar</span><span class="citation-popover-snippet">Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
+Tandy reported feelings of anxiety, discomfort and the impression of a grey shape in his peripheral vision. He later discovered a source of low-frequency vibration in the room. His subsequent investigation suggested that an infrasonic standing wave around 19 hertz might have contributed to the strange experiences. The theory proposed that low-frequency vibration affected both bodily sensations and visual perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.wind-watch.org">[Wind Watch Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.wind-watch.org</span><span class="citation-popover-title">Wind Watch Documentation Something in the Cellar</span><span class="citation-popover-snippet">Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</span><span class="citation-popover-meta">Published: April 26, 2005</span></span></span>
 
-Popular [retellings]({{ 'retellings/' | relative_url }}) often focus on the visual aspects of the story, but the bodily component is equally relevant. Accounts of the case describe chest vibration, breathing discomfort and a sense of dread accompanying the experience. Some discussions of the incident argue that vibration near natural resonance frequencies in parts of the body could have amplified those sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgs.ph.ed.ac.uk">[The Higgs Centre for Theoretical Physics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgs.ph.ed.ac.uk</span><span class="citation-popover-snippet">The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</span></span></span>
+Popular [retellings]({{ 'retellings/' | relative_url }}) often focus on the visual aspects of the story, but the bodily component is equally relevant. Accounts of the case describe chest vibration, breathing discomfort and a sense of dread accompanying the experience. Some discussions of the incident argue that vibration near natural resonance frequencies in parts of the body could have amplified those sensations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgs.ph.ed.ac.uk">[The Higgs Centre for Theoretical Physics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgs.ph.ed.ac.uk</span><span class="citation-popover-snippet">The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</span></span></span>
 
 The Tandy case is not evidence that UFO encounters are caused by infrasound. However, it remains influential because it demonstrates how low-frequency environmental conditions can create physical sensations that people struggle to explain in the moment.
 
@@ -344,11 +344,11 @@ The chest-pressure hypothesis has important limitations.
 
 First, many UFO reports provide no acoustic measurements. Once an event is over, investigators rarely have reliable data showing whether infrasound was present, how strong it was or where it came from. The proposed mechanism is therefore often speculative.
 
-Second, researchers continue to debate the extent of infrasound's effects on human perception. While studies support links to discomfort, stress responses and pressure sensations, stronger claims involving dramatic hallucinations or complex visual experiences remain controversial. Some psychologists consider the evidence for effects such as vibrating eyeballs and full apparitional experiences much weaker than popular accounts suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span>
+Second, researchers continue to debate the extent of infrasound's effects on human perception. While studies support links to discomfort, stress responses and pressure sensations, stronger claims involving dramatic hallucinations or complex visual experiences remain controversial. Some psychologists consider the evidence for effects such as vibrating eyeballs and full apparitional experiences much weaker than popular accounts suggest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span>
 
 Third, chest pressure can arise from many unrelated causes. Anxiety, adrenaline surges, hyperventilation, environmental stress, vibration from vehicles, industrial noise and ordinary medical conditions can all create similar sensations. A witness describing chest heaviness during a UFO sighting does not automatically indicate an acoustic mechanism.
 
-Finally, even when low-frequency sound is present, identifying its source can be difficult. Natural events, distant machinery, atmospheric phenomena and structural vibrations can all generate low-frequency energy. The existence of chest pressure does not reveal whether the source was mundane, unusual or connected to the reported object at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
+Finally, even when low-frequency sound is present, identifying its source can be difficult. Natural events, distant machinery, atmospheric phenomena and structural vibrations can all generate low-frequency energy. The existence of chest pressure does not reveal whether the source was mundane, unusual or connected to the reported object at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z6rbaLXf8rQ" title="Edwin Fuhr and the 1974 Langenburg, Saskatchewan UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z6rbaLXf8rQ" target="_blank" rel="noopener noreferrer">Edwin Fuhr and the 1974 Langenburg, Saskatchewan UFO Event</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts &middot; Views: 215 &middot; Uploaded: March 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z6rbaLXf8rQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z6rbaLXf8rQ">Open on YouTube</a></p></div></div></div>
 
@@ -358,197 +358,197 @@ The connection between chest pressure and low-frequency sound persists because i
 
 Infrasound provides a mechanism that sits between purely psychological explanations and claims of unknown technology. It acknowledges that witnesses may genuinely experience pressure, vibration and bodily discomfort while also recognising that such sensations can sometimes arise from environmental conditions that operate below conscious hearing.
 
-For investigators, the value of the idea is not that it solves UFO reports. Its value is that it explains how a person might feel affected by an unseen force, experience chest pressure as a real physical event, and associate that sensation with a strange object or light overhead. In cases where witnesses emphasise bodily resonance, heaviness in the chest or an almost tangible vibration in the air, low-frequency sound remains one of the most plausible known mechanisms worth considering. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11069-013-0827-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</span></span></span>
+For investigators, the value of the idea is not that it solves UFO reports. Its value is that it explains how a person might feel affected by an unseen force, experience chest pressure as a real physical event, and associate that sensation with a strange object or light overhead. In cases where witnesses emphasise bodily resonance, heaviness in the chest or an almost tangible vibration in the air, low-frequency sound remains one of the most plausible known mechanisms worth considering. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Witnesses Report Chest Pressure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Witnesses Report Chest Pressure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the broader UFO context surrounding bodily-effect reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the broader UFO context surrounding bodily-effect reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G02bQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G02bQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Looks at scientific explanations for unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at scientific explanations for unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
-        </h4>
-        <p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
+</h4>
+<p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
         
-        <p class="fr-book-desc">Directly addresses low-frequency sound and its effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses low-frequency sound and its effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how unusual bodily sensations are interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual bodily sensations are interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="chest-pressure-why-ufo-witnesses-report-chest-pressure-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,102 +754,102 @@ For investigators, the value of the idea is not that it solves UFO reports. Its 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11069-013-0827-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11069-013-0827-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11069" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11069</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkInfrasound, human health, and adaptation: an integrative...by MA Persinger · 2014 · Cited by 85 — Infrasound display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: docs.wind-watch.org  
    Title: Wind Watch Documentation Something in the Cellar  
-   Link: <a href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Something-in-the-Cellar.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</p></details>
+   Link:<a href="https://docs.wind-watch.org/Something-in-the-Cellar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.wind-watch.org/Something-in-the-Cellar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind Watch DocumentationSomething in the CellarApril 26, 2005 — by V Tandy · Cited by 85 — This paper describes an investigation into the...</p></details>
    Published: April 26, 2005  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: movingforwardnetwork.org  
    Title: Moving Forward Network Effects of Low Frequency Noise and Vibrations  
-   Link: <a href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Forward NetworkEffects of Low Frequency Noise and VibrationsApril 20, 2023 — 6 Oct 2017 — A marked resonance around 60 Hz of the c...</p></details>
+   Link:<a href="https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://movingforwardnetwork.org/wp-content/uploads/2023/04/Waye_Noise-and-Health-Effects-of-Low-Frequency-Noise-and-Vibrations_2011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moving Forward NetworkEffects of Low Frequency Noise and VibrationsApril 20, 2023 — 6 Oct 2017 — A marked resonance around 60 Hz of the c...</p></details>
    Published: April 20, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: higgs.ph.ed.ac.uk  
-   Link: <a href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow">https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</p></details>
+   Link:<a href="https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency" target="_blank" rel="noopener noreferrer nofollow">https://higgs.ph.ed.ac.uk/outreach/higgshalloween-2021/haunted-frequency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Higgs Centre for Theoretical PhysicsThe Haunted Frequency - Higgs Centre for Theoretical PhysicsVibrations in Tandy&#x27;s chest led to br...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2003/oct/16/science.farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/oct/16/science.farout</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fear frequency | Science15 Oct 2003 — The key here is frequency: 19hz is in the range known as infrasound, below the range of human h...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2003/oct/16/science.farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/oct/16/science.farout</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fear frequency | Science15 Oct 2003 — The key here is frequency: 19hz is in the range known as infrasound, below the range of human h...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There Is a Frequency That Makes You See GhostsDocumented effects of infrasound exposure at sufficient intensity include feelings of anxie...</p></details>
+   Link:<a href="https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/there-is-a-frequency-that-makes-you-see-ghosts-0c410ba07df3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There Is a Frequency That Makes You See GhostsDocumented effects of infrasound exposure at sufficient intensity include feelings of anxie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: przyrbwn.icm.edu.pl  
-   Link: <a href="https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Infrasounds on the Electrocardiograph...by C Kasprzak · Cited by 12 — Research work has now established that low–frequency...</p></details>
+   Link:<a href="https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://przyrbwn.icm.edu.pl/APP/PDF/118/a118z1p20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Infrasounds on the Electrocardiograph...by C Kasprzak · Cited by 12 — Research work has now established that low–frequency...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 400423776 Infrasound and Human Health Mechanisms Effects and Applications  
-   Link: <a href="https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrasound and Human Health: Mechanisms, Effects...14 Mar 2026 — Experimental studies demonstrate that infrasound can modulate mec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400423776_Infrasound_and_Human_Health_Mechanisms_Effects_and_Applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrasound and Human Health: Mechanisms, Effects...14 Mar 2026 — Experimental studies demonstrate that infrasound can modulate mec...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: a new study links a certain kind of sound to paranormal experiences  
-   Link: <a href="https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new study links a certain kind of sound to paranormal...One of the most famous cases of infrasound-induced hauntings happened in 1998...</p></details>
+   Link:<a href="https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PopSci/posts/a-new-study-links-a-certain-kind-of-sound-to-paranormal-experiences/1324635799538256/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A new study links a certain kind of sound to paranormal...One of the most famous cases of infrasound-induced hauntings happened in 1998...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govin Vitro Controlled Experiment” by Chaban R  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et al. (Noise...by F van den Berg · 2022 · Cited by 3 — Chaban et al. state that “the human body itself does not shield against infrasou...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9239142/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et al. (Noise...by F van den Berg · 2022 · Cited by 3 — Chaban et al. state that “the human body itself does not shield against infrasou...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>low-frequency sound that. mysteriousuniverse. TIL many UFO sightings are psychologically explained by the brain&#x27;s tendency toward Pareido...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/ytteg/til_many_ghost_sightings_can_be_attributed_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>low-frequency sound that. mysteriousuniverse. TIL many UFO sightings are psychologically explained by the brain&#x27;s tendency toward Pareido...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.lww.com  
    Title: a study on the contribution of body vibrations to.2.aspx  
-   Link: <a href="https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lippincott JournalsA study on the contribution of body vibrations to the...by Y Takahashi · 2011 · Cited by 12 — A study on the contribut...</p></details>
+   Link:<a href="https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/nohe/fulltext/2011/13500/a_study_on_the_contribution_of_body_vibrations_to.2.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lippincott JournalsA study on the contribution of body vibrations to the...by Y Takahashi · 2011 · Cited by 12 — A study on the contribut...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound, Vibration, and Entity Perception: How Low-...Infrasound around 19 hertz is notorious for producing visual disturbances...</p></details>
+   Link:<a href="https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40luxoraxis/infrasound-vibration-and-entity-perception-how-low-frequency-sound-waves-may-trigger-reports-of-f6d17014fe39</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound, Vibration, and Entity Perception: How Low-...Infrasound around 19 hertz is notorious for producing visual disturbances...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYCmNlAlD2m/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYCmNlAlD2m/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nown as being fast, so it may be that the UFO...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYCmNlAlD2m/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYCmNlAlD2m/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nown as being fast, so it may be that the UFO...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsA recent study published in *Frontiers in Behavioural Neuroscience* suggests that eerie feelings com...</p></details>

@@ -274,16 +274,16 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_so
 
 ## Introduction
 
-The Omagh Hum became a useful example of a recurring problem in unexplained-noise investigations: finding a likely source is not the same as proving it. Residents in Omagh, County Tyrone, reported a persistent low-frequency [humming]({{ 'humming/' | relative_url }}) sound during 2023 and into 2024. The noise was often described as a distant engine, vibration or droning presence, especially noticeable at night. As officials narrowed their search, attention increasingly focused on an industrial source. Yet even after investigators identified what appeared to be a probable origin, they stopped short of publicly declaring the case solved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+The Omagh Hum became a useful example of a recurring problem in unexplained-noise investigations: finding a likely source is not the same as proving it. Residents in Omagh, County Tyrone, reported a persistent low-frequency [humming]({{ 'humming/' | relative_url }}) sound during 2023 and into 2024. The noise was often described as a distant engine, vibration or droning presence, especially noticeable at night. As officials narrowed their search, attention increasingly focused on an industrial source. Yet even after investigators identified what appeared to be a probable origin, they stopped short of publicly declaring the case solved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-1-dark.svg" | relative_url }}" alt="Omagh Hum illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That gap between suspicion and proof is what makes the Omagh case important within the broader history of mysterious hums. It demonstrates how low-frequency industrial noise can be strongly indicated by acoustic evidence while remaining difficult to prove to a legal standard. For people who associate strange sounds with UFO activity or other extraordinary explanations, Omagh shows why unresolved cases can persist even when investigators think they know what is happening.
 
 ## How Investigators Narrow a Likely Source
 
-The Omagh investigation began after complaints reached Fermanagh and Omagh District Council in August 2023. Over subsequent months, more residents reported hearing the hum. The council brought in specialist acoustic expertise and carried out a prolonged monitoring effort rather than relying only on witness descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+The Omagh investigation began after complaints reached Fermanagh and Omagh District Council in August 2023. Over subsequent months, more residents reported hearing the hum. The council brought in specialist acoustic expertise and carried out a prolonged monitoring effort rather than relying only on witness descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
-According to council statements and reports discussed publicly, investigators obtained calibrated recordings of the sound and identified a distinct acoustic tone within the recordings. That tone appeared consistent with machinery rather than a naturally occurring environmental sound. Investigators reportedly concluded that the frequency pattern was likely associated with fan or ventilation equipment. This allowed them to move from a town-wide mystery toward a targeted search of industrial facilities operating around the clock. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+According to council statements and reports discussed publicly, investigators obtained calibrated recordings of the sound and identified a distinct acoustic tone within the recordings. That tone appeared consistent with machinery rather than a naturally occurring environmental sound. Investigators reportedly concluded that the frequency pattern was likely associated with fan or ventilation equipment. This allowed them to move from a town-wide mystery toward a targeted search of industrial facilities operating around the clock.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 The logic followed a familiar pattern in environmental acoustics:
 
@@ -298,7 +298,7 @@ The logic followed a familiar pattern in environmental acoustics:
 
 </div>
 
-By mid-2024, officials stated that a particular industrial premises had become the focus of the investigation. That represented a significant narrowing of possibilities. The mystery had moved from "something unknown is making a noise" to "this type of equipment at this type of site is the most plausible explanation." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+By mid-2024, officials stated that a particular industrial premises had become the focus of the investigation. That represented a significant narrowing of possibilities. The mystery had moved from "something unknown is making a noise" to "this type of equipment at this type of site is the most plausible explanation."<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZSFI3vRabo" title="2% of People Have Heard &quot;The Hum&quot; ...Have You?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer">2% of People Have Heard &quot;The Hum&quot; ...Have You?</a></p><p class="youtube-embed-meta">Channel: Thoughty2 &middot; Views: 2.7M &middot; Uploaded: August 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZSFI3vRabo">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +306,7 @@ By mid-2024, officials stated that a particular industrial premises had become t
 
 The most revealing part of the Omagh case was not the search itself but what happened after investigators believed they had identified a probable source.
 
-Council officials stated that a specific industrial premises had been identified through targeted screening. However, when additional monitoring was conducted at that location, investigators were unable to obtain conclusive evidence matching the precise tone found in earlier recordings. The council therefore declined to publicly identify the business involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+Council officials stated that a specific industrial premises had been identified through targeted screening. However, when additional monitoring was conducted at that location, investigators were unable to obtain conclusive evidence matching the precise tone found in earlier recordings. The council therefore declined to publicly identify the business involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 This distinction matters because environmental noise cases often require a higher standard of proof than public suspicion.
 
@@ -314,26 +314,26 @@ Several factors can interfere with definitive attribution:
 
 ### The sound may not be present during testing
 
-Many industrial systems do not operate in exactly the same way every hour of every day. Fans, compressors and ventilation equipment may change speed, cycle on and off, or respond to weather conditions and production demands. Investigators may record a characteristic tone on one night and fail to reproduce it later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+Many industrial systems do not operate in exactly the same way every hour of every day. Fans, compressors and ventilation equipment may change speed, cycle on and off, or respond to weather conditions and production demands. Investigators may record a characteristic tone on one night and fail to reproduce it later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 ### Weather can change sound propagation
 
-Low-frequency sound behaves differently under varying atmospheric conditions. Temperature [inversions]({{ 'inversions/' | relative_url }}) and wind conditions can make a distant source seem much louder on certain nights. A facility that appears silent during inspection may still have produced the reported sound under earlier conditions. Omagh investigators specifically noted that the hum became more noticeable under certain atmospheric circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
+Low-frequency sound behaves differently under varying atmospheric conditions. Temperature [inversions]({{ 'inversions/' | relative_url }}) and wind conditions can make a distant source seem much louder on certain nights. A facility that appears silent during inspection may still have produced the reported sound under earlier conditions. Omagh investigators specifically noted that the hum became more noticeable under certain atmospheric circumstances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
 ### Multiple sources can overlap
 
-Industrial areas rarely contain a single machine producing a single tone. Several facilities may generate similar low-frequency sounds. Investigators can become confident that the sound is industrial while remaining uncertain about exactly which installation is responsible. This problem has appeared in other hum investigations around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Industrial areas rarely contain a single machine producing a single tone. Several facilities may generate similar low-frequency sounds. Investigators can become confident that the sound is industrial while remaining uncertain about exactly which installation is responsible. This problem has appeared in other hum investigations around the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-2-dark.svg" | relative_url }}" alt="Omagh Hum illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Suspicion is not evidence
 
-A council or regulator cannot normally accuse a specific business publicly without evidence that would withstand legal scrutiny. In Omagh, officials made clear that they did not believe they possessed sufficient evidence to support formal action or public naming of the suspected source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
+A council or regulator cannot normally accuse a specific business publicly without evidence that would withstand legal scrutiny. In Omagh, officials made clear that they did not believe they possessed sufficient evidence to support formal action or public naming of the suspected source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
 The result is an awkward middle ground: investigators may privately regard a source as highly likely while publicly describing the case as unresolved.
 
 ## Why the Noise Disappearing Did Not Fully Solve the Mystery
 
-One of the most intriguing developments was that the hum reportedly ceased or became inaudible after the investigation had focused on a likely industrial source. Residents informed environmental health officers that the noise was no longer being heard, and the council acknowledged that the problem appeared to have subsided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+One of the most intriguing developments was that the hum reportedly ceased or became inaudible after the investigation had focused on a likely industrial source. Residents informed environmental health officers that the noise was no longer being heard, and the council acknowledged that the problem appeared to have subsided.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 On the surface, this sounds like confirmation that investigators had found the culprit. Yet it still fell short of proof.
 
@@ -349,7 +349,7 @@ The disappearance could be interpreted in several ways:
 
 </div>
 
-Because investigators lacked direct evidence connecting the recorded tone to a specific machine at a specific time, the end of the noise remained suggestive rather than conclusive. Officials continued to keep the complaint open for review rather than declaring the matter permanently settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+Because investigators lacked direct evidence connecting the recorded tone to a specific machine at a specific time, the end of the noise remained suggestive rather than conclusive. Officials continued to keep the complaint open for review rather than declaring the matter permanently settled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 That unresolved ending is precisely what frustrates both residents and sceptics. The public often expects investigations to conclude with a named source and a definitive explanation. Environmental acoustics does not always cooperate.
 
@@ -357,218 +357,218 @@ That unresolved ending is precisely what frustrates both residents and sceptics.
 
 ## What the Omagh Hum Teaches UFO Witnesses
 
-The Omagh case sits within a broader pattern in which unusual sounds acquire extraordinary interpretations before their likely causes are identified. Reports of UFO-related noises frequently describe qualities also found in documented hum cases: a deep vibration, an electrical drone, a sensation that the sound comes from the sky, and difficulty locating its [direction]({{ 'direction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">omagh hum mystery wind lamps subsidence</span><span class="citation-popover-snippet">It&#x27;s a bit of a mystery&#x27;: what&#x27;s causing Omagh&#x27;s hum?21 Nov 2023 — Reports of the low-frequency buzz began in September and theories ran...</span></span></span>
+The Omagh case sits within a broader pattern in which unusual sounds acquire extraordinary interpretations before their likely causes are identified. Reports of UFO-related noises frequently describe qualities also found in documented hum cases: a deep vibration, an electrical drone, a sensation that the sound comes from the sky, and difficulty locating its [direction]({{ 'direction/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">omagh hum mystery wind lamps subsidence</span><span class="citation-popover-snippet">It&#x27;s a bit of a mystery&#x27;: what&#x27;s causing Omagh&#x27;s hum?21 Nov 2023 — Reports of the low-frequency buzz began in September and theories ran...</span></span></span>
 
 Omagh demonstrates several lessons relevant to alleged UFO sounds:
 
-**A sound can be real without being mysterious.** The existence of genuine witness reports does not automatically imply an exotic source. Investigators treated the complaints seriously and gathered recordings that indicated an external acoustic signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+**A sound can be real without being mysterious.** The existence of genuine witness reports does not automatically imply an exotic source. Investigators treated the complaints seriously and gathered recordings that indicated an external acoustic signal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
-**Direction is often misleading.** Low-frequency sound is notoriously difficult for humans to locate. A stationary industrial source can seem airborne or mobile, especially at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+**Direction is often misleading.** Low-frequency sound is notoriously difficult for humans to locate. A stationary industrial source can seem airborne or mobile, especially at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-**Incomplete proof encourages speculation.** When authorities identify a likely source but cannot prove it conclusively, the information vacuum can be filled by alternative theories. The less transparent the final answer appears, the more room remains for rumours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Source of humming noise plaguing residents in NI town &#x27;...12 Jun 2024 — An investigation has traced what is believed to be the source of...</span></span></span>
+**Incomplete proof encourages speculation.** When authorities identify a likely source but cannot prove it conclusively, the information vacuum can be filled by alternative theories. The less transparent the final answer appears, the more room remains for rumours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfasttelegraph.co.uk">[Belfast Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfasttelegraph.co.uk</span><span class="citation-popover-snippet">Source of humming noise plaguing residents in NI town &#x27;...12 Jun 2024 — An investigation has traced what is believed to be the source of...</span></span></span>
 
-**An unsolved case is not necessarily an unexplained phenomenon.** Omagh illustrates the difference between "we do not know" and "we cannot prove." The evidence pointed toward industrial equipment, yet investigators could not close every evidential gap required for a definitive public conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
+**An unsolved case is not necessarily an unexplained phenomenon.** Omagh illustrates the difference between "we do not know" and "we cannot prove." The evidence pointed toward industrial equipment, yet investigators could not close every evidential gap required for a definitive public conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fermanaghomagh.com">[Fermanagh &amp; Omagh District Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fermanaghomagh.com</span><span class="citation-popover-snippet">Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-3-dark.svg" | relative_url }}" alt="Omagh Hum illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_omagh_hum_source_pro_58cb86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Larger Critique: Why Hum Cases Rarely End Neatly
 
 The strongest lesson from Omagh is that environmental noise investigations operate under practical and legal constraints that are often invisible to the public. People tend to imagine that once a source is suspected, the mystery should be over. In reality, low-frequency sound can travel unpredictably, fluctuate over time and vanish before investigators gather decisive evidence.
 
-This creates a recurring pattern seen in hum reports worldwide. Investigators narrow the possibilities. A probable industrial explanation emerges. The noise changes or disappears. Yet the final step—proving beyond reasonable dispute that one source caused the complaints—remains elusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+This creates a recurring pattern seen in hum reports worldwide. Investigators narrow the possibilities. A probable industrial explanation emerges. The noise changes or disappears. Yet the final step—proving beyond reasonable dispute that one source caused the complaints—remains elusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 For that reason, the Omagh Hum is less a story about an unexplained sound than a story about evidential limits. It shows how a community can move very close to an answer while still falling short of the certainty many people expect. In the context of [UFO noises]({{ 'ufo-noises/' | relative_url }}), that distinction matters. A case may remain officially unresolved not because the source is unknown, but because proving the source is harder than finding it.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aPYp1TU9cc0" title="Canadian frustration at US border &#x27;hum&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aPYp1TU9cc0" target="_blank" rel="noopener noreferrer">Canadian frustration at US border &#x27;hum&#x27;</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 18.7K &middot; Uploaded: February 2012 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aPYp1TU9cc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aPYp1TU9cc0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Hum Investigations Do Not End Cleanly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Hum Investigations Do Not End Cleanly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
-        </h4>
-        <p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
+</h4>
+<p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
         
-        <p class="fr-book-desc">Provides technical background on identifying and measuring industrial noise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides technical background on identifying and measuring industrial noise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
-        </h4>
-        <p class="fr-book-author">By Emile Souvestre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peronnik on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MU_ZGwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peronnik" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peronnik">Peronnik</a>
+</h4>
+<p class="fr-book-author">By Emile Souvestre</p>
         
-        <p class="fr-book-desc">Examines how unusual reports are evaluated and why some remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual reports are evaluated and why some remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peronnik+by+Emile+Souvestre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores how people interpret ambiguous evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people interpret ambiguous evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hum%3A+A+Global+History+of+the+Mysterious+Sound+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hum: A Global History of the Mysterious Sound on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hum%3A+A+Global+History+of+the+Mysterious+Sound+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hum: A Global History of the Mysterious Sound">The Hum: A Global History of the Mysterious Sound</a>
-        </h4>
-        <p class="fr-book-author">By Trevor Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hum%3A+A+Global+History+of+the+Mysterious+Sound+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hum: A Global History of the Mysterious Sound on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hum%3A+A+Global+History+of+the+Mysterious+Sound+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hum: A Global History of the Mysterious Sound">The Hum: A Global History of the Mysterious Sound</a>
+</h4>
+<p class="fr-book-author">By Trevor Cox</p>
         
-        <p class="fr-book-desc">Explains why some hum cases remain disputed despite likely explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hum%3A+A+Global+History+of+the+Mysterious+Sound+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why some hum cases remain disputed despite likely explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hum%3A+A+Global+History+of+the+Mysterious+Sound+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peronnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peronnik</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="omagh-hum-why-some-hum-investigations-do-not-end-cleanly-ufo-noises-vintage-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,101 +774,101 @@ For that reason, the Omagh Hum is less a story about an unexplained sound than a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fermanaghomagh.com  
-   Link: <a href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</p></details>
+   Link:<a href="https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.fermanaghomagh.com/article/statement-in-relation-to-investigation-into-complaint-regarding-a-humming-noise-in-omagh-town/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fermanagh &amp; Omagh District CouncilStatement in relation to investigation into complaint...13 Jun 2024 — An update report in relation to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source of humming noise plaguing residents in NI town &#x27;...12 Jun 2024 — An investigation has traced what is believed to be the source of...</p></details>
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/source-of-humming-noise-plaguing-residents-in-ni-town-identified-after-very-difficult-probe/a/112044650.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source of humming noise plaguing residents in NI town &#x27;...12 Jun 2024 — An investigation has traced what is believed to be the source of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thetimes.co.uk  
    Title: The Times Omagh hum mystery solved  
-   Link: <a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: belfasttelegraph.co.uk  
-   Link: <a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belfast TelegraphNI council hints source of mystery noise plaguing residents...17 Apr 2024 — The source of a mystery hum plaguing Omagh...</p></details>
+   Link:<a href="https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belfasttelegraph.co.uk/news/northern-ireland/ni-council-hints-source-of-mystery-noise-plaguing-residents-may-have-been-found/a/112015913.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belfast TelegraphNI council hints source of mystery noise plaguing residents...17 Apr 2024 — The source of a mystery hum plaguing Omagh...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
    Title: omagh hum mystery wind lamps subsidence  
-   Link: <a href="https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s a bit of a mystery&#x27;: what&#x27;s causing Omagh&#x27;s hum?21 Nov 2023 — Reports of the low-frequency buzz began in September and theories ran...</p></details>
+   Link:<a href="https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2023/nov/21/omagh-hum-mystery-wind-lamps-subsidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s a bit of a mystery&#x27;: what&#x27;s causing Omagh&#x27;s hum?21 Nov 2023 — Reports of the low-frequency buzz began in September and theories ran...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian The Omagh hum: what is the source of the town's mystery  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A low-pitched rumble, like a car engine idling, electronic pulsing, that kind of thing. You can find simulations online...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/nov/15/the-omagh-hum-what-is-the-source-of-the-towns-mystery-moan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A low-pitched rumble, like a car engine idling, electronic pulsing, that kind of thing. You can find simulations online...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thetimes.com  
    Title: omagh hum sound source solved lhdwj62gp  
-   Link: <a href="https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Omagh hum mystery solved — but source to remain a secret19 Sept 2024 — Environmental health managers liaised with several businesses and...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/society/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Omagh hum mystery solved — but source to remain a secret19 Sept 2024 — Environmental health managers liaised with several businesses and...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Omagh Hum: The low-frequency drone drove locals to...19 Aug 2024 — Residents of Omagh, in Co Tyrone, noticed a mysterious humming no...</p></details>
+   Link:<a href="https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/culture/tv-radio/2024/08/22/the-omagh-hum-the-low-frequency-drone-drove-locals-to-distraction-it-also-led-to-this-charming-documentary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Omagh Hum: The low-frequency drone drove locals to...19 Aug 2024 — Residents of Omagh, in Co Tyrone, noticed a mysterious humming no...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: x.com  
-   Link: <a href="https://x.com/BBCNewsNI/status/1801181074216612108" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BBCNewsNI/status/1801181074216612108</a>  
+   Link:<a href="https://x.com/BBCNewsNI/status/1801181074216612108" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BBCNewsNI/status/1801181074216612108</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: irishpost.com  
    Title: council to investigate after town struck by mysterious humming noise 263680  
-   Link: <a href="https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680" target="_blank" rel="noopener noreferrer nofollow">https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish PostCouncil to investigate after town struck by mysterious...15 Nov 2023 — A council in Northern Ireland is to call in special...</p></details>
+   Link:<a href="https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680" target="_blank" rel="noopener noreferrer nofollow">https://www.irishpost.com/news/council-to-investigate-after-town-struck-by-mysterious-humming-noise-263680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish PostCouncil to investigate after town struck by mysterious...15 Nov 2023 — A council in Northern Ireland is to call in special...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8Bu0IOsD-CI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Bu0IOsD-CI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Omagh hum source traced but not made publicThe source of a mystery humming sound which has plagued people living in Omagh may now have be...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8Bu0IOsD-CI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Bu0IOsD-CI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Omagh hum source traced but not made publicThe source of a mystery humming sound which has plagued people living in Omagh may now have be...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and now noise experts could be called in to get to the bottom of it...</p></details>
+   Link:<a href="https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBC.News.NI/posts/a-mysterious-humming-noise-is-keeping-fed-up-omagh-residents-up-at-night-and-now/372697885102322/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and now noise experts could be called in to get to the bottom of it...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: telegraph.co.uk  
    Title: night hum noise council investigation omagh  
-   Link: <a href="https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery hum gives a whole town sleepless nights14 Nov 2023 — A mysterious humming noise heard at night across a town in Northern Ireland...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/2023/11/14/night-hum-noise-council-investigation-omagh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery hum gives a whole town sleepless nights14 Nov 2023 — A mysterious humming noise heard at night across a town in Northern Ireland...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>started in autumn of 2023. Can Phil Taggart track down its...</p></details>
+   Link:<a href="https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCNI/videos/some-residents-of-omagh-claim-to-have-heard-a-strange-hum-across-the-town-that-s/1080358600936257/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>started in autumn of 2023. Can Phil Taggart track down its...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: harmonicnotes.co.uk  
    Title: Harmonic Notes The Hum  
-   Link: <a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
+   Link:<a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sluggerotoole.com  
-   Link: <a href="https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/" target="_blank" rel="noopener noreferrer nofollow">https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious humming noise is disturbing the good people...14 Nov 2023 — Now, noise experts could be called in by a Northern Ireland cou...</p></details>
+   Link:<a href="https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/" target="_blank" rel="noopener noreferrer nofollow">https://sluggerotoole.com/2023/11/14/a-mysterious-humming-noise-is-disturbing-the-good-people-of-omagh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious humming noise is disturbing the good people...14 Nov 2023 — Now, noise experts could be called in by a Northern Ireland cou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Controversial Sound Only 2% Of People Hear  
-   Link: <a href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PZSFI3vRabo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Haunting Hymn of the [Taos Hum](&amp;#123;&amp;#123; &#x27;taos-hum/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PZSFI3vRabo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PZSFI3vRabo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Haunting Hymn of the [Taos Hum](&amp;#123;&amp;#123; &#x27;taos-hum/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>

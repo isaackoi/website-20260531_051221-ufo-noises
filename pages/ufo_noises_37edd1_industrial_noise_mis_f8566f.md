@@ -355,7 +355,7 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-overview-soc
 Many reported “[UFO noises]({{ 'ufo-noises/' | relative_url }})” turn out to have a much more ordinary source: industry. Low-frequency hums, metallic vibrations, electrical buzzing and distant droning sounds can travel surprisingly far from factories, substations, ventilation systems, [pipelines]({{ 'pipelines/' | relative_url }}), quarries and construction sites. At night, when background traffic falls and atmospheric conditions change, these sounds can seem detached from their true origin and appear to come from the sky or an unknown object.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-overview.webp" | relative_url }}" alt="Overview image for Industry" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every unusual sound report has been solved. Some long-running “hum” cases remain disputed. However, investigations into mysterious noises repeatedly find that industrial equipment, infrastructure and environmental acoustics can create experiences that feel genuinely strange, especially when the source is hidden from view. Understanding how these sounds behave helps explain why some UFO-related noise reports sound mysterious even when no unusual [aircraft]({{ 'aircraft/' | relative_url }}) or object is involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
+This does not mean every unusual sound report has been solved. Some long-running “hum” cases remain disputed. However, investigations into mysterious noises repeatedly find that industrial equipment, infrastructure and environmental acoustics can create experiences that feel genuinely strange, especially when the source is hidden from view. Understanding how these sounds behave helps explain why some UFO-related noise reports sound mysterious even when no unusual [aircraft]({{ 'aircraft/' | relative_url }}) or object is involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 
 ## Industrial Sources of Strange Hums
 
@@ -377,7 +377,7 @@ Common industrial sources include:
 
 </div>
 
-Low-frequency sound is especially important because humans locate it poorly. A high-pitched alarm can usually be traced to a specific direction, but a deep hum may seem to come from everywhere at once. Noise experts investigating persistent hum complaints have repeatedly pointed to industrial fans, machinery and electrical infrastructure as plausible sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> Wikipedia One reason these noises enter UFO discussions is that witnesses often describe them in terms similar to reported UFO sounds: a distant engine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>, a hovering vibration, an electrical buzz or a powerful humming presence. The overlap in descriptions can make an ordinary source seem extraordinary when the equipment itself is hidden behind buildings, terrain or darkness.
+Low-frequency sound is especially important because humans locate it poorly. A high-pitched alarm can usually be traced to a specific direction, but a deep hum may seem to come from everywhere at once. Noise experts investigating persistent hum complaints have repeatedly pointed to industrial fans, machinery and electrical infrastructure as plausible sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> Wikipedia One reason these noises enter UFO discussions is that witnesses often describe them in terms similar to reported UFO sounds: a distant engine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>, a hovering vibration, an electrical buzz or a powerful humming presence. The overlap in descriptions can make an ordinary source seem extraordinary when the equipment itself is hidden behind buildings, terrain or darkness.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-1-dark.svg" | relative_url }}" alt="Industry illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Night Makes Sources Harder to Find
@@ -400,27 +400,27 @@ The result is an experience that can feel deeply confusing:
 
 </div>
 
-These effects help explain why witnesses sometimes describe hearing a hovering object even when the actual source is stationary industrial equipment. Acoustic researchers studying persistent hum complaints have noted that low-frequency environmental noise is notoriously difficult both to locate and to measure consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the taos hum new mexicos unexplained acoustic phenomenon</span><span class="citation-popover-snippet">The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</span></span></span>
+These effects help explain why witnesses sometimes describe hearing a hovering object even when the actual source is stationary industrial equipment. Acoustic researchers studying persistent hum complaints have noted that low-frequency environmental noise is notoriously difficult both to locate and to measure consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the taos hum new mexicos unexplained acoustic phenomenon</span><span class="citation-popover-snippet">The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_TTKx9ILi8" title="Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal the End of the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer">Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal the End of the World</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.8M &middot; Uploaded: October 2023 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_TTKx9ILi8">Open on YouTube</a></p></div></div></div>
 
 ## The “Hum” Phenomenon and Industrial Explanations
 
-The best-known examples of mysterious environmental sound are often grouped under the label “The Hum”. Reports have emerged from places including Bristol, Taos, Windsor and other communities around the world. Witnesses typically describe a persistent low-frequency drone resembling distant machinery or a diesel engine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</span></span></span> These cases are frequently referenced in UFO and paranormal discussions because the source is often unclear. Yet many investigations have focused on industrial explanations rather than exotic ones.
+The best-known examples of mysterious environmental sound are often grouped under the label “The Hum”. Reports have emerged from places including Bristol, Taos, Windsor and other communities around the world. Witnesses typically describe a persistent low-frequency drone resembling distant machinery or a diesel engine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</span></span></span> These cases are frequently referenced in UFO and paranormal discussions because the source is often unclear. Yet many investigations have focused on industrial explanations rather than exotic ones.
 
-In Bristol, one long-standing theory connected reports of the hum to large industrial fans operating in the Avonmouth area. Although the explanation did not satisfy everyone, it illustrates how investigators often begin by examining nearby infrastructure rather than assuming an unknown phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
+In Bristol, one long-standing theory connected reports of the hum to large industrial fans operating in the Avonmouth area. Although the explanation did not satisfy everyone, it illustrates how investigators often begin by examining nearby infrastructure rather than assuming an unknown phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 
-In Northern Ireland, a recent investigation into the so-called Omagh Hum reportedly narrowed attention to a particular premises and possible ventilation or fan equipment. Officials stopped short of publicly identifying the source because the evidence was not considered legally conclusive, but the investigation again centred on industrial machinery rather than unexplained aerial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
+In Northern Ireland, a recent investigation into the so-called Omagh Hum reportedly narrowed attention to a particular premises and possible ventilation or fan equipment. Officials stopped short of publicly identifying the source because the evidence was not considered legally conclusive, but the investigation again centred on industrial machinery rather than unexplained aerial activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
-Researchers and acoustics specialists have also suggested links between persistent hum reports and gas pipelines, electrical infrastructure and mechanical systems. None of these explanations account for every case, but they demonstrate that large-scale industrial networks can generate sounds that are surprisingly difficult to trace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Researchers and acoustics specialists have also suggested links between persistent hum reports and gas pipelines, electrical infrastructure and mechanical systems. None of these explanations account for every case, but they demonstrate that large-scale industrial networks can generate sounds that are surprisingly difficult to trace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 ## When People Hear More Than Sound
 
 An important complication is that low-frequency noise is not always experienced as a simple audible tone.
 
-Very low-frequency vibrations can create sensations of pressure, unease, vibration or physical discomfort. Some people describe feeling a sound before clearly hearing it. Others report headaches, difficulty sleeping or a sense that something unusual is present nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
+Very low-frequency vibrations can create sensations of pressure, unease, vibration or physical discomfort. Some people describe feeling a sound before clearly hearing it. Others report headaches, difficulty sleeping or a sense that something unusual is present nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
-Recent research on infrasound—frequencies below normal hearing range—suggests that vibrations from ventilation systems, industrial machinery and similar equipment may influence mood and bodily sensations even when listeners are not consciously aware of the source. In an environment where someone already expects something unusual, those sensations can be interpreted as evidence of a UFO or other unexplained presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
+Recent research on infrasound—frequencies below normal hearing range—suggests that vibrations from ventilation systems, industrial machinery and similar equipment may influence mood and bodily sensations even when listeners are not consciously aware of the source. In an environment where someone already expects something unusual, those sensations can be interpreted as evidence of a UFO or other unexplained presence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span>
 
 This does not imply that witnesses are imagining the experience. The sound or vibration may be real. The misunderstanding often concerns the source rather than the perception itself.
 
@@ -492,203 +492,203 @@ A noise that appears only under specific atmospheric conditions is often consist
 
 ### Record What You Can
 
-Phone recordings rarely capture deep low-frequency hums accurately, but repeated recordings from different locations can still help identify patterns. Investigators examining hum complaints often use multiple recording points because the sound may be stronger indoors, outdoors or only in certain neighbourhoods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span>
+Phone recordings rarely capture deep low-frequency hums accurately, but repeated recordings from different locations can still help identify patterns. Investigators examining hum complaints often use multiple recording points because the sound may be stronger indoors, outdoors or only in certain neighbourhoods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icben.ethz.ch">[icben.ethz.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icben.ethz.ch</span><span class="citation-popover-snippet">r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</span></span></span>
 
 ## Why Industrial Explanations Persist in UFO Cases
 
 Industrial noise remains one of the strongest conventional explanations for mysterious humming and [buzzing]({{ 'buzzing/' | relative_url }}) reports because it matches several recurring features of UFO sound accounts: the source is often unseen, the sound can seem detached from its origin, and low frequencies are difficult for humans to locate accurately.
 
-The mystery is often amplified by darkness, atmospheric conditions and the psychological impact of hearing something unusual without a visible cause. In many documented hum investigations, the most plausible explanations involve infrastructure, machinery or environmental acoustics rather than unidentified craft. Even in cases where investigators never identify a single source, industrial activity usually remains among the leading possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
+The mystery is often amplified by darkness, atmospheric conditions and the psychological impact of hearing something unusual without a visible cause. In many documented hum investigations, the most plausible explanations involve infrastructure, machinery or environmental acoustics rather than unidentified craft. Even in cases where investigators never identify a single source, industrial activity usually remains among the leading possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Omagh hum mystery solved</span><span class="citation-popover-snippet">The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">the hum</span><span class="citation-popover-snippet">How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large industrial fans used...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could That UFO Noise Be Machinery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could That UFO Noise Be Machinery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
-        </h4>
-        <p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
+</h4>
+<p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
         
-        <p class="fr-book-desc">Explains industrial noise sources, propagation, vibration, and environmental sound.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains industrial noise sources, propagation, vibration, and environmental sound.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Mike Goldsmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Mike Goldsmith</p>
         
-        <p class="fr-book-desc">Provides foundations for understanding how sound behaves and travels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for understanding how sound behaves and travels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-FsoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
-        </h4>
-        <p class="fr-book-author">By R. Murray Schafer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-FsoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
+</h4>
+<p class="fr-book-author">By R. Murray Schafer</p>
         
-        <p class="fr-book-desc">Helps readers understand environmental and industrial sound perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand environmental and industrial sound perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
-        </h4>
-        <p class="fr-book-author">By Eric J. Heller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
+</h4>
+<p class="fr-book-author">By Eric J. Heller</p>
         
-        <p class="fr-book-desc">Explains acoustic behaviour that can make machinery sound mysterious.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains acoustic behaviour that can make machinery sound mysterious.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="industry-could-that-ufo-noise-be-machinery-ufo-noises-vintage-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -704,7 +704,7 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -724,7 +724,7 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -756,7 +756,7 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -808,7 +808,7 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -853,7 +853,7 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -894,133 +894,133 @@ The mystery is often amplified by darkness, atmospheric conditions and the psych
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: the hum  
-   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</p></details>
+   Link:<a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Hum Works30 Nov 2023 — Conspiracy theorists have claimed the Hum is the work of the CIA, the military, and of course...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: icben.ethz.ch  
-   Link: <a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</p></details>
+   Link:<a href="https://icben.ethz.ch/2008/PDFs/Cowan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icben.ethz.ch/2008/PDFs/Cowan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r low frequency acoustic signals and that microphone picked up nothing unusual in that study.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discoveryuk.com  
    Title: the [taos hum](&#123;&#123; 'taos-hum/' | relative_url &#125;&#125;) new mexicos unexplained acoustic phenomenon  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum: New Mexico&#x27;s Unexplained Acoustic...14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
+   Link:<a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: taos.org  
    Title: From the Gorge Bridge to Taos Pueblo to the Earthships & more!Read more  
-   Link: <a href="https://taos.org/" target="_blank" rel="noopener noreferrer nofollow">https://taos.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New Mexico - Visit Taos and Discover New MexicoCome experience Taos&#x27; landmark sites and see some of the amazing places that make Ta...</p></details>
+   Link:<a href="https://taos.org/" target="_blank" rel="noopener noreferrer nofollow">https://taos.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New Mexico - Visit Taos and Discover New MexicoCome experience Taos&#x27; landmark sites and see some of the amazing places that make Ta...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Taos, New Mexico  
-   Link: <a href="https://en.wikipedia.org/wiki/Taos%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taos%2C_New_Mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New MexicoTaos is a town in Taos County, in the north-central region of New Mexico. Situated between the Rio Grande Gorge and th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Taos%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taos%2C_New_Mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, New MexicoTaos is a town in Taos County, in the north-central region of New Mexico. Situated between the Rio Grande Gorge and th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Volkswagen Taos  
-   Link: <a href="https://en.wikipedia.org/wiki/Volkswagen_Taos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Volkswagen_Taos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Volkswagen TaosThe Volkswagen Taos is a compact crossover SUV marketed by Volkswagen. It was first released in October 2018 as the Vol...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Volkswagen_Taos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Volkswagen_Taos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volkswagen TaosThe Volkswagen Taos is a compact crossover SUV marketed by Volkswagen. It was first released in October 2018 as the Vol...</p></details>
    Published: October 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the [Bristol Hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;) originated from large industrial fans used...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A prevailing theory was that the [Bristol Hum](&amp;#123;&amp;#123; &#x27;bristol-hum/&#x27; | relative_url &amp;#125;&amp;#125;) originated from large industrial fans used...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thetimes.co.uk  
    Title: The Times Omagh hum mystery solved  
-   Link: <a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/omagh-hum-sound-source-solved-lhdwj62gp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fermanagh and Omagh district council engaged a noise consultant who identified a specific location as the probable origin. However, d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thetimes.com  
    Title: The Times Sensed a bump in the night?  
-   Link: <a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/bump-in-the-night-pipes-ghosts-h3nx3h3f0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not ghosts - just bad vibrationsApril 27, 2026 — A recent study published in *Frontiers in Behavioural Neuroscience* suggests that e...</p></details>
    Published: April 27, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: harmonicnotes.co.uk  
    Title: The Hum  
-   Link: <a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
+   Link:<a href="https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/" target="_blank" rel="noopener noreferrer nofollow">https://harmonicnotes.co.uk/index.php/2022/07/11/the-hum-the-misery-of-low-frequency-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Misery of Low Frequency Noise11 Jul 2022 — The Hum is a name often given to widespread reports of a persistent and invasive low-frequ...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vw.com  
-   Link: <a href="https://www.vw.com/en/models/taos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vw.com/en/models/taos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 VW Taos: Our 5-seat Compact SUVConquer the road with the 2026 Volkswagen Taos, our small SUV that&#x27;s powerful, comfortable, and anyth...</p></details>
+   Link:<a href="https://www.vw.com/en/models/taos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vw.com/en/models/taos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2026 VW Taos: Our 5-seat Compact SUVConquer the road with the 2026 Volkswagen Taos, our small SUV that&#x27;s powerful, comfortable, and anyth...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: taosnm.gov  
-   Link: <a href="https://taosnm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://taosnm.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, NM | Official WebsitePublic Meetings Livestream and Archive · Get Town Alerts by Email or Text · View the Taos Water Outage Map · L...</p></details>
+   Link:<a href="https://taosnm.gov/" target="_blank" rel="noopener noreferrer nofollow">https://taosnm.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taos, NM | Official WebsitePublic Meetings Livestream and Archive · Get Town Alerts by Email or Text · View the Taos Water Outage Map · L...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: repository.lboro.ac.uk  
-   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of environmental low-frequency noiseby VV Krylov · Cited by 3 — The present paper describes the methodology and some of the results of ou...</p></details>
+   Link:<a href="https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Measurements_of_environmental_low-frequency_noise/9226889/1/files/16806449.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of environmental low-frequency noiseby VV Krylov · Cited by 3 — The present paper describes the methodology and some of the results of ou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tinnitusjournal.com  
-   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum and Taos Hum are the common terms...</p></details>
+   Link:<a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum and Taos Hum are the common terms...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newmexico.org  
-   Link: <a href="https://www.newmexico.org/places-to-visit/regions/northcentral/taos/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexico.org/places-to-visit/regions/northcentral/taos/</a>  
+   Link:<a href="https://www.newmexico.org/places-to-visit/regions/northcentral/taos/" target="_blank" rel="noopener noreferrer nofollow">https://www.newmexico.org/places-to-visit/regions/northcentral/taos/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Had Residents In New Mexico Convinced...5 Jul 2023 — The Taos Hum is one of many hum studies explored by James Cowan in a 2...</p></details>
+   Link:<a href="https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-taos-hum-had-residents-in-new-mexico-convinced-they-could-hear-something-69672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Taos Hum Had Residents In New Mexico Convinced...5 Jul 2023 — The Taos Hum is one of many hum studies explored by James Cowan in a 2...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Low-Frequency Noise That Drives People to the Edge — and Has No Proven Source.Read more...</p></details>
+   Link:<a href="https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/chapters/the-taos-hum-the-sound-that-shouldn-t-exist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Low-Frequency Noise That Drives People to the Edge — and Has No Proven Source.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>c, seismic or electromagnetic origin, prompting researchers to shift their...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305743246_Manifestations_of_a_low-frequency_sound_of_unknown_origin_perceived_worldwide_also_known_as_the_Hum_or_the_Taos_Hum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>c, seismic or electromagnetic origin, prompting researchers to shift their...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: exxosforum.co.uk  
    Title: Turbulence within these pipelines can create pressure  
-   Link: <a href="https://www.exxosforum.co.uk/articles/hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exxosforum.co.uk/articles/hum.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesPotential causes include environmental factors like gas pipelines and electrical infrast...</p></details>
+   Link:<a href="https://www.exxosforum.co.uk/articles/hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exxosforum.co.uk/articles/hum.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Low-Frequency Hum: Causes and TheoriesPotential causes include environmental factors like gas pipelines and electrical infrast...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bonblossman.com  
    Title: the enigma of the taos hum a mysterious phenomenon  
-   Link: <a href="https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: A Mysterious PhenomenonDec 15, 2023 — The Taos Hum is described as a faint, low-frequency humming noise, akin...</p></details>
+   Link:<a href="https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.bonblossman.com/post/the-enigma-of-the-taos-hum-a-mysterious-phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Enigma of the Taos Hum: A Mysterious PhenomenonDec 15, 2023 — The Taos Hum is described as a faint, low-frequency humming noise, akin...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tripadvisor.com  
    Title: Tourism g47224 Taos Taos County New Mexico Vacations  
-   Link: <a href="https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its rugged beauty, majestic mountains, wild Rio Grande river and unique blend of cultures - Spanish, Native American and AngloRead more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Tourism-g47224-Taos_Taos_County_New_Mexico-Vacations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its rugged beauty, majestic mountains, wild Rio Grande river and unique blend of cultures - Spanish, Native American and AngloRead more...</p></details>

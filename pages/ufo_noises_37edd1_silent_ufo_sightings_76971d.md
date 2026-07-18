@@ -375,7 +375,7 @@ Common descriptions include:
 
 This distinction matters because witnesses usually judge silence against everyday experience. A helicopter, for example, is expected to produce rotor noise. A low-flying passenger aircraft is expected to be audible. When something appears visually similar but does not generate the expected sound, the absence itself becomes part of the mystery.
 
-Many classic “black triangle” reports emphasise this point. During the Belgian UFO wave of 1989–1990, numerous witnesses described large triangular objects with lights underneath that appeared to move slowly and quietly across the sky. Silence became one of the most repeated elements in those accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span>
+Many classic “black triangle” reports emphasise this point. During the Belgian UFO wave of 1989–1990, numerous witnesses described large triangular objects with lights underneath that appeared to move slowly and quietly across the sky. Silence became one of the most repeated elements in those accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" alt="Silence illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Large Objects Can Appear Silent
@@ -386,21 +386,21 @@ Without clear visual reference points, a relatively ordinary aircraft can appear
 
 Sound also behaves differently from light. Light reaches an observer almost instantly, while sound travels through air at roughly 343 metres per second. A distant aircraft may be seen first, with engine noise arriving later or not being noticed at all.
 
-Weather further complicates matters. Wind [direction]({{ 'direction/' | relative_url }}), temperature layers and atmospheric conditions can bend, absorb or redirect sound waves. The FAA notes that weather conditions significantly affect how aircraft noise dissipates and reaches listeners on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span>
+Weather further complicates matters. Wind [direction]({{ 'direction/' | relative_url }}), temperature layers and atmospheric conditions can bend, absorb or redirect sound waves. The FAA notes that weather conditions significantly affect how aircraft noise dissipates and reaches listeners on the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span>
 
 As a result, an aircraft can occasionally seem much quieter than expected, particularly:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * At night.
-* During windy conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyreagan.com">[flyreagan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyreagan.com</span><span class="citation-popover-snippet">DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</span></span></span>
+* During windy conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flyreagan.com">[flyreagan.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flyreagan.com</span><span class="citation-popover-snippet">DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</span></span></span>
 * When sound is carried away from observers.
 * When background environmental noise masks the source.
 * When observers are inside vehicles or buildings.
 
 </div>
 
-Researchers examining the Belgian UFO wave specifically suggested that some reports of silent objects could have been influenced by witnesses hearing little or no engine noise because of wind conditions or because they were [inside cars]({{ 'inside-cars/' | relative_url }}) where ambient noise masked external sounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Researchers examining the Belgian UFO wave specifically suggested that some reports of silent objects could have been influenced by witnesses hearing little or no engine noise because of wind conditions or because they were [inside cars]({{ 'inside-cars/' | relative_url }}) where ambient noise masked external sounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbQhrIRCs-c" title="This European UFO Was Spotted by Thousands of People | Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer">This European UFO Was Spotted by Thousands of People | Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 7.6K &middot; Uploaded: January 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbQhrIRCs-c">Open on YouTube</a></p></div></div></div>
 
@@ -410,7 +410,7 @@ One reason silence features so heavily in UFO reports is that humans are general
 
 A bright light can appear close even when it is many kilometres away. If observers believe an object is directly overhead when it is actually distant, they may expect a level of sound that would never realistically reach them.
 
-Atmospheric masking can reinforce that impression. Aircraft-noise studies show that sound propagation is affected by temperature, humidity, terrain and wind. Noise may weaken, scatter or travel unevenly across large distances. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascent.aero">[ascent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascent.aero</span><span class="citation-popover-title">Project 1 &#124; Low Frequency Noise Study</span><span class="citation-popover-snippet">It encompassed many factors, including the source level and its...Read more...</span></span></span> This creates situations where:
+Atmospheric masking can reinforce that impression. Aircraft-noise studies show that sound propagation is affected by temperature, humidity, terrain and wind. Noise may weaken, scatter or travel unevenly across large distances. Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ascent.aero">[ascent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ascent.aero</span><span class="citation-popover-title">Project 1 &#124; Low Frequency Noise Study</span><span class="citation-popover-snippet">It encompassed many factors, including the source level and its...Read more...</span></span></span> This creates situations where:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -421,7 +421,7 @@ Atmospheric masking can reinforce that impression. Aircraft-noise studies show t
 
 </div>
 
-Modern aviation noise research exists largely because sound transmission is complex and often counterintuitive. Airports and regulators use detailed modelling systems precisely because noise does not spread evenly through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Noisequest For UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Belgian UFO Wave &#124; Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</span></span></span>, that means silence alone is not strong evidence that an object lacked propulsion. It may instead reflect how sound travelled between the source and the observer.
+Modern aviation noise research exists largely because sound transmission is complex and often counterintuitive. Airports and regulators use detailed modelling systems precisely because noise does not spread evenly through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Federal Aviation Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Noisequest For UFO reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Belgian UFO Wave &#124; Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</span></span></span>, that means silence alone is not strong evidence that an object lacked propulsion. It may instead reflect how sound travelled between the source and the observer.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" alt="Silence illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Missing Sonic Boom Problem
@@ -442,17 +442,17 @@ The difficulty is that most cases lack the instrument data needed to determine t
 
 ## The Belgian UFO Wave and the Silence Narrative
 
-Few UFO episodes illustrate the role of silence better than the Belgian UFO wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Few UFO episodes illustrate the role of silence better than the Belgian UFO wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-Between late 1989 and 1990, thousands of people reported seeing unusual aerial objects, often described as triangular and illuminated. Witnesses repeatedly claimed the objects moved slowly and quietly, despite appearing large and relatively low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span> The silence became one of the defining characteristics of the sightings. Reports commonly described:
+Between late 1989 and 1990, thousands of people reported seeing unusual aerial objects, often described as triangular and illuminated. Witnesses repeatedly claimed the objects moved slowly and quietly, despite appearing large and relatively low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Belgian UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</span></span></span> The silence became one of the defining characteristics of the sightings. Reports commonly described:
 
-* Large triangular forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span> * Bright corner lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span>
+* Large triangular forms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span> * Bright corner lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</span></span></span>
 * Slow, controlled movement.
 * Little or no audible engine noise.
 
-However, the Belgian wave also demonstrates why silence is difficult to interpret. Investigations uncovered hoaxes, misidentifications and disputed evidence. The famous Petit-Rechain triangle photograph, once considered a strong piece of evidence, was later admitted to be a fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+However, the Belgian wave also demonstrates why silence is difficult to interpret. Investigations uncovered hoaxes, misidentifications and disputed evidence. The famous Petit-Rechain triangle photograph, once considered a strong piece of evidence, was later admitted to be a fabrication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-Researchers who favoured conventional explanations argued that helicopters, aircraft, atmospheric conditions and witness expectations could explain at least part of the silence narrative. Others maintained that the volume and consistency of witness testimony made the reports noteworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Researchers who favoured conventional explanations argued that helicopters, aircraft, atmospheric conditions and witness expectations could explain at least part of the silence narrative. Others maintained that the volume and consistency of witness testimony made the reports noteworthy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 The case remains influential because it shows how silence can become a central feature of a mass sighting event even when the underlying explanations remain disputed.
 
@@ -482,7 +482,7 @@ The result is a feedback loop:
 
 Silence is one of the most intriguing aspects of UFO testimony because it sits between perception and physics.
 
-On one hand, there are well-understood reasons why aircraft, helicopters and distant lights can appear quieter than expected. Atmospheric conditions, observer location and human judgement can all create the impression of silent flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span>
+On one hand, there are well-understood reasons why aircraft, helicopters and distant lights can appear quieter than expected. Atmospheric conditions, observer location and human judgement can all create the impression of silent flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</span></span></span>
 
 On the other hand, the persistence of silent-object reports across decades has made the theme difficult to dismiss entirely. Large numbers of witnesses in unrelated cases have independently highlighted the same feature: something that looked as though it should make noise did not seem to make any.
 
@@ -491,194 +491,194 @@ That does not prove the existence of extraordinary technology. It does explain w
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UBlJlBQdv5w" title="Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer">Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips &middot; Views: 25.7K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UBlJlBQdv5w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Some UFOs Reported Silent?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Some UFOs Reported Silent?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports and recurring UFO characteristics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports and recurring UFO characteristics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes many high-profile cases involving unusual flight characteristics and silence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes many high-profile cases involving unusual flight characteristics and silence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sound Book: The Science of the Sonic Wonders of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rATGAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sound Book: The Science of the Sonic Wonders of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sound Book: The Science of the Sonic Wonders of the World">The Sound Book: The Science of the Sonic Wonders of the World</a>
-        </h4>
-        <p class="fr-book-author">By Trevor Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sound Book: The Science of the Sonic Wonders of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rATGAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sound Book: The Science of the Sonic Wonders of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sound Book: The Science of the Sonic Wonders of the World">The Sound Book: The Science of the Sonic Wonders of the World</a>
+</h4>
+<p class="fr-book-author">By Trevor Cox</p>
         
-        <p class="fr-book-desc">Explains why expected sounds may not be heard.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why expected sounds may not be heard.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers modern cases often involving silent or unusual craft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern cases often involving silent or unusual craft reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sound Book: The Science of the Sonic Wonders of the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sound Book: The Science of the Sonic Wonders of the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt"><img src="{{ '/assets/images/marketplace-covers/397bfca46f7d800bea36.jpg' | relative_url }}" alt="Listing image for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt"><img src="{{ '/assets/images/marketplace-covers/397bfca46f7d800bea36.jpg' | relative_url }}" alt="Listing image for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="{{ '/assets/images/marketplace-covers/b3001a89fdc03d71bcae.jpg' | relative_url }}" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX"><img src="{{ '/assets/images/marketplace-covers/b3001a89fdc03d71bcae.jpg' | relative_url }}" alt="Listing image for ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">ATLANTIS UFO FLYING SAUCER 1/48 SCALE PLASTIC MODEL KIT UNMADE NEW IN BOX</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47"><img src="{{ '/assets/images/marketplace-covers/2c7f412c91bbad7dd1e0.jpg' | relative_url }}" alt="Listing image for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47"><img src="{{ '/assets/images/marketplace-covers/2c7f412c91bbad7dd1e0.jpg' | relative_url }}" alt="Listing image for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/478f9b6c413daf1586b4.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/478f9b6c413daf1586b4.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="silence-why-are-some-ufos-reported-silent-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -694,7 +694,7 @@ That does not prove the existence of extraordinary technology. It does explain w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -714,7 +714,7 @@ That does not prove the existence of extraordinary technology. It does explain w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -746,7 +746,7 @@ That does not prove the existence of extraordinary technology. It does explain w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -798,7 +798,7 @@ That does not prove the existence of extraordinary technology. It does explain w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -843,7 +843,7 @@ That does not prove the existence of extraordinary technology. It does explain w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -884,109 +884,109 @@ That does not prove the existence of extraordinary technology. It does explain w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unsolved.com  
    Title: Mysteries Belgian UFO  
-   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</p></details>
+   Link:<a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3,000 people report sightings of a UFO over Belgium. Three bright blue points...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/community" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCommunity Response to Noise29 Mar 2022 — Weather also plays a large role, since sound attenuates (dissipat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
    Title: aircraft noise  
-   Link: <a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Noise exposure reduction. The number of people exposed to significant noise le...</p></details>
+   Link:<a href="https://www.faa.gov/noise/aircraft_noise" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aircraft_noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAircraft Noise31 Jan 2025 — Noise exposure reduction. The number of people exposed to significant noise le...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ascent.aero  
    Title: Project 1 | Low Frequency Noise Study  
-   Link: <a href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/partner-1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It encompassed many factors, including the source level and its...Read more...</p></details>
+   Link:<a href="https://ascent.aero/partner-1/" target="_blank" rel="noopener noreferrer nofollow">https://ascent.aero/partner-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It encompassed many factors, including the source level and its...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/basics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Noise and Sound29 Mar 2022 — DNL is the standard noise metric used for all FAA studies of aviation noise exposure in airp...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/policy_guidance/noise/basics" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/policy_guidance/noise/basics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Noise and Sound29 Mar 2022 — DNL is the standard noise metric used for all FAA studies of aviation noise exposure in airp...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/noise/levels" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/levels</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Levels &amp; Stages22 Jul 2022 — The FAA regulates the maximum noise level that an individual civil aircraft can emit through...</p></details>
+   Link:<a href="https://www.faa.gov/noise/levels" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/levels</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Levels &amp; Stages22 Jul 2022 — The FAA regulates the maximum noise level that an individual civil aircraft can emit through...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faa.gov  
    Title: community response  
-   Link: <a href="https://www.faa.gov/noise/aviation_noise/community_response" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aviation_noise/community_response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Noise22 Jul 2022 — Using the day-night average sound level. To describe the effects of environmental noise in a simple, uniform and ap...</p></details>
+   Link:<a href="https://www.faa.gov/noise/aviation_noise/community_response" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/noise/aviation_noise/community_response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Noise22 Jul 2022 — Using the day-night average sound level. To describe the effects of environmental noise in a simple, uniform and ap...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave | Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/the-belgian-ufo-wave-case-file-349/id1048830863?i=1000690774803&amp;l=zh-Hans-CN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave | Case File 349Feb 10, 2025 — In the dark, winter skies of 1989 and stretching into 1990, Belgium became the epicenter o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/538</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/538</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave27 Sept 2016 — This was described as a perfectly silent large triangular object at low altitude, marked with three br...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Impacts: State of the Science - PMCby M Basner · 2017 · Cited by 300 — Aircraft noise is one, if not the most detrimental environme...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5437751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Impacts: State of the Science - PMCby M Basner · 2017 · Cited by 300 — Aircraft noise is one, if not the most detrimental environme...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flylakeland.com  
-   Link: <a href="https://www.flylakeland.com/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.flylakeland.com/aircraft-noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseFor example, changes in outside air temperature can influence how far noise travels as well as how quickly an aircraft clim...</p></details>
+   Link:<a href="https://www.flylakeland.com/aircraft-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.flylakeland.com/aircraft-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseFor example, changes in outside air temperature can influence how far noise travels as well as how quickly an aircraft clim...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutting Through All the Noise. How the FAA is Working...The FAA began using a DNL of 65 dBA as a threshold for significant noise exposur...</p></details>
+   Link:<a href="https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/cutting-through-all-the-noise-4f99910f918c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cutting Through All the Noise. How the FAA is Working...The FAA began using a DNL of 65 dBA as a threshold for significant noise exposur...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: flyreagan.com  
-   Link: <a href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</p></details>
+   Link:<a href="https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.flyreagan.com/about-airport/aircraft-noise-information/dca-reagan-national-aircraft-noise-terminology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCA Reagan National-Aircraft Noise TerminologyInstrument Meterological Conditions (IMC): Weather conditions expressed in terms of visibil...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: noisequest.psu.edu  
-   Link: <a href="https://www.noisequest.psu.edu/noisebasics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noisequest.psu.edu/noisebasics.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise BasicsThe FAA&#x27;s Aviation Environmental Design Tool (AEDT) is a new software tool consisting of models to evaluate how noi...</p></details>
+   Link:<a href="https://www.noisequest.psu.edu/noisebasics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.noisequest.psu.edu/noisebasics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise BasicsThe FAA&#x27;s Aviation Environmental Design Tool (AEDT) is a new software tool consisting of models to evaluate how noi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dfw.noiselab.casper.aero  
-   Link: <a href="https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1" target="_blank" rel="noopener noreferrer nofollow">https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseThe level of noise generated varies according to aircraft size and type and can differ even for identical aircraft dependin...</p></details>
+   Link:<a href="https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1" target="_blank" rel="noopener noreferrer nofollow">https://dfw.noiselab.casper.aero/content/1/about-aircraft-noise/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft NoiseThe level of noise generated varies according to aircraft size and type and can differ even for identical aircraft dependin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
+   Link:<a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years laterMar 30, 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myst...</p></details>
+   Link:<a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years laterMar 30, 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myst...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
    Title: tr 3b black triangle ufo reverse engineering or sdi legacy 948e6cb35751  
-   Link: <a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The modern Black Triangle narrative ignites in late-1989 Belgium, where police lo...</p></details>
+   Link:<a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The modern Black Triangle narrative ignites in late-1989 Belgium, where police lo...</p></details>

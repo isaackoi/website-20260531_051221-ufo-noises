@@ -268,14 +268,14 @@ image: /assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_sil
 
 ## Introduction
 
-Many UFO reports describe an object that appeared close enough to see clearly yet seemed completely silent. In older accounts, [silence]({{ 'silence/' | relative_url }}) was often treated as a mystery in itself. Modern acoustic monitoring has changed that assumption. A silent sighting is no longer automatically interpreted as an absence of sound. Instead, investigators ask whether the strongest acoustic energy may have existed outside normal human hearing, either below the audible range as infrasound or above it as ultrasound. Multi-band sensor systems were designed specifically to test that possibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">Section 2 presents the technical specifications of the AMOS...Read more...</span></span></span>
+Many UFO reports describe an object that appeared close enough to see clearly yet seemed completely silent. In older accounts, [silence]({{ 'silence/' | relative_url }}) was often treated as a mystery in itself. Modern acoustic monitoring has changed that assumption. A silent sighting is no longer automatically interpreted as an absence of sound. Instead, investigators ask whether the strongest acoustic energy may have existed outside normal human hearing, either below the audible range as infrasound or above it as ultrasound. Multi-band sensor systems were designed specifically to test that possibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">Section 2 presents the technical specifications of the AMOS...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-1-dark.svg" | relative_url }}" alt="Multi Band illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_acoustic_monitoring_609fad_multiband_silent_rep_76413a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This shift matters because witness testimony alone cannot determine whether an event generated low-frequency pressure waves, ultrasonic emissions, or only conventional sound. A person may hear nothing while nearby instruments record substantial acoustic activity. In UFO investigations, that distinction changes the question from “Was it silent?” to “What frequencies were actually present?”
 
 ## What Audible Microphones Miss
 
-Human hearing covers only a narrow slice of the acoustic spectrum, generally from about 20 hertz to 20 kilohertz. Many natural and technological processes produce energy outside that range. Traditional audio recordings therefore capture only part of the picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
+Human hearing covers only a narrow slice of the acoustic spectrum, generally from about 20 hertz to 20 kilohertz. Many natural and technological processes produce energy outside that range. Traditional audio recordings therefore capture only part of the picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
 
 A witness can accurately report silence while still standing inside an active acoustic environment. Several factors contribute to this:
 
@@ -284,7 +284,7 @@ A witness can accurately report silence while still standing inside an active ac
 * **Infrasound below 20 hertz** can create sensations of pressure, vibration or unease without producing a recognisable audible sound.
 * **Ultrasound above 20 kilohertz** may be generated by mechanical systems, electronics or aerodynamic effects while remaining inaudible to most people.
 * **Distance effects** can alter how frequencies propagate, allowing some components of a signal to travel much farther than others.
-* **Atmospheric filtering** can suppress parts of a sound spectrum before it reaches an observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Open source on ctbto.org.</span></span></span>
+* **Atmospheric filtering** can suppress parts of a sound spectrum before it reaches an observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Open source on ctbto.org.</span></span></span>
 
 </div>
 
@@ -294,13 +294,13 @@ This creates a recurring problem in UFO reports. Witnesses often describe a visi
 
 ## Why Infrasound Changes the Meaning of “Silent”
 
-Infrasound has become one of the most important tools for analysing apparently silent aerial events because low-frequency waves can travel extraordinary distances with relatively little loss. The Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) operates a global infrasound monitoring network originally built to detect atmospheric nuclear explosions. The same [sensors]({{ 'sensors/' | relative_url }}) routinely detect meteors, volcanic eruptions, rocket launches and other large atmospheric disturbances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</span></span></span>
+Infrasound has become one of the most important tools for analysing apparently silent aerial events because low-frequency waves can travel extraordinary distances with relatively little loss. The Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) operates a global infrasound monitoring network originally built to detect atmospheric nuclear explosions. The same [sensors]({{ 'sensors/' | relative_url }}) routinely detect meteors, volcanic eruptions, rocket launches and other large atmospheric disturbances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">CTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</span></span></span>
 
-The 2013 [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) meteor provided a striking example. Many people observed the bright fireball visually before hearing major sound effects, while infrasonic waves from the explosion were recorded across continents by the CTBTO network. The signals travelled thousands of kilometres and allowed researchers to estimate characteristics of the event that ordinary witnesses could not perceive directly. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span>, the lesson is methodological rather than sensational. A report that describes a silent luminous object does not automatically imply an acoustically silent event. If the object produced low-frequency atmospheric disturbances, conventional hearing might reveal little while dedicated sensors recorded a measurable signature.
+The 2013 [Chelyabinsk]({{ 'chelyabinsk/' | relative_url }}) meteor provided a striking example. Many people observed the bright fireball visually before hearing major sound effects, while infrasonic waves from the explosion were recorded across continents by the CTBTO network. The signals travelled thousands of kilometres and allowed researchers to estimate characteristics of the event that ordinary witnesses could not perceive directly. CTBTO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span>, the lesson is methodological rather than sensational. A report that describes a silent luminous object does not automatically imply an acoustically silent event. If the object produced low-frequency atmospheric disturbances, conventional hearing might reveal little while dedicated sensors recorded a measurable signature.
 
 ### Distance Can Mislead Witnesses
 
-Sound does not reach every observer in the same way. Wind, temperature layers and atmospheric structure can reshape acoustic signals during propagation. Recent infrasound studies have shown that atmospheric conditions can selectively filter frequency content, meaning observers in different locations may experience the same event differently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+Sound does not reach every observer in the same way. Wind, temperature layers and atmospheric structure can reshape acoustic signals during propagation. Recent infrasound studies have shown that atmospheric conditions can selectively filter frequency content, meaning observers in different locations may experience the same event differently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 As a result:
 
@@ -319,15 +319,15 @@ That variability complicates attempts to treat witness silence as decisive evide
 
 ## Why Ultrasound Adds Another Layer
 
-Ultrasound receives less attention in public UFO discussions, but multi-band monitoring systems increasingly include ultrasonic microphones. The rationale is straightforward: some mechanical and aerodynamic processes produce high-frequency emissions that are difficult or impossible for humans to hear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+Ultrasound receives less attention in public UFO discussions, but multi-band monitoring systems increasingly include ultrasonic microphones. The rationale is straightforward: some mechanical and aerodynamic processes produce high-frequency emissions that are difficult or impossible for humans to hear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
-Modern drone research illustrates the value of this approach. Acoustic detection systems identify unmanned [aircraft]({{ 'aircraft/' | relative_url }}) by analysing characteristic sound signatures produced by motors and propellers. Some diagnostic information appears in frequency regions that are less obvious to casual listeners yet remain measurable with specialised equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osltechnology.com">[OSL Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osltechnology.com</span><span class="citation-popover-title">OSL Technology How Acoustic Detection of Drones Enhances</span><span class="citation-popover-snippet">OSL TechnologyHow Acoustic Detection of Drones Enhances...March 19, 2025 — 11 May 2023 — Acoustic sensors use precision audio capture te...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span> MicrodB This does not mean UFO reports are secretly ultrasonic. Rather <span class="citation-chip-wrap"><a class="citation-chip" href="https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microdb.fr">[microdb.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microdb.fr</span><span class="citation-popover-snippet">UAV Detection from Acoustic Signature: Requirements and...This paper reviews the state of the art in this field and presents possible te...</span></span></span>, it demonstrates that aerial objects can generate useful acoustic information outside ordinary hearing. If investigators limit themselves to audible microphones, they may discard potentially important data before analysis even begins.
+Modern drone research illustrates the value of this approach. Acoustic detection systems identify unmanned [aircraft]({{ 'aircraft/' | relative_url }}) by analysing characteristic sound signatures produced by motors and propellers. Some diagnostic information appears in frequency regions that are less obvious to casual listeners yet remain measurable with specialised equipment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osltechnology.com">[OSL Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osltechnology.com</span><span class="citation-popover-title">OSL Technology How Acoustic Detection of Drones Enhances</span><span class="citation-popover-snippet">OSL TechnologyHow Acoustic Detection of Drones Enhances...March 19, 2025 — 11 May 2023 — Acoustic sensors use precision audio capture te...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span> MicrodB This does not mean UFO reports are secretly ultrasonic. Rather<span class="citation-chip-wrap"><a class="citation-chip" href="https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microdb.fr">[microdb.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microdb.fr</span><span class="citation-popover-snippet">UAV Detection from Acoustic Signature: Requirements and...This paper reviews the state of the art in this field and presents possible te...</span></span></span>, it demonstrates that aerial objects can generate useful acoustic information outside ordinary hearing. If investigators limit themselves to audible microphones, they may discard potentially important data before analysis even begins.
 
 ## How Multi-Band Systems Test Witness Claims
 
 The strongest argument for multi-band monitoring is not that it finds exotic sounds. It is that it creates a way to check claims against measurements.
 
-The Galileo Project's Acoustic Monitoring Omni-directional System (AMOS) was designed around this principle. Rather than recording only conventional audio, it simultaneously monitors infrasonic, audible and ultrasonic frequencies. The system covers roughly 0.05 hertz to 190 kilohertz through overlapping sensor bands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
+The Galileo Project's Acoustic Monitoring Omni-directional System (AMOS) was designed around this principle. Rather than recording only conventional audio, it simultaneously monitors infrasonic, audible and ultrasonic frequencies. The system covers roughly 0.05 hertz to 190 kilohertz through overlapping sensor bands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
 
 When an aerial event is observed, investigators can compare:
 
@@ -337,7 +337,7 @@ When an aerial event is observed, investigators can compare:
 * Acoustic recordings.
 * Environmental conditions.
 * Timing information.
-* Other sensor outputs from the same moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Scientific Investigation of Unidentified Aerial</span><span class="citation-popover-snippet">ResearchGate(PDF) The Scientific Investigation of Unidentified Aerial...May 29, 2023 — (Abridged) The Galileo Project aims to investigat...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+* Other sensor outputs from the same moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Scientific Investigation of Unidentified Aerial</span><span class="citation-popover-snippet">ResearchGate(PDF) The Scientific Investigation of Unidentified Aerial...May 29, 2023 — (Abridged) The Galileo Project aims to investigat...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 </div>
 
@@ -370,9 +370,9 @@ A seemingly silent object may turn out to be:
 * A distant aircraft whose higher frequencies dissipated before reaching observers.
 * A meteor generating powerful infrasound but limited audible sound at ground level.
 * A drone whose acoustic signature was partially masked by environmental noise.
-* An atmospheric event that produced measurable pressure waves outside the hearing range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/914564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">Nothing escapes The Global Ear: Nuclear tests, volcanoes...Jun 17, 2015 — Twenty of the CTBTO&#x27;s infrasound monitoring stations detected...</span></span></span>
+* An atmospheric event that produced measurable pressure waves outside the hearing range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/914564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">Nothing escapes The Global Ear: Nuclear tests, volcanoes...Jun 17, 2015 — Twenty of the CTBTO&#x27;s infrasound monitoring stations detected...</span></span></span>
 
-This is why acoustic researchers emphasise classification and signature libraries. The goal is not merely to detect sound but to compare detected patterns against known phenomena. AMOS researchers explicitly describe building datasets of aircraft and other aerial signatures so that future detections can be assessed against established acoustic profiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+This is why acoustic researchers emphasise classification and signature libraries. The goal is not merely to detect sound but to compare detected patterns against known phenomena. AMOS researchers explicitly describe building datasets of aircraft and other aerial signatures so that future detections can be assessed against established acoustic profiles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 In practice, many apparently mysterious cases become less mysterious when multiple sensor bands are available.
 
@@ -393,7 +393,7 @@ An event becomes more noteworthy when several conditions occur simultaneously:
 
 </div>
 
-Even then, silence alone is not evidence of an unconventional craft. It is only one data point among many. Acoustic propagation is complex, and a lack of recorded sound can result from distance, weather, terrain, instrument placement or simple signal weakness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
+Even then, silence alone is not evidence of an unconventional craft. It is only one data point among many. Acoustic propagation is complex, and a lack of recorded sound can result from distance, weather, terrain, instrument placement or simple signal weakness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</span></span></span>
 
 The most important contribution of multi-band monitoring is therefore methodological. It transforms silence from a subjective witness impression into a measurable question. Instead of asking whether people heard something unusual, investigators can ask which frequencies were present, which were absent, and whether the resulting pattern matches known aerial phenomena.
 
@@ -402,201 +402,201 @@ The most important contribution of multi-band monitoring is therefore methodolog
 
 Before modern sensor networks, witness descriptions of UFO noise existed largely as isolated narratives. One person reported [humming]({{ 'humming/' | relative_url }}), another reported vibration, and a third reported complete silence. There was often no independent way to evaluate those differences.
 
-Multi-band monitoring changes the role of testimony. Witness accounts remain important because they identify when and where an event occurred, but acoustic instruments provide an external record that can support, refine or contradict perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">Section 2 presents the technical specifications of the AMOS...Read more...</span></span></span>
+Multi-band monitoring changes the role of testimony. Witness accounts remain important because they identify when and where an event occurred, but acoustic instruments provide an external record that can support, refine or contradict perception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">Section 2 presents the technical specifications of the AMOS...Read more...</span></span></span>
 
 That shift has a subtle but important consequence for UFO research. The question is no longer whether a witness was correct about hearing nothing. The witness may have been entirely correct. The more useful question is whether the event generated acoustic energy beyond the limits of human hearing.
 
-Modern infrasound and ultrasonic monitoring were developed precisely because nature repeatedly produces significant signals that people cannot hear. Applying those same tools to unusual aerial reports does not prove extraordinary explanations. It provides a way to determine whether a supposedly silent event was truly silent, or merely silent to human ears. CTBTO <span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
+Modern infrasound and ultrasonic monitoring were developed precisely because nature repeatedly produces significant signals that people cannot hear. Applying those same tools to unusual aerial reports does not prove extraordinary explanations. It provides a way to determine whether a supposedly silent event was truly silent, or merely silent to human ears. CTBTO<span class="citation-chip-wrap"><a class="citation-chip" href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Silent UFO Is Not Silent. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Silent UFO Is Not Silent. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
-        </h4>
-        <p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
+</h4>
+<p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
         
-        <p class="fr-book-desc">Directly addresses detection beyond normal auditory perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses detection beyond normal auditory perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics+by+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FecSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fundamentals of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics+by+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Acoustics">Fundamentals of Acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence E. Kinsler, Austin R. Frey et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics+by+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FecSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fundamentals of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics+by+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Acoustics">Fundamentals of Acoustics</a>
+</h4>
+<p class="fr-book-author">By Lawrence E. Kinsler, Austin R. Frey et al.</p>
         
-        <p class="fr-book-desc">Explains frequency ranges and sound physics relevant to &#x27;silent&#x27; events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics+by+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains frequency ranges and sound physics relevant to &#x27;silent&#x27; events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics+by+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides context on perception and interpretation of unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on perception and interpretation of unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtYLAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Sound">Introduction to Sound</a>
-        </h4>
-        <p class="fr-book-author">By Charles E. Speaks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtYLAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Sound">Introduction to Sound</a>
+</h4>
+<p class="fr-book-author">By Charles E. Speaks</p>
         
-        <p class="fr-book-desc">Helps explain why people may miss significant acoustic activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why people may miss significant acoustic activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Acoustics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Acoustics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="multi-band-when-a-silent-ufo-is-not-silent-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,179 +802,179 @@ Modern infrasound and ultrasonic monitoring were developed precisely because nat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</p></details>
+   Link:<a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18551</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial Signaturesby A Mead · 2023 · Cited by 10 — It uses three distinct systems with overlapping...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.00421" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.00421</a>  
+   Link:<a href="https://arxiv.org/abs/2602.00421" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.00421</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
+   Link:<a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</p></details>
+   Link:<a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastPeople cannot hear the low frequency waves emitted by the explosion but they...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S209099771630075X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S209099771630075X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S209099771630075X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The farthest station recorded signals was 15,000 km away in Antarctica. The origin time...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: <a href="https://www.eurekalert.org/news-releases/914564" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/914564</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing escapes The Global Ear: Nuclear tests, volcanoes...Jun 17, 2015 — Twenty of the CTBTO&#x27;s infrasound monitoring stations detected...</p></details>
+   Link:<a href="https://www.eurekalert.org/news-releases/914564" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/914564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing escapes The Global Ear: Nuclear tests, volcanoes...Jun 17, 2015 — Twenty of the CTBTO&#x27;s infrasound monitoring stations detected...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: microdb.fr  
-   Link: <a href="https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/" target="_blank" rel="noopener noreferrer nofollow">https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAV Detection from Acoustic Signature: Requirements and...This paper reviews the state of the art in this field and presents possible te...</p></details>
+   Link:<a href="https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/" target="_blank" rel="noopener noreferrer nofollow">https://microdb.fr/en/scientific-publications/uav-detection-from-acoustic-signature-requirements-and-state-of-the-art/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAV Detection from Acoustic Signature: Requirements and...This paper reviews the state of the art in this field and presents possible te...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Scientific Investigation of Unidentified Aerial  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Scientific Investigation of Unidentified Aerial...May 29, 2023 — (Abridged) The Galileo Project aims to investigat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Scientific Investigation of Unidentified Aerial...May 29, 2023 — (Abridged) The Galileo Project aims to investigat...</p></details>
    Published: May 29, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/our-work/civil-and-scientific-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/civil-and-scientific-applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil and Scientific ApplicationsIMS infrasound stations can detect the ultra-low frequency sound waves emitted by volcanic eruptions and...</p></details>
+   Link:<a href="https://www.ctbto.org/our-work/civil-and-scientific-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/civil-and-scientific-applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil and Scientific ApplicationsIMS infrasound stations can detect the ultra-low frequency sound waves emitted by volcanic eruptions and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: conferences.ctbto.org  
-   Link: <a href="https://conferences.ctbto.org/event/27/contributions/" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/27/contributions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology Workshop 2024 (ITW2024)Rocket launches are a source of infrasound detectable at infrasound [arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) in thousands of kilometers d...</p></details>
+   Link:<a href="https://conferences.ctbto.org/event/27/contributions/" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/27/contributions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology Workshop 2024 (ITW2024)Rocket launches are a source of infrasound detectable at infrasound [arrays](&amp;#123;&amp;#123; &#x27;arrays/&#x27; | relative_url &amp;#125;&amp;#125;) in thousands of kilometers d...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ctbto.org  
    Title: Listening without sound  
-   Link: <a href="https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO engineers refine a...17 Jun 2010 — The Trafelberg facility is a proving ground for infrasound, which is able to detect sounds belo...</p></details>
+   Link:<a href="https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/listening-without-sound-ctbto-engineers-refine-unique-technique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO engineers refine a...17 Jun 2010 — The Trafelberg facility is a proving ground for infrasound, which is able to detect sounds belo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: How To Detect A Secret Nuclear Test by Minute PhysicsA monitoring system that can detect pretty much any nuclear explosion that ta...</p></details>
+   Link:<a href="https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/video-how-detect-secret-nuclear-test-minute-physics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video: How To Detect A Secret Nuclear Test by Minute PhysicsA monitoring system that can detect pretty much any nuclear explosion that ta...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.20407" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.20407</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AUDRON: A Deep Learning Framework with Fused...by R Chatterjee · 2025 · Cited by 1 — This study introduces AUDRON (AUdio-based Drone Rec...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.20407" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.20407</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUDRON: A Deep Learning Framework with Fused...by R Chatterjee · 2025 · Cited by 1 — This study introduces AUDRON (AUdio-based Drone Rec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial results from the first field expedition of UAPx to study...23 Jan 2026 — The acoustic monitoring, omni-directional system (AMOS)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial results from the first field expedition of UAPx to study...23 Jan 2026 — The acoustic monitoring, omni-directional system (AMOS)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Location Using Infrasound ArraysThe acoustic monitoring, omni-directional system (AMOS) in the Galileo Project is a passive, m...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403709483_Helicopter_Location_Using_Infrasound_Arrays</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Location Using Infrasound ArraysThe acoustic monitoring, omni-directional system (AMOS) in the Galileo Project is a passive, m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2 presents the technical specifications of the AMOS...Read more...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400056?srsltid=AfmBOooaTOWOmv5l9CIm70_-RTcMtA6iDdH6y2Ytpx797i1areA2iiAW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2 presents the technical specifications of the AMOS...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/multi-band-acoustic-monitoring-aerial-signatures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Band Acoustic Monitoring of Aerial SignaturesThe AMOS system spans infrasonic frequencies down to 0.05Hz, all of audible, an...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: osltechnology.com  
    Title: OSL Technology How Acoustic Detection of Drones Enhances  
-   Link: <a href="https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level" target="_blank" rel="noopener noreferrer nofollow">https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSL TechnologyHow Acoustic Detection of Drones Enhances...March 19, 2025 — 11 May 2023 — Acoustic sensors use precision audio capture te...</p></details>
+   Link:<a href="https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level" target="_blank" rel="noopener noreferrer nofollow">https://www.osltechnology.com/resources/acoustic-sensors-taking-multi-layered-security-to-a-new-level</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSL TechnologyHow Acoustic Detection of Drones Enhances...March 19, 2025 — 11 May 2023 — Acoustic sensors use precision audio capture te...</p></details>
    Published: March 19, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an integrated softwar...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an integrated softwar...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: armscontrol.org  
    Title: ctbtos monitoring capabilities continue improve  
-   Link: <a href="https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO&#x27;s Monitoring Capabilities Continue to ImproveThe IMS uses a combination of seismic, hydroacoustic, infrasound, and radionuclide sta...</p></details>
+   Link:<a href="https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/blog/2013-03-11/ctbtos-monitoring-capabilities-continue-improve</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO&#x27;s Monitoring Capabilities Continue to ImproveThe IMS uses a combination of seismic, hydroacoustic, infrasound, and radionuclide sta...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rsc.org  
-   Link: <a href="https://www.rsc.org/images/eb-duran_tcm18-223098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/images/eb-duran_tcm18-223098.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source... 7 IMS infrasound stations detected sound waves generated by the ground.Read more...</p></details>
+   Link:<a href="https://www.rsc.org/images/eb-duran_tcm18-223098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/images/eb-duran_tcm18-223098.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source... 7 IMS infrasound stations detected sound waves generated by the ground.Read more...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: drone-warfare.com  
-   Link: <a href="https://drone-warfare.com/counter-uas/acoustic-detection/" target="_blank" rel="noopener noreferrer nofollow">https://drone-warfare.com/counter-uas/acoustic-detection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS 101 – Acoustic Drone DetectionAcoustic drone detection exploits propeller noise to identify threats passively. Ukraine&#x27;s 1400...</p></details>
+   Link:<a href="https://drone-warfare.com/counter-uas/acoustic-detection/" target="_blank" rel="noopener noreferrer nofollow">https://drone-warfare.com/counter-uas/acoustic-detection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS 101 – Acoustic Drone DetectionAcoustic drone detection exploits propeller noise to identify threats passively. Ukraine&#x27;s 1400...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Multi-Band Acoustic Monitoring of Aerial SignaturesThe Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aids i...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/10b6cce675d167ed15ed3c0485cf369b44b2c332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Multi-Band Acoustic Monitoring of Aerial SignaturesThe Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aids i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ldeo.columbia.edu  
-   Link: <a href="https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>columbia.edu2 CTBT Monitoring CapabilityThe IMS system will establish a global array of infrasound sensors to enable routine monitoring o...</p></details>
+   Link:<a href="https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ldeo.columbia.edu/~richards/my_papers/CISAC_CTBT_Monitoring.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>columbia.edu2 CTBT Monitoring CapabilityThe IMS system will establish a global array of infrasound sensors to enable routine monitoring o...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aiforgood.itu.int  
-   Link: <a href="https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/" target="_blank" rel="noopener noreferrer nofollow">https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear-Test-Ban Treaty Organization (CTBTO)The CTBTO works to ban nuclear tests globally with a comprehensive [verification](&amp;#123;&amp;#123; &#x27;verification/&#x27; | relative_url &amp;#125;&amp;#125;) system, inclu...</p></details>
+   Link:<a href="https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/" target="_blank" rel="noopener noreferrer nofollow">https://aiforgood.itu.int/about-us/un-ai-actions/ctbto/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear-Test-Ban Treaty Organization (CTBTO)The CTBTO works to ban nuclear tests globally with a comprehensive [verification](&amp;#123;&amp;#123; &#x27;verification/&#x27; | relative_url &amp;#125;&amp;#125;) system, inclu...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Microphones Recently Capture the &#x27;Mystery Sound&#x27; of...10 Nov 2023 — The acoustic monitoring, omni-directional system (AMOS) of the G...</p></details>
+   Link:<a href="https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/did-microphones-recently-capture-the-mystery-sound-of-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Microphones Recently Capture the &#x27;Mystery Sound&#x27; of...10 Nov 2023 — The acoustic monitoring, omni-directional system (AMOS) of the G...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pubs.aip.org  
-   Link: <a href="https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>holistic review of acoustic detection for unmanned aerial...2 Dec 2025 — UAV acoustic signal datasets typically encompass sound signatur...</p></details>
+   Link:<a href="https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aip/adv/article/15/12/120701/3373725/From-classical-approaches-to-recent-advancements-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>holistic review of acoustic detection for unmanned aerial...2 Dec 2025 — UAV acoustic signal datasets typically encompass sound signatur...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: phys.org  
    Title: 2013 02 russian fireball largest ctbto infrasound  
-   Link: <a href="https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian fireball largest ever detected by CTBTO&#x27;s...19 Feb 2013 — Infrasound has been used as part of the CTBTO&#x27;s tools to detect atomic...</p></details>
+   Link:<a href="https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian fireball largest ever detected by CTBTO&#x27;s...19 Feb 2013 — Infrasound has been used as part of the CTBTO&#x27;s tools to detect atomic...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dsiac.dtic.mil  
    Title: DSIACWhat is an acoustic drone detection system?  
-   Link: <a href="https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/" target="_blank" rel="noopener noreferrer nofollow">https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dtic.mil8 Sept 2025 — An acoustic drone detection system uses the sound of a drone&#x27;s motors and blades to determine the type of d...</p></details>
+   Link:<a href="https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/" target="_blank" rel="noopener noreferrer nofollow">https://dsiac.dtic.mil/primers/what-is-an-acoustic-drone-detection-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dtic.mil8 Sept 2025 — An acoustic drone detection system uses the sound of a drone&#x27;s motors and blades to determine the type of d...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: space.com  
    Title: 19860 russia meteor explosion largest detected  
-   Link: <a href="https://www.space.com/19860-russia-meteor-explosion-largest-detected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19860-russia-meteor-explosion-largest-detected.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia Meteor Blast Largest Seen by Nuclear Detection Grid19 Feb 2013 — There are currently 45 infrasound stations in the CTBTO&#x27;s network...</p></details>
+   Link:<a href="https://www.space.com/19860-russia-meteor-explosion-largest-detected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19860-russia-meteor-explosion-largest-detected.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia Meteor Blast Largest Seen by Nuclear Detection Grid19 Feb 2013 — There are currently 45 infrasound stations in the CTBTO&#x27;s network...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/10471/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10471/chapter/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y detecting the presence of a characteristic bubble pulse...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/10471/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10471/chapter/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y detecting the presence of a characteristic bubble pulse...</p></details>

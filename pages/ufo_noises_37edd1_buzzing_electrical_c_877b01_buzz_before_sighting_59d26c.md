@@ -271,13 +271,13 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_
 Some UFO reports become unusual before any object is visible. Witnesses describe hearing a [buzzing]({{ 'buzzing/' | relative_url }}), [humming]({{ 'humming/' | relative_url }}) or electrical vibration first, then noticing a light, shape or moving object seconds later. Within UFO literature, these accounts are often treated as evidence that the sound announced the object's arrival. Yet the sequence itself raises difficult questions. A sound heard before a sighting can reflect a genuine external source, a delayed visual detection, an error in locating where the sound came from, or a memory that has been reorganised after the event.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-1-dark.svg" | relative_url }}" alt="Before Sight illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_buzz_before_sighting_59d26c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because many close-encounter stories begin with the phrase “I heard something first”, the timing of the buzz matters. It affects how investigators assess witness awareness, environmental conditions and the reliability of later recollections. The reports are interesting not because they prove an unidentified object was present, but because they reveal how people experience and interpret unexpected sounds that seem to have no visible source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
+Because many close-encounter stories begin with the phrase “I heard something first”, the timing of the buzz matters. It affects how investigators assess witness awareness, environmental conditions and the reliability of later recollections. The reports are interesting not because they prove an unidentified object was present, but because they reveal how people experience and interpret unexpected sounds that seem to have no visible source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
 
 ## When the Buzz Comes First
 
 In many narratives, the witness does not initially think they are observing anything extraordinary. The experience starts with an intrusive sound: a transformer-like hum, a vibrating drone, a swarm-like buzz or a low electrical resonance. Only after searching the sky or surrounding area does the witness report seeing an unusual light or object.
 
-This sequence appears in both civilian collections and official reporting systems. Some reports describe people stepping outside because of an unfamiliar sound and only then noticing lights overhead. In other cases, witnesses report hearing a hum above them before identifying a moving object against the night sky. An Essex Police UFO report from 2017, for example, records a witness who “heard it and couldn't see it at first” before later observing unusual aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[essex.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">THE INF HEARD IT AND COULDN&#x27;T SEE IT AT FIRST. THE INF SAYS IT DID NOT SOUND LIKE A POLICE OR ARMY HELICOPTER. 2017. THURROCK. 2 UFO&#x27;S MO...</span></span></span>
+This sequence appears in both civilian collections and official reporting systems. Some reports describe people stepping outside because of an unfamiliar sound and only then noticing lights overhead. In other cases, witnesses report hearing a hum above them before identifying a moving object against the night sky. An Essex Police UFO report from 2017, for example, records a witness who “heard it and couldn't see it at first” before later observing unusual aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: essex.police.uk">[essex.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">essex.police.uk</span><span class="citation-popover-title">ufo reports 2014 to 2024</span><span class="citation-popover-snippet">THE INF HEARD IT AND COULDN&#x27;T SEE IT AT FIRST. THE INF SAYS IT DID NOT SOUND LIKE A POLICE OR ARMY HELICOPTER. 2017. THURROCK. 2 UFO&#x27;S MO...</span></span></span>
 
 The pattern matters because human vision and hearing do not work in the same way. A bright object can remain unnoticed until a person looks in the correct [direction]({{ 'direction/' | relative_url }}), especially at night. A sound may therefore seem to arrive first even when both sound and object are present simultaneously. The witness experiences the event as: sound, search, discovery.
 
@@ -289,7 +289,7 @@ One reason these reports are difficult to evaluate is that humans are not especi
 
 ### Low-frequency hums create ambiguity
 
-Auditory localisation depends on subtle timing and intensity differences between the ears. When sounds are low-frequency, diffuse or reflected by terrain and buildings, determining their exact origin becomes much harder. Researchers studying spatial hearing note that people can accurately locate many sounds, but distance estimation and source identification become less reliable when acoustic cues are weak or degraded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
+Auditory localisation depends on subtle timing and intensity differences between the ears. When sounds are low-frequency, diffuse or reflected by terrain and buildings, determining their exact origin becomes much harder. Researchers studying spatial hearing note that people can accurately locate many sounds, but distance estimation and source identification become less reliable when acoustic cues are weak or degraded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span>
 
 A witness who hears a broad electrical hum may therefore know that a sound exists without knowing where it originates.
 
@@ -301,7 +301,7 @@ This becomes particularly relevant in rural roads, fields, forests and open land
 
 Once people begin actively looking for what caused a sound, perception becomes a combined auditory and visual process rather than a purely auditory one.
 
-Psychology research shows that perception is influenced by context, expectation and top-down interpretation. After hearing an unexplained noise, a witness naturally searches for a matching cause. If an unusual light, [aircraft]({{ 'aircraft/' | relative_url }}), satellite, drone or atmospheric phenomenon then becomes visible, the mind may connect the two events into a single experience even when the relationship is uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-snippet">3.5 Auditory Perception – Cognitive PsychologyAuditory perception sometimes requires more nuanced (and automatic) calculations regarding...</span></span></span>
+Psychology research shows that perception is influenced by context, expectation and top-down interpretation. After hearing an unexplained noise, a witness naturally searches for a matching cause. If an unusual light, [aircraft]({{ 'aircraft/' | relative_url }}), satellite, drone or atmospheric phenomenon then becomes visible, the mind may connect the two events into a single experience even when the relationship is uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-snippet">3.5 Auditory Perception – Cognitive PsychologyAuditory perception sometimes requires more nuanced (and automatic) calculations regarding...</span></span></span>
 
 This does not mean witnesses invent what they experienced. It means the sequence of hearing, searching and identifying is vulnerable to reconstruction after the fact.
 
@@ -311,7 +311,7 @@ A key difficulty is that many reports are documented hours, days or years after 
 
 When witnesses later retell the experience, the timing can become simplified. Instead of describing a gradual process—hearing a sound, becoming uneasy, looking around, noticing a distant light, deciding the two seemed connected—the story may evolve into a cleaner sequence: first the buzz, then the UFO.
 
-Memory researchers have long noted that people reconstruct experiences rather than replaying them exactly. Auditory events are especially vulnerable because sounds often leave fewer stable reference points than visual scenes. A witness may remember the emotional impact of a strange hum while forgetting precisely when it began or whether it continued throughout the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-snippet">3.5 Auditory Perception – Cognitive PsychologyAuditory perception sometimes requires more nuanced (and automatic) calculations regarding...</span></span></span>
+Memory researchers have long noted that people reconstruct experiences rather than replaying them exactly. Auditory events are especially vulnerable because sounds often leave fewer stable reference points than visual scenes. A witness may remember the emotional impact of a strange hum while forgetting precisely when it began or whether it continued throughout the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmoer.pressbooks.pub">[nmoer.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmoer.pressbooks.pub</span><span class="citation-popover-snippet">3.5 Auditory Perception – Cognitive PsychologyAuditory perception sometimes requires more nuanced (and automatic) calculations regarding...</span></span></span>
 
 For UFO investigators, this creates a practical question: was the buzzing genuinely reported before the object was seen, or did the witness later infer that the two belonged together?
 
@@ -333,7 +333,7 @@ Common examples include:
 
 </div>
 
-Some archived UFO reports describe humming or vibrational sounds associated with overhead objects, including cases preserved by organisations such as NICAP. While these reports do not establish causation, they show that witnesses frequently linked unusual sounds and delayed visual recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
+Some archived UFO reports describe humming or vibrational sounds associated with overhead objects, including cases preserved by organisations such as NICAP. While these reports do not establish causation, they show that witnesses frequently linked unusual sounds and delayed visual recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</span><span class="citation-popover-meta">Published: June 23, 1957</span></span></span>
 
 What is notable is not the consistency of the objects described—those vary enormously—but the consistency of the narrative structure. The experience often begins with attention being captured by sound.
 
@@ -345,7 +345,7 @@ Another complication is that some witnesses describe the buzzing as difficult to
 
 Instead of hearing a clear sound source, they report feeling vibration, pressure or resonance. Some accounts compare the sensation to standing near electrical equipment; others describe it as if the sound were inside the head rather than travelling through the environment.
 
-Researchers studying auditory perception and sound-induced bodily responses have shown that certain sounds can produce strong physical sensations, including chills, vibration-like impressions and feelings that a source is moving around the listener. These effects do not require anything paranormal. They demonstrate that sound can feel unusually immersive under particular conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Proximal binaural sound can induce subjective frisson</span><span class="citation-popover-snippet">Proximal binaural sound can induce subjective frissonApril 15, 2019...</span><span class="citation-popover-meta">Published: April 15, 2019</span></span></span>
+Researchers studying auditory perception and sound-induced bodily responses have shown that certain sounds can produce strong physical sensations, including chills, vibration-like impressions and feelings that a source is moving around the listener. These effects do not require anything paranormal. They demonstrate that sound can feel unusually immersive under particular conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Proximal binaural sound can induce subjective frisson</span><span class="citation-popover-snippet">Proximal binaural sound can induce subjective frissonApril 15, 2019...</span><span class="citation-popover-meta">Published: April 15, 2019</span></span></span>
 
 This possibility matters because a witness who experiences a diffuse bodily sensation may spend several seconds searching for an external cause. If an unusual light is then noticed, the two experiences can become linked even if they originated independently.
 
@@ -383,197 +383,197 @@ A humming sound heard after an object is observed may be influenced by expectati
 
 That does not make the reports stronger evidence for extraordinary objects. In many cases, the opposite is true. The absence of an immediately visible source creates more opportunities for confusion, environmental misidentification and memory reshaping. Yet it also explains why these accounts remain memorable. A strange light can be dismissed as distant aircraft or astronomy. A strange sound with no obvious source feels more personal and more difficult to ignore.
 
-For that reason, “the buzz came first” remains one of the most persistent narrative patterns within UFO sound reports: a moment when attention is captured by something heard but not yet seen, leaving witnesses to fill the gap between sensation and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</span></span></span>
+For that reason, “the buzz came first” remains one of the most persistent narrative patterns within UFO sound reports: a moment when attention is captured by something heard but not yet seen, leaving witnesses to fill the gap between sensation and explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAuditory localization: a comprehensive practical review</span><span class="citation-popover-snippet">by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Buzz Comes First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Buzz Comes First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers witness testimony and report evaluation relevant to sound-before-sighting narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness testimony and report evaluation relevant to sound-before-sighting narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness reports and how observations develop during sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness reports and how observations develop during sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses investigative challenges involving witness recollection and event sequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigative challenges involving witness recollection and event sequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="before-sight-when-the-buzz-comes-first-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ For that reason, “the buzz came first” remains one of the most persistent na
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ For that reason, “the buzz came first” remains one of the most persistent na
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ For that reason, “the buzz came first” remains one of the most persistent na
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ For that reason, “the buzz came first” remains one of the most persistent na
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ For that reason, “the buzz came first” remains one of the most persistent na
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,130 +779,130 @@ For that reason, “the buzz came first” remains one of the most persistent na
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAuditory localization: a comprehensive practical review  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11267622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Carlini · 2024 · Cited by 81 — Auditory localization is a fundamental ability that allows to perceive the spatial location of a s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nmoer.pressbooks.pub  
-   Link: <a href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow">https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/</a>  
+   Link:<a href="https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/" target="_blank" rel="noopener noreferrer nofollow">https://nmoer.pressbooks.pub/cognitivepsychology/chapter/auditory-perception/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INF HEARD IT AND COULDN&#x27;T SEE IT AT FIRST. THE INF SAYS IT DID NOT SOUND LIKE A POLICE OR ARMY HELICOPTER. 2017. THURROCK. 2 UFO&#x27;S MO...</p></details>
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE INF HEARD IT AND COULDN&#x27;T SEE IT AT FIRST. THE INF SAYS IT DID NOT SOUND LIKE A POLICE OR ARMY HELICOPTER. 2017. THURROCK. 2 UFO&#x27;S MO...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sound localization  
-   Link: <a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
+   Link:<a href="https://www.nicap.org/570623carmichael_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/570623carmichael_dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportCase Directory Category 1, Distant Encounters Preliminary Rating: 5... Humming Sound June 23, 1957. Carmichael... hum or...</p></details>
    Published: June 23, 1957  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: UFO Chronology Produced for released  
-   Link: <a href="https://www.nicap.org/chronos/1971fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1971fullrep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyProduced for released: April 18, 2013. This is an 8-page chronology of UFO incidents and events for 1971. Our thanks for th...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1971fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1971fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ChronologyProduced for released: April 18, 2013. This is an 8-page chronology of UFO incidents and events for 1971. Our thanks for th...</p></details>
    Published: April 18, 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Proximal binaural sound can induce subjective frisson  
-   Link: <a href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.06851</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Proximal binaural sound can induce subjective frissonApril 15, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1904.06851" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.06851</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proximal binaural sound can induce subjective frissonApril 15, 2019...</p></details>
    Published: April 15, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pilots. The mechanism for...Read more...</p></details>
+   Link:<a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pilots. The mechanism for...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation that could be barely felt...</p></details>
+   Link:<a href="https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/04-Animal_Reactions/ar-020131dir.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ation that could be barely felt...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... close encounters of the second or third kind or alien abduction. UFOs are... &quot;Gordon Cooper: No Mer...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... close encounters of the second or third kind or alien abduction. UFOs are... &quot;Gordon Cooper: No Mer...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: courses.lumenlearning.com  
-   Link: <a href="https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to PsychologySOUND LOCALIZATION. The ability to locate sound in our environments is an important part of hearing. Localizi...</p></details>
+   Link:<a href="https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-intropsych/chapter/hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to PsychologySOUND LOCALIZATION. The ability to locate sound in our environments is an important part of hearing. Localizi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cns.nyu.edu  
-   Link: <a href="https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways and Sound LocalizationThe primary auditory pathway begins with the auditory receptors in the cochlea. These synapse on spiking n...</p></details>
+   Link:<a href="https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cns.nyu.edu/~david/courses/perception/lecturenotes/localization/localization.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways and Sound LocalizationThe primary auditory pathway begins with the auditory receptors in the cochlea. These synapse on spiking n...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Sound That Accompanies UFOsWhy do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/txrg77/the_strange_sound_that_accompanies_ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Sound That Accompanies UFOsWhy do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of De...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of De...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: research report april 8 1955 cherry valley rockford il ufo incidentoverviewon ap  
-   Link: <a href="https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 1955 – Cherry Valley / Rockford, IL UFO Incident...pdf nicap.org #RockfordScanner #Rockford #Illinois #paranormal #ufos #UAP #k...</p></details>
+   Link:<a href="https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61564196900781/posts/research-report-april-8-1955-cherry-valley-rockford-il-ufo-incidentoverviewon-ap/122177410736473230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 1955 – Cherry Valley / Rockford, IL UFO Incident...pdf nicap.org #RockfordScanner #Rockford #Illinois #paranormal #ufos #UAP #k...</p></details>
    Published: April 8, 1955  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sound Effects All SoundsThe 18 Most Scary Sounds Ever Captured In Space! Darkness Beyond &amp;middot; 2.5M views; Did The Soviet Union D...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sound Effects All SoundsThe 18 Most Scary Sounds Ever Captured In Space! Darkness Beyond &amp;middot; 2.5M views; Did The Soviet Union D...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nUbl5HLIGkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nUbl5HLIGkA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Witness claims we were &quot;seconds away from...We were a couple of seconds away from World War II starting and the UFOs were r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nUbl5HLIGkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nUbl5HLIGkA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Witness claims we were &quot;seconds away from...We were a couple of seconds away from World War II starting and the UFOs were r...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uN8JUg67B6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uN8JUg67B6s</a>  
+   Link:<a href="https://www.youtube.com/watch?v=uN8JUg67B6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uN8JUg67B6s</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894It is especially important that the NICAP committee be contacted immediately in cases of reported UFO sightings where photog...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894It is especially important that the NICAP committee be contacted immediately in cases of reported UFO sightings where photog...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — While most of the eyewitnesses described a slow-moving V-shaped UFO, other reports said the object appeared to be...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — While most of the eyewitnesses described a slow-moving V-shaped UFO, other reports said the object appeared to be...</p></details>

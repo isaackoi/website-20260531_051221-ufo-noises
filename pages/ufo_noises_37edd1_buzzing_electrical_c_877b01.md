@@ -352,7 +352,7 @@ image: /assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-overview-soc
 
 ## Introduction
 
-Buzzing is one of the most frequently reported UFO sounds. Witnesses often describe a noise resembling electrical transformers, power lines, fluorescent lighting, high-voltage equipment, insects, or machinery running under strain. The comparison appears across decades of reports because it gives people a familiar way to describe something they perceive as unnatural: a steady vibration, a pulsing hum, or a metallic electrical drone that seems to come from nowhere in particular. Yet the same feature that makes buzzing reports vivid also makes them difficult to verify. Electrical noises are common in everyday environments, sound localisation is often unreliable, and unusual experiences can alter how people remember what they heard. The result is a category of UFO testimony that feels specific but remains hard to investigate conclusively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
+Buzzing is one of the most frequently reported UFO sounds. Witnesses often describe a noise resembling electrical transformers, power lines, fluorescent lighting, high-voltage equipment, insects, or machinery running under strain. The comparison appears across decades of reports because it gives people a familiar way to describe something they perceive as unnatural: a steady vibration, a pulsing hum, or a metallic electrical drone that seems to come from nowhere in particular. Yet the same feature that makes buzzing reports vivid also makes them difficult to verify. Electrical noises are common in everyday environments, sound localisation is often unreliable, and unusual experiences can alter how people remember what they heard. The result is a category of UFO testimony that feels specific but remains hard to investigate conclusively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01-overview.webp" | relative_url }}" alt="Overview image for Buzzing" loading="eager" decoding="sync" fetchpriority="high">
 ## Buzzing in Witness Accounts
@@ -372,7 +372,7 @@ Buzzing descriptions appear throughout UFO literature, government report archive
 
 What makes these reports notable is not merely that a sound was heard, but that witnesses often describe the noise as accompanying an object that appeared silent in every other respect. Instead of hearing an [aircraft]({{ 'aircraft/' | relative_url }}) engine, they report a concentrated buzzing field, sometimes seeming to surround them rather than travel through the air in a normal way.
 
-In some close-encounter narratives, the buzzing is reported before the object becomes visible. In others, witnesses claim the sound intensified as an object approached and faded abruptly when it departed. Researchers have long noted that [humming]({{ 'humming/' | relative_url }}) and buzzing descriptions recur often enough to form a recognisable pattern within UFO [folklore]({{ 'folklore/' | relative_url }}), even though the reports vary widely in quality and reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">UFOs buzzing cars, UFOs with satellite o. Three branches of the...Read more...</span></span></span>
+In some close-encounter narratives, the buzzing is reported before the object becomes visible. In others, witnesses claim the sound intensified as an object approached and faded abruptly when it departed. Researchers have long noted that [humming]({{ 'humming/' | relative_url }}) and buzzing descriptions recur often enough to form a recognisable pattern within UFO [folklore]({{ 'folklore/' | relative_url }}), even though the reports vary widely in quality and reliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">bloecher 67</span><span class="citation-popover-snippet">UFOs buzzing cars, UFOs with satellite o. Three branches of the...Read more...</span></span></span>
 
 The reported sound is also frequently linked to bodily sensations. Witnesses sometimes describe vibration in the chest, tingling skin, pressure in the ears or a feeling that the noise was being experienced internally rather than heard conventionally. These additional claims are difficult to separate from stress responses, expectation effects or ordinary physiological reactions during a startling event.
 
@@ -408,7 +408,7 @@ Several unrelated phenomena can produce similar sounds:
 
 A witness hearing a low-frequency vibration at night may accurately report the sound while still misidentifying its origin. Darkness, distance and environmental acoustics can all interfere with localisation.
 
-Sound investigators frequently note that humans are less effective at locating low-frequency sources than many people realise. A persistent hum may appear to come from the sky when it is actually reflecting from terrain, buildings or atmospheric layers. This is one reason that mysterious humming events often remain unresolved even when no UFO is involved. The long-running [Taos Hum]({{ 'taos-hum/' | relative_url }}) discussions illustrate how difficult it can be to identify a source when listeners perceive vibration-like sounds near the threshold of hearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India What is the mysterious humming noise in New Mexico that</span><span class="citation-popover-snippet">The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundoflife.com">[Sound of Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundoflife.com</span><span class="citation-popover-title">strange sounds heard around the world</span><span class="citation-popover-snippet">The Most Mysterious Noises Heard Around the World2 Apr 2023 — The Hum is a strange low-frequency humming sound that can only be heard by...</span></span></span>
+Sound investigators frequently note that humans are less effective at locating low-frequency sources than many people realise. A persistent hum may appear to come from the sky when it is actually reflecting from terrain, buildings or atmospheric layers. This is one reason that mysterious humming events often remain unresolved even when no UFO is involved. The long-running [Taos Hum]({{ 'taos-hum/' | relative_url }}) discussions illustrate how difficult it can be to identify a source when listeners perceive vibration-like sounds near the threshold of hearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India What is the mysterious humming noise in New Mexico that</span><span class="citation-popover-snippet">The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundoflife.com">[Sound of Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundoflife.com</span><span class="citation-popover-title">strange sounds heard around the world</span><span class="citation-popover-snippet">The Most Mysterious Noises Heard Around the World2 Apr 2023 — The Hum is a strange low-frequency humming sound that can only be heard by...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4wYNUP8FJDc" title="The Proof Is Out There: Strange Alien Sounds FINALLY Explained | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4wYNUP8FJDc" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Strange Alien Sounds FINALLY Explained | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 283.9K &middot; Uploaded: March 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4wYNUP8FJDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4wYNUP8FJDc">Open on YouTube</a></p></div></div></div>
 
@@ -416,9 +416,9 @@ Sound investigators frequently note that humans are less effective at locating l
 
 Some UFO accounts became famous partly because of their sound descriptions.
 
-The 1973 [Pascagoula]({{ 'pascagoula/' | relative_url }}) incident in Mississippi included reports of unusual noises associated with the alleged encounter. Later [retellings]({{ 'retellings/' | relative_url }}) emphasised a mechanical or buzzing quality that witnesses considered unlike ordinary aircraft. Supporters point to the consistency of the witnesses' descriptions, while sceptics argue that repeated retellings can gradually standardise details and make later accounts appear more consistent than the original testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
+The 1973 [Pascagoula]({{ 'pascagoula/' | relative_url }}) incident in Mississippi included reports of unusual noises associated with the alleged encounter. Later [retellings]({{ 'retellings/' | relative_url }}) emphasised a mechanical or buzzing quality that witnesses considered unlike ordinary aircraft. Supporters point to the consistency of the witnesses' descriptions, while sceptics argue that repeated retellings can gradually standardise details and make later accounts appear more consistent than the original testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</span><span class="citation-popover-meta">Published: April 29, 2026</span></span></span>
 
-Other historical reports from the late nineteenth and twentieth centuries similarly describe bright aerial objects accompanied by humming or vibrating sounds. In many cases, the auditory details became more prominent as stories were retold through UFO publications, documentaries and discussion forums. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">strange case from 1886 involving a humming noise</span><span class="citation-popover-snippet">Strange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</span><span class="citation-popover-meta">Published: May 17, 2023</span></span></span>
+Other historical reports from the late nineteenth and twentieth centuries similarly describe bright aerial objects accompanied by humming or vibrating sounds. In many cases, the auditory details became more prominent as stories were retold through UFO publications, documentaries and discussion forums.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">strange case from 1886 involving a humming noise</span><span class="citation-popover-snippet">Strange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</span><span class="citation-popover-meta">Published: May 17, 2023</span></span></span>
 
 This does not necessarily mean witnesses invented the sounds. Rather, it highlights a recurring challenge in UFO research: sound descriptions are often remembered and interpreted after the visual event has already acquired significance.
 
@@ -427,7 +427,7 @@ This does not necessarily mean witnesses invented the sounds. Rather, it highlig
 
 One reason buzzing claims attract attention is that some researchers have proposed links between electromagnetic fields and perceived sound.
 
-A controversial line of speculation within older UFO literature suggested that microwave or radio-frequency effects could induce auditory sensations directly in human subjects. The idea draws loosely on real scientific work showing that pulsed electromagnetic energy can under certain conditions produce perceived clicks or buzzing sounds, sometimes called the microwave auditory effect. UFO writers occasionally used this research to speculate that witnesses might hear buzzing without a conventional airborne sound source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</span></span></span>
+A controversial line of speculation within older UFO literature suggested that microwave or radio-frequency effects could induce auditory sensations directly in human subjects. The idea draws loosely on real scientific work showing that pulsed electromagnetic energy can under certain conditions produce perceived clicks or buzzing sounds, sometimes called the microwave auditory effect. UFO writers occasionally used this research to speculate that witnesses might hear buzzing without a conventional airborne sound source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</span></span></span>
 
 The problem is that such claims are usually highly speculative when applied to UFO reports. Even where the underlying physics is genuine, there is almost never enough evidence in a UFO case to determine whether any electromagnetic exposure occurred. Most reports contain no instrumental measurements, no medical data and no independent confirmation.
 
@@ -460,7 +460,7 @@ Independent accounts are generally more valuable than a single recollection, par
 
 Audio recordings can sometimes identify frequencies, harmonics or environmental sources, although many alleged UFO sounds are never captured.
 
-Modern efforts to monitor unusual aerial phenomena increasingly include acoustic sensors. Programmes that collect infrasound, audible sound and ultrasonic data attempt to distinguish aircraft, weather events and other known sources from genuinely unusual detections. Such systems do not prove a UFO explanation, but they offer a more objective approach than relying solely on memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Mystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</span></span></span>
+Modern efforts to monitor unusual aerial phenomena increasingly include acoustic sensors. Programmes that collect infrasound, audible sound and ultrasonic data attempt to distinguish aircraft, weather events and other known sources from genuinely unusual detections. Such systems do not prove a UFO explanation, but they offer a more objective approach than relying solely on memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Mystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ML0eB3HFagM" title="UFO Sound Effects All Sounds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer">UFO Sound Effects All Sounds</a></p><p class="youtube-embed-meta">Channel: All Sounds &middot; Views: 374.8K &middot; Uploaded: January 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ML0eB3HFagM">Open on YouTube</a></p></div></div></div>
 
@@ -470,199 +470,199 @@ Buzzing occupies a distinctive place in UFO culture because it sits between the 
 
 The persistence of these reports does not demonstrate that UFOs use exotic electrical propulsion. What it shows is that people repeatedly reach for the same sensory comparisons when trying to describe unusual aerial experiences. Some cases may involve misunderstood environmental sounds. Others may involve genuine but unidentified sources. Many lack enough evidence to reach a firm conclusion.
 
-That ambiguity is precisely why buzzing reports endure. They are specific enough to feel meaningful, familiar enough to be memorable, and difficult enough to verify that they remain one of the most debated sound patterns in UFO testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India What is the mysterious humming noise in New Mexico that</span><span class="citation-popover-snippet">The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span>
+That ambiguity is precisely why buzzing reports endure. They are specific enough to feel meaningful, familiar enough to be memorable, and difficult enough to verify that they remain one of the most debated sound patterns in UFO testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India What is the mysterious humming noise in New Mexico that</span><span class="citation-popover-snippet">The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/24cVb_ppFx8" title="UFO Over New York City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=24cVb_ppFx8" target="_blank" rel="noopener noreferrer">UFO Over New York City</a></p><p class="youtube-embed-meta">Channel: renetto &middot; Views: 46.7K &middot; Uploaded: July 2006 &middot; Length: 1 minute 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=24cVb_ppFx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=24cVb_ppFx8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Buzzing UFO Sounds Really Electrical?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Buzzing UFO Sounds Really Electrical?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses witness reports, unusual sounds, and interpretation issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness reports, unusual sounds, and interpretation issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores serious witness testimony, including sensory descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores serious witness testimony, including sensory descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
-        </h4>
-        <p class="fr-book-author">By Eric J. Heller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 to 93; Pages:94 to 124; Pages:125 to 155; Pages:156 to 186; Pages:187 to 217; Pages:218 to 248; Pages:249 to 279; Pages:280 to 310; Pages:311 to 341; Pages:342 to 372; Pages:373 to 403; Pages:404 to 434; Pages:435 to 465; Pages:466 to 496; Pages:497 to 527; Pages:528 to 558; Pages:559 to 589; Pages:590 to 620">Why You Hear What You Hear: to 31; Pages:32 to 62; Pages:63 t...</a>
+</h4>
+<p class="fr-book-author">By Eric J. Heller</p>
         
-        <p class="fr-book-desc">Explains how buzzing and humming sounds are perceived and localized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how buzzing and humming sounds are perceived and localized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+You+Hear+What+You+Hear%3A+to+31%3B+Pages%3A32+to+62%3B+Pages%3A63+to+93%3B+Pages%3A94+to+124%3B+Pages%3A125+to+155%3B+Pages%3A156+to+186%3B+Pages%3A187+to+217%3B+Pages%3A218+to+248%3B+Pages%3A249+to+279%3B+Pages%3A280+to+310%3B+Pages%3A311+to+341%3B+Pages%3A342+to+372%3B+Pages%3A373+to+403%3B+Pages%3A404+to+434%3B+Pages%3A435+to+465%3B+Pages%3A466+to+496%3B+Pages%3A497+to+527%3B+Pages%3A528+to+558%3B+Pages%3A559+to+589%3B+Pages%3A590+to+620+by+Eric+J.+Heller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="buzzing-are-buzzing-ufo-sounds-really-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -678,7 +678,7 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -698,7 +698,7 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -730,7 +730,7 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -782,7 +782,7 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -827,7 +827,7 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -868,138 +868,138 @@ That ambiguity is precisely why buzzing reports endure. They are specific enough
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</p></details>
+   Link:<a href="https://www.nicap.org/ufology/ufochap4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufology/ufochap4.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology-Chapter 4(8) Thus the buzzing sound heard from UFOs may be stimulated directly within... witness to complete control by the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kirkmcd.princeton.edu  
    Title: bloecher 67  
-   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs buzzing cars, UFOs with satellite o. Three branches of the...Read more...</p></details>
+   Link:<a href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs buzzing cars, UFOs with satellite o. Three branches of the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — The Pascagoula incident was an alleged UFO close encounter reported by... &quot;Famous Alien Abduction in Pascagoula: Reinve...</p></details>
    Published: April 29, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: strange case from 1886 involving a humming noise  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13jn5x0/strange_case_from_1886_involving_a_humming_noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange case from 1886 involving a humming noise and...May 17, 2023 — SS: A Scientific American article about 9 witnesses witnessi...</p></details>
    Published: May 17, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Sound of an Unidentified Anomalous PhenomenonThe sensors allow AMOS to monitor the vast range of sounds produced by natural...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the way beings move like rewinding...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11dfo6h/wha_is_the_significance_of_the_buzzing_or_flute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the way beings move like rewinding...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: High Strangeness of an Auditory Kind  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Ringing in the...Prime Contactees are a special type of UFO experiencer. They can request UFO sightings with others present, and an...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1eovh8s/mechanisms_of_contact_high_strangeness_of_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Ringing in the...Prime Contactees are a special type of UFO experiencer. They can request UFO sightings with others present, and an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extremely loud (UFO?) noise heard at night, anybody...r/aliens - 2006 France Rare footage of the sound of a ufo with sound...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15604yu/extremely_loud_ufo_noise_heard_at_night_anybody/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extremely loud (UFO?) noise heard at night, anybody...r/aliens - 2006 France Rare footage of the sound of a ufo with sound...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>errupting dog walks...</p></details>
+   Link:<a href="https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inside-the-simulation/the-skyquake-phenomenon-dabbbebc2e4b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>errupting dog walks...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... alien in origin, unrelated to astrobiology or xenobiology. List of UFO religions · List of investiga...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings... alien in origin, unrelated to astrobiology or xenobiology. List of UFO religions · List of investiga...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 UFO ChronologySelfridge AFB reported tracking UFOs on radar over Lake Erie. (Hall, 2001, pp. 184-86; U.F.O. Investigator, Vol...</p></details>
+   Link:<a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 UFO ChronologySelfridge AFB reported tracking UFOs on radar over Lake Erie. (Hall, 2001, pp. 184-86; U.F.O. Investigator, Vol...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsUFO reports. Sightings of unidentified flying objects (UFOs) have been reported over our skies for decade...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: timesofindia.indiatimes.com  
    Title: The Times of India What is the mysterious humming noise in New Mexico that  
-   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IndiaWhat is the mysterious humming noise in New Mexico that...January 3, 2026 — Jan 14, 2026 — People who report hearing t...</p></details>
    Published: January 3, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: soundoflife.com  
    Title: strange sounds heard around the world  
-   Link: <a href="https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Mysterious Noises Heard Around the World2 Apr 2023 — The Hum is a strange low-frequency humming sound that can only be heard by...</p></details>
+   Link:<a href="https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world" target="_blank" rel="noopener noreferrer nofollow">https://www.soundoflife.com/blogs/experiences/strange-sounds-heard-around-the-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Mysterious Noises Heard Around the World2 Apr 2023 — The Hum is a strange low-frequency humming sound that can only be heard by...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/history-s-most-famous-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History&#x27;s most famous UFO sightingsHere are some of the more noteworthy historical UFO sightings: A UFO hovering in the night sky. Read m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: whyy.org  
-   Link: <a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing. Some of them are happy the idea of UFOs is becoming more mainstream; others, Nickerson says, are disturbed. “They also try t...</p></details>
+   Link:<a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing. Some of them are happy the idea of UFOs is becoming more mainstream; others, Nickerson says, are disturbed. “They also try t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: its world ufo day we want to share this photo of a ufo flying over belton lake i  
-   Link: <a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...1 (July 1975) &quot;UFO ILLUMINATES LAKE&quot; “Two men who prefer to remain anonymous sigh...</p></details>
+   Link:<a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...1 (July 1975) &quot;UFO ILLUMINATES LAKE&quot; “Two men who prefer to remain anonymous sigh...</p></details>
    Published: July 1975  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sound Effects All SoundsThe 18 Most Scary Sounds Ever Captured In Space! Darkness Beyond &amp;middot; 2.5M views; Did The Soviet Union D...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ML0eB3HFagM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ML0eB3HFagM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sound Effects All SoundsThe 18 Most Scary Sounds Ever Captured In Space! Darkness Beyond &amp;middot; 2.5M views; Did The Soviet Union D...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part of me believes that they&#x27;re here to see what happens when sentence serves the world and then...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/on-march-21-1966-dozens-of-students-and-staff-at-hillsdale-college-in-michigan-r/1529912072477281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part of me believes that they&#x27;re here to see what happens when sentence serves the world and then...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — While most of the eyewitnesses described a slow-moving V-shaped UFO, other reports said the object appeared to be...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — While most of the eyewitnesses described a slow-moving V-shaped UFO, other reports said the object appeared to be...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: artsandculture.google.com  
-   Link: <a href="https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>google.com10 UFO Sightings Around the World10 UFO Sightings Around the World. Join us on a journey around the world, to discover 10 of th...</p></details>
+   Link:<a href="https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://artsandculture.google.com/story/10-ufo-sightings-around-the-world/BwVRe1UdReh-_w?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>google.com10 UFO Sightings Around the World10 UFO Sightings Around the World. Join us on a journey around the world, to discover 10 of th...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon UFO Recording - UFOs The Lost Evidence...</p></details>
+   Link:<a href="https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoveryUK/videos/oregon-ufo-recording-ufos-the-lost-evidence/414160445972251/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon UFO Recording - UFOs The Lost Evidence...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: buriedsecretspodcast.com  
    Title: hallucinatory ufos and sound  
-   Link: <a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>
+   Link:<a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>

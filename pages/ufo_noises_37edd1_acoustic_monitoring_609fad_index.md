@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-acoustic-monitoring/
 description: Focused pages that expand on Sensors.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_acoustic_monitoring_609fad
 parent_title: Sensors
@@ -16,7 +16,7 @@ parent_permalink: /sensors/
 
 # Explore Topics in Sensors
 
-The following pages expand on the main **[Sensors]({{ '/sensors/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sensors]({{ '/sensors/' | relative_url }})** page and cover its key branches in.
 
 - [Arrays]({{ '/arrays/' | relative_url }})
 - [Chelyabinsk]({{ '/chelyabinsk/' | relative_url }})

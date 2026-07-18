@@ -352,14 +352,14 @@ image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-overview-social
 
 ## Introduction
 
-Reports of sudden, explosive booms in the sky have long fuelled UFO rumours. A loud blast with no visible [aircraft]({{ 'aircraft/' | relative_url }}), storm or impact can feel deeply unsettling, especially when windows shake, pets react and local authorities initially have no explanation. In UFO culture, these events are often folded into wider stories about unidentified objects, secret technology or strange activity overhead. Yet investigations repeatedly show that many mystery booms have ordinary causes, including meteors, military aircraft, industrial explosions and unusual atmospheric conditions. The challenge is that the sound often arrives before reliable evidence does, creating a window in which speculation can spread faster than [verification]({{ 'verification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+Reports of sudden, explosive booms in the sky have long fuelled UFO rumours. A loud blast with no visible [aircraft]({{ 'aircraft/' | relative_url }}), storm or impact can feel deeply unsettling, especially when windows shake, pets react and local authorities initially have no explanation. In UFO culture, these events are often folded into wider stories about unidentified objects, secret technology or strange activity overhead. Yet investigations repeatedly show that many mystery booms have ordinary causes, including meteors, military aircraft, industrial explosions and unusual atmospheric conditions. The challenge is that the sound often arrives before reliable evidence does, creating a window in which speculation can spread faster than [verification]({{ 'verification/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-overview.webp" | relative_url }}" alt="Overview image for Booms" loading="eager" decoding="sync" fetchpriority="high">
 Unlike many UFO reports that focus on lights or shapes, mystery-boom cases are usually driven by timing. Witnesses hear something dramatic, search for an explanation, and often find none immediately. That gap between experience and explanation is where UFO rumours tend to flourish.
 
 ## Boom Reports in UFO Culture
 
-For decades, unexplained booms have appeared alongside UFO reports in newspapers, radio programmes, online forums and paranormal investigations. Witnesses frequently describe a cannon-like blast, a double boom, a distant explosion or a shockwave that seems to come from nowhere. Because the source is often invisible, people may assume something unusual crossed the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+For decades, unexplained booms have appeared alongside UFO reports in newspapers, radio programmes, online forums and paranormal investigations. Witnesses frequently describe a cannon-like blast, a double boom, a distant explosion or a shockwave that seems to come from nowhere. Because the source is often invisible, people may assume something unusual crossed the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
 A recurring pattern appears in many reports:
 
@@ -373,16 +373,16 @@ A recurring pattern appears in many reports:
 
 </div>
 
-This pattern predates the internet. Along the eastern United States, mysterious booming sounds known as “[Seneca Guns]({{ 'seneca-guns/' | relative_url }})” have been reported for centuries around lakes and coastal regions. Witnesses often compared them to artillery fire or distant naval cannon blasts. Long before modern UFO culture developed, people created [folklore]({{ 'folklore/' | relative_url }}) to explain the sounds. Today, the same kinds of reports are sometimes reframed as possible UFO activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Boom stories&#x27; abound along the U.S.&#x27;s northeast coast.Read more</span><span class="citation-popover-snippet">Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</span></span></span>
+This pattern predates the internet. Along the eastern United States, mysterious booming sounds known as “[Seneca Guns]({{ 'seneca-guns/' | relative_url }})” have been reported for centuries around lakes and coastal regions. Witnesses often compared them to artillery fire or distant naval cannon blasts. Long before modern UFO culture developed, people created [folklore]({{ 'folklore/' | relative_url }}) to explain the sounds. Today, the same kinds of reports are sometimes reframed as possible UFO activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Boom stories&#x27; abound along the U.S.&#x27;s northeast coast.Read more</span><span class="citation-popover-snippet">Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</span></span></span>
 
 The persistence of these stories demonstrates an important point: unexplained booms are not unique to the UFO era. The interpretation changes with the cultural moment. In one century, people may blame spirits or distant battleships. In another, they may suspect extraterrestrial craft.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-1-dark.svg" | relative_url }}" alt="Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Booms Feel More Mysterious Than Lights
 
-A light in the sky can be mistaken for a star, aircraft or satellite. A powerful boom feels more immediate and physical. Witnesses often report vibrations in walls, floors or windows, making the event seem harder to dismiss as misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
+A light in the sky can be mistaken for a star, aircraft or satellite. A powerful boom feels more immediate and physical. Witnesses often report vibrations in walls, floors or windows, making the event seem harder to dismiss as misidentification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
 
-Sound also behaves in ways many people do not intuitively expect. Atmospheric layers can bend sound waves, allowing noises to travel long distances. A source that is dozens of kilometres away may seem to be directly overhead. This mismatch between perception and reality makes acoustic mysteries particularly prone to unusual interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
+Sound also behaves in ways many people do not intuitively expect. Atmospheric layers can bend sound waves, allowing noises to travel long distances. A source that is dozens of kilometres away may seem to be directly overhead. This mismatch between perception and reality makes acoustic mysteries particularly prone to unusual interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
 
 ## Likely Natural and Human Causes
 
@@ -390,9 +390,9 @@ Although some mystery booms remain unresolved, investigators have identified sev
 
 ### Meteor Airbursts
 
-One of the most dramatic sources is a meteor exploding in the [atmosphere]({{ 'atmosphere/' | relative_url }}). Large meteoroids can create bright fireballs and powerful sonic booms as they fragment at high speed. Witnesses may hear explosions, feel pressure waves and see flashes of light. In some cases, the sound arrives long after the visual event because sound travels much more slowly than light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
+One of the most dramatic sources is a meteor exploding in the [atmosphere]({{ 'atmosphere/' | relative_url }}). Large meteoroids can create bright fireballs and powerful sonic booms as they fragment at high speed. Witnesses may hear explosions, feel pressure waves and see flashes of light. In some cases, the sound arrives long after the visual event because sound travels much more slowly than light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</span><span class="citation-popover-meta">Published: March 17, 2026</span></span></span>
 
-Recent examples illustrate how easily these events can trigger speculation. In 2026, a meteor exploding above the northeastern United States produced loud booms across multiple states, leading to widespread reports of explosions and shaking buildings before scientific agencies confirmed the cause. NASA and the American Meteor Society later identified the event as a natural atmospheric airburst. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The American Meteor Society and NASA confirmed that a meteor, about three feet wide, entered the atmosphere around 2:06 p.m. near the New...</span></span></span>
+Recent examples illustrate how easily these events can trigger speculation. In 2026, a meteor exploding above the northeastern United States produced loud booms across multiple states, leading to widespread reports of explosions and shaking buildings before scientific agencies confirmed the cause. NASA and the American Meteor Society later identified the event as a natural atmospheric airburst.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The American Meteor Society and NASA confirmed that a meteor, about three feet wide, entered the atmosphere around 2:06 p.m. near the New...</span></span></span>
 
 Meteor events are especially important in UFO-noise discussions because witnesses may hear the boom without seeing the fireball, particularly during daylight or cloudy conditions.
 
@@ -400,22 +400,22 @@ Meteor events are especially important in UFO-noise discussions because witnesse
 
 ### Sonic Booms from Aircraft
 
-Military aircraft remain one of the most common explanations for mystery-boom reports. When an aircraft exceeds the speed of sound, the resulting shockwave can create a powerful boom audible over a large area. Depending on weather conditions, the sound may appear detached from its source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+Military aircraft remain one of the most common explanations for mystery-boom reports. When an aircraft exceeds the speed of sound, the resulting shockwave can create a powerful boom audible over a large area. Depending on weather conditions, the sound may appear detached from its source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
-Some investigations have traced regional mystery-boom clusters to military training routes or testing activity. In other cases, officials neither confirm nor deny specific flights, allowing rumours to continue even when the sonic-boom explanation is plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
+Some investigations have traced regional mystery-boom clusters to military training routes or testing activity. In other cases, officials neither confirm nor deny specific flights, allowing rumours to continue even when the sonic-boom explanation is plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
 
 This uncertainty often feeds UFO narratives. If residents know aircraft exist but cannot identify a specific flight, some conclude that something more unusual must have been responsible.
 
 ### Geological and Atmospheric Sources
 
-Not every unexplained boom comes from the sky. Researchers have examined possible contributions from shallow seismic activity, frost quakes, gas releases and unusual atmospheric acoustics. The U.S. Geological Survey notes that some reports have natural explanations while others remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
+Not every unexplained boom comes from the sky. Researchers have examined possible contributions from shallow seismic activity, frost quakes, gas releases and unusual atmospheric acoustics. The U.S. Geological Survey notes that some reports have natural explanations while others remain unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span>
 
-Atmospheric conditions can be particularly deceptive. Temperature [inversions]({{ 'inversions/' | relative_url }}) can channel and amplify distant sounds, making ordinary events seem much closer and more powerful than they really are. This has been proposed as one possible contributor to some coastal “Seneca Gun” reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
+Atmospheric conditions can be particularly deceptive. Temperature [inversions]({{ 'inversions/' | relative_url }}) can channel and amplify distant sounds, making ordinary events seem much closer and more powerful than they really are. This has been proposed as one possible contributor to some coastal “Seneca Gun” reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-2-dark.svg" | relative_url }}" alt="Booms illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Industrial and Human Activity
 
-Construction blasts, quarry operations, accidental explosions and industrial malfunctions regularly generate reports of unexplained booms. Investigations into mystery-noise events often discover mundane sources only after emergency services compare reports across multiple locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillMystery booms of 2022 - Sharon A. HillJanuary 2, 2023 — 2 Jan 2023 — 4 were definite meteor airburst/sonic booms; 3 were definite or...</span><span class="citation-popover-meta">Published: January 2, 2023</span></span></span>
+Construction blasts, quarry operations, accidental explosions and industrial malfunctions regularly generate reports of unexplained booms. Investigations into mystery-noise events often discover mundane sources only after emergency services compare reports across multiple locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillMystery booms of 2022 - Sharon A. HillJanuary 2, 2023 — 2 Jan 2023 — 4 were definite meteor airburst/sonic booms; 3 were definite or...</span><span class="citation-popover-meta">Published: January 2, 2023</span></span></span>
 
 The difficulty is that people hearing the boom may be many kilometres from the source, making direct identification impossible from personal observation alone.
 
@@ -425,7 +425,7 @@ The strongest clue in many mystery-boom cases is not the sound itself but when i
 
 ### Light Before Sound
 
-When witnesses report a bright streak or flash followed by a delayed boom, investigators often examine meteor databases and fireball reports. Because light arrives almost instantly while sound travels relatively slowly, delays of tens of seconds or even several minutes can point toward a distant atmospheric explosion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Boom stories&#x27; abound along the U.S.&#x27;s northeast coast.Read more</span><span class="citation-popover-snippet">Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</span></span></span>
+When witnesses report a bright streak or flash followed by a delayed boom, investigators often examine meteor databases and fireball reports. Because light arrives almost instantly while sound travels relatively slowly, delays of tens of seconds or even several minutes can point toward a distant atmospheric explosion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Boom stories&#x27; abound along the U.S.&#x27;s northeast coast.Read more</span><span class="citation-popover-snippet">Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</span></span></span>
 
 A sudden boom with no visible object does not rule out a meteor. Cloud cover, daylight conditions and viewing angle can easily hide the visual component.
 
@@ -433,7 +433,7 @@ A sudden boom with no visible object does not rule out a meteor. Cloud cover, da
 
 ### Single Boom Versus Repeated Events
 
-A one-off boom is often easier to connect to a specific event such as a meteor or sonic boom. Repeated booms over weeks or months suggest different possibilities, including recurring military activity, industrial operations or persistent environmental conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
+A one-off boom is often easier to connect to a specific event such as a meteor or sonic boom. Repeated booms over weeks or months suggest different possibilities, including recurring military activity, industrial operations or persistent environmental conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
 
 This distinction matters because UFO rumours often emerge when people assume every boom belongs to the same mystery. In reality, a region may experience several unrelated causes over time.
 
@@ -441,208 +441,208 @@ This distinction matters because UFO rumours often emerge when people assume eve
 
 ### Comparing Reports Across a Region
 
-Modern investigations increasingly rely on distributed evidence. Seismic [sensors]({{ 'sensors/' | relative_url }}), weather data, flight tracking, satellite observations and public witness reports can be compared to narrow down possibilities. Events that initially appear inexplicable often become clearer once enough observations are collected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
+Modern investigations increasingly rely on distributed evidence. Seismic [sensors]({{ 'sensors/' | relative_url }}), weather data, flight tracking, satellite observations and public witness reports can be compared to narrow down possibilities. Events that initially appear inexplicable often become clearer once enough observations are collected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
 
-The 2026 New England meteor is a good example. Early reports described explosions, shaking and mysterious booms. Within hours, observations from NASA, the American Meteor Society and geological monitoring networks helped reconstruct the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
+The 2026 New England meteor is a good example. Early reports described explosions, shaking and mysterious booms. Within hours, observations from NASA, the American Meteor Society and geological monitoring networks helped reconstruct the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-snippet">The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-3-dark.svg" | relative_url }}" alt="Booms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Some Mystery Booms Remain Unexplained
 
-Not every case reaches a satisfying conclusion. The USGS acknowledges that some boom reports have never been definitively explained. Historical “Seneca Gun” accounts remain a notable example. Centuries of reports have produced numerous theories but no single accepted cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
+Not every case reaches a satisfying conclusion. The USGS acknowledges that some boom reports have never been definitively explained. Historical “Seneca Gun” accounts remain a notable example. Centuries of reports have produced numerous theories but no single accepted cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coastalreview.org">[Coastal Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coastalreview.org</span><span class="citation-popover-title">Coastal Review Seneca Guns?</span><span class="citation-popover-snippet">Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</span><span class="citation-popover-meta">Published: March 7, 2019</span></span></span>
 
 Unexplained does not automatically mean extraterrestrial. Many boom events leave little physical evidence, occur over large areas and are reported only after the fact. Without recordings, sensor data or direct observations, investigators may simply lack enough information to identify a source confidently.
 
-This ambiguity helps explain why mystery booms occupy a durable place in UFO culture. They are dramatic enough to be memorable, rare enough to feel unusual and often difficult to verify. Most eventually point toward known natural or human causes, but a residual category of unresolved reports continues to encourage speculation, folklore and debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
+This ambiguity helps explain why mystery booms occupy a durable place in UFO culture. They are dramatic enough to be memorable, rare enough to feel unusual and often difficult to verify. Most eventually point toward known natural or human causes, but a residual category of unresolved reports continues to encourage speculation, folklore and debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Causes Mystery Booms in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Causes Mystery Booms in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits readers investigating unexplained sky events and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits readers investigating unexplained sky events and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Meteors are a major source of mystery-boom reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Meteors are a major source of mystery-boom reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how unexplained reports are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unexplained reports are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Rossing</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
+</h4>
+<p class="fr-book-author">By Thomas Rossing</p>
         
-        <p class="fr-book-desc">Explains shockwaves, sound travel and boom perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains shockwaves, sound travel and boom perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="booms-what-causes-mystery-booms-in-the-sky-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-to" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -658,7 +658,7 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -678,7 +678,7 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -710,7 +710,7 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -762,7 +762,7 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -807,7 +807,7 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -848,123 +848,123 @@ This ambiguity helps explain why mystery booms occupy a durable place in UFO cul
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, Seneca Guns, and Other SoundsReports of unidentified “booms” have emerged from different places around the world fo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: audiology.org  
    Title: [skyquakes](&#123;&#123; 'skyquakes/' | relative_url &#125;&#125;) did you hear it  
-   Link: <a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</p></details>
+   Link:<a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Meteor air burst  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor_air_burst" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_air_burst</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sharonahill.com  
-   Link: <a href="https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HillMystery booms of 2022 - Sharon A. HillJanuary 2, 2023 — 2 Jan 2023 — 4 were definite meteor airburst/sonic booms; 3 were definite or...</p></details>
+   Link:<a href="https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/weird-news-and-mystery-booms-for-the-end-of-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HillMystery booms of 2022 - Sharon A. HillJanuary 2, 2023 — 2 Jan 2023 — 4 were definite meteor airburst/sonic booms; 3 were definite or...</p></details>
    Published: January 2, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: loud booms from exploding meteor heard across the us 13549426  
-   Link: <a href="https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>booms from exploding meteor heard across the USThe American Meteor Society said that the booms were caused by a meteor about three feet w...</p></details>
+   Link:<a href="https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/loud-booms-from-exploding-meteor-heard-across-the-us-13549426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>booms from exploding meteor heard across the USThe American Meteor Society said that the booms were caused by a meteor about three feet w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: coastalreview.org  
    Title: Coastal Review Seneca Guns?  
-   Link: <a href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow">https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</p></details>
+   Link:<a href="https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/" target="_blank" rel="noopener noreferrer nofollow">https://coastalreview.org/2019/03/seneca-guns-mysterious-boom-rattles-coast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Boom Rattles CoastMarch 7, 2019 — 7 Mar 2019 — But what caused that boom is a mystery. The on-duty seismologist... Some Senec...</p></details>
    Published: March 7, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: livescience.com  
    Title: 'Boom stories' abound along the U.S.'s northeast coast.Read more  
-   Link: <a href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/agu-seneca-guns-cause.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</p></details>
+   Link:<a href="https://www.livescience.com/agu-seneca-guns-cause.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/agu-seneca-guns-cause.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceWhat&#x27;s behind the mysterious, earth-shaking boom of the &#x27;...14 Dec 2020 — What&#x27;s behind the mysterious, earth-shaking boom o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the morning of March 17, 2026, creating a bright flash and a powerful sonic boom. The 6-foot-wide, 7-ton asteroid entered Earth&#x27;s atmo...</p></details>
    Published: March 17, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Meteor Society and NASA confirmed that a meteor, about three feet wide, entered the atmosphere around 2:06 p.m. near the New...</p></details>
+   Link:<a href="https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/2b79039c94af28e4b63aaeabf06c6844</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The American Meteor Society and NASA confirmed that a meteor, about three feet wide, entered the atmosphere around 2:06 p.m. near the New...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ctinsider.com  
-   Link: <a href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</p></details>
+   Link:<a href="https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meteor, described as a bright fireball, disintegrated about 40 miles above northeastern Massachusetts at 2:06 p.m., releasing energy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERY SOLVED: The boom that rattled Massachusetts...MYSTERY SOLVED: The boom that rattled Massachusetts Saturday was caused by a 3-foo...</p></details>
+   Link:<a href="https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wcvb5/posts/mystery-solved-the-boom-that-rattled-massachusetts-saturday-was-caused-by-a-3-fo/1545891567566926/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERY SOLVED: The boom that rattled Massachusetts...MYSTERY SOLVED: The boom that rattled Massachusetts Saturday was caused by a 3-foo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zv5sBWBQvE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sonic boom rattles South CarolinaThe U.S. Geological Survey says the boom was not the result of an earthquake, while NASA says...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zv5sBWBQvE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zv5sBWBQvE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sonic boom rattles South CarolinaThe U.S. Geological Survey says the boom was not the result of an earthquake, while NASA says...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Seconds later, a loud boom is heard, followed by someone asking,  
-   Link: <a href="https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this video, what appears to be a jet or meteor can be seen...In this video, what appears to be a jet or meteor can be seen crossing t...</p></details>
+   Link:<a href="https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChrisJustusWYFF4ChiefMeteorologist/posts/in-this-video-what-appears-to-be-a-jet-or-meteor-can-be-seen-crossing-the-sky-se/1530973515063460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this video, what appears to be a jet or meteor can be seen...In this video, what appears to be a jet or meteor can be seen crossing t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: candidslice.com  
    Title: legend of the seneca guns mysterious booms across east coast  
-   Link: <a href="https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legend of the Seneca Guns: Mysterious Booms Across East...30 Oct 2018 — The primary legend believed by European settlers is that the boo...</p></details>
+   Link:<a href="https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.candidslice.com/legend-of-the-seneca-guns-mysterious-booms-across-east-coast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legend of the Seneca Guns: Mysterious Booms Across East...30 Oct 2018 — The primary legend believed by European settlers is that the boo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: Sometimes, Seneca Lake makes a sound like a cannon  
-   Link: <a href="https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite years of study, many Seneca Guns remain unexplained, with no matching seismic or weather events. For coastal residents, these boo...</p></details>
+   Link:<a href="https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/briancalley/posts/sometimes-seneca-lake-makes-a-sound-like-a-cannona-deep-hollow-boomlike-distant-/1518824446271605/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite years of study, many Seneca Guns remain unexplained, with no matching seismic or weather events. For coastal residents, these boo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY7hNitDk8F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7hNitDk8F/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n caused by a meteor or space debris re-entering the atmosphere.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DY7hNitDk8F/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7hNitDk8F/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n caused by a meteor or space debris re-entering the atmosphere.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>le traveling through our athmosphere. In the time decending...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/rtr06e/has_anybody_figured_out_what_the_loud_booms_are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>le traveling through our athmosphere. In the time decending...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY8SGDSxnf3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY8SGDSxnf3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>while NASA says it was not caused by a launch or meteor. NBC News&#x27;...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY8SGDSxnf3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY8SGDSxnf3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>while NASA says it was not caused by a launch or meteor. NBC News&#x27;...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>usually bright fireball meteors can create a sonic boom.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/hundreds-of-people-reported-feeling-the-sudden-jarring-rumble-the-us-geological-/1350357886958182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usually bright fireball meteors can create a sonic boom.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t Andrews and was heard and felt across the Midlands on Thursday...</p></details>
+   Link:<a href="https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/videos/the-united-states-geological-survey-reports-a-sonic-boom-that-was-felt-across-th/1540004277680860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t Andrews and was heard and felt across the Midlands on Thursday...</p></details>

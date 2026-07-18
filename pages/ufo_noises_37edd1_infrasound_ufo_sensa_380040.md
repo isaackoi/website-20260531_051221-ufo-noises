@@ -355,11 +355,11 @@ image: /assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-overview-soc
 Many UFO sound reports are not really about sound in the ordinary sense. Witnesses often describe a pressure in the chest, a vibration through the body, a feeling of unease, or a low [humming]({{ 'humming/' | relative_url }}) sensation that seems to come from nowhere. In some cases people say they felt an object before they clearly saw or heard it. One possible explanation involves infrasound: extremely low-frequency sound waves that sit at or below the lower limit of human hearing.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-overview.webp" | relative_url }}" alt="Overview image for Infrasound" loading="eager" decoding="sync" fetchpriority="high">
-Infrasound does not automatically explain UFO encounters, and there is no evidence that all unusual aerial reports involve low-frequency acoustics. However, researchers have long known that infrasound can produce physical sensations that people sometimes struggle to identify. Because UFO witnesses frequently report vibration, pressure and bodily effects alongside strange lights or objects, infrasound has become one of the more plausible mechanisms discussed in attempts to explain at least some of these experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Infrasound does not automatically explain UFO encounters, and there is no evidence that all unusual aerial reports involve low-frequency acoustics. However, researchers have long known that infrasound can produce physical sensations that people sometimes struggle to identify. Because UFO witnesses frequently report vibration, pressure and bodily effects alongside strange lights or objects, infrasound has become one of the more plausible mechanisms discussed in attempts to explain at least some of these experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Could Infrasound Explain UFO Vibrations?
 
-The idea is straightforward. Humans hear best within a certain frequency range, but sound waves can exist below that range. Frequencies under roughly 20 hertz are generally classified as infrasound. At sufficient intensity, people may not consciously hear these frequencies as a tone, yet they can still experience physical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
+The idea is straightforward. Humans hear best within a certain frequency range, but sound waves can exist below that range. Frequencies under roughly 20 hertz are generally classified as infrasound. At sufficient intensity, people may not consciously hear these frequencies as a tone, yet they can still experience physical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
 
 This matters because many UFO reports contain descriptions such as:
 
@@ -374,14 +374,14 @@ This matters because many UFO reports contain descriptions such as:
 
 </div>
 
-These descriptions do not prove the presence of infrasound, but they resemble effects documented in studies of low-frequency sound exposure. Researchers reviewing low-frequency noise have repeatedly noted complaints involving pressure sensations, annoyance, fatigue, concentration difficulties and bodily vibration. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
+These descriptions do not prove the presence of infrasound, but they resemble effects documented in studies of low-frequency sound exposure. Researchers reviewing low-frequency noise have repeatedly noted complaints involving pressure sensations, annoyance, fatigue, concentration difficulties and bodily vibration. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
 
 One reason the idea remains attractive in UFO discussions is that infrasound can be difficult to localise. People may sense something is affecting them without being able to identify where it originates.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-1-dark.svg" | relative_url }}" alt="Infrasound illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Infrasound Actually Is
 
-Infrasound consists of sound waves below the normal threshold of hearing. The ear becomes progressively less sensitive as frequencies drop, meaning very low-frequency waves often need to be extremely powerful before they are consciously heard. Even then, they may be perceived more as vibration than as sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Infrasound consists of sound waves below the normal threshold of hearing. The ear becomes progressively less sensitive as frequencies drop, meaning very low-frequency waves often need to be extremely powerful before they are consciously heard. Even then, they may be perceived more as vibration than as sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The wavelengths involved are enormous. A 10-hertz wave can extend for tens of metres. Because of these long wavelengths, infrasound behaves differently from ordinary noise:
 
@@ -390,7 +390,7 @@ The wavelengths involved are enormous. A 10-hertz wave can extend for tens of me
 * It may be difficult to determine its [direction]({{ 'direction/' | relative_url }}).
 * It can be felt through surfaces and the body.
 
-Researchers and engineers use infrasonic monitoring for earthquakes, volcanic eruptions, atmospheric events and even meteor impacts. Large explosions and bolides entering Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) can generate detectable infrasonic signatures thousands of kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
+Researchers and engineers use infrasonic monitoring for earthquakes, volcanic eruptions, atmospheric events and even meteor impacts. Large explosions and bolides entering Earth's [atmosphere]({{ 'atmosphere/' | relative_url }}) can generate detectable infrasonic signatures thousands of kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
 
 That means an unusual vibration or pressure sensation does not necessarily require a nearby source. Under the right atmospheric conditions, low-frequency energy can travel remarkable distances.
 
@@ -411,7 +411,7 @@ Nature produces infrasonic waves constantly. Common sources include:
 * Volcanic activity.
 * Meteor entries into the atmosphere.
 
-Some of these sources can generate vibrations over huge areas. Atmospheric conditions may also bend or channel low-frequency waves in unusual ways, making them appear detached from their origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
+Some of these sources can generate vibrations over huge areas. Atmospheric conditions may also bend or channel low-frequency waves in unusual ways, making them appear detached from their origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</span></span></span>
 
 ### Human-Made Sources
 
@@ -424,16 +424,16 @@ Modern infrastructure generates low-frequency sound as well. Potential sources i
 * Wind turbines.
 * Electrical and mechanical equipment.
 
-The well-known [Taos Hum]({{ 'taos-hum/' | relative_url }}) illustrates how confusing such phenomena can become. Residents have described a persistent low-frequency droning sound resembling distant machinery. Investigations have struggled to identify a single definitive cause, and not everyone reports hearing it. Many descriptions focus as much on vibration and physical discomfort as on a clearly audible sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic</span><span class="citation-popover-snippet">December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</span></span></span> This overlap is important because some UFO witnesses describe sensations that sound remarkably similar to reports from people experiencing unexplained environmental hums.
+The well-known [Taos Hum]({{ 'taos-hum/' | relative_url }}) illustrates how confusing such phenomena can become. Residents have described a persistent low-frequency droning sound resembling distant machinery. Investigations have struggled to identify a single definitive cause, and not everyone reports hearing it. Many descriptions focus as much on vibration and physical discomfort as on a clearly audible sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Taos Hum: New Mexico&#x27;s Unexplained Acoustic</span><span class="citation-popover-snippet">December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrillist.com">[thrillist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrillist.com</span><span class="citation-popover-title">taos hum mystery</span><span class="citation-popover-snippet">Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</span></span></span> This overlap is important because some UFO witnesses describe sensations that sound remarkably similar to reports from people experiencing unexplained environmental hums.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-2-dark.svg" | relative_url }}" alt="Infrasound illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_infrasound_ufo_sensa_380040-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bodies May Feel It Even When Ears Do Not
 
 The most intriguing aspect of infrasound is that perception does not depend entirely on conscious hearing.
 
-Research suggests that low-frequency exposure can influence physiological and psychological responses even when people are not clearly aware of a sound source. Studies have linked exposure to reports of pressure sensations, headaches, fatigue, annoyance, concentration problems and altered emotional responses, although the strength and consistency of these effects remain debated. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
+Research suggests that low-frequency exposure can influence physiological and psychological responses even when people are not clearly aware of a sound source. Studies have linked exposure to reports of pressure sensations, headaches, fatigue, annoyance, concentration problems and altered emotional responses, although the strength and consistency of these effects remain debated. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
 
-Some experimental work has found measurable changes in brain activity during exposure to infrasound or very low-frequency sound. Other studies have reported changes in mood, stress responses and perception. Researchers continue to debate how strong these effects are under everyday environmental conditions, but the possibility that the body responds to low-frequency energy without a conventional hearing experience is taken seriously in acoustics research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</span></span></span>
+Some experimental work has found measurable changes in brain activity during exposure to infrasound or very low-frequency sound. Other studies have reported changes in mood, stress responses and perception. Researchers continue to debate how strong these effects are under everyday environmental conditions, but the possibility that the body responds to low-frequency energy without a conventional hearing experience is taken seriously in acoustics research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</span></span></span>
 
 This helps explain a recurring UFO witness statement: “I felt it before I heard anything.”
 
@@ -457,7 +457,7 @@ The interpretation depends heavily on context.
 
 Infrasound appears in discussions of hauntings, mysterious hums and UFO encounters for similar reasons. It occupies a grey area between hearing and feeling.
 
-Researchers investigating reports of haunted locations have repeatedly examined whether low-frequency sound contributes to sensations of dread, anxiety or physical discomfort. Recent experiments have suggested that infrasonic exposure can alter mood and stress responses even when participants are not consciously aware of the stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-snippet">Neuroscience NewsSound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — A new study reveals that infrasound, sound waves bel...</span></span></span>
+Researchers investigating reports of haunted locations have repeatedly examined whether low-frequency sound contributes to sensations of dread, anxiety or physical discomfort. Recent experiments have suggested that infrasonic exposure can alter mood and stress responses even when participants are not consciously aware of the stimulus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurosciencenews.com">[Neuroscience News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurosciencenews.com</span><span class="citation-popover-snippet">Neuroscience NewsSound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — A new study reveals that infrasound, sound waves bel...</span></span></span>
 
 The same mechanism could influence interpretation during an unusual aerial sighting. Imagine someone notices a strange light while simultaneously experiencing:
 
@@ -492,7 +492,7 @@ Several limitations are important:
 
 </div>
 
-Researchers also disagree about the magnitude of infrasonic effects under normal environmental conditions. While some studies report significant impacts on mood and perception, others argue that sensational claims about infrasound have often exceeded the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Infrasound</span><span class="citation-popover-snippet">Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</span></span></span>, infrasound is best viewed as a possible contributing factor rather than a complete explanation.
+Researchers also disagree about the magnitude of infrasonic effects under normal environmental conditions. While some studies report significant impacts on mood and perception, others argue that sensational claims about infrasound have often exceeded the available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psi-encyclopedia.spr.ac.uk">[Psi Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psi-encyclopedia.spr.ac.uk</span><span class="citation-popover-title">Psi Encyclopedia Infrasound</span><span class="citation-popover-snippet">Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</span></span></span>, infrasound is best viewed as a possible contributing factor rather than a complete explanation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7mU7YohbK0" title="Infrasound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer">Infrasound</a></p><p class="youtube-embed-meta">Channel: ScienceWorld &middot; Views: 22.4K &middot; Uploaded: February 2022 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7mU7YohbK0">Open on YouTube</a></p></div></div></div>
 
@@ -502,197 +502,197 @@ The value of the infrasound hypothesis is not that it solves the UFO mystery. It
 
 A low-frequency source can create vibration without an obvious audible noise. It can produce discomfort without a visible cause. It can make a person feel that something large or powerful is nearby even when the sensory evidence is ambiguous. Those characteristics closely match a subset of UFO reports involving humming, pressure, resonance and bodily vibration.
 
-For investigators, that makes infrasound one of the more plausible physical mechanisms worth considering whenever a UFO account centres on felt vibration, [chest pressure]({{ 'chest-pressure/' | relative_url }}), ear discomfort or a pervasive humming sensation rather than on a clearly identifiable sound. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
+For investigators, that makes infrasound one of the more plausible physical mechanisms worth considering whenever a UFO account centres on felt vibration, [chest pressure]({{ 'chest-pressure/' | relative_url }}), ear discomfort or a pervasive humming sensation rather than on a clearly identifiable sound. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Infrasound Explain UFO Vibrations?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Infrasound Explain UFO Vibrations?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the wider UFO-interest context of the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the wider UFO-interest context of the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G02bQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G02bQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spook">Spook</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Discusses scientific attempts to explain unusual experiences and sensations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses scientific attempts to explain unusual experiences and sensations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spook+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
-        </h4>
-        <p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Infrasound Monitoring for Atmospheric Studies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lXdPbCEkV9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Infrasound Monitoring for Atmospheric Studies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Infrasound Monitoring for Atmospheric Studies">Infrasound Monitoring for Atmospheric Studies</a>
+</h4>
+<p class="fr-book-author">By Alexis Le Pichon, Elisabeth Blanc et al.</p>
         
-        <p class="fr-book-desc">Directly addresses infrasound sources, propagation, and detection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses infrasound sources, propagation, and detection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies+by+Alexis+Le+Pichon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores interpretation of unusual sensory experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretation of unusual sensory experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spook</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Infrasound+Monitoring+for+Atmospheric+Studies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Infrasound Monitoring for Atmospheric Studies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrasound-could-infrasound-explain-ufo-vibrations-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -708,7 +708,7 @@ For investigators, that makes infrasound one of the more plausible physical mech
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -728,7 +728,7 @@ For investigators, that makes infrasound one of the more plausible physical mech
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -760,7 +760,7 @@ For investigators, that makes infrasound one of the more plausible physical mech
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -812,7 +812,7 @@ For investigators, that makes infrasound one of the more plausible physical mech
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -857,7 +857,7 @@ For investigators, that makes infrasound one of the more plausible physical mech
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -898,144 +898,144 @@ For investigators, that makes infrasound one of the more plausible physical mech
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Infrasound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrasound</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10562056/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Low-Frequency Noise, Infrasound, and Health...by SK Chiu · 2023 · Cited by 7 — Studies have shown noise-related annoyan...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/10/15/5205</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/10/15/5205" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/10/15/5205</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low-Frequency Noise and Its Main Effects on Human...by J Araújo Alves · 2020 · Cited by 164 — This paper summarizes the presently availa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Taos Hum: New Mexico's Unexplained Acoustic  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-taos-hum-new-mexicos-unexplained-acoustic-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — 14 Dec 2023 — Lower frequencies below 20 Hz can sometimes be felt as vibrations rather than heard as sound, and while...</p></details>
    Published: December 14, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thrillist.com  
    Title: taos hum mystery  
-   Link: <a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
+   Link:<a href="https://www.thrillist.com/travel/nation/taos-hum-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.thrillist.com/travel/nation/taos-hum-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Mystery of the Taos Hum29 Jun 2023 — The low buzz ranging from 30 to 80 Hz that had been reportedly heard by a small pe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12818516/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Biology and Medicine: Insights into Mechanisms...by P Kapoor · 2025 — A longitudinal, randomized experimental pilot study to investig...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0022460X78903541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low freq...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Low Freq... Brief bursts of infrasound may improve cognitive function - An fMRI study.Read mor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X98000255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Low Freq... Brief bursts of infrasound may improve cognitive function - An fMRI study.Read mor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022460X78903541</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low frequency noise i...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/0022460X78903541" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0022460X78903541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewby N Broner · 1978 · Cited by 306 — A review of the effects of low frequency noise i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HumThe Hum is a persistent and invasive low-frequency humming, rumbling, or droning noise audible to many, but not all, people in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Can Low Frequency Sound Waves Make You Sick?  
-   Link: <a href="https://www.youtube.com/watch?v=z9yHKhwc2xc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9yHKhwc2xc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z9yHKhwc2xc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9yHKhwc2xc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7mU7YohbK0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Silent Haunting: Infrasound and the Mechanics of Fear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D7mU7YohbK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7mU7YohbK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Silent Haunting: Infrasound and the Mechanics of Fear...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: neurosciencenews.com  
-   Link: <a href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience NewsSound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — A new study reveals that infrasound, sound waves bel...</p></details>
+   Link:<a href="https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/" target="_blank" rel="noopener noreferrer nofollow">https://neurosciencenews.com/infrasound-stress-cortisol-mood-30611/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience NewsSound of Fear: Infrasound Mimics Supernatural Feelings27 Apr 2026 — A new study reveals that infrasound, sound waves bel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/27/spooky-feelings-in-old-houses-may-be-caused-by-boiler-sounds-study-suggests</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers discovered that even though participants could not consciously hear infrasound, exposure led to increased irritability, eleva...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psi-encyclopedia.spr.ac.uk  
    Title: Psi Encyclopedia Infrasound  
-   Link: <a href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/infrasound/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</p></details>
+   Link:<a href="https://psi-encyclopedia.spr.ac.uk/articles/infrasound/" target="_blank" rel="noopener noreferrer nofollow">https://psi-encyclopedia.spr.ac.uk/articles/infrasound/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psi EncyclopediaInfrasound - Psi EncyclopediaA hypothesis centred on about 19 Hz suggested that infrasound might produce anxiety, headach...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2003/oct/16/science.farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/oct/16/science.farout</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fear frequency | Science15 Oct 2003 — 19hz is in the range known as infrasound, below the range of human hearing, which begins at 20hz...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2003/oct/16/science.farout" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/oct/16/science.farout</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fear frequency | Science15 Oct 2003 — 19hz is in the range known as infrasound, below the range of human hearing, which begins at 20hz...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: Can you hear the Hum?  
-   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A low frequency hum, almost a vibration, just on the threshold of human hearing. It&#x27;s n...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...8 Jul 2021 — A low frequency hum, almost a vibration, just on the threshold of human hearing. It&#x27;s n...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OCHMO-TB-035 AcousticsThe reference sound pressure is typically the threshold of human hearing: 2 x 10-5... create possible adverse effe...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/12/ochmo-tb-035-acoustics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OCHMO-TB-035 AcousticsThe reference sound pressure is typically the threshold of human hearing: 2 x 10-5... create possible adverse effe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Determining the effects of low-frequency noise on humansNew concepts for a Large Civil Tilt Rotor vehicle under development by NASA are e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289775719_Determining_the_effects_of_low-frequency_noise_on_humans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Determining the effects of low-frequency noise on humansNew concepts for a Large Civil Tilt Rotor vehicle under development by NASA are e...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound causes anxiety and hallucinationsInfrasound frequencies around 18-19 Hz—below normal human hearing range (20-20,000 Hz)—can ca...</p></details>
+   Link:<a href="https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/956093750402803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound causes anxiety and hallucinationsInfrasound frequencies around 18-19 Hz—below normal human hearing range (20-20,000 Hz)—can ca...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewThe primary effect due to low frequency and infrasonic noise appears to be annoyance...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effects-of-low-frequency-noise-on-people-a-review-2ll3s3s5ty.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of low frequency noise on people—A reviewThe primary effect due to low frequency and infrasonic noise appears to be annoyance...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/science/what-is-the-mysterious-humming-noise-in-new-mexico-that-scientists-still-cannot-explain/articleshow/126312005.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency noise known as the &quot;Taos Hum...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring therapeutic effects of low-frequency sound on...19 Nov 2025 — Non-exhaustively, it can promote confidence, independence, conce...</p></details>
+   Link:<a href="https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/research-topics/72333/exploring-therapeutic-effects-of-low-frequency-sound-on-psychological-and-physiological-healthundefined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring therapeutic effects of low-frequency sound on...19 Nov 2025 — Non-exhaustively, it can promote confidence, independence, conce...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tinnitusjournal.com  
-   Link: <a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum and Taos Hum are the common terms...</p></details>
+   Link:<a href="https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tinnitusjournal.com/articles/manifestations-of-a-lowfrequency-sound-of-unknown-origin-perceived-worldwide-also-known-as-the-hum-or-the-taos-hum.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manifestations of a low-frequency sound of unknown origin...by FG Frosch · 2016 · Cited by 8 — The Hum and Taos Hum are the common terms...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h9hz12/til_that_infrasound_a_sound_wave_with_frequencies/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Ascone · 2021 · Cited by 35 — In a first ground-breaking study by Dommes and colleagues, exposure to low frequency and IS was ass...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7862356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Ascone · 2021 · Cited by 35 — In a first ground-breaking study by Dommes and colleagues, exposure to low frequency and IS was ass...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UTvr8L5v8u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UTvr8L5v8u8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound: What You Can&#x27;t Hear CAN Hurt YouResearch has strongly suggested that infrasound can cause headaches, fatigue, loss of concent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UTvr8L5v8u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UTvr8L5v8u8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound: What You Can&#x27;t Hear CAN Hurt YouResearch has strongly suggested that infrasound can cause headaches, fatigue, loss of concent...</p></details>

@@ -268,7 +268,7 @@ image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blas
 
 ## Introduction
 
-Not every loud “sky boom” begins in the sky. Some of the most dramatic sounds that trigger UFO rumours, meteor speculation or reports of mysterious aerial activity originate from the ground: quarry blasts, mining operations, demolition work, industrial accidents and other controlled or accidental explosions. When these events occur far from where people hear them, the source can become surprisingly difficult to identify. Sound waves may travel tens of kilometres, shake windows across several towns and seem to arrive from overhead rather than from a specific [direction]({{ 'direction/' | relative_url }}). In the first hours after a major boom, witnesses often know only that something powerful happened. That uncertainty is exactly the environment in which UFO theories and other extraordinary explanations tend to emerge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
+Not every loud “sky boom” begins in the sky. Some of the most dramatic sounds that trigger UFO rumours, meteor speculation or reports of mysterious aerial activity originate from the ground: quarry blasts, mining operations, demolition work, industrial accidents and other controlled or accidental explosions. When these events occur far from where people hear them, the source can become surprisingly difficult to identify. Sound waves may travel tens of kilometres, shake windows across several towns and seem to arrive from overhead rather than from a specific [direction]({{ 'direction/' | relative_url }}). In the first hours after a major boom, witnesses often know only that something powerful happened. That uncertainty is exactly the environment in which UFO theories and other extraordinary explanations tend to emerge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-1-dark.svg" | relative_url }}" alt="Industrial Blasts illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider history of mysterious [booms]({{ 'booms/' | relative_url }}) and UFO rumours, industrial explosions occupy an important but often overlooked category. They demonstrate how ordinary human activity can generate experiences that feel strange, airborne and unexplained even when the cause is entirely terrestrial.
@@ -277,7 +277,7 @@ Within the wider history of mysterious [booms]({{ 'booms/' | relative_url }}) an
 
 Investigators examining reports of unexplained blasts repeatedly encounter the same categories of human-made sources.
 
-**Quarry blasting** is among the most common. Large quarries routinely use explosives to break rock, producing shockwaves that can be heard and felt far beyond the work site. Depending on terrain and atmospheric conditions, residents may hear a sharp detonation, a rolling boom or a delayed rumble with no obvious indication of where it originated. Acoustic studies of quarry operations have shown that blast noise can propagate over considerable distances and vary dramatically according to weather and local geography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[NASA ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">NASA ADSThe propagation of sound from quarry blasting</span><span class="citation-popover-snippet">ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</span></span></span>
+**Quarry blasting** is among the most common. Large quarries routinely use explosives to break rock, producing shockwaves that can be heard and felt far beyond the work site. Depending on terrain and atmospheric conditions, residents may hear a sharp detonation, a rolling boom or a delayed rumble with no obvious indication of where it originated. Acoustic studies of quarry operations have shown that blast noise can propagate over considerable distances and vary dramatically according to weather and local geography.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[NASA ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">NASA ADSThe propagation of sound from quarry blasting</span><span class="citation-popover-snippet">ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</span></span></span>
 
 **Mining explosions** create similar effects. Even planned detonations can generate reports of shaking buildings, rattling windows and sudden pressure changes. If the blast occurs in a remote area or if the public is unaware that blasting was scheduled, residents may interpret the sound as an [aircraft]({{ 'aircraft/' | relative_url }}) event, a meteor or something more mysterious.
 
@@ -285,7 +285,7 @@ Investigators examining reports of unexplained blasts repeatedly encounter the s
 
 **Construction and demolition projects** also contribute to mystery-boom reports. Large demolitions can produce shockwaves that spread well beyond the immediate site. In urban areas, echoes between buildings may distort the perceived direction of the sound, making it difficult for listeners to locate its origin.
 
-The United States Geological Survey notes that many reported mystery booms ultimately trace back to human activity, including explosions, construction work and other industrial sources rather than unusual atmospheric or extraterrestrial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
+The United States Geological Survey notes that many reported mystery booms ultimately trace back to human activity, including explosions, construction work and other industrial sources rather than unusual atmospheric or extraterrestrial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHAdPb8rWfU" title="Mysterious explosions rock residents across the San Gabriel Valley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHAdPb8rWfU" target="_blank" rel="noopener noreferrer">Mysterious explosions rock residents across the San Gabriel Valley</a></p><p class="youtube-embed-meta">Channel: CBS LA &middot; Views: 27.4K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHAdPb8rWfU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHAdPb8rWfU">Open on YouTube</a></p></div></div></div>
 
@@ -300,7 +300,7 @@ Several factors contribute to this confusion:
 * **Atmospheric refraction:** Layers of air with different temperatures can bend sound waves, allowing distant blasts to travel farther than expected.
 * **Terrain effects:** Hills, valleys and large bodies of water can channel or reflect sound.
 * **Urban reflections:** Buildings may bounce sound waves, creating echoes that appear to come from multiple directions.
-* **Low-frequency dominance:** Deep explosive sounds travel efficiently and are harder for humans to localise than higher-frequency noises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[NASA ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">NASA ADSThe propagation of sound from quarry blasting</span><span class="citation-popover-snippet">ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</span></span></span>
+* **Low-frequency dominance:** Deep explosive sounds travel efficiently and are harder for humans to localise than higher-frequency noises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[NASA ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">NASA ADSThe propagation of sound from quarry blasting</span><span class="citation-popover-snippet">ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</span></span></span>
 
 As a result, a quarry explosion occurring many kilometres away may seem as though it happened directly overhead. Witnesses often describe a “boom from the sky” even when the source was entirely ground-based.
 
@@ -328,14 +328,14 @@ In many cases, witnesses describe features commonly associated with UFO stories:
 
 These elements can make a routine industrial event feel extraordinary. The wider the affected area, the more likely people are to assume the source must have been airborne rather than local.
 
-Researchers and investigators of mystery-boom reports have repeatedly noted that quarry shots, mining blasts and industrial explosions belong to the list of common “look-alikes” that can resemble more exotic explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangesounds.org">[Strange Sounds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangesounds.org</span><span class="citation-popover-snippet">Look-alikes: sonic booms, transformer failures, quarry/mining shots...Read more...</span></span></span>
+Researchers and investigators of mystery-boom reports have repeatedly noted that quarry shots, mining blasts and industrial explosions belong to the list of common “look-alikes” that can resemble more exotic explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangesounds.org">[Strange Sounds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangesounds.org</span><span class="citation-popover-snippet">Look-alikes: sonic booms, transformer failures, quarry/mining shots...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-2-dark.svg" | relative_url }}" alt="Industrial Blasts illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_industrial_blast_boo_813862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical Examples of Industrial Explosions Misread as Larger Mysteries
 
 Large industrial blasts have a long history of generating reports far beyond the actual explosion site.
 
-One striking example is the 1900 Sibley Quarry explosion in Michigan. The accidental detonation of a large quantity of dynamite produced shock effects that were felt and heard across a wide region. Contemporary reports described shaking, broken windows and sensations similar to an earthquake. People far from the quarry experienced the event without necessarily understanding its source, illustrating how industrial explosions can create regional mystery-boom conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sibley_Quarry_explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sibley Quarry explosion</span><span class="citation-popover-snippet">Sibley Quarry explosion</span></span></span>
+One striking example is the 1900 Sibley Quarry explosion in Michigan. The accidental detonation of a large quantity of dynamite produced shock effects that were felt and heard across a wide region. Contemporary reports described shaking, broken windows and sensations similar to an earthquake. People far from the quarry experienced the event without necessarily understanding its source, illustrating how industrial explosions can create regional mystery-boom conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sibley_Quarry_explosion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sibley Quarry explosion</span><span class="citation-popover-snippet">Sibley Quarry explosion</span></span></span>
 
 Modern incidents often follow a similar pattern. Residents report a loud blast across multiple towns, while authorities initially investigate earthquakes, aircraft activity or other possibilities. Only after cross-checking industrial schedules, seismic data and emergency reports does the actual source emerge.
 
@@ -356,8 +356,8 @@ Investigators typically compare several types of information:
 
 * Industrial incident reports.
 * Aircraft and military flight records.
-* Weather and atmospheric data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.economictimes.com">[m.economictimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.economictimes.com</span><span class="citation-popover-snippet">7 hours ago — Satellite data pinpointed the meteor&#x27;s atmospheric entry near Boston, prompting widespread reports to authorities. Experts...</span></span></span>
-* Reports from emergency services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
+* Weather and atmospheric data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.economictimes.com">[m.economictimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.economictimes.com</span><span class="citation-popover-snippet">7 hours ago — Satellite data pinpointed the meteor&#x27;s atmospheric entry near Boston, prompting widespread reports to authorities. Experts...</span></span></span>
+* Reports from emergency services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Earthquake Booms, Seneca Guns, and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</span></span></span>
 
 </div>
 
@@ -384,7 +384,7 @@ Investigators also look for clues in what was *not* detected. For example:
 
 </div>
 
-Eliminating these possibilities often narrows attention toward industrial causes. The USGS notes that many reported booms eventually prove to be linked to human activity, even when the initial reports sounded mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
+Eliminating these possibilities often narrows attention toward industrial causes. The USGS notes that many reported booms eventually prove to be linked to human activity, even when the initial reports sounded mysterious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
 
 The process highlights an important lesson in UFO-related boom reports: a lack of an immediate explanation is not the same thing as evidence for an extraordinary explanation.
 
@@ -397,197 +397,197 @@ That combination makes them fertile ground for misinterpretation. A quarry explo
 
 Most importantly, these cases show how perception, distance and incomplete information interact. Witnesses are often reporting a real event accurately: they heard a loud boom, felt vibrations and noticed something unusual. The misunderstanding usually lies not in the experience itself, but in identifying where the energy originated.
 
-In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and mysterious booms, industrial explosions are a reminder that some of the most convincing “sky mysteries” begin on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
+In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and mysterious booms, industrial explosions are a reminder that some of the most convincing “sky mysteries” begin on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Ground Explosions Sound Like Sky Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Ground Explosions Sound Like Sky Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Rossing</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
+</h4>
+<p class="fr-book-author">By Thomas Rossing</p>
         
-        <p class="fr-book-desc">Explains blast waves, propagation and environmental acoustics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains blast waves, propagation and environmental acoustics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Explosives+Engineering+by+Paul+W.+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Explosives Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mvRlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Explosives Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Explosives+Engineering+by+Paul+W.+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Explosives Engineering">Explosives Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Paul W. Cooper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Explosives+Engineering+by+Paul+W.+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Explosives Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mvRlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Explosives Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Explosives+Engineering+by+Paul+W.+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Explosives Engineering">Explosives Engineering</a>
+</h4>
+<p class="fr-book-author">By Paul W. Cooper</p>
         
-        <p class="fr-book-desc">Covers how industrial explosions generate shockwaves and booms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Explosives+Engineering+by+Paul+W.+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how industrial explosions generate shockwaves and booms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Explosives+Engineering+by+Paul+W.+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtYLAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Sound">Introduction to Sound</a>
-        </h4>
-        <p class="fr-book-author">By Charles E. Speaks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtYLAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Sound">Introduction to Sound</a>
+</h4>
+<p class="fr-book-author">By Charles E. Speaks</p>
         
-        <p class="fr-book-desc">Helps readers understand why blasts seem difficult to locate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why blasts seem difficult to locate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Sound+by+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Springer+of+Acoustics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Springer of Acoustics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Explosives+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Explosives Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Springer+of+Acoustics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Springer of Acoustics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Explosives+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Explosives Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="industrial-blasts-when-ground-explosions-sound-like-sky-mysteries-ufo-noises-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,88 +793,88 @@ In the broader landscape of [UFO noises]({{ 'ufo-noises/' | relative_url }}) and
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, [Seneca Guns](&amp;#123;&amp;#123; &#x27;seneca-guns/&#x27; | relative_url &amp;#125;&amp;#125;), and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake Booms, [Seneca Guns](&amp;#123;&amp;#123; &#x27;seneca-guns/&#x27; | relative_url &amp;#125;&amp;#125;), and Other SoundsMost of the booms that people hear or experience are the result of human activity, suc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ui.adsabs.harvard.edu  
    Title: NASA ADSThe propagation of sound from quarry blasting  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1978JSV....60..359G/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADSby MJ Griffiths · 1978 · Cited by 18 — Experimentally obtained information is presented for some of the parameters upon which depends...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sibley Quarry explosion  
-   Link: <a href="https://en.wikipedia.org/wiki/Sibley_Quarry_explosion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sibley_Quarry_explosion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sibley_Quarry_explosion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sibley_Quarry_explosion</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/sonic-booms</a>  
+   Link:<a href="https://www.usgs.gov/programs/earthquake-hazards/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/sonic-booms</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: strangesounds.org  
-   Link: <a href="https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions" target="_blank" rel="noopener noreferrer nofollow">https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Look-alikes: sonic booms, transformer failures, quarry/mining shots...Read more...</p></details>
+   Link:<a href="https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions" target="_blank" rel="noopener noreferrer nofollow">https://strangesounds.org/mystery-booms-and-rumblings/mystery-blasts-industrial-explosions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Look-alikes: sonic booms, transformer failures, quarry/mining shots...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: m.economictimes.com  
-   Link: <a href="https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms" target="_blank" rel="noopener noreferrer nofollow">https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 hours ago — Satellite data pinpointed the meteor&#x27;s atmospheric entry near Boston, prompting widespread reports to authorities. Experts...</p></details>
+   Link:<a href="https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms" target="_blank" rel="noopener noreferrer nofollow">https://m.economictimes.com/news/international/us/what-caused-the-massive-boom-heard-across-boston-heres-what-happened/articleshow/131415372.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 hours ago — Satellite data pinpointed the meteor&#x27;s atmospheric entry near Boston, prompting widespread reports to authorities. Experts...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOUD SOUND: IT WAS A SONIC BOOM. The U.S....LOUD SOUND: IT WAS A SONIC BOOM. The U.S. Geological Survey says a sonic boom was detected n...</p></details>
+   Link:<a href="https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BillieJeanShawReports/posts/loud-sound-it-was-a-sonic-boom-the-us-geological-survey-says-a-sonic-boom-was-de/1614163560066465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOUD SOUND: IT WAS A SONIC BOOM. The U.S....LOUD SOUND: IT WAS A SONIC BOOM. The U.S. Geological Survey says a sonic boom was detected n...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Sydney WelchMystery &#x27;Booms,&#x27; Possible Meteor Explosions, Reported Over Southwestern Pennsylvania I have been receiving repo...</p></details>
+   Link:<a href="https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SydneyWelchWX/posts/%EF%B8%8Fsuspected-meteor-explodes-over-massachussettes-meteor-likely-creates-sonic-did-/1399695358648673/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Sydney WelchMystery &#x27;Booms,&#x27; Possible Meteor Explosions, Reported Over Southwestern Pennsylvania I have been receiving repo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USGS confirms sonic boom in Richland County.USGS logs these when the waveform matches quarry blasting or... The loud BOOM heard and felt...</p></details>
+   Link:<a href="https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wachfox/posts/usgs-confirms-sonic-boom-in-richland-county/1547707324034566/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USGS confirms sonic boom in Richland County.USGS logs these when the waveform matches quarry blasting or... The loud BOOM heard and felt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lbbjO5xzQSk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained &#x27;Mysterious Booms&#x27; Heard Across the WorldLoud mysterious sounds have been heard booming from the sky all around the world and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lbbjO5xzQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lbbjO5xzQSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained &#x27;Mysterious Booms&#x27; Heard Across the WorldLoud mysterious sounds have been heard booming from the sky all around the world and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: avi-loeb.medium.com  
    Title: mystery sound of an unidentified anomalous phenomenon 09d1cb461cd2  
-   Link: <a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of an Unidentified Anomalous PhenomenonA sudden release of energy within a small volume sends a blast wave through the Earth&#x27;s atmo...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/mystery-sound-of-an-unidentified-anomalous-phenomenon-09d1cb461cd2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound of an Unidentified Anomalous PhenomenonA sudden release of energy within a small volume sends a blast wave through the Earth&#x27;s atmo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 9news.com  
-   Link: <a href="https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e" target="_blank" rel="noopener noreferrer nofollow">https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pretty distinctive of a bolide/meteor reentry east of Boston,&quot; he wrote.Read more...</p></details>
+   Link:<a href="https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e" target="_blank" rel="noopener noreferrer nofollow">https://www.9news.com/article/news/nation-world/mystery-boom-meteor-new-england/507-660a9286-23ea-4045-9326-503042489d5e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pretty distinctive of a bolide/meteor reentry east of Boston,&quot; he wrote.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nhregister.com  
    Title: loud boom heard eastern massachusetts 22284062  
-   Link: <a href="https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow">https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor triggers &#x27;sonic boom&#x27; in New England, NASA says2 hours ago — NASA said a meteor traveling about 75000 mph broke up over northeast...</p></details>
+   Link:<a href="https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php" target="_blank" rel="noopener noreferrer nofollow">https://www.nhregister.com/news/article/loud-boom-heard-eastern-massachusetts-22284062.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor triggers &#x27;sonic boom&#x27; in New England, NASA says2 hours ago — NASA said a meteor traveling about 75000 mph broke up over northeast...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>losions... UPDATE: USGS is reporting that the boom was from a...</p></details>
+   Link:<a href="https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIS10/posts/the-united-states-geological-survey-says-a-loud-boom-heard-in-the-midlands-this-/1444540874368474/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>losions... UPDATE: USGS is reporting that the boom was from a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: INTERVIEW: Expert explains what causes a sonic boom  
-   Link: <a href="https://www.youtube.com/watch?v=8Yca2YhwOAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Yca2YhwOAg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Finally Explain the Mysterious Booms Heard Around the World - YouTube Scientists Finally Explain the Mysterious Booms Heard Ar...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8Yca2YhwOAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8Yca2YhwOAg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Finally Explain the Mysterious Booms Heard Around the World - YouTube Scientists Finally Explain the Mysterious Booms Heard Ar...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: moneycontrol.com  
    Title: Was that a "Sonic Boom"?  
-   Link: <a href="https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Carolina&#x27;s mystery blast...22 hours ago — A mysterious boom echoed across parts of South Carolina, leaving residents startled, pet...</p></details>
+   Link:<a href="https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moneycontrol.com/science/was-that-a-sonic-boom-south-carolina-s-mystery-blast-leaves-scientists-stuck-article-13936247.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Carolina&#x27;s mystery blast...22 hours ago — A mysterious boom echoed across parts of South Carolina, leaving residents startled, pet...</p></details>

@@ -352,7 +352,7 @@ image: /assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-overview-socia
 
 ## Introduction
 
-“Sky trumpets” is the internet-era name for a category of recordings that seem to capture metallic groans, horn blasts, scraping tones or deep resonant noises apparently coming from the sky. The clips are frequently shared alongside UFO claims, end-times predictions and theories about hidden technology. Yet when investigators have been able to identify likely sources, the explanations have usually involved ordinary sound-producing events: trains, industrial machinery, [aircraft]({{ 'aircraft/' | relative_url }}), atmospheric sound propagation, construction activity or manipulated audio. The phenomenon remains interesting not because the recordings prove anything supernatural, but because they show how unusual sounds can become attached to UFO narratives even when no unidentified object is visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
+“Sky trumpets” is the internet-era name for a category of recordings that seem to capture metallic groans, horn blasts, scraping tones or deep resonant noises apparently coming from the sky. The clips are frequently shared alongside UFO claims, end-times predictions and theories about hidden technology. Yet when investigators have been able to identify likely sources, the explanations have usually involved ordinary sound-producing events: trains, industrial machinery, [aircraft]({{ 'aircraft/' | relative_url }}), atmospheric sound propagation, construction activity or manipulated audio. The phenomenon remains interesting not because the recordings prove anything supernatural, but because they show how unusual sounds can become attached to UFO narratives even when no unidentified object is visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-overview.webp" | relative_url }}" alt="Overview image for Sky Trumpets" loading="eager" decoding="sync" fetchpriority="high">
 ## What Are Sky Trumpet Sounds?
@@ -367,13 +367,13 @@ Descriptions commonly include:
 * Mechanical [humming]({{ 'humming/' | relative_url }}).
 * Resonant droning that appears to echo across a landscape.
 
-Many viral examples are presented as if they document the same mysterious event occurring worldwide. In reality, the recordings come from different locations, years and circumstances. Some are authentic recordings of unusual but ordinary sounds, while others appear edited or recycled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span>
+Many viral examples are presented as if they document the same mysterious event occurring worldwide. In reality, the recordings come from different locations, years and circumstances. Some are authentic recordings of unusual but ordinary sounds, while others appear edited or recycled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span>
 
-The broader scientific category most closely related to these reports is the “skyquake”: a loud sound that seems to originate from the sky without an obvious source. Reports of [skyquakes]({{ 'skyquakes/' | relative_url }}) long predate modern UFO culture and were documented centuries before social media existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The broader scientific category most closely related to these reports is the “skyquake”: a loud sound that seems to originate from the sky without an obvious source. Reports of [skyquakes]({{ 'skyquakes/' | relative_url }}) long predate modern UFO culture and were documented centuries before social media existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## How Sky Trumpet Clips Spread Online
 
-The modern sky trumpet phenomenon emerged largely through video-sharing platforms in the early 2010s. A small number of dramatic clips were reposted repeatedly with altered titles, new locations and increasingly extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/natures-anomalies/the-mysterious-sky-trumpets-heard-worldwide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the mysterious sky trumpets heard worldwide</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleMysterious Sky Trumpets Heard WorldwideMay 11, 2025 — 11 May 2025 — Reports of sky trumpet sounds date back to...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+The modern sky trumpet phenomenon emerged largely through video-sharing platforms in the early 2010s. A small number of dramatic clips were reposted repeatedly with altered titles, new locations and increasingly extraordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/natures-anomalies/the-mysterious-sky-trumpets-heard-worldwide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the mysterious sky trumpets heard worldwide</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleMysterious Sky Trumpets Heard WorldwideMay 11, 2025 — 11 May 2025 — Reports of sky trumpet sounds date back to...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
 ### The Viral Video Pattern
 
@@ -391,9 +391,9 @@ Many widely shared uploads followed a similar formula:
 
 </div>
 
-This process makes independent [verification]({{ 'verification/' | relative_url }}) difficult. Once a clip has been copied across dozens of channels, identifying the original recording conditions becomes almost impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span>
+This process makes independent [verification]({{ 'verification/' | relative_url }}) difficult. Once a clip has been copied across dozens of channels, identifying the original recording conditions becomes almost impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span>
 
-A recurring criticism from audio analysts and sceptical communities is that some famous sky trumpet videos appear to use stock sound effects, cinematic audio or repeated sound layers. Online discussions have pointed out similarities between certain “sky trumpet” clips and sounds used in films and television productions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11wribi/strange_soundstrumpet_sounds_in_the_sky_are_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Strange Sounds/Trumpet Sounds in the Sky&quot; are a viral...Some of the youtube videos *directly* use the same sound heard in the mov...</span></span></span>
+A recurring criticism from audio analysts and sceptical communities is that some famous sky trumpet videos appear to use stock sound effects, cinematic audio or repeated sound layers. Online discussions have pointed out similarities between certain “sky trumpet” clips and sounds used in films and television productions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/11wribi/strange_soundstrumpet_sounds_in_the_sky_are_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Strange Sounds/Trumpet Sounds in the Sky&quot; are a viral...Some of the youtube videos *directly* use the same sound heard in the mov...</span></span></span>
 
 ### Why the Videos Feel Convincing
 
@@ -408,7 +408,7 @@ The strongest sky trumpet recordings often include visual features that unintent
 
 </div>
 
-These elements create the impression that a vast object may be hidden above the viewer. However, acoustics can be deceptive. Humans are generally poor at locating distant low-frequency sounds, especially when reflections from buildings, clouds or terrain distort the sound field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
+These elements create the impression that a vast object may be hidden above the viewer. However, acoustics can be deceptive. Humans are generally poor at locating distant low-frequency sounds, especially when reflections from buildings, clouds or terrain distort the sound field.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HuDP-qS98Hk" title="The Trumpet of Heaven Incidents Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HuDP-qS98Hk" target="_blank" rel="noopener noreferrer">The Trumpet of Heaven Incidents Explained</a></p><p class="youtube-embed-meta">Channel: Farrell McGuire &middot; Views: 409.2K &middot; Uploaded: June 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HuDP-qS98Hk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HuDP-qS98Hk">Open on YouTube</a></p></div></div></div>
 
@@ -420,37 +420,37 @@ The most important point in the sky trumpet debate is that there is no single ex
 
 One of the most common explanations involves distant trains, train horns and industrial equipment.
 
-Large metal structures generate resonant sounds that can travel surprisingly long distances. Train horns, braking systems, rail friction and factory machinery can produce tones that become distorted by atmospheric conditions. In some circumstances, a familiar sound can take on an unfamiliar character when heard from many kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</span></span></span>
+Large metal structures generate resonant sounds that can travel surprisingly long distances. Train horns, braking systems, rail friction and factory machinery can produce tones that become distorted by atmospheric conditions. In some circumstances, a familiar sound can take on an unfamiliar character when heard from many kilometres away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</span></span></span>
 
-Sound can also be channelled through valleys, urban corridors or temperature layers in the [atmosphere]({{ 'atmosphere/' | relative_url }}), making the source seem detached from its actual location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
+Sound can also be channelled through valleys, urban corridors or temperature layers in the [atmosphere]({{ 'atmosphere/' | relative_url }}), making the source seem detached from its actual location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
 
 ### Atmospheric Ducting and Acoustic Distortion
 
 A frequently cited mechanism is atmospheric ducting.
 
-Under certain weather conditions, especially temperature [inversions]({{ 'inversions/' | relative_url }}), sound waves bend and travel in unexpected ways. A noise generated far from a listener may appear to originate overhead or from an entirely different [direction]({{ 'direction/' | relative_url }}). Discovery's discussion of skyquakes notes that temperature inversions can trap and channel sound across long distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
+Under certain weather conditions, especially temperature [inversions]({{ 'inversions/' | relative_url }}), sound waves bend and travel in unexpected ways. A noise generated far from a listener may appear to originate overhead or from an entirely different [direction]({{ 'direction/' | relative_url }}). Discovery's discussion of skyquakes notes that temperature inversions can trap and channel sound across long distances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
 
 This explanation is attractive because it accounts for two features repeatedly reported in sky trumpet videos:
 
 * The source cannot be located visually.
 * The sound seems larger than expected.
 
-A distant industrial noise that would normally be unnoticed can become strangely prominent if atmospheric conditions amplify or redirect it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
+A distant industrial noise that would normally be unnoticed can become strangely prominent if atmospheric conditions amplify or redirect it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-Illustration-2-dark.svg" | relative_url }}" alt="Sky Trumpets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aircraft and Sonic Phenomena
 
 Some reports may involve aircraft-related sounds.
 
-Military jets, atmospheric shock waves and other aviation phenomena have long been proposed as explanations for mysterious sky noises. Historical skyquake reports include accounts that resemble distant cannon fire or booming sounds, effects that can overlap with sonic [booms]({{ 'booms/' | relative_url }}) or other aerial acoustic events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Steam_whistle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Steam whistle</span><span class="citation-popover-snippet">Steam whistle</span></span></span>
+Military jets, atmospheric shock waves and other aviation phenomena have long been proposed as explanations for mysterious sky noises. Historical skyquake reports include accounts that resemble distant cannon fire or booming sounds, effects that can overlap with sonic [booms]({{ 'booms/' | relative_url }}) or other aerial acoustic events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Steam_whistle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Steam whistle</span><span class="citation-popover-snippet">Steam whistle</span></span></span>
 
-Not every sky trumpet recording resembles an aircraft, but aviation remains one of the conventional explanations frequently considered when investigators examine unexplained sky sounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SkyThe sky is an unobstructed view upward from the surface of the Earth. It includes the atmosphere and outer space. It may also be co...</span></span></span>
+Not every sky trumpet recording resembles an aircraft, but aviation remains one of the conventional explanations frequently considered when investigators examine unexplained sky sounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SkyThe sky is an unobstructed view upward from the surface of the Earth. It includes the atmosphere and outer space. It may also be co...</span></span></span>
 
 ### Audio Manipulation and Misattribution
 
 Some of the most dramatic examples appear difficult to reconcile with real-world acoustics.
 
-This has led critics to argue that certain clips were edited, enhanced or paired with unrelated soundtracks. Reddit discussions and audio breakdowns have highlighted cases where nearly identical sounds appear in recordings supposedly made in different countries and years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14c0ass/bizarre_trumpet_sounds_anyone_seen_these_videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bizarre Trumpet Sounds</span><span class="citation-popover-snippet">Anyone Seen These Videos...1.9K votes, 737 comments. UPDATE: These are apparently called Sky Quakes and they are unexplained. First docu...</span></span></span>
+This has led critics to argue that certain clips were edited, enhanced or paired with unrelated soundtracks. Reddit discussions and audio breakdowns have highlighted cases where nearly identical sounds appear in recordings supposedly made in different countries and years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14c0ass/bizarre_trumpet_sounds_anyone_seen_these_videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bizarre Trumpet Sounds</span><span class="citation-popover-snippet">Anyone Seen These Videos...1.9K votes, 737 comments. UPDATE: These are apparently called Sky Quakes and they are unexplained. First docu...</span></span></span>
 
 The existence of manipulated videos does not mean every recording is fake. It does mean that the category as a whole contains a mixture of genuine recordings, misidentified sounds and probable hoaxes.
 
@@ -464,13 +464,13 @@ If many sky trumpet clips have ordinary explanations, why are they so often link
 
 A classic UFO report involves an event that cannot be immediately identified. Sky trumpets fit that pattern perfectly because listeners often hear something unusual without seeing its source.
 
-The absence of a visible object encourages speculation. People naturally search for explanations, and an invisible aircraft, hidden technology or unidentified craft can seem more satisfying than an unseen industrial noise kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The absence of a visible object encourages speculation. People naturally search for explanations, and an invisible aircraft, hidden technology or unidentified craft can seem more satisfying than an unseen industrial noise kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ### The Sound Does Not Match Expectations
 
 Many listeners describe the noises as “mechanical” but unlike familiar machines.
 
-That mismatch matters psychologically. When a sound resembles a machine yet cannot be linked to a visible source, it can feel as though it belongs to something outside everyday experience. UFO interpretations often emerge in precisely these situations: something appears technological but cannot be identified immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
+That mismatch matters psychologically. When a sound resembles a machine yet cannot be linked to a visible source, it can feel as though it belongs to something outside everyday experience. UFO interpretations often emerge in precisely these situations: something appears technological but cannot be identified immediately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audiology.org">[American Academy of Audiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audiology.org</span><span class="citation-popover-title">skyquakes did you hear it</span><span class="citation-popover-snippet">American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-Illustration-3-dark.svg" | relative_url }}" alt="Sky Trumpets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sky_trumpet_videos_7ce948-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Existing UFO and Paranormal Narratives
@@ -489,7 +489,7 @@ Uploads are often accompanied by claims involving:
 
 </div>
 
-Once a recording is embedded in those narratives, viewers tend to interpret the sound through that framework. A metallic groan becomes evidence of a hidden craft rather than a mystery requiring multiple possible explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</span></span></span>
+Once a recording is embedded in those narratives, viewers tend to interpret the sound through that framework. A metallic groan becomes evidence of a hidden craft rather than a mystery requiring multiple possible explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vul4SYL4QiQ" title="The Source Behind a Mystery Sound Heard Around the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer">The Source Behind a Mystery Sound Heard Around the World</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 9.4M &middot; Uploaded: January 2018 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vul4SYL4QiQ">Open on YouTube</a></p></div></div></div>
 
@@ -510,203 +510,203 @@ A convincing UFO case would ideally include:
 
 </div>
 
-Most viral sky trumpet videos provide little of this information. Instead, they circulate detached from their original context, making investigation difficult or impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span>
+Most viral sky trumpet videos provide little of this information. Instead, they circulate detached from their original context, making investigation difficult or impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span>
 
-That leaves two separate questions. First, do unusual sky sounds sometimes occur? Historical skyquake reports suggest they do. Second, do those sounds provide evidence of UFOs? The available recordings have not established that connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Steam_whistle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Steam whistle</span><span class="citation-popover-snippet">Steam whistle</span></span></span>
+That leaves two separate questions. First, do unusual sky sounds sometimes occur? Historical skyquake reports suggest they do. Second, do those sounds provide evidence of UFOs? The available recordings have not established that connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Steam_whistle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Steam whistle</span><span class="citation-popover-snippet">Steam whistle</span></span></span>
 
 ## The More Plausible Reading of the Phenomenon
 
-The accumulated evidence points toward sky trumpets being a collection of different phenomena rather than a single global mystery. Some recordings likely capture real acoustic events shaped by weather, geography and distance. Others may involve trains, machinery, aircraft or construction activity. A portion appear to be edited or misrepresented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span> YouTube What keeps the subject alive in UFO culture is not a proven link to unidentified craft but the unsettling combination of invisibility and sou <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=88VEhQswIcw%29nd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Open source on youtube.com.</span></span></span> Humans are accustomed to locating noise sources visually. When that connection breaks down, especially in a dramatic recording, the gap is easily filled by speculation. Sky trumpet videos therefore function less as evidence for UFOs and more as a case study in how ambiguous sensory experiences become attached to extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SkyThe sky is an unobstructed view upward from the surface of the Earth. It includes the atmosphere and outer space. It may also be co...</span></span></span>
+The accumulated evidence points toward sky trumpets being a collection of different phenomena rather than a single global mystery. Some recordings likely capture real acoustic events shaped by weather, geography and distance. Others may involve trains, machinery, aircraft or construction activity. A portion appear to be edited or misrepresented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">skyquake the mysterious sounds from the sky</span><span class="citation-popover-snippet">Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</span></span></span> YouTube What keeps the subject alive in UFO culture is not a proven link to unidentified craft but the unsettling combination of invisibility and sou<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=88VEhQswIcw%29nd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Open source on youtube.com.</span></span></span> Humans are accustomed to locating noise sources visually. When that connection breaks down, especially in a dramatic recording, the gap is easily filled by speculation. Sky trumpet videos therefore function less as evidence for UFOs and more as a case study in how ambiguous sensory experiences become attached to extraordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">the sound of apocalypse</span><span class="citation-popover-snippet">Snopes&#x27;The Sound of Apocalypse&#x27; &#124; Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SkyThe sky is an unobstructed view upward from the surface of the Earth. It includes the atmosphere and outer space. It may also be co...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are Sky Trumpet Sounds?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are Sky Trumpet Sounds?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Examines belief formation around unusual claims and viral stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Examines belief formation around unusual claims and viral stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Monstrous Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YggPEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World of Lore: Monstrous Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Monstrous Creatures">The World of Lore: Monstrous Creatures</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Mahnke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Monstrous Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YggPEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World of Lore: Monstrous Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Monstrous Creatures">The World of Lore: Monstrous Creatures</a>
+</h4>
+<p class="fr-book-author">By Aaron Mahnke</p>
         
-        <p class="fr-book-desc">Explores how mysterious claims and legends spread and persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how mysterious claims and legends spread and persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
-        </h4>
-        <p class="fr-book-author">By R. Murray Schafer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
+</h4>
+<p class="fr-book-author">By R. Murray Schafer</p>
         
-        <p class="fr-book-desc">Offers insight into how strange environmental noises are perceived and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into how strange environmental noises are perceived and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for why unexplained sounds become attached to UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why unexplained sounds become attached to UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of Lore: Monstrous Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of Lore: Monstrous Creatures</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor"><img src="{{ '/assets/images/marketplace-covers/73c8f8ee2051961ee714.jpg' | relative_url }}" alt="Listing image for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor"><img src="{{ '/assets/images/marketplace-covers/73c8f8ee2051961ee714.jpg' | relative_url }}" alt="Listing image for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+alien+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO alien poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="sky-trumpets-what-are-sky-trumpet-sounds-ufo-noises-ufo-alien-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -722,7 +722,7 @@ The accumulated evidence points toward sky trumpets being a collection of differ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -742,7 +742,7 @@ The accumulated evidence points toward sky trumpets being a collection of differ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -774,7 +774,7 @@ The accumulated evidence points toward sky trumpets being a collection of differ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -826,7 +826,7 @@ The accumulated evidence points toward sky trumpets being a collection of differ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -871,7 +871,7 @@ The accumulated evidence points toward sky trumpets being a collection of differ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -912,168 +912,168 @@ The accumulated evidence points toward sky trumpets being a collection of differ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: snopes.com  
    Title: the sound of apocalypse  
-   Link: <a href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/the-sound-of-apocalypse/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Snopes&#x27;The Sound of Apocalypse&#x27; | Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</p></details>
+   Link:<a href="https://www.snopes.com/fact-check/the-sound-of-apocalypse/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/the-sound-of-apocalypse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Snopes&#x27;The Sound of Apocalypse&#x27; | Snopes.com30 Apr 2015 — Claim: Videos have captured strange apocalyptic sounds coming from the sky all...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: skyquake the mysterious sounds from the sky  
-   Link: <a href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/skyquake-the-mysterious-sounds-from-the-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSkyquake: The Mysterious Sounds from the Sky8 Apr 2024 — Temperature inversions, where a layer of warmer air sits over a laye...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skyquake" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyquake</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/11wribi/strange_soundstrumpet_sounds_in_the_sky_are_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11wribi/strange_soundstrumpet_sounds_in_the_sky_are_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Strange Sounds/Trumpet Sounds in the Sky&quot; are a viral...Some of the youtube videos *directly* use the same sound heard in the mov...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/11wribi/strange_soundstrumpet_sounds_in_the_sky_are_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11wribi/strange_soundstrumpet_sounds_in_the_sky_are_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Strange Sounds/Trumpet Sounds in the Sky&quot; are a viral...Some of the youtube videos *directly* use the same sound heard in the mov...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: audiology.org  
    Title: skyquakes did you hear it  
-   Link: <a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</p></details>
+   Link:<a href="https://www.audiology.org/skyquakes-did-you-hear-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.audiology.org/skyquakes-did-you-hear-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of AudiologySkyquakes—Did You Hear It?27 Oct 2023 — Skyquakes are enigmatic sounds, typically described as a very loud b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=88VEhQswIcw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=88VEhQswIcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=88VEhQswIcw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange sounds in the sky explained by a sound designerMany videos have popped up on YouTube in recent years of strange sounds being hear...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: You Tube Mysterious Sky Sounds Explained  
-   Link: <a href="https://www.youtube.com/watch?v=0TJfewc8M-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0TJfewc8M-U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Sky Sounds Explained - The Science Behind the...... video explores how temperature inversions and Canada&#x27;s vast prairi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0TJfewc8M-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0TJfewc8M-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Sky Sounds Explained - The Science Behind the...... video explores how temperature inversions and Canada&#x27;s vast prairi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Steam whistle  
-   Link: <a href="https://en.wikipedia.org/wiki/Steam_whistle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steam_whistle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Steam_whistle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Steam_whistle</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_TTKx9ILi8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds...Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_TTKx9ILi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_TTKx9ILi8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds...Skyquakes, Upsweeps, and Sky Trumpets | Terrifying Sounds that Signal...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HuDP-qS98Hk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HuDP-qS98Hk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trumpet of Heaven Incidents ExplainedMany people had a theory that this sound was an angel sounding one of the seven trumpets that wo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HuDP-qS98Hk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HuDP-qS98Hk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Trumpet of Heaven Incidents ExplainedMany people had a theory that this sound was an angel sounding one of the seven trumpets that wo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sky.com  
-   Link: <a href="https://www.sky.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover TV, Broadband &amp; Mobile Phone Packages with SkyDiscover Sky packages for TV, broadband &amp; mobile including Glass - the new streami...</p></details>
+   Link:<a href="https://www.sky.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover TV, Broadband &amp; Mobile Phone Packages with SkyDiscover Sky packages for TV, broadband &amp; mobile including Glass - the new streami...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QBsGoOdeDtI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QBsGoOdeDtI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bricate them…. However, either way it was talked about in the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QBsGoOdeDtI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QBsGoOdeDtI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bricate them…. However, either way it was talked about in the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rqoXs1TWMQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rqoXs1TWMQw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>called God&#x27;s trumpets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rqoXs1TWMQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rqoXs1TWMQw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>called God&#x27;s trumpets...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLFh3OT8UXmwYyuJhru1gja0phLNmerKtt" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLFh3OT8UXmwYyuJhru1gja0phLNmerKtt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY TRUMPETS WEIRD SOUNDS IN THE SKY 2016SKY TRUMPETS 2016 THE SOUND BEING HEARD AROUND THE WORLD! Viraldrome; Sky Trumpets 2. Viraldrom...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLFh3OT8UXmwYyuJhru1gja0phLNmerKtt" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLFh3OT8UXmwYyuJhru1gja0phLNmerKtt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SKY TRUMPETS WEIRD SOUNDS IN THE SKY 2016SKY TRUMPETS 2016 THE SOUND BEING HEARD AROUND THE WORLD! Viraldrome; Sky Trumpets 2. Viraldrom...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vul4SYL4QiQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Source Behind a Mystery Sound Heard Around the WorldMcFersonson thinks the mysterious hum could be caused by lowfrequency sound waves...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vul4SYL4QiQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vul4SYL4QiQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Source Behind a Mystery Sound Heard Around the WorldMcFersonson thinks the mysterious hum could be caused by lowfrequency sound waves...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/SkyTV" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/SkyTV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>taries and blockbuster...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/SkyTV" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/SkyTV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>taries and blockbuster...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XSjsyeno-hc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XSjsyeno-hc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eam takes a listen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XSjsyeno-hc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XSjsyeno-hc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eam takes a listen...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Bizarre Trumpet Sounds  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14c0ass/bizarre_trumpet_sounds_anyone_seen_these_videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14c0ass/bizarre_trumpet_sounds_anyone_seen_these_videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone Seen These Videos...1.9K votes, 737 comments. UPDATE: These are apparently called Sky Quakes and they are unexplained. First docu...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14c0ass/bizarre_trumpet_sounds_anyone_seen_these_videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14c0ass/bizarre_trumpet_sounds_anyone_seen_these_videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone Seen These Videos...1.9K votes, 737 comments. UPDATE: These are apparently called Sky Quakes and they are unexplained. First docu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sky" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyThe sky is an unobstructed view upward from the surface of the Earth. It includes the atmosphere and outer space. It may also be co...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sky" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SkyThe sky is an unobstructed view upward from the surface of the Earth. It includes the atmosphere and outer space. It may also be co...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P6_a314KiZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P6_a314KiZo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Source Behind a Mystery Sound Heard Around the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P6_a314KiZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P6_a314KiZo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Source Behind a Mystery Sound Heard Around the World...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: What Is The Invisible Phenomenon Making The Sky Scream?  
-   Link: <a href="https://www.youtube.com/watch?v=xBZIojBHn1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBZIojBHn1Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange sounds in the sky explained by a sound designer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xBZIojBHn1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBZIojBHn1Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange sounds in the sky explained by a sound designer...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Trumpet Sounds in the Sky and Mysterious Booms Happening Worldwide  
-   Link: <a href="https://www.youtube.com/watch?v=msVUbX0mcQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=msVUbX0mcQE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=msVUbX0mcQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=msVUbX0mcQE</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tvi.show  
    Title: the mysterious sky trumpets heard worldwide  
-   Link: <a href="https://www.tvi.show/natures-anomalies/the-mysterious-sky-trumpets-heard-worldwide" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/natures-anomalies/the-mysterious-sky-trumpets-heard-worldwide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleMysterious Sky Trumpets Heard WorldwideMay 11, 2025 — 11 May 2025 — Reports of sky trumpet sounds date back to...</p></details>
+   Link:<a href="https://www.tvi.show/natures-anomalies/the-mysterious-sky-trumpets-heard-worldwide" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/natures-anomalies/the-mysterious-sky-trumpets-heard-worldwide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleMysterious Sky Trumpets Heard WorldwideMay 11, 2025 — 11 May 2025 — Reports of sky trumpet sounds date back to...</p></details>
    Published: May 11, 2025  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/sky" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY Definition &amp; Meaning7 days ago — 1... the upper atmosphere or expanse of space that constitutes an apparent great vault or arch over...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/sky" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SKY Definition &amp; Meaning7 days ago — 1... the upper atmosphere or expanse of space that constitutes an apparent great vault or arch over...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTGpKXxDyU3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTGpKXxDyU3/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The scariest sounds ever recordedWhat Are “Sky Trumpets”? (Core Mystery Explained) Sky Trumpets are mysterious sounds described as: • dee...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTGpKXxDyU3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTGpKXxDyU3/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The scariest sounds ever recordedWhat Are “Sky Trumpets”? (Core Mystery Explained) Sky Trumpets are mysterious sounds described as: • dee...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: explorersweb.com  
    Title: No one can figure out what is causing these “skyquakes.”  
-   Link: <a href="https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Grapple to Explain Mysterious &#x27;Skyquake&#x27; Noises...11 Oct 2024 — Across the globe, people are reporting loud banging and boomi...</p></details>
+   Link:<a href="https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://explorersweb.com/scientists-grapple-to-explain-mysterious-skyquake-noises-heard-across-the-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Grapple to Explain Mysterious &#x27;Skyquake&#x27; Noises...11 Oct 2024 — Across the globe, people are reporting loud banging and boomi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gabe.poirot.7127/videos/strange-sounds-are-going-viral-in-the-skies-across-the-country-caught-on-camera/900536975882486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gabe.poirot.7127/videos/strange-sounds-are-going-viral-in-the-skies-across-the-country-caught-on-camera/900536975882486/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are losing sleep and neighbors qu can&#x27;t quite pinpoint The Source...</p></details>
+   Link:<a href="https://www.facebook.com/gabe.poirot.7127/videos/strange-sounds-are-going-viral-in-the-skies-across-the-country-caught-on-camera/900536975882486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gabe.poirot.7127/videos/strange-sounds-are-going-viral-in-the-skies-across-the-country-caught-on-camera/900536975882486/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are losing sleep and neighbors qu can&#x27;t quite pinpoint The Source...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nds described as: • deep metallic vibrations • long...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWpOD7AkkVP/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nds described as: • deep metallic vibrations • long...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: physics.stackexchange.com  
-   Link: <a href="https://physics.stackexchange.com/questions/197136/what-is-causing-the-trumpet-sounds-that-are-emited-from-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/197136/what-is-causing-the-trumpet-sounds-that-are-emited-from-the-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is causing the Trumpet Sounds that are emited from...Jul 31, 2015 — As our atmosphere becomes more ionised, it&#x27;ll interact with the eart...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/197136/what-is-causing-the-trumpet-sounds-that-are-emited-from-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/197136/what-is-causing-the-trumpet-sounds-that-are-emited-from-the-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is causing the Trumpet Sounds that are emited from...Jul 31, 2015 — As our atmosphere becomes more ionised, it&#x27;ll interact with the eart...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mentalfloss.com  
    Title: what skyquake  
-   Link: <a href="https://www.mentalfloss.com/article/91146/what-skyquake" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/91146/what-skyquake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Skyquakes Real?Jun 16, 2017 — Skyquakes are characterized by unexplained noises coming from the sky, often in remote areas with no ob...</p></details>
+   Link:<a href="https://www.mentalfloss.com/article/91146/what-skyquake" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/91146/what-skyquake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Skyquakes Real?Jun 16, 2017 — Skyquakes are characterized by unexplained noises coming from the sky, often in remote areas with no ob...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/artist/6OzpbdankE26K03oeoHhPN" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/6OzpbdankE26K03oeoHhPN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Sky on Spotify. Artist · 42.2K monthly listeners...</p></details>
+   Link:<a href="https://open.spotify.com/artist/6OzpbdankE26K03oeoHhPN" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/6OzpbdankE26K03oeoHhPN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Sky on Spotify. Artist · 42.2K monthly listeners...</p></details>

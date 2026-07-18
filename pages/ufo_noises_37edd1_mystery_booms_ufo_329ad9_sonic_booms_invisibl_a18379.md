@@ -274,14 +274,14 @@ image: /assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_inv
 
 ## Introduction
 
-Many reports of mysterious sky explosions begin with the same detail: people hear a violent boom, windows rattle, pets react, and yet nobody sees an [aircraft]({{ 'aircraft/' | relative_url }}). In UFO discussions, that absence of a visible source often becomes the mystery itself. A sonic boom is one of the most common explanations for these events. A fast aircraft flying faster than the speed of sound creates a moving shockwave that can travel across large areas and reach people who never saw the jet responsible. Depending on altitude, weather conditions and military flight activity, the boom can seem disconnected from any visible aircraft, making it sound more like an unexplained explosion than ordinary aviation noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> The result is a recurring pattern in mystery-boom reports: residents hear what sounds like a blast, authorities initially have little information, and speculation quickly fills the gap. Understanding how sonic [booms]({{ 'booms/' | relative_url }}) work helps explain why so many “invisible explosions” end up linked to aircraft that were never seen from the ground.
+Many reports of mysterious sky explosions begin with the same detail: people hear a violent boom, windows rattle, pets react, and yet nobody sees an [aircraft]({{ 'aircraft/' | relative_url }}). In UFO discussions, that absence of a visible source often becomes the mystery itself. A sonic boom is one of the most common explanations for these events. A fast aircraft flying faster than the speed of sound creates a moving shockwave that can travel across large areas and reach people who never saw the jet responsible. Depending on altitude, weather conditions and military flight activity, the boom can seem disconnected from any visible aircraft, making it sound more like an unexplained explosion than ordinary aviation noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> The result is a recurring pattern in mystery-boom reports: residents hear what sounds like a blast, authorities initially have little information, and speculation quickly fills the gap. Understanding how sonic [booms]({{ 'booms/' | relative_url }}) work helps explain why so many “invisible explosions” end up linked to aircraft that were never seen from the ground.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-dark.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_mystery_booms_ufo_329ad9_sonic_booms_invisibl_a18379-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When a Jet Creates a Moving Shockwave
 
-A sonic boom is not the sound of an aircraft engine. It is a pressure wave created when an object moves through the [atmosphere]({{ 'atmosphere/' | relative_url }}) faster than sound itself. Because sound waves cannot move ahead of a supersonic aircraft quickly enough, they compress into shockwaves that trail behind the aircraft in a cone-shaped pattern. When that pressure disturbance reaches the ground, people hear a sudden boom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+A sonic boom is not the sound of an aircraft engine. It is a pressure wave created when an object moves through the [atmosphere]({{ 'atmosphere/' | relative_url }}) faster than sound itself. Because sound waves cannot move ahead of a supersonic aircraft quickly enough, they compress into shockwaves that trail behind the aircraft in a cone-shaped pattern. When that pressure disturbance reaches the ground, people hear a sudden boom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
-One of the biggest misconceptions is that a sonic boom happens only once, at the moment a pilot “breaks the sound barrier”. In reality, the shockwave follows the aircraft for as long as it remains supersonic. Anyone underneath the flight path can hear the boom when the moving pressure wave passes their location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elidourado.com/p/50-years-supersonic-ban" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elidourado.com">[Eli Dourado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elidourado.com</span><span class="citation-popover-title">50 years supersonic ban</span><span class="citation-popover-snippet">50 years of silence23 Mar 2023 — The analogy also corrects a misconception some people have about sonic boom, that it only occurs when an...</span></span></span>
+One of the biggest misconceptions is that a sonic boom happens only once, at the moment a pilot “breaks the sound barrier”. In reality, the shockwave follows the aircraft for as long as it remains supersonic. Anyone underneath the flight path can hear the boom when the moving pressure wave passes their location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elidourado.com/p/50-years-supersonic-ban" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elidourado.com">[Eli Dourado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elidourado.com</span><span class="citation-popover-title">50 years supersonic ban</span><span class="citation-popover-snippet">50 years of silence23 Mar 2023 — The analogy also corrects a misconception some people have about sonic boom, that it only occurs when an...</span></span></span>
 
 This helps explain why witnesses often report:
 
@@ -294,7 +294,7 @@ This helps explain why witnesses often report:
 
 </div>
 
-The classic double-boom effect comes from shockwaves generated near the front and rear of the aircraft. By the time they reach the ground, they can resemble two artillery-like blasts arriving seconds apart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+The classic double-boom effect comes from shockwaves generated near the front and rear of the aircraft. By the time they reach the ground, they can resemble two artillery-like blasts arriving seconds apart.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gWGLAAYdbbc" title="Supersonic Flight, Sonic Booms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer">Supersonic Flight, Sonic Booms</a></p><p class="youtube-embed-meta">Channel: AVweb &middot; Views: 17.8M &middot; Uploaded: June 2010 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gWGLAAYdbbc">Open on YouTube</a></p></div></div></div>
 
@@ -302,11 +302,11 @@ The classic double-boom effect comes from shockwaves generated near the front an
 
 The aircraft responsible for a sonic boom is frequently nowhere near the place where people hear it.
 
-Because the shockwave trails behind the aircraft, the jet may already be many kilometres away when the boom reaches an observer. A witness who looks upward immediately after hearing the sound may be searching the wrong patch of sky. In some cases, the aircraft may already have disappeared beyond the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spikeaerospace.com">[Spike Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spikeaerospace.com</span><span class="citation-popover-snippet">Spike AerospaceSupersonic Aircraft and the Sonic Boom Some Jets MakeObservers on the ground, along the plane&#x27;s entire flight path, will h...</span></span></span>
+Because the shockwave trails behind the aircraft, the jet may already be many kilometres away when the boom reaches an observer. A witness who looks upward immediately after hearing the sound may be searching the wrong patch of sky. In some cases, the aircraft may already have disappeared beyond the horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spikeaerospace.com">[Spike Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spikeaerospace.com</span><span class="citation-popover-snippet">Spike AerospaceSupersonic Aircraft and the Sonic Boom Some Jets MakeObservers on the ground, along the plane&#x27;s entire flight path, will h...</span></span></span>
 
-Altitude adds another layer of confusion. Supersonic aircraft often operate tens of thousands of feet above the ground. At those heights, a small military jet can be extremely difficult to spot, particularly in clear blue daylight or through cloud layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everycrsreport.com/reports/R45404.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-title">Every CRSReport Supersonic Passenger Flights</span><span class="citation-popover-snippet">Supersonic Passenger Flights - EveryCRSReport.com14 Nov 2018 — Overpressures of 1 to 2 pounds at the surface are typical of...</span></span></span>
+Altitude adds another layer of confusion. Supersonic aircraft often operate tens of thousands of feet above the ground. At those heights, a small military jet can be extremely difficult to spot, particularly in clear blue daylight or through cloud layers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everycrsreport.com/reports/R45404.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-title">Every CRSReport Supersonic Passenger Flights</span><span class="citation-popover-snippet">Supersonic Passenger Flights - EveryCRSReport.com14 Nov 2018 — Overpressures of 1 to 2 pounds at the surface are typical of...</span></span></span>
 
-Weather conditions can make the disconnect even stronger. Variations in temperature, wind and atmospheric density affect how shockwaves propagate. The boom may be heard over a broad area that does not correspond neatly to the aircraft's apparent position. To someone on the ground, the sound can feel local even when the aircraft is distant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+Weather conditions can make the disconnect even stronger. Variations in temperature, wind and atmospheric density affect how shockwaves propagate. The boom may be heard over a broad area that does not correspond neatly to the aircraft's apparent position. To someone on the ground, the sound can feel local even when the aircraft is distant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 This combination of delay, altitude and atmospheric effects is one reason mystery-boom reports often begin with statements such as “nothing was in the sky” or “no plane was visible”.
 
@@ -316,11 +316,11 @@ This combination of delay, altitude and atmospheric effects is one reason myster
 
 Many mystery-boom investigations eventually point toward military aviation, but confirmation is not always immediate.
 
-Military aircraft routinely conduct training, testing and transit flights over large regions. Operational details may not be publicly released in real time. Even when residents report a loud boom, local authorities may not instantly know whether a military aircraft was responsible. That information often requires coordination between aviation authorities, military units and airspace managers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edwards.af.mil/Contact-Us/Community-Engagement/Noise-Concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edwards.af.mil">[Edwards Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edwards.af.mil</span><span class="citation-popover-title">Edwards Air Force Base Noise Concerns</span><span class="citation-popover-snippet">Edwards Air Force BaseNoise Concerns - Edwards Air Force Base - USAFIf you feel a sonic boom has caused damage to your property, you must...</span></span></span>
+Military aircraft routinely conduct training, testing and transit flights over large regions. Operational details may not be publicly released in real time. Even when residents report a loud boom, local authorities may not instantly know whether a military aircraft was responsible. That information often requires coordination between aviation authorities, military units and airspace managers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edwards.af.mil/Contact-Us/Community-Engagement/Noise-Concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edwards.af.mil">[Edwards Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edwards.af.mil</span><span class="citation-popover-title">Edwards Air Force Base Noise Concerns</span><span class="citation-popover-snippet">Edwards Air Force BaseNoise Concerns - Edwards Air Force Base - USAFIf you feel a sonic boom has caused damage to your property, you must...</span></span></span>
 
 This information gap is important. A loud boom can generate hundreds of emergency calls within minutes, while official explanations may take hours or days. During that period, speculation spreads easily online.
 
-A recent example came from western India, where repeated unexplained booms rattled homes and shook windows across multiple districts. Investigators found no evidence of earthquakes or industrial accidents. Scientists examining the reports concluded that sonic booms from high-speed military aircraft were among the most plausible explanations, but definitive public confirmation remained limited. The uncertainty itself became part of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India Mysterious &#x27;booms&#x27; rattle Sangola; scientists curious</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
+A recent example came from western India, where repeated unexplained booms rattled homes and shook windows across multiple districts. Investigators found no evidence of earthquakes or industrial accidents. Scientists examining the reports concluded that sonic booms from high-speed military aircraft were among the most plausible explanations, but definitive public confirmation remained limited. The uncertainty itself became part of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India Mysterious &#x27;booms&#x27; rattle Sangola; scientists curious</span><span class="citation-popover-snippet">The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</span></span></span>
 
 The same pattern has appeared in numerous countries: residents hear an explosion, emergency services investigate, no immediate source is identified, and rumours emerge before aviation explanations catch up.
 
@@ -329,7 +329,7 @@ The same pattern has appeared in numerous countries: residents hear an explosion
 
 The reason sonic booms generate so much alarm is that they genuinely share characteristics with explosions.
 
-A sonic boom is a sudden pressure change. Even though the pressure increase is relatively small in physical terms, it arrives abruptly enough to shake structures and startle people. Military and aerospace research notes that sonic booms can rattle windows and occasionally cause minor damage under certain conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denix.osd.mil/dodnoise/denix-files/sites/99/2024/09/Noise_Tech-Bulletin_Sonic-Boom_20240808.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denix.osd.mil">[DENIX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denix.osd.mil</span><span class="citation-popover-title">DENIXTechnical Bulletin</span><span class="citation-popover-snippet">Bulletin - DOD DENIX12 Aug 2024 — The change, or peak, in pressure caused by sonic booms is only a few pounds per square foot (psf), wher...</span></span></span> To human perception, that pressure pulse often resembles:
+A sonic boom is a sudden pressure change. Even though the pressure increase is relatively small in physical terms, it arrives abruptly enough to shake structures and startle people. Military and aerospace research notes that sonic booms can rattle windows and occasionally cause minor damage under certain conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.denix.osd.mil/dodnoise/denix-files/sites/99/2024/09/Noise_Tech-Bulletin_Sonic-Boom_20240808.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denix.osd.mil">[DENIX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denix.osd.mil</span><span class="citation-popover-title">DENIXTechnical Bulletin</span><span class="citation-popover-snippet">Bulletin - DOD DENIX12 Aug 2024 — The change, or peak, in pressure caused by sonic booms is only a few pounds per square foot (psf), wher...</span></span></span> To human perception, that pressure pulse often resembles:
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -340,7 +340,7 @@ A sonic boom is a sudden pressure change. Even though the pressure increase is r
 
 </div>
 
-Because people experience both the sound and the vibration, the event feels more tangible than a distant light in the sky. Witnesses often interpret the sensation as evidence that something physically exploded nearby, even when the source is a shockwave generated many kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+Because people experience both the sound and the vibration, the event feels more tangible than a distant light in the sky. Witnesses often interpret the sensation as evidence that something physically exploded nearby, even when the source is a shockwave generated many kilometres away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 The psychological effect is amplified when multiple people across a town report the same experience at the same moment. Shared confirmation makes the event feel even more significant, regardless of whether the cause is eventually identified.
 
@@ -352,7 +352,7 @@ In UFO-related discussions, sonic booms occupy an unusual position. They provide
 
 A witness may hear a powerful blast, see no aircraft, and discover that neighbours heard it too. Social media posts appear asking whether anyone saw an object. Some people connect the sound to reports of lights, unusual aircraft or rumours of secret technology. Others suggest extraterrestrial craft entering or leaving the atmosphere.
 
-The boom itself becomes the foundation for wider speculation because the original event is real and memorable. Unlike a mistaken light or distant star, a sonic boom produces a physical experience that people can feel in their homes. That makes it easier for rumours to persist even after a conventional explanation emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+The boom itself becomes the foundation for wider speculation because the original event is real and memorable. Unlike a mistaken light or distant star, a sonic boom produces a physical experience that people can feel in their homes. That makes it easier for rumours to persist even after a conventional explanation emerges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 Many mystery-boom cases never become famous UFO incidents precisely because investigators eventually trace them to military activity or supersonic flight. The more intriguing cases are often those where no aircraft is publicly identified. Yet the absence of immediate confirmation is not evidence of an unknown craft. It is frequently a consequence of how shockwaves travel and how slowly information about high-speed aircraft activity can become available.
 
@@ -370,199 +370,199 @@ The strongest clue that a mystery boom may be a sonic boom is the combination of
 
 </div>
 
-That pattern appears repeatedly in investigations involving military jets, test flights and other supersonic vehicles. The shockwave arrives dramatically, but the aircraft itself may be distant, hidden by altitude or simply gone by the time people look up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spikeaerospace.com">[Spike Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spikeaerospace.com</span><span class="citation-popover-snippet">Spike AerospaceSupersonic Aircraft and the Sonic Boom Some Jets MakeObservers on the ground, along the plane&#x27;s entire flight path, will h...</span></span></span>
+That pattern appears repeatedly in investigations involving military jets, test flights and other supersonic vehicles. The shockwave arrives dramatically, but the aircraft itself may be distant, hidden by altitude or simply gone by the time people look up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spikeaerospace.com">[Spike Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spikeaerospace.com</span><span class="citation-popover-snippet">Spike AerospaceSupersonic Aircraft and the Sonic Boom Some Jets MakeObservers on the ground, along the plane&#x27;s entire flight path, will h...</span></span></span>
 
-For that reason, sonic booms remain one of the most convincing explanations for “invisible explosions” in the sky. They create exactly the kind of startling, unexplained experience that fuels UFO rumours: a powerful event with no obvious source, heard by many people at once, and often understood only after the shock has already passed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+For that reason, sonic booms remain one of the most convincing explanations for “invisible explosions” in the sky. They create exactly the kind of startling, unexplained experience that fuels UFO rumours: a powerful event with no obvious source, heard by many people at once, and often understood only after the shock has already passed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Jets Make Explosions in the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Jets Make Explosions in the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Rossing</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
+</h4>
+<p class="fr-book-author">By Thomas Rossing</p>
         
-        <p class="fr-book-desc">Explains sonic booms and atmospheric sound propagation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sonic booms and atmospheric sound propagation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on advanced aircraft often linked to UFO rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced aircraft often linked to UFO rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Links unexplained aerial reports with aviation evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links unexplained aerial reports with aviation evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Yeager%2C+an+Autobiography+by+Chuck+Yeager&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yeager, an Autobiography on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Yeager%2C+an+Autobiography+by+Chuck+Yeager&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yeager, an Autobiography">Yeager, an Autobiography</a>
-        </h4>
-        <p class="fr-book-author">By Chuck Yeager, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Yeager%2C+an+Autobiography+by+Chuck+Yeager&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yeager, an Autobiography on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Yeager%2C+an+Autobiography+by+Chuck+Yeager&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yeager, an Autobiography">Yeager, an Autobiography</a>
+</h4>
+<p class="fr-book-author">By Chuck Yeager, Leo Janos</p>
         
-        <p class="fr-book-desc">Strong connection to supersonic flight and the sound barrier.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Yeager%2C+an+Autobiography+by+Chuck+Yeager&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong connection to supersonic flight and the sound barrier.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Yeager%2C+an+Autobiography+by+Chuck+Yeager&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Springer+of+Acoustics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Springer of Acoustics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Springer+of+Acoustics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Springer of Acoustics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Do What I Do Cause I Can Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7-sAAeSwOhVp2SAg/s-l225.jpg" alt="Listing image for I Do What I Do Cause I Can Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">I Do What I Do Cause I Can Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Do What I Do Cause I Can Framed A Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7-sAAeSwOhVp2SAg/s-l225.jpg" alt="Listing image for I Do What I Do Cause I Can Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">I Do What I Do Cause I Can Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Do What I Do Cause I Want To Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/duYAAeSw171p2SCj/s-l225.jpg" alt="Listing image for I Do What I Do Cause I Want To Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">I Do What I Do Cause I Want To Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Do What I Do Cause I Want To Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/duYAAeSw171p2SCj/s-l225.jpg" alt="Listing image for I Do What I Do Cause I Want To Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">I Do What I Do Cause I Want To Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Я больше не могу! What causes stress and emotion"><img src="https://i.ebayimg.com/images/g/oAUAAeSwrclqDrLT/s-l225.jpg" alt="Listing image for Я больше не могу! What causes stress and emotion" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">Я больше не могу! What causes stress and emotion</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Я больше не могу! What causes stress and emotion"><img src="https://i.ebayimg.com/images/g/oAUAAeSwrclqDrLT/s-l225.jpg" alt="Listing image for Я больше не могу! What causes stress and emotion" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">Я больше не могу! What causes stress and emotion</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METAL SIGN - What causes the mysterious death of everyone?"><img src="https://i.ebayimg.com/images/g/2F8AAOSwXrFltrVQ/s-l225.jpg" alt="Listing image for METAL SIGN - What causes the mysterious death of everyone?" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">METAL SIGN - What causes the mysterious death of everyone?</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METAL SIGN - What causes the mysterious death of everyone?"><img src="https://i.ebayimg.com/images/g/2F8AAOSwXrFltrVQ/s-l225.jpg" alt="Listing image for METAL SIGN - What causes the mysterious death of everyone?" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">METAL SIGN - What causes the mysterious death of everyone?</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for what causes poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: what causes poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+causes+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-jets-make-explosions-in-the-sky-what-causes-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what causes poster" data-ebay-reference="when-jets-make-explosions-in-the-sky-what-causes-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ For that reason, sonic booms remain one of the most convincing explanations for 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ For that reason, sonic booms remain one of the most convincing explanations for 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ For that reason, sonic booms remain one of the most convincing explanations for 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ For that reason, sonic booms remain one of the most convincing explanations for 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ For that reason, sonic booms remain one of the most convincing explanations for 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,127 +768,127 @@ For that reason, sonic booms remain one of the most convincing explanations for 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: everycrsreport.com  
    Title: Every CRSReport Supersonic Passenger Flights  
-   Link: <a href="https://www.everycrsreport.com/reports/R45404.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/R45404.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic Passenger Flights - EveryCRSReport.com14 Nov 2018 — Overpressures of 1 to 2 pounds at the surface are typical of...</p></details>
+   Link:<a href="https://www.everycrsreport.com/reports/R45404.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/R45404.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic Passenger Flights - EveryCRSReport.com14 Nov 2018 — Overpressures of 1 to 2 pounds at the surface are typical of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: denix.osd.mil  
    Title: DENIXTechnical Bulletin  
-   Link: <a href="https://www.denix.osd.mil/dodnoise/denix-files/sites/99/2024/09/Noise_Tech-Bulletin_Sonic-Boom_20240808.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.denix.osd.mil/dodnoise/denix-files/sites/99/2024/09/Noise_Tech-Bulletin_Sonic-Boom_20240808.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin - DOD DENIX12 Aug 2024 — The change, or peak, in pressure caused by sonic booms is only a few pounds per square foot (psf), wher...</p></details>
+   Link:<a href="https://www.denix.osd.mil/dodnoise/denix-files/sites/99/2024/09/Noise_Tech-Bulletin_Sonic-Boom_20240808.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.denix.osd.mil/dodnoise/denix-files/sites/99/2024/09/Noise_Tech-Bulletin_Sonic-Boom_20240808.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin - DOD DENIX12 Aug 2024 — The change, or peak, in pressure caused by sonic booms is only a few pounds per square foot (psf), wher...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/archive/6832415/aeronautics-boom-bust/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6832415/aeronautics-boom-bust/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautics: Boom &amp; BustDistressed FAA officials estimated the overpressure at 25 Ibs.... What was scientifically certain was that a big...</p></details>
+   Link:<a href="https://time.com/archive/6832415/aeronautics-boom-bust/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6832415/aeronautics-boom-bust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautics: Boom &amp; BustDistressed FAA officials estimated the overpressure at 25 Ibs.... What was scientifically certain was that a big...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wgbh/nova/barrier/boom/concept3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/barrier/boom/concept3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Than Sound | Sonic Boom | Shock waveNASA photograph of plane in flight showing shock waves. As an airplane flies faster than the s...</p></details>
+   Link:<a href="https://www.pbs.org/wgbh/nova/barrier/boom/concept3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/barrier/boom/concept3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faster Than Sound | Sonic Boom | Shock waveNASA photograph of plane in flight showing shock waves. As an airplane flies faster than the s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: elidourado.com  
    Title: 50 years supersonic ban  
-   Link: <a href="https://www.elidourado.com/p/50-years-supersonic-ban" target="_blank" rel="noopener noreferrer nofollow">https://www.elidourado.com/p/50-years-supersonic-ban</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>50 years of silence23 Mar 2023 — The analogy also corrects a misconception some people have about sonic boom, that it only occurs when an...</p></details>
+   Link:<a href="https://www.elidourado.com/p/50-years-supersonic-ban" target="_blank" rel="noopener noreferrer nofollow">https://www.elidourado.com/p/50-years-supersonic-ban</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 years of silence23 Mar 2023 — The analogy also corrects a misconception some people have about sonic boom, that it only occurs when an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spikeaerospace.com  
-   Link: <a href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow">https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spike AerospaceSupersonic Aircraft and the Sonic Boom Some Jets MakeObservers on the ground, along the plane&#x27;s entire flight path, will h...</p></details>
+   Link:<a href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow">https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spike AerospaceSupersonic Aircraft and the Sonic Boom Some Jets MakeObservers on the ground, along the plane&#x27;s entire flight path, will h...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: edwards.af.mil  
    Title: Edwards Air Force Base Noise Concerns  
-   Link: <a href="https://www.edwards.af.mil/Contact-Us/Community-Engagement/Noise-Concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/Contact-Us/Community-Engagement/Noise-Concerns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards Air Force BaseNoise Concerns - Edwards Air Force Base - USAFIf you feel a sonic boom has caused damage to your property, you must...</p></details>
+   Link:<a href="https://www.edwards.af.mil/Contact-Us/Community-Engagement/Noise-Concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/Contact-Us/Community-Engagement/Noise-Concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards Air Force BaseNoise Concerns - Edwards Air Force Base - USAFIf you feel a sonic boom has caused damage to your property, you must...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: timesofindia.indiatimes.com  
    Title: The Times of India Mysterious 'booms' rattle Sangola; scientists curious  
-   Link: <a href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/pune/mysterious-booms-rattle-sangola-scientists-curious/articleshow/125809672.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latest surge in these incidents prompted a detailed scientific investigation by the Central Ground Water Board (CGWB) and the Groundw...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencefocus.hkust.edu.hk  
    Title: hkust.edu.hk Sonic Booms  
-   Link: <a href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://sciencefocus.hkust.edu.hk/sonic-booms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Booms - Science FocusWhile few of us have personally heard one, many of us have witnessed a sonic boom&#x27;s shockwave surrounding a speeding...</p></details>
+   Link:<a href="https://sciencefocus.hkust.edu.hk/sonic-booms" target="_blank" rel="noopener noreferrer nofollow">https://sciencefocus.hkust.edu.hk/sonic-booms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Booms - Science FocusWhile few of us have personally heard one, many of us have witnessed a sonic boom&#x27;s shockwave surrounding a speeding...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Sonic Boom  
-   Link: <a href="https://www.sciencedirect.com/topics/physics-and-astronomy/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/physics-and-astronomy/sonic-boom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewA sonic boom is defined as a loud, thunder-like sound produced when an aircraft travels through the air at supersonic speeds...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/physics-and-astronomy/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/physics-and-astronomy/sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewA sonic boom is defined as a loud, thunder-like sound produced when an aircraft travels through the air at supersonic speeds...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: sonic boom  
-   Link: <a href="https://www.britannica.com/science/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/sonic-boom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shockwave, Supersonic, Pressure Wave30 Apr 2026 — Sonic boom, shock wave that is produced by an aircraft or other object flying at a spee...</p></details>
+   Link:<a href="https://www.britannica.com/science/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shockwave, Supersonic, Pressure Wave30 Apr 2026 — Sonic boom, shock wave that is produced by an aircraft or other object flying at a spee...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2020/03/quietingtheboom-ebook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2020/03/quietingtheboom-ebook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quieting the boom: the shaped sonic boom demonstrator...FAA certification, especially for the sonic boom and jet noise near airports un...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2020/03/quietingtheboom-ebook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2020/03/quietingtheboom-ebook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quieting the boom: the shaped sonic boom demonstrator...FAA certification, especially for the sonic boom and jet noise near airports un...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsAltitude determines the distance shock waves travel before reaching the ground, and this has the most significant effec...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsAltitude determines the distance shock waves travel before reaching the ground, and this has the most significant effec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNYdZMXhqMr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNYdZMXhqMr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SONIC BOOM! Ever heard a fighter jet make...Once the aircraft reaches and exceeds the speed of sound, those compressed waves combine int...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DNYdZMXhqMr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNYdZMXhqMr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SONIC BOOM! Ever heard a fighter jet make...Once the aircraft reaches and exceeds the speed of sound, those compressed waves combine int...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aviation/comments/1mr4swi/was_this_a_sonic_boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1mr4swi/was_this_a_sonic_boom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was this a sonic boom?: r/aviationBut a sonic boom would harm unprotected eardrums, break glass, and cause a rather large amount of chao...</p></details>
+   Link:<a href="https://www.reddit.com/r/aviation/comments/1mr4swi/was_this_a_sonic_boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1mr4swi/was_this_a_sonic_boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was this a sonic boom?: r/aviationBut a sonic boom would harm unprotected eardrums, break glass, and cause a rather large amount of chao...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/nasa-image-shows-xb-1-jet-break-the-sound-barrier-without-producing-audible-sonic-boom-78293" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/nasa-image-shows-xb-1-jet-break-the-sound-barrier-without-producing-audible-sonic-boom-78293</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Image Shows XB-1 Jet Break The Sound Barrier...Mar 4, 2025 — NASA has released a new image showing the moment Boom Supersonic&#x27;s XB...</p></details>
+   Link:<a href="https://www.iflscience.com/nasa-image-shows-xb-1-jet-break-the-sound-barrier-without-producing-audible-sonic-boom-78293" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/nasa-image-shows-xb-1-jet-break-the-sound-barrier-without-producing-audible-sonic-boom-78293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Image Shows XB-1 Jet Break The Sound Barrier...Mar 4, 2025 — NASA has released a new image showing the moment Boom Supersonic&#x27;s XB...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/royalairforce/posts/%EF%B8%8F%EF%B8%8F-supersonic-sunday-challenge-%EF%B8%8F%EF%B8%8F-mach-mystery-when-our-typhoons-or-f-35bs-go-su/1236553435173803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforce/posts/%EF%B8%8F%EF%B8%8F-supersonic-sunday-challenge-%EF%B8%8F%EF%B8%8F-mach-mystery-when-our-typhoons-or-f-35bs-go-su/1236553435173803/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>️✈️ Supersonic Sunday Challenge ✈️⚡️ 💨 Mach MysteryThe Sonic Boom Explained! Ever wondered why you hear a loud “BOOM” when a jet breaks t...</p></details>
+   Link:<a href="https://www.facebook.com/royalairforce/posts/%EF%B8%8F%EF%B8%8F-supersonic-sunday-challenge-%EF%B8%8F%EF%B8%8F-mach-mystery-when-our-typhoons-or-f-35bs-go-su/1236553435173803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalairforce/posts/%EF%B8%8F%EF%B8%8F-supersonic-sunday-challenge-%EF%B8%8F%EF%B8%8F-mach-mystery-when-our-typhoons-or-f-35bs-go-su/1236553435173803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>️✈️ Supersonic Sunday Challenge ✈️⚡️ 💨 Mach MysteryThe Sonic Boom Explained! Ever wondered why you hear a loud “BOOM” when a jet breaks t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/lower-the-boom-180971750/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/lower-the-boom-180971750/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/lower-the-boom-180971750/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/lower-the-boom-180971750/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nasa.gov  
    Title: to test technology for x 59s unique shock wave measurements  
-   Link: <a href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — A close-up of NASA&#x27;s shock-sensing probe highlights its pressure por...</p></details>
+   Link:<a href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Test Technology for X-59&#x27;s Unique Shock Wave...5 Dec 2024 — A close-up of NASA&#x27;s shock-sensing probe highlights its pressure por...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/Rxg2LjrA_rQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rxg2LjrA_rQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most People Don&#x27;t Understand Sonic BoomsMost people don&#x27;t really understand Sonic booms so as any plane flies it pushes air out of its pa...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/Rxg2LjrA_rQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/Rxg2LjrA_rQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most People Don&#x27;t Understand Sonic BoomsMost people don&#x27;t really understand Sonic booms so as any plane flies it pushes air out of its pa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gWGLAAYdbbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic Flight, Sonic BoomsSound travels at about 760 miles per hour, or 340 meters per second and about 661 knots on an average day a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gWGLAAYdbbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gWGLAAYdbbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic Flight, Sonic BoomsSound travels at about 760 miles per hour, or 340 meters per second and about 661 knots on an average day a...</p></details>

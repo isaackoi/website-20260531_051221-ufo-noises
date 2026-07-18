@@ -274,16 +274,16 @@ image: /assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_soni
 
 ## Introduction
 
-Many UFO reports claim that an object crossed the sky at extraordinary speed without producing the one effect that observers would normally expect: a sonic boom. That absence matters because a genuine supersonic object moving through the [atmosphere]({{ 'atmosphere/' | relative_url }}) should generate shock waves that can be heard on the ground as a loud crack, bang or double boom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayWhen the aircraft exceeds the speed of sound, these pressure waves combine and f...</span></span></span>
+Many UFO reports claim that an object crossed the sky at extraordinary speed without producing the one effect that observers would normally expect: a sonic boom. That absence matters because a genuine supersonic object moving through the [atmosphere]({{ 'atmosphere/' | relative_url }}) should generate shock waves that can be heard on the ground as a loud crack, bang or double boom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayWhen the aircraft exceeds the speed of sound, these pressure waves combine and f...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b-Illustration-1-dark.svg" | relative_url }}" alt="Sonic Booms illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The puzzle is often framed as evidence that the reported object used unknown technology. However, the missing-boom problem is more complicated. In many cases, the reported speed comes from human perception rather than measured data. Witnesses can easily misjudge distance, altitude and angular motion, especially at night. A light that seems to race across the sky may not actually be travelling at supersonic speed at all. At the same time, there are some military and UFO cases in which reported performance appears difficult to reconcile with the lack of an audible boom. The central question is therefore not simply “Why was there no sonic boom?” but whether the object was ever proven to be moving fast enough to require one.
 
 ## What a Sonic Boom Would Imply
 
-A sonic boom is not engine noise. It is a shock wave created when an object moves through air faster than the speed of sound. Even a perfectly quiet engine would not eliminate the effect because the boom comes from the [aircraft]({{ 'aircraft/' | relative_url }})'s interaction with the atmosphere itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/17357/would-a-perfectly-silent-supersonic-aircraft-create-a-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-title">would a perfectly silent supersonic aircraft create a sonic boom</span><span class="citation-popover-snippet">Sonic booms aren&#x27;t created by the aircraft&#x27;s engine noise. They&#x27;re created by the aircraft moving through the air.Read more...</span></span></span>
+A sonic boom is not engine noise. It is a shock wave created when an object moves through air faster than the speed of sound. Even a perfectly quiet engine would not eliminate the effect because the boom comes from the [aircraft]({{ 'aircraft/' | relative_url }})'s interaction with the atmosphere itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/17357/would-a-perfectly-silent-supersonic-aircraft-create-a-sonic-boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-title">would a perfectly silent supersonic aircraft create a sonic boom</span><span class="citation-popover-snippet">Sonic booms aren&#x27;t created by the aircraft&#x27;s engine noise. They&#x27;re created by the aircraft moving through the air.Read more...</span></span></span>
 
-When an aircraft exceeds Mach 1, pressure disturbances merge into shock waves that spread behind it in a cone-shaped pattern. People on the ground hear the boom when that cone passes over them. The effect is continuous during supersonic flight rather than occurring only at the instant the aircraft “breaks the sound barrier”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayWhen the aircraft exceeds the speed of sound, these pressure waves combine and f...</span></span></span> Wikipedia This creates an important test for dramatic UFO claims: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+When an aircraft exceeds Mach 1, pressure disturbances merge into shock waves that spread behind it in a cone-shaped pattern. People on the ground hear the boom when that cone passes over them. The effect is continuous during supersonic flight rather than occurring only at the instant the aircraft “breaks the sound barrier”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayWhen the aircraft exceeds the speed of sound, these pressure waves combine and f...</span></span></span> Wikipedia This creates an important test for dramatic UFO claims:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -322,11 +322,11 @@ This is why many UFO cases contain a hidden assumption: the object is treated as
 
 ## The Belgian Wave and the No-Boom Question
 
-The Belgian UFO wave of 1989–1990 remains one of the most frequently cited examples of silent, apparently fast-moving UFOs. Witnesses repeatedly described large triangular objects that appeared quiet despite their reported size and manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+The Belgian UFO wave of 1989–1990 remains one of the most frequently cited examples of silent, apparently fast-moving UFOs. Witnesses repeatedly described large triangular objects that appeared quiet despite their reported size and manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
-The most discussed episode involved Belgian Air Force F-16 radar interceptions. Public accounts of the radar data reported abrupt altitude changes and speeds approaching or exceeding the speed of sound. Later [retellings]({{ 'retellings/' | relative_url }}) often emphasised that no sonic boom was reported despite the claimed performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesWhen the jet&#x27;s on board radar footage from that night was analyzed, the UFO could be se...</span></span></span>
+The most discussed episode involved Belgian Air Force F-16 radar interceptions. Public accounts of the radar data reported abrupt altitude changes and speeds approaching or exceeding the speed of sound. Later [retellings]({{ 'retellings/' | relative_url }}) often emphasised that no sonic boom was reported despite the claimed performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-snippet">Unsolved MysteriesBelgian UFO - Unsolved MysteriesWhen the jet&#x27;s on board radar footage from that night was analyzed, the UFO could be se...</span></span></span>
 
-However, the Belgian wave also illustrates why the issue remains disputed. Critics argued that radar anomalies, tracking errors and witness interpretation may explain at least some of the reported performance. Researchers examining the wave noted that many witnesses reported [silence]({{ 'silence/' | relative_url }}) and suggested that environmental conditions, wind [direction]({{ 'direction/' | relative_url }}) and observation circumstances could have influenced those perceptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+However, the Belgian wave also illustrates why the issue remains disputed. Critics argued that radar anomalies, tracking errors and witness interpretation may explain at least some of the reported performance. Researchers examining the wave noted that many witnesses reported [silence]({{ 'silence/' | relative_url }}) and suggested that environmental conditions, wind [direction]({{ 'direction/' | relative_url }}) and observation circumstances could have influenced those perceptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 The result is an unresolved debate. Believers point to radar reports combined with the lack of sonic [booms]({{ 'booms/' | relative_url }}) as evidence that the objects behaved unlike conventional aircraft. Skeptics argue that the underlying speed estimates themselves remain uncertain.
 
@@ -336,11 +336,11 @@ The popular assumption that every supersonic object must always produce a dramat
 
 Modern aerospace research has demonstrated several situations in which shock waves may be weaker or less noticeable than expected.
 
-One example is **mach cutoff**, a phenomenon in which atmospheric conditions bend shock waves upward so they never reach the ground. Recent supersonic flight testing has explored situations where aircraft exceeded Mach 1 yet no detectable boom reached observers below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
+One example is **mach cutoff**, a phenomenon in which atmospheric conditions bend shock waves upward so they never reach the ground. Recent supersonic flight testing has explored situations where aircraft exceeded Mach 1 yet no detectable boom reached observers below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sonic boom</span><span class="citation-popover-snippet">Sonic boom</span></span></span>
 
-Altitude also matters. Shock waves spread and weaken as they travel. Depending on atmospheric conditions, an observer may not experience the dramatic crack often associated with low-altitude military jets. Weather layers can refract sound and alter where the boom is heard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Altitude also matters. Shock waves spread and weaken as they travel. Depending on atmospheric conditions, an observer may not experience the dramatic crack often associated with low-altitude military jets. Weather layers can refract sound and alter where the boom is heard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-NASA and [industry]({{ 'industry/' | relative_url }}) programmes aimed at “low-boom” supersonic flight are based on the same principle. The goal is not to eliminate shock waves entirely but to reshape them into softer pressure signatures that sound more like a distant thump than an explosive bang. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">The low-boom aircraft changes the way the shockwaves merge</span><span class="citation-popover-snippet">Supersonic: The History of NASA&#x27;s Sonic Boom Research (...The shockwaves formed by a plane flying at supersonic speeds merge as they...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lockheedmartin.com/en-us/news/features/2016/webt-supersonic-flight-hush-sonic-boom.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-title">webt supersonic flight hush sonic boom</span><span class="citation-popover-snippet">Quick and Quiet: Supersonic Flight Promises to Hush the...Jul 20, 2016 — But at speeds greater than Mach 1, air pressure disturbances ar...</span></span></span>
+NASA and [industry]({{ 'industry/' | relative_url }}) programmes aimed at “low-boom” supersonic flight are based on the same principle. The goal is not to eliminate shock waves entirely but to reshape them into softer pressure signatures that sound more like a distant thump than an explosive bang.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">The low-boom aircraft changes the way the shockwaves merge</span><span class="citation-popover-snippet">Supersonic: The History of NASA&#x27;s Sonic Boom Research (...The shockwaves formed by a plane flying at supersonic speeds merge as they...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lockheedmartin.com/en-us/news/features/2016/webt-supersonic-flight-hush-sonic-boom.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-title">webt supersonic flight hush sonic boom</span><span class="citation-popover-snippet">Quick and Quiet: Supersonic Flight Promises to Hush the...Jul 20, 2016 — But at speeds greater than Mach 1, air pressure disturbances ar...</span></span></span>
 
 These developments do not explain every UFO claim, but they show that the relationship between supersonic speed and human perception of a boom is more nuanced than many popular accounts suggest.
 
@@ -349,7 +349,7 @@ These developments do not explain every UFO claim, but they show that the relati
 
 The sonic-boom issue occupies a special place in UFO discussions because it appears to create a direct conflict with known aerodynamics.
 
-When witnesses report an object accelerating instantly, changing direction sharply and producing no boom, the story seems to violate ordinary expectations of atmospheric flight. This apparent contradiction has encouraged speculation about exotic propulsion systems, field effects or technologies that somehow avoid generating conventional shock waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stories.uq.edu.au/contact-magazine/2021/pentagon-report-ufos/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[stories.uq.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">Pentagon report says UFOs can&#x27;t be explained, and this...No known aircraft can travel faster than sound without creating a sonic boom...</span></span></span>
+When witnesses report an object accelerating instantly, changing direction sharply and producing no boom, the story seems to violate ordinary expectations of atmospheric flight. This apparent contradiction has encouraged speculation about exotic propulsion systems, field effects or technologies that somehow avoid generating conventional shock waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stories.uq.edu.au/contact-magazine/2021/pentagon-report-ufos/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stories.uq.edu.au">[stories.uq.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stories.uq.edu.au</span><span class="citation-popover-snippet">Pentagon report says UFOs can&#x27;t be explained, and this...No known aircraft can travel faster than sound without creating a sonic boom...</span></span></span>
 
 The problem is that the argument often skips a crucial step. Before asking how an object avoided a sonic boom, investigators must establish that the object was genuinely travelling at supersonic speed. In many UFO reports that threshold is never independently demonstrated.
 
@@ -385,194 +385,194 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
 <img src="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b-Illustration-3-dark.svg" | relative_url }}" alt="Sonic Booms illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_silent_ufo_sightings_76971d_missing_sonic_booms_ac593b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why No Sonic Boom Was Heard. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why No Sonic Boom Was Heard. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides real-world context about advanced aircraft and high-speed flight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context about advanced aircraft and high-speed flight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Flight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mGmDPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Flight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Flight">Introduction to Flight</a>
-        </h4>
-        <p class="fr-book-author">By John Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Flight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mGmDPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Flight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Flight">Introduction to Flight</a>
+</h4>
+<p class="fr-book-author">By John Anderson</p>
         
-        <p class="fr-book-desc">Explains Mach speed, shock waves and sonic boom fundamentals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Mach speed, shock waves and sonic boom fundamentals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sound Book: The Science of the Sonic Wonders of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rATGAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sound Book: The Science of the Sonic Wonders of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sound Book: The Science of the Sonic Wonders of the World">The Sound Book: The Science of the Sonic Wonders of the World</a>
-        </h4>
-        <p class="fr-book-author">By Trevor Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sound Book: The Science of the Sonic Wonders of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rATGAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sound Book: The Science of the Sonic Wonders of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sound Book: The Science of the Sonic Wonders of the World">The Sound Book: The Science of the Sonic Wonders of the World</a>
+</h4>
+<p class="fr-book-author">By Trevor Cox</p>
         
-        <p class="fr-book-desc">Helps readers understand sound propagation and perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand sound propagation and perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World+by+Trevor+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines reports involving unusual performance claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reports involving unusual performance claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Flight+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Flight books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sound Book: The Science of the Sonic Wonders of the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Flight+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Flight books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sound+Book%3A+The+Science+of+the+Sonic+Wonders+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sound Book: The Science of the Sonic Wonders of the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sonic-booms-6ebda0-why-no-sonic-boom-was-heard-ufo-noises-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,121 +778,121 @@ That is why the absence of a sonic boom remains an intriguing but inconclusive f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unsolved.com  
-   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesWhen the jet&#x27;s on board radar footage from that night was analyzed, the UFO could be se...</p></details>
+   Link:<a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesWhen the jet&#x27;s on board radar footage from that night was analyzed, the UFO could be se...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
    Title: The low-boom aircraft changes the way the shockwaves merge  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic: The History of NASA&#x27;s Sonic Boom Research (...The shockwaves formed by a plane flying at supersonic speeds merge as they...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2018/07/supersonic-student.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supersonic: The History of NASA&#x27;s Sonic Boom Research (...The shockwaves formed by a plane flying at supersonic speeds merge as they...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stories.uq.edu.au  
-   Link: <a href="https://stories.uq.edu.au/contact-magazine/2021/pentagon-report-ufos/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/contact-magazine/2021/pentagon-report-ufos/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon report says UFOs can&#x27;t be explained, and this...No known aircraft can travel faster than sound without creating a sonic boom...</p></details>
+   Link:<a href="https://stories.uq.edu.au/contact-magazine/2021/pentagon-report-ufos/index.html" target="_blank" rel="noopener noreferrer nofollow">https://stories.uq.edu.au/contact-magazine/2021/pentagon-report-ufos/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon report says UFOs can&#x27;t be explained, and this...No known aircraft can travel faster than sound without creating a sonic boom...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayWhen the aircraft exceeds the speed of sound, these pressure waves combine and f...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayWhen the aircraft exceeds the speed of sound, these pressure waves combine and f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: sonic boom  
-   Link: <a href="https://www.britannica.com/science/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/sonic-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSonic boom | Shockwave, Supersonic, Pressure WaveApr 30, 2026 — Sonic boom, shock wave that is produced by an airc...</p></details>
+   Link:<a href="https://www.britannica.com/science/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSonic boom | Shockwave, Supersonic, Pressure WaveApr 30, 2026 — Sonic boom, shock wave that is produced by an airc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aviation.stackexchange.com  
    Title: would a perfectly silent supersonic aircraft create a sonic boom  
-   Link: <a href="https://aviation.stackexchange.com/questions/17357/would-a-perfectly-silent-supersonic-aircraft-create-a-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/17357/would-a-perfectly-silent-supersonic-aircraft-create-a-sonic-boom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic booms aren&#x27;t created by the aircraft&#x27;s engine noise. They&#x27;re created by the aircraft moving through the air.Read more...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/17357/would-a-perfectly-silent-supersonic-aircraft-create-a-sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/17357/would-a-perfectly-silent-supersonic-aircraft-create-a-sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic booms aren&#x27;t created by the aircraft&#x27;s engine noise. They&#x27;re created by the aircraft moving through the air.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lockheedmartin.com  
    Title: webt supersonic flight hush sonic boom  
-   Link: <a href="https://www.lockheedmartin.com/en-us/news/features/2016/webt-supersonic-flight-hush-sonic-boom.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2016/webt-supersonic-flight-hush-sonic-boom.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick and Quiet: Supersonic Flight Promises to Hush the...Jul 20, 2016 — But at speeds greater than Mach 1, air pressure disturbances ar...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/news/features/2016/webt-supersonic-flight-hush-sonic-boom.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2016/webt-supersonic-flight-hush-sonic-boom.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quick and Quiet: Supersonic Flight Promises to Hush the...Jul 20, 2016 — But at speeds greater than Mach 1, air pressure disturbances ar...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aviation.stackexchange.com  
    Title: At what altitude would the sonic  
-   Link: <a href="https://aviation.stackexchange.com/questions/91601/at-what-altitude-can-the-sonic-boom-no-longer-be-heard-at-sea-level" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/91601/at-what-altitude-can-the-sonic-boom-no-longer-be-heard-at-sea-level</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what altitude can the sonic boom no longer be heard at...3 Feb 2022 — As others have stated here, you can hear the sonic boom of planes...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/91601/at-what-altitude-can-the-sonic-boom-no-longer-be-heard-at-sea-level" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/91601/at-what-altitude-can-the-sonic-boom-no-longer-be-heard-at-sea-level</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what altitude can the sonic boom no longer be heard at...3 Feb 2022 — As others have stated here, you can hear the sonic boom of planes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aviation.stackexchange.com  
    Title: why do sonic booms happen at speeds significantly faster than the speed of sound  
-   Link: <a href="https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The diagrams explaining a sonic boom often show sound waves like the waves...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/108250/why-do-sonic-booms-happen-at-speeds-significantly-faster-than-the-speed-of-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The diagrams explaining a sonic boom often show sound waves like the waves...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Sonic Boom  
-   Link: <a href="https://www.sciencedirect.com/topics/engineering/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/engineering/sonic-boom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strength of the shock waves generated by an...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/engineering/sonic-boom" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/engineering/sonic-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The strength of the shock waves generated by an...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO wave and SOBEPS investigationIt exceeded the speed of sound during high-speed travel, but there was no sonic boom at all. The...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO wave and SOBEPS investigationIt exceeded the speed of sound during high-speed travel, but there was no sonic boom at all. The...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/did-the-us-navy-encounter-alien-ufos-37c714e7f4ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/did-the-us-navy-encounter-alien-ufos-37c714e7f4ae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did The US Navy Encounter Alien UFOs? | by Will LockettAll our current supersonic (faster than the speed of sound) craft make sonic booms...</p></details>
+   Link:<a href="https://medium.com/predict/did-the-us-navy-encounter-alien-ufos-37c714e7f4ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/did-the-us-navy-encounter-alien-ufos-37c714e7f4ae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did The US Navy Encounter Alien UFOs? | by Will LockettAll our current supersonic (faster than the speed of sound) craft make sonic booms...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/wgbh/nova/barrier/boom/answer3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/barrier/boom/answer3.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online | Faster Than Sound | Sonic Boom | RecipeWhen the airplane moves at supersonic speeds, the air pressure waves begin to pile u...</p></details>
+   Link:<a href="https://www.pbs.org/wgbh/nova/barrier/boom/answer3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/barrier/boom/answer3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online | Faster Than Sound | Sonic Boom | RecipeWhen the airplane moves at supersonic speeds, the air pressure waves begin to pile u...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
+   Link:<a href="https://www.facebook.com/groups/957662861711333/posts/2228812577929682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2228812577929682/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: howthingsfly.si.edu  
-   Link: <a href="https://howthingsfly.si.edu/aerodynamics/shock-waves" target="_blank" rel="noopener noreferrer nofollow">https://howthingsfly.si.edu/aerodynamics/shock-waves</a>  
+   Link:<a href="https://howthingsfly.si.edu/aerodynamics/shock-waves" target="_blank" rel="noopener noreferrer nofollow">https://howthingsfly.si.edu/aerodynamics/shock-waves</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: What could be a logical explanation for the tic tac shaped aircraft spotted  
-   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7NEWSAdelaide/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless-link-belo/1317481097194920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSAdelaide/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless-link-belo/1317481097194920/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emile Kelly Gauthier... There were no lights, no exhaust flames and no engine noise... just...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSAdelaide/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless-link-belo/1317481097194920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSAdelaide/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless-link-belo/1317481097194920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emile Kelly Gauthier... There were no lights, no exhaust flames and no engine noise... just...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: popularmechanics.com  
    Title: skunk works testing supersonic x59 plane quiet sonic boom  
-   Link: <a href="https://www.popularmechanics.com/military/research/a44506179/skunk-works-testing-supersonic-x59-plane-quiet-sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44506179/skunk-works-testing-supersonic-x59-plane-quiet-sonic-boom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skunk Works Is Testing the Secret Plane That Could Hush...13 Jul 2023 — The X-59 QueSST (Quiet SuperSonic Technology) is an experimental...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a44506179/skunk-works-testing-supersonic-x59-plane-quiet-sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a44506179/skunk-works-testing-supersonic-x59-plane-quiet-sonic-boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skunk Works Is Testing the Secret Plane That Could Hush...13 Jul 2023 — The X-59 QueSST (Quiet SuperSonic Technology) is an experimental...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spikeaerospace.com  
-   Link: <a href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow">https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These waves get in the way of the airplane, causing compression which results in a shock...</p></details>
+   Link:<a href="https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/" target="_blank" rel="noopener noreferrer nofollow">https://www.spikeaerospace.com/supersonic-aircraft-and-the-sonic-boom-some-jets-make/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These waves get in the way of the airplane, causing compression which results in a shock...</p></details>

@@ -285,7 +285,7 @@ Common features include:
 * A sound that appears mechanically regular rather than explosive or aerodynamic.
 * A sensation that the noise is surrounding the listener instead of coming from a single point.
 
-The comparison is understandable because electrical infrastructure produces sounds that many people recognise but rarely analyse in detail. Power transformers generate audible noise largely through magnetostriction, a process in which magnetic fields cause tiny physical changes in the dimensions of steel components. Those vibrations create the familiar hum associated with substations and large electrical equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span> Witnesses therefore have a ready-made reference point. If a sound does not resemble a jet engine, helicopter rotor, vehicle, or animal call, an electrical comparison often becomes the next available description.
+The comparison is understandable because electrical infrastructure produces sounds that many people recognise but rarely analyse in detail. Power transformers generate audible noise largely through magnetostriction, a process in which magnetic fields cause tiny physical changes in the dimensions of steel components. Those vibrations create the familiar hum associated with substations and large electrical equipment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span> Witnesses therefore have a ready-made reference point. If a sound does not resemble a jet engine, helicopter rotor, vehicle, or animal call, an electrical comparison often becomes the next available description.
 
 Importantly, saying that a sound resembled a transformer does not mean it possessed uniquely electrical characteristics. It only means that the witness considered a [transformer hum]({{ 'transformer-hum/' | relative_url }}) the closest familiar analogy.
 
@@ -297,13 +297,13 @@ One reason electrical UFO sounds remain difficult to evaluate is that many unrel
 
 ### High-Voltage Power Lines
 
-Power lines are among the most common causes of electrical buzzing reports. High-voltage transmission systems can generate [humming]({{ 'humming/' | relative_url }}), hissing, crackling, or buzzing through corona discharge, a process in which intense electric fields ionise the surrounding air. Moisture, fog, rain and humidity often increase the effect, making the sound noticeably louder under certain weather conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncetest.com">[North Central Electric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncetest.com</span><span class="citation-popover-title">NCE explains corona discharge, weather impacts, and safety factors behind</span><span class="citation-popover-snippet">North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissgrid.ch">[2swissgrid.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissgrid.ch</span><span class="citation-popover-snippet">When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</span></span></span>
+Power lines are among the most common causes of electrical buzzing reports. High-voltage transmission systems can generate [humming]({{ 'humming/' | relative_url }}), hissing, crackling, or buzzing through corona discharge, a process in which intense electric fields ionise the surrounding air. Moisture, fog, rain and humidity often increase the effect, making the sound noticeably louder under certain weather conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncetest.com">[North Central Electric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncetest.com</span><span class="citation-popover-title">NCE explains corona discharge, weather impacts, and safety factors behind</span><span class="citation-popover-snippet">North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissgrid.ch">[2swissgrid.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissgrid.ch</span><span class="citation-popover-snippet">When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</span></span></span>
 
 A person hearing this sound from an unfamiliar location may perceive it as a hovering or distant source rather than as infrastructure already present in the landscape.
 
 ### Electrical Substations and Transformers
 
-Large transformers can produce persistent low-frequency hums that carry surprisingly far under favourable conditions. Because the sound is continuous and lacks obvious movement cues, listeners may have difficulty identifying its exact origin. The hum can blend into the background until changing weather, wind [direction]({{ 'direction/' | relative_url }}) or attention suddenly makes it noticeable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span> This becomes particularly relevant in UFO reports where witnesses notice an unusual light first and only afterwards become aware of a buzzing sound.
+Large transformers can produce persistent low-frequency hums that carry surprisingly far under favourable conditions. Because the sound is continuous and lacks obvious movement cues, listeners may have difficulty identifying its exact origin. The hum can blend into the background until changing weather, wind [direction]({{ 'direction/' | relative_url }}) or attention suddenly makes it noticeable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elscotransformers.com">[ELSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elscotransformers.com</span><span class="citation-popover-snippet">Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</span></span></span> This becomes particularly relevant in UFO reports where witnesses notice an unusual light first and only afterwards become aware of a buzzing sound.
 
 ### Industrial and Mechanical Equipment
 
@@ -324,13 +324,13 @@ A major source of confusion in buzzing UFO reports is that human hearing is not 
 
 ### Low Frequencies Are Harder to Place
 
-The human auditory system relies on subtle timing and intensity differences between the ears to determine direction. Low-frequency sounds provide weaker directional cues than many higher-frequency sounds, making localisation less precise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLocalization of sound in rooms</span><span class="citation-popover-snippet">V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia A transformer hum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</span></span></span>, distant industrial vibration or power-line buzz may therefore seem to come from a broad area rather than a specific location.
+The human auditory system relies on subtle timing and intensity differences between the ears to determine direction. Low-frequency sounds provide weaker directional cues than many higher-frequency sounds, making localisation less precise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLocalization of sound in rooms</span><span class="citation-popover-snippet">V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia A transformer hum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sound localization</span><span class="citation-popover-snippet">Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</span></span></span>, distant industrial vibration or power-line buzz may therefore seem to come from a broad area rather than a specific location.
 
 This matters because many UFO reports involve exactly the kinds of sounds that are most difficult to place accurately.
 
 ### Reverberation Changes Perceived Location
 
-Sound localisation becomes more complicated when reflections are present. Research on everyday acoustic environments shows that reverberation and reflected sound can alter localisation judgments, especially when sounds contain strong low-frequency content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLocalization of sound in rooms</span><span class="citation-popover-snippet">V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</span></span></span>
+Sound localisation becomes more complicated when reflections are present. Research on everyday acoustic environments shows that reverberation and reflected sound can alter localisation judgments, especially when sounds contain strong low-frequency content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLocalization of sound in rooms</span><span class="citation-popover-snippet">V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</span></span></span>
 
 In practical terms, a buzzing noise may appear to originate:
 
@@ -365,208 +365,208 @@ Low-frequency noise helps explain part of this pattern.
 
 Unlike sharper sounds, low-frequency vibrations are often experienced through multiple sensory channels at once. People may feel them through building structures, vehicle bodies, floors or even through subtle bodily resonance. This can create the impression that the sound is enveloping the listener rather than arriving from a distant source.
 
-The effect is not unique to UFO reports. Large transformers, industrial machinery, power infrastructure and other low-frequency sources can produce similar experiences, especially when the listener is stationary and paying close attention to an unusual event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span>
+The effect is not unique to UFO reports. Large transformers, industrial machinery, power infrastructure and other low-frequency sources can produce similar experiences, especially when the listener is stationary and paying close attention to an unusual event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.sw.siemens.com">[Siemens Blog Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.sw.siemens.com</span><span class="citation-popover-title">Blog Network Magnetostriction, a Source of Noise in Transformers</span><span class="citation-popover-snippet">One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</span></span></span>
 
 Because the sensation feels physical rather than purely auditory, witnesses may interpret it as evidence of proximity even when the source is relatively far away.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-3-dark.svg" | relative_url }}" alt="Source Confusion illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_buzzing_electrical_c_877b01_transformer_buzz_con_29f7c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Electrical Buzzing Remains a Persistent UFO Motif
 
-Transformer-like buzzing occupies an unusual place in UFO sound reports. It sounds specific enough to feel meaningful, yet it is produced by a wide range of ordinary sources. Electrical infrastructure, industrial equipment, atmospheric conditions and acoustic reflections can all generate noises that listeners describe in nearly identical terms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncetest.com">[North Central Electric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncetest.com</span><span class="citation-popover-title">NCE explains corona discharge, weather impacts, and safety factors behind</span><span class="citation-popover-snippet">North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissgrid.ch">[2swissgrid.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissgrid.ch</span><span class="citation-popover-snippet">When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</span></span></span>
+Transformer-like buzzing occupies an unusual place in UFO sound reports. It sounds specific enough to feel meaningful, yet it is produced by a wide range of ordinary sources. Electrical infrastructure, industrial equipment, atmospheric conditions and acoustic reflections can all generate noises that listeners describe in nearly identical terms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncetest.com">[North Central Electric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncetest.com</span><span class="citation-popover-title">NCE explains corona discharge, weather impacts, and safety factors behind</span><span class="citation-popover-snippet">North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissgrid.ch">[2swissgrid.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissgrid.ch</span><span class="citation-popover-snippet">When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</span></span></span>
 
 The key point is that the description itself may be accurate while the inferred source is not. A witness can genuinely hear a buzzing noise, honestly compare it to a transformer, and still be mistaken about whether the sound came from a nearby object, a distant power line, an industrial facility, or a reflected environmental hum.
 
 That combination of vivid sensory detail and uncertain origin is what makes electrical buzzing one of the most persistent forms of source confusion in UFO sound reports.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Buzzing Sounds Electrical. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Buzzing Sounds Electrical. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for witness descriptions of unusual sounds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for witness descriptions of unusual sounds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers evaluate extraordinary claims and sensory interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
-        </h4>
-        <p class="fr-book-author">By R. Murray Schafer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
+</h4>
+<p class="fr-book-author">By R. Murray Schafer</p>
         
-        <p class="fr-book-desc">Explores how people perceive and interpret environmental sounds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people perceive and interpret environmental sounds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Econometrics+and+the+Philosophy+of+Economics+by+Bernt+P.+Stigum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Econometrics and the Philosophy of Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=X22YDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Econometrics and the Philosophy of Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Econometrics+and+the+Philosophy+of+Economics+by+Bernt+P.+Stigum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Econometrics and the Philosophy of Economics">Econometrics and the Philosophy of Economics</a>
-        </h4>
-        <p class="fr-book-author">By Bernt P. Stigum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Econometrics+and+the+Philosophy+of+Economics+by+Bernt+P.+Stigum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Econometrics and the Philosophy of Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=X22YDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Econometrics and the Philosophy of Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Econometrics+and+the+Philosophy+of+Economics+by+Bernt+P.+Stigum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Econometrics and the Philosophy of Economics">Econometrics and the Philosophy of Economics</a>
+</h4>
+<p class="fr-book-author">By Bernt P. Stigum</p>
         
-        <p class="fr-book-desc">Helps explain source confusion and sound characteristics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Econometrics+and+the+Philosophy+of+Economics+by+Bernt+P.+Stigum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain source confusion and sound characteristics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Econometrics+and+the+Philosophy+of+Economics+by+Bernt+P.+Stigum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="source-confusion-why-ufo-buzzing-sounds-electrical-ufo-noises-ufo-encounter-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,130 +772,130 @@ That combination of vivid sensory detail and uncertain origin is what makes elec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blogs.sw.siemens.com  
    Title: Blog Network Magnetostriction, a Source of Noise in Transformers  
-   Link: <a href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</p></details>
+   Link:<a href="https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.sw.siemens.com/simcenter/magnetostriction-a-source-of-noise-in-transformers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the sources is the vibration resulting from changing dimensions of the laminations in the core...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: elscotransformers.com  
-   Link: <a href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow">https://elscotransformers.com/blog/why-do-transformers-hum/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</p></details>
+   Link:<a href="https://elscotransformers.com/blog/why-do-transformers-hum/" target="_blank" rel="noopener noreferrer nofollow">https://elscotransformers.com/blog/why-do-transformers-hum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HumTransformers often hum or buzz, but it usually doesn&#x27;t mean anything is wrong with them. Humming can be a sign of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: swissgrid.ch  
-   Link: <a href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</p></details>
+   Link:<a href="https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swissgrid.ch/en/home/newsroom/blog/2022/20221221-01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When lines crackle and humDec 21, 2022 — This strong field can cause electrical discharges to develop. These corona discharges lead to th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4271773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In general, hearing-impaired listeners do less well in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sound localization  
-   Link: <a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sound_localization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound localizationSound localization is a listener&#x27;s ability to identify the location or origin of a detected sound in direction and d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of source spectrum on sound localization in an everyday...by A Ihlefeld · 2011 · Cited by 77 — Two experiments explored how fr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3155591/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of source spectrum on sound localization in an everyday...by A Ihlefeld · 2011 · Cited by 77 — Two experiments explored how fr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLocalization of sound in rooms  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3003727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>V. Binaural coherence... - PMCby B Rakerd · 2010 · Cited by 113 — The surfaces of a room are normally more sound absorbing at high frequ...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Low (zespół muzyczny)  
-   Link: <a href="https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low (zespół muzyczny)Low – założony w 1993 indie rockowy zespół z Duluth, w amerykańskim stanie Minnesota. Jego oryginalny skład to Al...</p></details>
+   Link:<a href="https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/Low_%28zesp%C3%B3%C5%82_muzyczny%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low (zespół muzyczny)Low – założony w 1993 indie rockowy zespół z Duluth, w amerykańskim stanie Minnesota. Jego oryginalny skład to Al...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Corona discharge  
-   Link: <a href="https://en.wikipedia.org/wiki/Corona_discharge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corona_discharge</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Corona dischargeA corona discharge is an electrical discharge caused by the ionization of a fluid such as air surrounding a conductor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Corona_discharge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corona_discharge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Corona dischargeA corona discharge is an electrical discharge caused by the ionization of a fluid such as air surrounding a conductor...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bDKnAmOTBEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bDKnAmOTBEE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Sounds...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bDKnAmOTBEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bDKnAmOTBEE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Sounds...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Environmental Sounds  
-   Link: <a href="https://www.youtube.com/watch?v=xumgyJrLOZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xumgyJrLOZc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Noise Pollution | Environmental Science | UGC NET...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xumgyJrLOZc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xumgyJrLOZc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Noise Pollution | Environmental Science | UGC NET...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ncetest.com  
    Title: NCE explains corona discharge, weather impacts, and safety factors behind  
-   Link: <a href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow">https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</p></details>
+   Link:<a href="https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/" target="_blank" rel="noopener noreferrer nofollow">https://ncetest.com/buzz-kill-heres-why-high-voltage-power-lines-make-noise-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>North Central ElectricBuzz Kill: Here&#x27;s Why High-Voltage Power Lines Make NoiseNov 13, 2024 — Learn why high-voltage power lines buzz, cr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/pl/dictionary/english/low" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/pl/dictionary/english/low</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, definicja w Cambridge English DictionaryLOW definicja: 1. not measuring much from the base to the top: 2. close to the ground or the bo...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/pl/dictionary/english/low" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/pl/dictionary/english/low</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, definicja w Cambridge English DictionaryLOW definicja: 1. not measuring much from the base to the top: 2. close to the ground or the bo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: music.apple.com  
-   Link: <a href="https://music.apple.com/pl/artist/low/623590193" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/pl/artist/low/623590193</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to music by Low on Apple Music. Find top songs and albums by Low, including Beez Neez, Scossa Sismica (feat. Low &amp; JKL) and more...</p></details>
+   Link:<a href="https://music.apple.com/pl/artist/low/623590193" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/pl/artist/low/623590193</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to music by Low on Apple Music. Find top songs and albums by Low, including Beez Neez, Scossa Sismica (feat. Low &amp; JKL) and more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hamilton-oh.gov  
-   Link: <a href="https://www.hamilton-oh.gov/pay-utilities-taxes-parking" target="_blank" rel="noopener noreferrer nofollow">https://www.hamilton-oh.gov/pay-utilities-taxes-parking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Utilities, Taxes, &amp; ParkingUtilityPay helps customers manage their utility account information online. Customers now can choose to en...</p></details>
+   Link:<a href="https://www.hamilton-oh.gov/pay-utilities-taxes-parking" target="_blank" rel="noopener noreferrer nofollow">https://www.hamilton-oh.gov/pay-utilities-taxes-parking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Utilities, Taxes, &amp; ParkingUtilityPay helps customers manage their utility account information online. Customers now can choose to en...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mgmtransformers.com  
-   Link: <a href="https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/" target="_blank" rel="noopener noreferrer nofollow">https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Reducing Transformer NoiseTransformer noise mainly results from magnetostriction, a natural effect in which magnetic ma...</p></details>
+   Link:<a href="https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/" target="_blank" rel="noopener noreferrer nofollow">https://mgmtransformers.com/why-transformers-hum-the-science-behind-transformer-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Reducing Transformer NoiseTransformer noise mainly results from magnetostriction, a natural effect in which magnetic ma...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: subpop.com  
-   Link: <a href="https://www.subpop.com/artists/low" target="_blank" rel="noopener noreferrer nofollow">https://www.subpop.com/artists/low</a>  
+   Link:<a href="https://www.subpop.com/artists/low" target="_blank" rel="noopener noreferrer nofollow">https://www.subpop.com/artists/low</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: radioluz.pl  
-   Link: <a href="https://radioluz.pl/low/" target="_blank" rel="noopener noreferrer nofollow">https://radioluz.pl/low/</a>  
+   Link:<a href="https://radioluz.pl/low/" target="_blank" rel="noopener noreferrer nofollow">https://radioluz.pl/low/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: microflown.com  
-   Link: <a href="https://www.microflown.com/blogs/understanding-acoustic-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/blogs/understanding-acoustic-camera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical limitation of acoustic cameras is their difficulty in resolving low-frequency sounds. The ability to focus on...Read more...</p></details>
+   Link:<a href="https://www.microflown.com/blogs/understanding-acoustic-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/blogs/understanding-acoustic-camera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical limitation of acoustic cameras is their difficulty in resolving low-frequency sounds. The ability to focus on...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ll be out on a walk or a hike in the middle of nowhere and sometimes I&#x27;ll come across power lines humming extremely loudly. From...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskEngineers/comments/w1ei7c/is_it_my_duty_to_inform_power_companies_when_i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;ll be out on a walk or a hike in the middle of nowhere and sometimes I&#x27;ll come across power lines humming extremely loudly. From...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: myutility.us  
-   Link: <a href="https://www.myutility.us/indiana" target="_blank" rel="noopener noreferrer nofollow">https://www.myutility.us/indiana</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Utilities of Indiana | My Utility - Utilities, Inc.Our online self-service portal lets you manage your utility account Anytime...</p></details>
+   Link:<a href="https://www.myutility.us/indiana" target="_blank" rel="noopener noreferrer nofollow">https://www.myutility.us/indiana</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Utilities of Indiana | My Utility - Utilities, Inc.Our online self-service portal lets you manage your utility account Anytime...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Low Official Videos · Official videos from Low's long-spanning career. · Low  
-   Link: <a href="https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LowOfficial Videos · Official videos from Low&#x27;s long-spanning career. · Low - Disappearing (Official Video) · Low - Days Like These (Offi...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC96CEiRB1yc0DlIDHWsPajw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LowOfficial Videos · Official videos from Low&#x27;s long-spanning career. · Low - Disappearing (Official Video) · Low - Days Like These (Offi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: avsforum.com  
    Title: localizability of bass frequencies in rooms.3205312  
-   Link: <a href="https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Localizability of bass frequencies in roomsJun 20, 2021 — This is an attempt to summarize the current state of understanding of our abili...</p></details>
+   Link:<a href="https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsforum.com/threads/localizability-of-bass-frequencies-in-rooms.3205312/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Localizability of bass frequencies in roomsJun 20, 2021 — This is an attempt to summarize the current state of understanding of our abili...</p></details>

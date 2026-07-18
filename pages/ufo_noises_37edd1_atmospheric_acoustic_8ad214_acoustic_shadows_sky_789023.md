@@ -268,22 +268,22 @@ image: /assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_sha
 
 ## Introduction
 
-One of the strangest features of some reported “[UFO noises]({{ 'ufo-noises/' | relative_url }})” is not the sound itself but the disagreement between witnesses. One person describes a powerful humming, booming or metallic roar overhead, while someone only a street away reports hearing nothing at all. That pattern can seem mysterious or even impossible. Yet atmospheric acoustics has long documented a phenomenon known as an acoustic shadow: a region where sound becomes unexpectedly weak or absent while remaining clearly audible elsewhere. Under certain weather conditions, the [atmosphere]({{ 'atmosphere/' | relative_url }}) bends sound waves into uneven paths, creating pockets of silence beside zones of amplified sound. The result is that a noise can appear to skip one neighbourhood and reappear farther away, producing contradictory accounts that make an ordinary sound source seem far stranger than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span>
+One of the strangest features of some reported “[UFO noises]({{ 'ufo-noises/' | relative_url }})” is not the sound itself but the disagreement between witnesses. One person describes a powerful humming, booming or metallic roar overhead, while someone only a street away reports hearing nothing at all. That pattern can seem mysterious or even impossible. Yet atmospheric acoustics has long documented a phenomenon known as an acoustic shadow: a region where sound becomes unexpectedly weak or absent while remaining clearly audible elsewhere. Under certain weather conditions, the [atmosphere]({{ 'atmosphere/' | relative_url }}) bends sound waves into uneven paths, creating pockets of silence beside zones of amplified sound. The result is that a noise can appear to skip one neighbourhood and reappear farther away, producing contradictory accounts that make an ordinary sound source seem far stranger than it really is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023-Illustration-1-dark.svg" | relative_url }}" alt="Sound Shadows illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What an Acoustic Shadow Is
 
-An acoustic shadow is an area where sound energy does not reach effectively, even though the source is nearby or loud. The term is often used for the quiet region behind a wall, hill or building, but atmospheric acousticians also use it for larger-scale sound gaps created by weather conditions rather than physical obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.echobarrier.com/blog/acoustic-shadow-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.echobarrier.com">[Echo Barrier Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.echobarrier.com</span><span class="citation-popover-title">acoustic shadow explained</span><span class="citation-popover-snippet">Echo Barrier BlogAcoustic Shadow Explained12 Jul 2019 — An acoustic shadow results when sound waves fail to spread outward due to disrupt...</span></span></span>
+An acoustic shadow is an area where sound energy does not reach effectively, even though the source is nearby or loud. The term is often used for the quiet region behind a wall, hill or building, but atmospheric acousticians also use it for larger-scale sound gaps created by weather conditions rather than physical obstacles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.echobarrier.com/blog/acoustic-shadow-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.echobarrier.com">[Echo Barrier Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.echobarrier.com</span><span class="citation-popover-title">acoustic shadow explained</span><span class="citation-popover-snippet">Echo Barrier BlogAcoustic Shadow Explained12 Jul 2019 — An acoustic shadow results when sound waves fail to spread outward due to disrupt...</span></span></span>
 
-The key point is that sound does not spread evenly in all directions. Many people imagine a sound source producing expanding circles of noise that fade smoothly with distance. Outdoors, the atmosphere rarely behaves so neatly. Variations in temperature and wind can bend sound upward, downward or sideways. In some locations, the sound arrives strongly. In others, much of the sound energy never reaches the listener at all. Acoustics at Penn State <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: softdb.com">[Soft dB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">softdb.com</span><span class="citation-popover-title">Soft d BThe Effect of Wind and Temperature Gradients on Sound</span><span class="citation-popover-snippet">Temperature gradients also influence the propagation of sound waves over long distances.Read more...</span></span></span>
+The key point is that sound does not spread evenly in all directions. Many people imagine a sound source producing expanding circles of noise that fade smoothly with distance. Outdoors, the atmosphere rarely behaves so neatly. Variations in temperature and wind can bend sound upward, downward or sideways. In some locations, the sound arrives strongly. In others, much of the sound energy never reaches the listener at all. Acoustics at Penn State<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: softdb.com">[Soft dB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">softdb.com</span><span class="citation-popover-title">Soft d BThe Effect of Wind and Temperature Gradients on Sound</span><span class="citation-popover-snippet">Temperature gradients also influence the propagation of sound waves over long distances.Read more...</span></span></span>
 
 For someone investigating a strange sky sound, this creates an important trap. Two witnesses may be equally honest yet provide completely different descriptions because they occupied different parts of the sound field.
 
 ## How Refraction Creates Uneven Listening Zones
 
-The mechanism behind many atmospheric acoustic shadows is refraction. Sound travels at slightly different speeds through air with different temperatures. Wind gradients also affect the apparent speed of sound. When one portion of a sound wave moves faster than another, the wave bends. Acoustics at Penn State <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: softdb.com">[Soft dB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">softdb.com</span><span class="citation-popover-title">Soft d BThe Effect of Wind and Temperature Gradients on Sound</span><span class="citation-popover-snippet">Temperature gradients also influence the propagation of sound waves over long distances.Read more...</span></span></span>
+The mechanism behind many atmospheric acoustic shadows is refraction. Sound travels at slightly different speeds through air with different temperatures. Wind gradients also affect the apparent speed of sound. When one portion of a sound wave moves faster than another, the wave bends. Acoustics at Penn State<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: softdb.com">[Soft dB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">softdb.com</span><span class="citation-popover-title">Soft d BThe Effect of Wind and Temperature Gradients on Sound</span><span class="citation-popover-snippet">Temperature gradients also influence the propagation of sound waves over long distances.Read more...</span></span></span>
 
-During a typical sunny day, air near the ground is warmer than air higher up. Sound tends to bend upward, away from ground-level listeners. This can create a shadow zone farther from the source where the sound becomes unexpectedly weak. Environmental acoustics studies describe these regions as areas where no direct sound ray reaches the receiver and where sound levels can drop dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span> ScienceDirect A simplified version of the process looks like this: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>
+During a typical sunny day, air near the ground is warmer than air higher up. Sound tends to bend upward, away from ground-level listeners. This can create a shadow zone farther from the source where the sound becomes unexpectedly weak. Environmental acoustics studies describe these regions as areas where no direct sound ray reaches the receiver and where sound levels can drop dramatically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span> ScienceDirect A simplified version of the process looks like this:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vslmtviqLBw" title="Echoing Questions: Acoustic Shadows and the Battle of Gettysburg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vslmtviqLBw" target="_blank" rel="noopener noreferrer">Echoing Questions: Acoustic Shadows and the Battle of Gettysburg</a></p><p class="youtube-embed-meta">Channel: Johns Hopkins University &middot; Views: 7.0K &middot; Uploaded: June 2011 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vslmtviqLBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vslmtviqLBw">Open on YouTube</a></p></div></div></div>
 
@@ -292,20 +292,20 @@ During a typical sunny day, air near the ground is warmer than air higher up. So
 1. A sound source emits noise.
 2. Temperature or wind gradients bend the sound path.
 3. Some areas receive concentrated sound energy.
-4. Other areas fall into a relative acoustic shadow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Acoustic_shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Acoustic shadow</span><span class="citation-popover-snippet">Acoustic shadow</span></span></span>
+4. Other areas fall into a relative acoustic shadow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Acoustic_shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Acoustic shadow</span><span class="citation-popover-snippet">Acoustic shadow</span></span></span>
 5. Listeners in different locations report very different experiences.
 
 </div>
 
-Researchers studying outdoor noise propagation have found that approaching a shadow zone can produce rapid changes in sound intensity over surprisingly short distances. A person may move from hearing a clear sound to hearing almost nothing with only a modest change in position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>
+Researchers studying outdoor noise propagation have found that approaching a shadow zone can produce rapid changes in sound intensity over surprisingly short distances. A person may move from hearing a clear sound to hearing almost nothing with only a modest change in position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 This is one reason witness reports sometimes sound contradictory even when everyone is describing the same event.
 
 ## Why Temperature Inversions Make the Effect More Dramatic
 
-Many reports of unexplained sky noises occur at night or during the early morning, which are also periods when temperature [inversions]({{ 'inversions/' | relative_url }}) commonly form. In an inversion, cooler air sits near the ground while warmer air lies above it. Instead of allowing sound to disperse upward, the atmosphere bends sound back toward the surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/lightning/sound-of-thunder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">The Sound of Thunder</span><span class="citation-popover-snippet">LightningApr 5, 2023 — However, when the air temperature increases with height, called an inversion, sound waves are refracted (bent back...</span></span></span>
+Many reports of unexplained sky noises occur at night or during the early morning, which are also periods when temperature [inversions]({{ 'inversions/' | relative_url }}) commonly form. In an inversion, cooler air sits near the ground while warmer air lies above it. Instead of allowing sound to disperse upward, the atmosphere bends sound back toward the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/lightning/sound-of-thunder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">The Sound of Thunder</span><span class="citation-popover-snippet">LightningApr 5, 2023 — However, when the air temperature increases with height, called an inversion, sound waves are refracted (bent back...</span></span></span>
 
-This does not create a uniform blanket of louder sound. Rather, it can form complex propagation paths. Some locations receive enhanced sound because the waves are guided back toward the ground. Other locations remain comparatively quiet because the geometry of the refracted paths leaves them outside the strongest sound zones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticstoday.org/wp-content/uploads/2015/06/Sound-Propagation-in-the-Atmospheric-Boundary-Layer-D.-Keith-Wilson-Chris-L.-Pettit-and-Vladimir-E.-Ostashev.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticstoday.org">[Acoustics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticstoday.org</span><span class="citation-popover-title">Turbulence is suppressed.Read more</span><span class="citation-popover-snippet">Acoustics Todaysound Propagation in the Atmospheric boundary layerby DK Wilson · Cited by 44 — Low wind, clear, nighttime: Ground-based t...</span></span></span> ScienceDirect The effect resembles a light mirage. Just as atmospheric layers can make distant objects appear displaced or distorted <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>, atmospheric layers can redistribute sound into unexpected places. Some acoustics researchers describe an acoustic shadow as the sound equivalent of a visual mirage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Acoustic_shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Acoustic shadow</span><span class="citation-popover-snippet">Acoustic shadow</span></span></span>
+This does not create a uniform blanket of louder sound. Rather, it can form complex propagation paths. Some locations receive enhanced sound because the waves are guided back toward the ground. Other locations remain comparatively quiet because the geometry of the refracted paths leaves them outside the strongest sound zones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://acousticstoday.org/wp-content/uploads/2015/06/Sound-Propagation-in-the-Atmospheric-Boundary-Layer-D.-Keith-Wilson-Chris-L.-Pettit-and-Vladimir-E.-Ostashev.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acousticstoday.org">[Acoustics Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acousticstoday.org</span><span class="citation-popover-title">Turbulence is suppressed.Read more</span><span class="citation-popover-snippet">Acoustics Todaysound Propagation in the Atmospheric boundary layerby DK Wilson · Cited by 44 — Low wind, clear, nighttime: Ground-based t...</span></span></span> ScienceDirect The effect resembles a light mirage. Just as atmospheric layers can make distant objects appear displaced or distorted<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>, atmospheric layers can redistribute sound into unexpected places. Some acoustics researchers describe an acoustic shadow as the sound equivalent of a visual mirage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Acoustic_shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Acoustic shadow</span><span class="citation-popover-snippet">Acoustic shadow</span></span></span>
 
 For a listener who hears an unusual drone or booming sound apparently hanging overhead, the real source may actually be many kilometres away, with the atmosphere acting as a giant refracting lens.
 
@@ -314,14 +314,14 @@ For a listener who hears an unusual drone or booming sound apparently hanging ov
 
 Acoustic shadows are not merely theoretical. Historical records contain numerous reports in which loud events were heard clearly at great distances while remaining strangely inaudible much closer to the source.
 
-One of the best-known examples comes from the American Civil War. Military historians and acousticians have examined battles where commanders failed to hear nearby cannon fire despite being close enough to expect it. At the Battle of Iuka in 1862, General Ulysses S. Grant reportedly did not hear the sounds of fighting that should have been audible. Later analysis suggested atmospheric refraction and acoustic shadowing were likely contributors. Similar reports appeared at Perryville, Gaines' Mill, Seven Pines and other battles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.longwood.edu/cgi/viewcontent.cgi?article=1028&amp;context=chemphys_facpubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.longwood.edu">[Digital Commons Longwood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.longwood.edu</span><span class="citation-popover-title">Top of figure is a profile of sounds emanating.Read mor</span><span class="citation-popover-snippet">Digital Commons LongwoodBlending History with Physics: Acoustic Refractionby CD Ross · 2000 · Cited by 3 — Long-range audibility and acou...</span></span></span>
+One of the best-known examples comes from the American Civil War. Military historians and acousticians have examined battles where commanders failed to hear nearby cannon fire despite being close enough to expect it. At the Battle of Iuka in 1862, General Ulysses S. Grant reportedly did not hear the sounds of fighting that should have been audible. Later analysis suggested atmospheric refraction and acoustic shadowing were likely contributors. Similar reports appeared at Perryville, Gaines' Mill, Seven Pines and other battles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.longwood.edu/cgi/viewcontent.cgi?article=1028&amp;context=chemphys_facpubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.longwood.edu">[Digital Commons Longwood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.longwood.edu</span><span class="citation-popover-title">Top of figure is a profile of sounds emanating.Read mor</span><span class="citation-popover-snippet">Digital Commons LongwoodBlending History with Physics: Acoustic Refractionby CD Ross · 2000 · Cited by 3 — Long-range audibility and acou...</span></span></span>
 
 The pattern repeatedly surprised witnesses:
 
 * People close to the fighting sometimes heard little.
 * People much farther away heard cannon fire distinctly.
 * Observers could see smoke and flashes without hearing corresponding sounds.
-* Reports from different locations appeared mutually contradictory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</span></span></span>
+* Reports from different locations appeared mutually contradictory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</span></span></span>
 
 These accounts are valuable because they demonstrate how dramatically atmospheric conditions can reshape perception. Long before modern UFO reports, acoustic shadows were already creating situations in which nearby observers disagreed about whether a major sound event had occurred.
 
@@ -329,9 +329,9 @@ These accounts are valuable because they demonstrate how dramatically atmospheri
 
 ## Why UFO-Noise Reports Often Contain Conflicting Testimony
 
-Many discussions of mysterious [sky sounds]({{ 'sky-sounds/' | relative_url }}) assume that contradictory witness statements indicate exaggeration, faulty [memory]({{ 'memory/' | relative_url }}) or multiple unrelated events. Sometimes that is true. However, atmospheric acoustics provides another possibility: different listeners may genuinely have experienced different sound environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span>
+Many discussions of mysterious [sky sounds]({{ 'sky-sounds/' | relative_url }}) assume that contradictory witness statements indicate exaggeration, faulty [memory]({{ 'memory/' | relative_url }}) or multiple unrelated events. Sometimes that is true. However, atmospheric acoustics provides another possibility: different listeners may genuinely have experienced different sound environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span>
 
-A distant industrial plant, [aircraft]({{ 'aircraft/' | relative_url }}), train, highway corridor or other ordinary source may be refracted into one district while leaving another in a sound shadow. Residents in the loud zone hear an intense, seemingly source-less noise. Nearby residents hear little or nothing. Because neither group knows what the other experienced, the event can quickly acquire a mysterious reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturalnavigator.com">[The Natural Navigator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturalnavigator.com</span><span class="citation-popover-title">sounds during a temperature inversion</span><span class="citation-popover-snippet">The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — Road noise travels much further during a temperature inversion. An...</span></span></span>
+A distant industrial plant, [aircraft]({{ 'aircraft/' | relative_url }}), train, highway corridor or other ordinary source may be refracted into one district while leaving another in a sound shadow. Residents in the loud zone hear an intense, seemingly source-less noise. Nearby residents hear little or nothing. Because neither group knows what the other experienced, the event can quickly acquire a mysterious reputation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturalnavigator.com">[The Natural Navigator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturalnavigator.com</span><span class="citation-popover-title">sounds during a temperature inversion</span><span class="citation-popover-snippet">The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — Road noise travels much further during a temperature inversion. An...</span></span></span>
 
 Several features commonly reported in unusual sky-sound cases fit this pattern:
 
@@ -339,206 +339,206 @@ Several features commonly reported in unusual sky-sound cases fit this pattern:
 * Reports cluster in specific streets or neighbourhoods.
 * Witnesses disagree sharply about loudness.
 * Some people hear the sound indoors but not outdoors, or vice versa.
-* The phenomenon is strongest at night or around dawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturalnavigator.com">[The Natural Navigator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturalnavigator.com</span><span class="citation-popover-title">sounds during a temperature inversion</span><span class="citation-popover-snippet">The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — Road noise travels much further during a temperature inversion. An...</span></span></span>
+* The phenomenon is strongest at night or around dawn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-snippet">Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturalnavigator.com">[The Natural Navigator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturalnavigator.com</span><span class="citation-popover-title">sounds during a temperature inversion</span><span class="citation-popover-snippet">The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — Road noise travels much further during a temperature inversion. An...</span></span></span>
 
 None of these details proves a conventional explanation for any specific case. They do show why conflicting testimony should not automatically be treated as evidence that a sound was extraordinary.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023-Illustration-3-dark.svg" | relative_url }}" alt="Sound Shadows illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_atmospheric_acoustic_8ad214_acoustic_shadows_sky_789023-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Geography of Outdoor Sound
 
-The most important lesson from acoustic shadows is that outdoor sound does not spread in a simple, predictable circle. The atmosphere can create an invisible geography of loud and quiet regions that changes with weather, terrain and time of day. A listener standing in a shadow zone may conclude that no unusual sound exists at all, while someone only a short distance away experiences a powerful and unsettling noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span> ScienceDirect In the context of strange sky sounds and reported UFO noises <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>, acoustic shadows offer a practical explanation for one of the most puzzling features of many cases: how multiple sincere witnesses can describe completely different auditory experiences during the same event. Rather than spreading evenly across a city or landscape, the sound may have been selectively delivered by the atmosphere itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acs.psu.edu/drussell/demos/refract/refract.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acs.psu.edu">[Acoustics at Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acs.psu.edu</span><span class="citation-popover-snippet">Ross has found that refraction of sound caused by temperature and wind gradients may have had a significant impact on the outcome of...R...</span></span></span>
+The most important lesson from acoustic shadows is that outdoor sound does not spread in a simple, predictable circle. The atmosphere can create an invisible geography of loud and quiet regions that changes with weather, terrain and time of day. A listener standing in a shadow zone may conclude that no unusual sound exists at all, while someone only a short distance away experiences a powerful and unsettling noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acoustics.org.nz">[Acoustical Society of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acoustics.org.nz</span><span class="citation-popover-snippet">Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</span></span></span> ScienceDirect In the context of strange sky sounds and reported UFO noises<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>, acoustic shadows offer a practical explanation for one of the most puzzling features of many cases: how multiple sincere witnesses can describe completely different auditory experiences during the same event. Rather than spreading evenly across a city or landscape, the sound may have been selectively delivered by the atmosphere itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acs.psu.edu/drussell/demos/refract/refract.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acs.psu.edu">[Acoustics at Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acs.psu.edu</span><span class="citation-popover-snippet">Ross has found that refraction of sound caused by temperature and wind gradients may have had a significant impact on the outcome of...R...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_B_pTxlQvE" title="Refraction of Sound: How Sound Waves Bend Through Different Media | Sound Physics Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer">Refraction of Sound: How Sound Waves Bend Through Different Media | Sound Physics Explained</a></p><p class="youtube-embed-meta">Channel: CodeLucky &middot; Views: 211 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_B_pTxlQvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_B_pTxlQvE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Sound Can Skip One Street and Hit Another. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Sound Can Skip One Street and Hit Another. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
-        </h4>
-        <p class="fr-book-author">By R. Murray Schafer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_N56QgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
+</h4>
+<p class="fr-book-author">By R. Murray Schafer</p>
         
-        <p class="fr-book-desc">Directly relevant to how sound varies across locations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to how sound varies across locations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
+</h4>
+<p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Explains atmospheric conditions that create uneven sound zones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains atmospheric conditions that create uneven sound zones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for readers exploring witness disagreements in unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers exploring witness disagreements in unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Animal+Orchestra+by+Bernie+Krause&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Animal Orchestra on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Edq-uQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Great Animal Orchestra" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Animal+Orchestra+by+Bernie+Krause&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Animal Orchestra">The Great Animal Orchestra</a>
-        </h4>
-        <p class="fr-book-author">By Bernie Krause</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Animal+Orchestra+by+Bernie+Krause&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Animal Orchestra on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Edq-uQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Great Animal Orchestra" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Animal+Orchestra+by+Bernie+Krause&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Animal Orchestra">The Great Animal Orchestra</a>
+</h4>
+<p class="fr-book-author">By Bernie Krause</p>
         
-        <p class="fr-book-desc">Demonstrates how landscapes shape what is audible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Animal+Orchestra+by+Bernie+Krause&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how landscapes shape what is audible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Animal+Orchestra+by+Bernie+Krause&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soundscape&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soundscape</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="{{ '/assets/images/marketplace-covers/aa18b00208f00cdbbedf.jpg' | relative_url }}" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="{{ '/assets/images/marketplace-covers/aa18b00208f00cdbbedf.jpg' | relative_url }}" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/0abf29e74b0abb3f299a.jpg' | relative_url }}" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/0abf29e74b0abb3f299a.jpg' | relative_url }}" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="{{ '/assets/images/marketplace-covers/cb1c82bade4154709ecf.jpg' | relative_url }}" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="{{ '/assets/images/marketplace-covers/cb1c82bade4154709ecf.jpg' | relative_url }}" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo alien patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo alien patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+alien+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo alien patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sound-shadows-how-sound-can-skip-one-street-and-hit-another-ufo-noises-ufo-alien-patch-gerry-anderson-band-concert-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ The most important lesson from acoustic shadows is that outdoor sound does not s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ The most important lesson from acoustic shadows is that outdoor sound does not s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ The most important lesson from acoustic shadows is that outdoor sound does not s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ The most important lesson from acoustic shadows is that outdoor sound does not s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ The most important lesson from acoustic shadows is that outdoor sound does not s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,147 +744,147 @@ The most important lesson from acoustic shadows is that outdoor sound does not s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Acoustic shadow  
-   Link: <a href="https://en.wikipedia.org/wiki/Acoustic_shadow" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acoustic_shadow</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Acoustic_shadow" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acoustic_shadow</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X97000716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: acentech.com  
-   Link: <a href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow">https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</p></details>
+   Link:<a href="https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/" target="_blank" rel="noopener noreferrer nofollow">https://www.acentech.com/resources/cold-snaps-and-sound-waves-atmospheric-acoustics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold Snaps and Sound Waves: Atmospheric AcousticsFeb 15, 2022 — This condition is called a temperature inversion, where the sound...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: noaa.gov  
    Title: The Sound of Thunder  
-   Link: <a href="https://www.noaa.gov/jetstream/lightning/sound-of-thunder" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/lightning/sound-of-thunder</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LightningApr 5, 2023 — However, when the air temperature increases with height, called an inversion, sound waves are refracted (bent back...</p></details>
+   Link:<a href="https://www.noaa.gov/jetstream/lightning/sound-of-thunder" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/lightning/sound-of-thunder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LightningApr 5, 2023 — However, when the air temperature increases with height, called an inversion, sound waves are refracted (bent back...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation of a morning air temperature inversion break-up...by LR Hole · 2003 · Cited by 18 — Sound propagation in the atm...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0003682X02001044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation of a morning air temperature inversion break-up...by LR Hole · 2003 · Cited by 18 — Sound propagation in the atm...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcommons.longwood.edu  
    Title: Top of figure is a profile of sounds emanating.Read mor  
-   Link: <a href="https://digitalcommons.longwood.edu/cgi/viewcontent.cgi?article=1028&amp;context=chemphys_facpubs" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.longwood.edu/cgi/viewcontent.cgi?article=1028&amp;context=chemphys_facpubs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Commons LongwoodBlending History with Physics: Acoustic Refractionby CD Ross · 2000 · Cited by 3 — Long-range audibility and acou...</p></details>
+   Link:<a href="https://digitalcommons.longwood.edu/cgi/viewcontent.cgi?article=1028&amp;context=chemphys_facpubs" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.longwood.edu/cgi/viewcontent.cgi?article=1028&amp;context=chemphys_facpubs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Commons LongwoodBlending History with Physics: Acoustic Refractionby CD Ross · 2000 · Cited by 3 — Long-range audibility and acou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oceanservice.noaa.gov  
-   Link: <a href="https://oceanservice.noaa.gov/facts/sound.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/sound.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>far does sound travel in the ocean?Jun 16, 2024 — The area in the ocean where sound waves refract up and down is known as the &quot;sound chan...</p></details>
+   Link:<a href="https://oceanservice.noaa.gov/facts/sound.html" target="_blank" rel="noopener noreferrer nofollow">https://oceanservice.noaa.gov/facts/sound.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>far does sound travel in the ocean?Jun 16, 2024 — The area in the ocean where sound waves refract up and down is known as the &quot;sound chan...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 18895 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Index Variance and its Height Distribution in...More recently a Doppler capability of measuring the velocity of dis tributed, clear airt...</p></details>
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/18895/noaa_18895_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Index Variance and its Height Distribution in...More recently a Doppler capability of measuring the velocity of dis tributed, clear airt...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceUnsettled Weather in the Eastern U.S. through Memorial Day · Frost Advisory · Rip Current Statement · Beach Hazar...</p></details>
+   Link:<a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceUnsettled Weather in the Eastern U.S. through Memorial Day · Frost Advisory · Rip Current Statement · Beach Hazar...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Inversion (meteorology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inversion_%28meteorology%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inversion_%28meteorology%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: acoustics.org.nz  
-   Link: <a href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</p></details>
+   Link:<a href="https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acoustics.org.nz/wp-content/uploads/Hannah_L_NZA2007_b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustical Society of New ZealandThe Effect of Environment on Sound PropagationInside acoustical shadows, the noise is strongly damped an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: acousticstoday.org  
    Title: Turbulence is suppressed.Read more  
-   Link: <a href="https://acousticstoday.org/wp-content/uploads/2015/06/Sound-Propagation-in-the-Atmospheric-Boundary-Layer-D.-Keith-Wilson-Chris-L.-Pettit-and-Vladimir-E.-Ostashev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticstoday.org/wp-content/uploads/2015/06/Sound-Propagation-in-the-Atmospheric-Boundary-Layer-D.-Keith-Wilson-Chris-L.-Pettit-and-Vladimir-E.-Ostashev.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustics Todaysound Propagation in the Atmospheric boundary layerby DK Wilson · Cited by 44 — Low wind, clear, nighttime: Ground-based t...</p></details>
+   Link:<a href="https://acousticstoday.org/wp-content/uploads/2015/06/Sound-Propagation-in-the-Atmospheric-Boundary-Layer-D.-Keith-Wilson-Chris-L.-Pettit-and-Vladimir-E.-Ostashev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acousticstoday.org/wp-content/uploads/2015/06/Sound-Propagation-in-the-Atmospheric-Boundary-Layer-D.-Keith-Wilson-Chris-L.-Pettit-and-Vladimir-E.-Ostashev.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustics Todaysound Propagation in the Atmospheric boundary layerby DK Wilson · Cited by 44 — Low wind, clear, nighttime: Ground-based t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blog.echobarrier.com  
    Title: acoustic shadow explained  
-   Link: <a href="https://blog.echobarrier.com/blog/acoustic-shadow-explained" target="_blank" rel="noopener noreferrer nofollow">https://blog.echobarrier.com/blog/acoustic-shadow-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Barrier BlogAcoustic Shadow Explained12 Jul 2019 — An acoustic shadow results when sound waves fail to spread outward due to disrupt...</p></details>
+   Link:<a href="https://blog.echobarrier.com/blog/acoustic-shadow-explained" target="_blank" rel="noopener noreferrer nofollow">https://blog.echobarrier.com/blog/acoustic-shadow-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Barrier BlogAcoustic Shadow Explained12 Jul 2019 — An acoustic shadow results when sound waves fail to spread outward due to disrupt...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: acs.psu.edu  
-   Link: <a href="https://www.acs.psu.edu/drussell/demos/refract/refract.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acs.psu.edu/drussell/demos/refract/refract.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross has found that refraction of sound caused by temperature and wind gradients may have had a significant impact on the outcome of...R...</p></details>
+   Link:<a href="https://www.acs.psu.edu/drussell/demos/refract/refract.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acs.psu.edu/drussell/demos/refract/refract.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross has found that refraction of sound caused by temperature and wind gradients may have had a significant impact on the outcome of...R...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: softdb.com  
    Title: Soft d BThe Effect of Wind and Temperature Gradients on Sound  
-   Link: <a href="https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/" target="_blank" rel="noopener noreferrer nofollow">https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Temperature gradients also influence the propagation of sound waves over long distances.Read more...</p></details>
+   Link:<a href="https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/" target="_blank" rel="noopener noreferrer nofollow">https://www.softdb.com/blog/effect-of-wind-and-temperature-gradients-on-sound-waves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Temperature gradients also influence the propagation of sound waves over long distances.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: naturalnavigator.com  
    Title: sounds during a temperature inversion  
-   Link: <a href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — Road noise travels much further during a temperature inversion. An...</p></details>
+   Link:<a href="https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/" target="_blank" rel="noopener noreferrer nofollow">https://www.naturalnavigator.com/news/2019/01/sounds-during-a-temperature-inversion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Natural NavigatorSounds during a temperature inversion7 Jan 2019 — Road noise travels much further during a temperature inversion. An...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sfu.ca  
-   Link: <a href="https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Sound-Environment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Sound-Environment.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound-Environment InteractionSound interacts with actual environments in complex ways that are affected by nearly every aspect of the phy...</p></details>
+   Link:<a href="https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Sound-Environment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/sonic-studio-webdav/cmns/Handbook%20Tutorial/Sound-Environment.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound-Environment InteractionSound interacts with actual environments in complex ways that are affected by nearly every aspect of the phy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-0-387-30425-0_4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-0-387-30425-0_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkSound Propagation in the Atmosphere | Springer Nature LinkPropagation of sound close to the ground outdoors involves...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-0-387-30425" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-0-387-30425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkSound Propagation in the Atmosphere | Springer Nature LinkPropagation of sound close to the ground outdoors involves...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/sound-propagation-into-the-shadow-zone-in-a-temperature-1z80vdfuui.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/sound-propagation-into-the-shadow-zone-in-a-temperature-1z80vdfuui.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e brought about by a temperature stratification of the medium above...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/sound-propagation-into-the-shadow-zone-in-a-temperature-1z80vdfuui.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/sound-propagation-into-the-shadow-zone-in-a-temperature-1z80vdfuui.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e brought about by a temperature stratification of the medium above...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/38680135622/posts/10172958970515623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/38680135622/posts/10172958970515623/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, where cooler, denser air near the ground refracts sound waves...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/38680135622/posts/10172958970515623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/38680135622/posts/10172958970515623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, where cooler, denser air near the ground refracts sound waves...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/meteorology/comments/190cxpy/sound_travels_more_sometimes_and_i_dont_understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/meteorology/comments/190cxpy/sound_travels_more_sometimes_and_i_dont_understand/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in a direct channel as well. Also, oftentimes the wind...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/meteorology/comments/190cxpy/sound_travels_more_sometimes_and_i_dont_understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/meteorology/comments/190cxpy/sound_travels_more_sometimes_and_i_dont_understand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in a direct channel as well. Also, oftentimes the wind...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: students.aip.org  
    Title: physics puzzler sound reasons the answers  
-   Link: <a href="https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers" target="_blank" rel="noopener noreferrer nofollow">https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Puzzler: Sound Reasons: The Answers1 Feb 2016 — Sound travels faster in warmer air, so the sound waves are refracted upwa...</p></details>
+   Link:<a href="https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers" target="_blank" rel="noopener noreferrer nofollow">https://students.aip.org/observer/physics-puzzler-sound-reasons-the-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Puzzler: Sound Reasons: The Answers1 Feb 2016 — Sound travels faster in warmer air, so the sound waves are refracted upwa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bns.institute  
    Title: Sound waves then refract downward, which  
-   Link: <a href="https://bns.institute/applied-sciences/sound-waves-reflection-refraction/" target="_blank" rel="noopener noreferrer nofollow">https://bns.institute/applied-sciences/sound-waves-reflection-refraction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Sound Waves Behave: Reflection and RefractionMay 3, 2025 — At night, a temperature inversion occurs—the air near the ground cools whi...</p></details>
+   Link:<a href="https://bns.institute/applied-sciences/sound-waves-reflection-refraction/" target="_blank" rel="noopener noreferrer nofollow">https://bns.institute/applied-sciences/sound-waves-reflection-refraction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Sound Waves Behave: Reflection and RefractionMay 3, 2025 — At night, a temperature inversion occurs—the air near the ground cools whi...</p></details>
    Published: May 3, 2025  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NoStupidQuestions/comments/1fmkkgw/why_can_i_hear_my_neighbors_loud_music_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/1fmkkgw/why_can_i_hear_my_neighbors_loud_music_from/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>outside, the air is unable to get the sound to you.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/NoStupidQuestions/comments/1fmkkgw/why_can_i_hear_my_neighbors_loud_music_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoStupidQuestions/comments/1fmkkgw/why_can_i_hear_my_neighbors_loud_music_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>outside, the air is unable to get the sound to you.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thermaxxjackets.com  
    Title: sound wave refraction acoustic shadows  
-   Link: <a href="https://www.thermaxxjackets.com/news/sound-wave-refraction-acoustic-shadows/" target="_blank" rel="noopener noreferrer nofollow">https://www.thermaxxjackets.com/news/sound-wave-refraction-acoustic-shadows/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Refraction of Sound Waves &amp; Acoustic Shadows Explained17 Mar 2017 — In this article we are going to explore the phenomenon of sound wave...</p></details>
+   Link:<a href="https://www.thermaxxjackets.com/news/sound-wave-refraction-acoustic-shadows/" target="_blank" rel="noopener noreferrer nofollow">https://www.thermaxxjackets.com/news/sound-wave-refraction-acoustic-shadows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Refraction of Sound Waves &amp; Acoustic Shadows Explained17 Mar 2017 — In this article we are going to explore the phenomenon of sound wave...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pilotinstitute.com  
    Title: inversions in meteorology  
-   Link: <a href="https://pilotinstitute.com/inversions-in-meteorology/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/inversions-in-meteorology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How They Impact Pilots and...23 Sept 2025 — Learn how temperature inversions spawn wind shear, fog, and performance killers, and how pil...</p></details>
+   Link:<a href="https://pilotinstitute.com/inversions-in-meteorology/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/inversions-in-meteorology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How They Impact Pilots and...23 Sept 2025 — Learn how temperature inversions spawn wind shear, fog, and performance killers, and how pil...</p></details>

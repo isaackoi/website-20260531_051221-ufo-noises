@@ -355,7 +355,7 @@ image: /assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-overview-soc
 If you hear a sound that seems connected to a UFO sighting, the most useful thing you can do is record it carefully and document the circumstances immediately. Most unusual aerial noises turn out to have conventional explanations such as [aircraft]({{ 'aircraft/' | relative_url }}), helicopters, drones, industrial equipment, atmospheric effects or distant traffic. However, many reports become impossible to assess because witnesses rely on [memory]({{ 'memory/' | relative_url }}) rather than recordings, precise timing and location details.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_record_check_ufo_noi_a48df5-overview.webp" | relative_url }}" alt="Overview image for Record It" loading="eager" decoding="sync" fetchpriority="high">
-A useful UFO noise report is not built around dramatic descriptions. It is built around evidence: an audio recording, notes about where you were standing, the [direction]({{ 'direction/' | relative_url }}) of the sound, weather conditions, whether other people heard it and what known sources were nearby. Sound researchers and acoustic monitoring programmes routinely depend on structured recordings and metadata because context is often as important as the sound itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data &#124; National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+A useful UFO noise report is not built around dramatic descriptions. It is built around evidence: an audio recording, notes about where you were standing, the [direction]({{ 'direction/' | relative_url }}) of the sound, weather conditions, whether other people heard it and what known sources were nearby. Sound researchers and acoustic monitoring programmes routinely depend on structured recordings and metadata because context is often as important as the sound itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data &#124; National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 ## What to Capture Immediately
 
@@ -399,7 +399,7 @@ A report becomes far more useful when it includes:
 
 DetailWhy it mattersExact timeAllows comparison with aircraft tracking, satellite passes and local eventsExact locationHelps estimate distance and directionWeather conditionsWind can carry or distort sound over long distancesDurationHelps distinguish transient events from continuous sourcesNearby structuresBuildings can reflect and amplify soundsNumber of witnessesConfirms whether the sound was widely heard or highly localised
 
-Acoustic monitoring projects often place heavy emphasis on metadata because recordings without contextual information are difficult to interpret correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data &#124; National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+Acoustic monitoring projects often place heavy emphasis on metadata because recordings without contextual information are difficult to interpret correctly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">NCEIPassive Acoustic Data &#124; National Centers for Environmental</span><span class="citation-popover-snippet">March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 Even a rough note such as “heard from a field two kilometres south of town during calm weather” is more valuable than a recording uploaded later with no location details.
 
@@ -411,7 +411,7 @@ Most modern smartphones can capture useful evidence, but a few habits improve th
 
 Hold the device steadily or place it on a fixed surface.
 
-Finger movement, clothing friction and wind striking the microphone can overwhelm quieter sounds. Field-recording specialists routinely treat handling noise as one of the biggest obstacles to useful recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mindful-audio.com/blog/field-sound-recording-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindful-audio.com">[Mindful Audio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindful-audio.com</span><span class="citation-popover-title">Mindful Audio Noise and field recording</span><span class="citation-popover-snippet">Mindful AudioNoise and field recordingApril 4, 2023 — 4 Apr 2023 — Often over- and mis- used, the word noise means something specific in...</span><span class="citation-popover-meta">Published: April 4, 2023</span></span></span>
+Finger movement, clothing friction and wind striking the microphone can overwhelm quieter sounds. Field-recording specialists routinely treat handling noise as one of the biggest obstacles to useful recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mindful-audio.com/blog/field-sound-recording-noise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindful-audio.com">[Mindful Audio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindful-audio.com</span><span class="citation-popover-title">Mindful Audio Noise and field recording</span><span class="citation-popover-snippet">Mindful AudioNoise and field recordingApril 4, 2023 — 4 Apr 2023 — Often over- and mis- used, the word noise means something specific in...</span><span class="citation-popover-meta">Published: April 4, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L1qJ3scE_ig" title="Unmasking noise! Discover 3 effective methods to track sound paths" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer">Unmasking noise! Discover 3 effective methods to track sound paths</a></p><p class="youtube-embed-meta">Channel: Soundproofist &middot; Views: 11.4K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L1qJ3scE_ig">Open on YouTube</a></p></div></div></div>
 
@@ -431,7 +431,7 @@ The beginning and ending phases often reveal clues. A supposed UFO hum may gradu
 
 Keep the original file.
 
-Noise reduction software can sometimes help clarify recordings, but investigators generally prefer access to the untouched version first. Audio-forensics guidance stresses preserving original recordings before enhancement because processing can accidentally remove important information or create misleading artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
+Noise reduction software can sometimes help clarify recordings, but investigators generally prefer access to the untouched version first. Audio-forensics guidance stresses preserving original recordings before enhancement because processing can accidentally remove important information or create misleading artefacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
 
 ## How to Check Whether the Sound Has a Conventional Source
 
@@ -454,7 +454,7 @@ Several factors can make ordinary aircraft seem strange:
 
 </div>
 
-Aircraft-noise researchers note that identifying a source becomes harder in areas with high ambient noise and easier in quieter environments where aircraft stand out clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gacc.org.uk">[gacc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gacc.org.uk</span><span class="citation-popover-title">Ambient noise</span><span class="citation-popover-snippet">March 30, 2016 — by R Ummels · Cited by 2 — In the rural area it is illustrated that aircraft noise has a significant higher sound exposu...</span><span class="citation-popover-meta">Published: March 30, 2016</span></span></span>
+Aircraft-noise researchers note that identifying a source becomes harder in areas with high ambient noise and easier in quieter environments where aircraft stand out clearly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gacc.org.uk">[gacc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gacc.org.uk</span><span class="citation-popover-title">Ambient noise</span><span class="citation-popover-snippet">March 30, 2016 — by R Ummels · Cited by 2 — In the rural area it is illustrated that aircraft noise has a significant higher sound exposu...</span><span class="citation-popover-meta">Published: March 30, 2016</span></span></span>
 
 Checking public flight-tracking services for the recorded time can often resolve a report quickly.
 
@@ -463,7 +463,7 @@ Checking public flight-tracking services for the recorded time can often resolve
 
 Consumer drones produce distinctive high-frequency [buzzing]({{ 'buzzing/' | relative_url }}) sounds.
 
-Their apparent location can be deceptive because the sound reflects from buildings and terrain. Research into drone acoustic detection shows that drones have identifiable sound signatures, although urban environments make classification more difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</span><span class="citation-popover-meta">Published: January 20, 2017</span></span></span>
+Their apparent location can be deceptive because the sound reflects from buildings and terrain. Research into drone acoustic detection shows that drones have identifiable sound signatures, although urban environments make classification more difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</span><span class="citation-popover-meta">Published: January 20, 2017</span></span></span>
 
 ### Industrial and infrastructure noise
 
@@ -501,7 +501,7 @@ A spectrogram displays sound frequencies over time and can help show whether a n
 
 </div>
 
-Acoustic-monitoring programmes commonly use waveform and spectrogram analysis because visual patterns often reveal details that casual listening misses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rwsc.org">[RWSC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rwsc.org</span><span class="citation-popover-title">Data Management &amp; Storage Best Practices for Long-term</span><span class="citation-popover-snippet">record) metadata information on sound files in sound analysis software. • Check that date/times line up in sound files with what is recor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.library.noaa.gov">[NOAA Institutional Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.library.noaa.gov</span><span class="citation-popover-title">noaa 52227 DS1</span><span class="citation-popover-snippet">NOAA Institutional RepositoryMonitoring spatial and temporal underwater soundscape...by JA Stanley · 2021 · Cited by 13 — To quantify am...</span></span></span>
+Acoustic-monitoring programmes commonly use waveform and spectrogram analysis because visual patterns often reveal details that casual listening misses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rwsc.org">[RWSC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rwsc.org</span><span class="citation-popover-title">Data Management &amp; Storage Best Practices for Long-term</span><span class="citation-popover-snippet">record) metadata information on sound files in sound analysis software. • Check that date/times line up in sound files with what is recor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.library.noaa.gov">[NOAA Institutional Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.library.noaa.gov</span><span class="citation-popover-title">noaa 52227 DS1</span><span class="citation-popover-snippet">NOAA Institutional RepositoryMonitoring spatial and temporal underwater soundscape...by JA Stanley · 2021 · Cited by 13 — To quantify am...</span></span></span>
 
 For example:
 
@@ -571,194 +571,194 @@ A report becomes significantly more valuable when several pieces of evidence lin
 Even then, an unexplained sound is not automatically evidence of a UFO. The strongest reports are not the most dramatic ones; they are the ones with enough detail to allow serious checking. Careful recording, accurate notes and methodical comparison with known sources give an unusual noise report the best chance of being understood, whether the explanation turns out to be ordinary or genuinely unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Should You Record a UFO Noise?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Should You Record a UFO Noise?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows the value of documented evidence in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the value of documented evidence in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Rossing</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Springer Handbook of Acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z7clkgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Springer Handbook of Acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Acoustics">Springer Handbook of Acoustics</a>
+</h4>
+<p class="fr-book-author">By Thomas Rossing</p>
         
-        <p class="fr-book-desc">Provides scientific background for analysing recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific background for analysing recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Springer+Handbook+of+Acoustics+by+Thomas+Rossing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Recording Techniques on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4gQoldrNGKgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Recording Techniques" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Recording Techniques">Practical Recording Techniques</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Bartlett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Recording Techniques on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4gQoldrNGKgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Recording Techniques" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Recording Techniques">Practical Recording Techniques</a>
+</h4>
+<p class="fr-book-author">By Bruce Bartlett</p>
         
-        <p class="fr-book-desc">Directly helps readers capture useful audio evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps readers capture useful audio evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Recording+Techniques+by+Bruce+Bartlett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Location+Sound+Bible+by+Ric+Viers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Location Sound Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EDeWtgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Location Sound Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Location+Sound+Bible+by+Ric+Viers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Location Sound Bible">The Location Sound Bible</a>
-        </h4>
-        <p class="fr-book-author">By Ric Viers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Location+Sound+Bible+by+Ric+Viers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Location Sound Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EDeWtgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Location Sound Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Location+Sound+Bible+by+Ric+Viers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Location Sound Bible">The Location Sound Bible</a>
+</h4>
+<p class="fr-book-author">By Ric Viers</p>
         
-        <p class="fr-book-desc">Explains practical outdoor recording methods and mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Location+Sound+Bible+by+Ric+Viers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains practical outdoor recording methods and mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Location+Sound+Bible+by+Ric+Viers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Springer+of+Acoustics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Springer of Acoustics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Recording+Techniques&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Recording Techniques</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Springer+of+Acoustics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Springer of Acoustics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Recording+Techniques&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Recording Techniques</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-program&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -program" data-ebay-reference="record-it-how-should-you-record-a-ufo-noise-ufo-noises-roswell-ufo-patch-gerry-anderson-band-concert-series-television-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,125 +964,125 @@ Even then, an unexplained sound is not automatically evidence of a UFO. The stro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncei.noaa.gov  
    Title: NCEIPassive Acoustic Data | National Centers for Environmental  
-   Link: <a href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/passive-acoustic-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/products/passive-acoustic-data" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/passive-acoustic-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2022 — 17 Sept 2024 — Passive acoustic monitoring is a powerful observational tool that NOAA uses to detect and characterize sou...</p></details>
    Published: March 1, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rwsc.org  
    Title: Data Management & Storage Best Practices for Long-term  
-   Link: <a href="https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>record) metadata information on sound files in sound analysis software. • Check that date/times line up in sound files with what is recor...</p></details>
+   Link:<a href="https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rwsc.org/wp-content/uploads/2022/12/RWSC-PAM-Data-Management-Storage-Best-Practices.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>record) metadata information on sound files in sound analysis software. • Check that date/times line up in sound files with what is recor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mindful-audio.com  
    Title: Mindful Audio Noise and field recording  
-   Link: <a href="https://mindful-audio.com/blog/field-sound-recording-noise" target="_blank" rel="noopener noreferrer nofollow">https://mindful-audio.com/blog/field-sound-recording-noise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mindful AudioNoise and field recordingApril 4, 2023 — 4 Apr 2023 — Often over- and mis- used, the word noise means something specific in...</p></details>
+   Link:<a href="https://mindful-audio.com/blog/field-sound-recording-noise" target="_blank" rel="noopener noreferrer nofollow">https://mindful-audio.com/blog/field-sound-recording-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mindful AudioNoise and field recordingApril 4, 2023 — 4 Apr 2023 — Often over- and mis- used, the word noise means something specific in...</p></details>
    Published: April 4, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/08-a-001-swgde-best-practices-for-forensic-audio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practices for Forensic AudioJune 9, 2022 — Eliminate or minimize sound distractions in the audio laboratory to pr...</p></details>
    Published: June 9, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gacc.org.uk  
    Title: Ambient noise  
-   Link: <a href="https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2016 — by R Ummels · Cited by 2 — In the rural area it is illustrated that aircraft noise has a significant higher sound exposu...</p></details>
+   Link:<a href="https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gacc.org.uk/resources/Ambient%20Noise%20Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2016 — by R Ummels · Cited by 2 — In the rural area it is illustrated that aircraft noise has a significant higher sound exposu...</p></details>
    Published: March 30, 2016  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1701.05779</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1701.05779" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1701.05779</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural NetworksJanuary 20, 2017...</p></details>
    Published: January 20, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 52227 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional RepositoryMonitoring spatial and temporal underwater soundscape...by JA Stanley · 2021 · Cited by 13 — To quantify am...</p></details>
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/52227/noaa_52227_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional RepositoryMonitoring spatial and temporal underwater soundscape...by JA Stanley · 2021 · Cited by 13 — To quantify am...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 72168 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Monitoring Program (ONMS Sound) | 2022–current | https:// · sanctuaries.noaa.gov/science/monitoring/sound/. This program coordinates...</p></details>
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/72168/noaa_72168_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound Monitoring Program (ONMS Sound) | 2022–current | https:// · sanctuaries.noaa.gov/science/monitoring/sound/. This program coordinates...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ncei.noaa.gov  
    Title: science behind it sounding out innovation  
-   Link: <a href="https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Behind It: Sounding Out Innovation | News18 Sept 2024 — NCEI Passive Acoustic Data Program Manager, Carrie Wall, tells us more ab...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/news/science-behind-it-sounding-out-innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Behind It: Sounding Out Innovation | News18 Sept 2024 — NCEI Passive Acoustic Data Program Manager, Carrie Wall, tells us more ab...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sanctuaries.noaa.gov  
-   Link: <a href="https://sanctuaries.noaa.gov/science/monitoring/sound/" target="_blank" rel="noopener noreferrer nofollow">https://sanctuaries.noaa.gov/science/monitoring/sound/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring | Office of National Marine SanctuariesNOAA&#x27;s Office of National Marine Sanctuaries maintains a nationally coordinated underwa...</p></details>
+   Link:<a href="https://sanctuaries.noaa.gov/science/monitoring/sound/" target="_blank" rel="noopener noreferrer nofollow">https://sanctuaries.noaa.gov/science/monitoring/sound/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring | Office of National Marine SanctuariesNOAA&#x27;s Office of National Marine Sanctuaries maintains a nationally coordinated underwa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 73147 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Monitoring Desktop Studyby MM Holt · 2026 — This report summarizes past and present underwater acoustic monitoring efforts withi...</p></details>
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/73147/noaa_73147_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Monitoring Desktop Studyby MM Holt · 2026 — This report summarizes past and present underwater acoustic monitoring efforts withi...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nmfs-ost.github.io  
-   Link: <a href="https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html" target="_blank" rel="noopener noreferrer nofollow">https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soundscape Technical DocumentationThis effort includes refining archival methods, software tools, and baseline soundscape metrics to inte...</p></details>
+   Link:<a href="https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html" target="_blank" rel="noopener noreferrer nofollow">https://nmfs-ost.github.io/PAM-Soundscapes/content/technical_documentation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soundscape Technical DocumentationThis effort includes refining archival methods, software tools, and baseline soundscape metrics to inte...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: svantek.com  
-   Link: <a href="https://svantek.com/case-studies/noise-source-identification/" target="_blank" rel="noopener noreferrer nofollow">https://svantek.com/case-studies/noise-source-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Source Identification in Aircraft Noise MonitoringIdentify and classify sound events automatically; Distinguish between true aircra...</p></details>
+   Link:<a href="https://svantek.com/case-studies/noise-source-identification/" target="_blank" rel="noopener noreferrer nofollow">https://svantek.com/case-studies/noise-source-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Source Identification in Aircraft Noise MonitoringIdentify and classify sound events automatically; Distinguish between true aircra...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: microflown.com  
-   Link: <a href="https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visualizing and quantifying aircraft cabin noiseDiscover 3D sound intensity measurements for visualizing and ranking acoustic noise sourc...</p></details>
+   Link:<a href="https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/case-studies/visualizing-aircraft-cabin-noise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visualizing and quantifying aircraft cabin noiseDiscover 3D sound intensity measurements for visualizing and ranking acoustic noise sourc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 342042680 Investigation All Types of Aircraft Noises Review Paper  
-   Link: <a href="https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation All Types of Aircraft Noises: Review Paper2 Mar 2020 — As part of a study of the impact of aircraft noise intrusions within...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342042680_Investigation_All_Types_of_Aircraft_Noises_Review_Paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation All Types of Aircraft Noises: Review Paper2 Mar 2020 — As part of a study of the impact of aircraft noise intrusions within...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aef.org.uk  
-   Link: <a href="https://www.aef.org.uk/guides/understanding-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aef.org.uk/guides/understanding-aircraft-noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding aircraft noiseIf you&#x27;re affected by noise from light aircraft, including helicopters try an internet search to find airfiel...</p></details>
+   Link:<a href="https://www.aef.org.uk/guides/understanding-aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.aef.org.uk/guides/understanding-aircraft-noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding aircraft noiseIf you&#x27;re affected by noise from light aircraft, including helicopters try an internet search to find airfiel...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: acousticnature.com  
    Title: how to record nature sounds  
-   Link: <a href="https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2" target="_blank" rel="noopener noreferrer nofollow">https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide20 Sept 2022 — From gear, research, microphone placement, and stereo techniques, learn how to record nature sounds like...</p></details>
+   Link:<a href="https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2" target="_blank" rel="noopener noreferrer nofollow">https://acousticnature.com/journal/how-to-record-nature-sounds?srsltid=AfmBOooBqLqTPXOHIgihYOKA8VtNQt4TfQcl6VotZvZTTh7_AoSdlNy2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide20 Sept 2022 — From gear, research, microphone placement, and stereo techniques, learn how to record nature sounds like...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: stellaraudioforensics.com  
-   Link: <a href="https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how professionals minimize noise to ensure clear and accurate audio evidence...</p></details>
+   Link:<a href="https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/" target="_blank" rel="noopener noreferrer nofollow">https://stellaraudioforensics.com/background-noise-in-legal-audio-recordings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how professionals minimize noise to ensure clear and accurate audio evidence...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org  
-   Link: <a href="https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of aviation noise metrics and measurementTo determine the annoyance from aviation noise, the noise level from aviation needs to...</p></details>
+   Link:<a href="https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/23/ad/23adc11f-e586-4b44-8f11-5cf91456ae64/1047_2020_08_11_iccan_review_of_aviation_noise_metrics_and_measurement.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of aviation noise metrics and measurementTo determine the annoyance from aviation noise, the noise level from aviation needs to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the noise is there? My neighbor intentionally disturbing our sleep...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskEngineers/comments/1lad9fr/how_to_record_low_frequency_noise_to_use_it_as/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the noise is there? My neighbor intentionally disturbing our sleep...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Unmasking noise! Discover 3 effective methods to track sound paths  
-   Link: <a href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1qJ3scE_ig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Izotope RX11 | Isolating Bird Calls | Detailed Demo for Beginners | Spectral De-Noise | EQ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L1qJ3scE_ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1qJ3scE_ig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Izotope RX11 | Isolating Bird Calls | Detailed Demo for Beginners | Spectral De-Noise | EQ...</p></details>

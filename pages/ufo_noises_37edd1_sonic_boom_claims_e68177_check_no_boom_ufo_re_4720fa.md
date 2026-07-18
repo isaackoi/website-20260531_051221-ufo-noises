@@ -277,7 +277,7 @@ image: /assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_u
 A report of a UFO moving at extreme speed without a sonic boom is only as strong as the evidence behind the speed estimate. Many dramatic accounts begin with a witness concluding that an object crossed the sky in seconds and therefore must have been travelling faster than sound. The problem is that speed, distance and altitude are usually the least certain parts of a UFO sighting.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-1-dark.svg" | relative_url }}" alt="Check Claims illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_sonic_boom_claims_e68177_check_no_boom_ufo_re_4720fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A useful investigation starts by asking whether the object was actually moving at a supersonic speed and whether a boom would have been expected to reach the witness. Modern aeronautics shows that sonic [booms]({{ 'booms/' | relative_url }}) depend on altitude, atmospheric conditions, flight path and observer position, not just raw speed. In some circumstances, a genuinely supersonic object may produce little or no audible boom at ground level. In many others, the object's speed has simply been overestimated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">create sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the atmosphere -- and is indepen- den...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">investigates the faint side of sonic booms</span><span class="citation-popover-snippet">NASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
+A useful investigation starts by asking whether the object was actually moving at a supersonic speed and whether a boom would have been expected to reach the witness. Modern aeronautics shows that sonic [booms]({{ 'booms/' | relative_url }}) depend on altitude, atmospheric conditions, flight path and observer position, not just raw speed. In some circumstances, a genuinely supersonic object may produce little or no audible boom at ground level. In many others, the object's speed has simply been overestimated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">create sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the atmosphere -- and is indepen- den...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">investigates the faint side of sonic booms</span><span class="citation-popover-snippet">NASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 
 ## Questions to Ask Before Accepting the Speed Estimate
 
@@ -316,7 +316,7 @@ The more uncertain the distance, the weaker any argument that a sonic boom shoul
 
 Even if an object were supersonic, the absence of a reported boom does not automatically create a mystery.
 
-A sonic boom is heard when a shock wave reaches an observer. The observer does not need to be directly beneath the object, and the boom may arrive after the object has passed. NASA notes that the geometry of the shock-wave footprint depends on altitude, speed and atmospheric conditions. A witness can see a distant supersonic object while standing outside the area where the boom reaches the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">1.3 to...Read more...</span></span></span>
+A sonic boom is heard when a shock wave reaches an observer. The observer does not need to be directly beneath the object, and the boom may arrive after the object has passed. NASA notes that the geometry of the shock-wave footprint depends on altitude, speed and atmospheric conditions. A witness can see a distant supersonic object while standing outside the area where the boom reaches the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">1.3 to...Read more...</span></span></span>
 
 Important questions include:
 
@@ -330,7 +330,7 @@ Important questions include:
 
 </div>
 
-NASA has also documented conditions where shock waves from relatively low-Mach supersonic flight at high altitude may refract upward rather than reach the ground, reducing or eliminating an audible boom for people below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">EA Haering Jr · 2012 · Cited by 9 — This paper describes the methods and computations used to place the focused sonic boom on the SCAMP a...</span></span></span>
+NASA has also documented conditions where shock waves from relatively low-Mach supersonic flight at high altitude may refract upward rather than reach the ground, reducing or eliminating an audible boom for people below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">EA Haering Jr · 2012 · Cited by 9 — This paper describes the methods and computations used to place the focused sonic boom on the SCAMP a...</span></span></span>
 
 This means that a missing boom is strongest as evidence only when investigators can show that observers were positioned where a boom should reasonably have been heard.
 
@@ -361,7 +361,7 @@ For example, two observers separated by a significant distance who record the sa
 
 A genuine high-speed atmospheric event often leaves acoustic evidence.
 
-Scientists routinely use infrasound [sensors]({{ 'sensors/' | relative_url }}) to detect meteors, re-entry vehicles and other high-energy atmospheric phenomena. Acoustic data can help determine whether a shock wave was generated even when witnesses did not consciously hear a boom. Research on meteor events and spacecraft re-entries shows that shock-wave signatures can be detected and analysed long after the visual observation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[Signal Cleveland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
+Scientists routinely use infrasound [sensors]({{ 'sensors/' | relative_url }}) to detect meteors, re-entry vehicles and other high-energy atmospheric phenomena. Acoustic data can help determine whether a shock wave was generated even when witnesses did not consciously hear a boom. Research on meteor events and spacecraft re-entries shows that shock-wave signatures can be detected and analysed long after the visual observation itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[Signal Cleveland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
 
 A UFO report becomes far more testable when it includes:
 
@@ -431,7 +431,7 @@ The weakest cases often rely on a chain of assumptions:
 2. Therefore it was very large.
 3. Therefore it moved an enormous distance.
 4. Therefore it was supersonic.
-5. Therefore a sonic boom should have occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[signalcleveland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
+5. Therefore a sonic boom should have occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: signalcleveland.org">[signalcleveland.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">signalcleveland.org</span><span class="citation-popover-title">Signal Cleveland Sonic boom?</span><span class="citation-popover-snippet">Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</span></span></span>
 6. Therefore the object must have used unknown technology.
 
 </div>
@@ -444,197 +444,197 @@ A no-boom report becomes genuinely interesting only when investigators can indep
 
 Most reports do not reach that standard. They typically contain vivid observations but limited information about distance, geometry or atmospheric conditions. In those cases, the absence of a sonic boom is not strong evidence for extraordinary technology. It is evidence that key measurements are missing.
 
-The strongest cases are not the ones with the most dramatic descriptions. They are the ones where independent data make the claim testable. When speed, position and acoustic expectations can all be checked together, the question shifts from speculation to investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> [3NASA 3NASA]
+The strongest cases are not the ones with the most dramatic descriptions. They are the ones where independent data make the claim testable. When speed, position and acoustic expectations can all be checked together, the question shifts from speculation to investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</span></span></span> [3NASA 3NASA]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is a No Boom UFO Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is a No Boom UFO Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for separating observation from inference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Useful for separating observation from inference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Flight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mGmDPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Flight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Flight">Introduction to Flight</a>
-        </h4>
-        <p class="fr-book-author">By John Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Flight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mGmDPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Flight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Flight">Introduction to Flight</a>
+</h4>
+<p class="fr-book-author">By John Anderson</p>
         
-        <p class="fr-book-desc">Provides the physics needed to assess sonic-boom claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the physics needed to assess sonic-boom claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-bvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Focuses on evaluating evidence and unsupported conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating evidence and unsupported conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides cultural and technical context for high-speed flight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Provides cultural and technical context for high-speed flight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Flight+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Flight books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Flight+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Flight books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt"><img src="{{ '/assets/images/marketplace-covers/397bfca46f7d800bea36.jpg' | relative_url }}" alt="Listing image for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt"><img src="{{ '/assets/images/marketplace-covers/397bfca46f7d800bea36.jpg' | relative_url }}" alt="Listing image for Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">Marmit Adamski Type Flying Saucer 1/60 UFO Model Kit Japan Vintage Unbuilt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/478f9b6c413daf1586b4.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/478f9b6c413daf1586b4.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/dca3b3f2a8ad218bfe80.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171."><img src="{{ '/assets/images/marketplace-covers/dca3b3f2a8ad218bfe80.jpg' | relative_url }}" alt="Listing image for Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">Airfix Flying Saucer UFO 1:96 scale model snap fix kit 9 07171.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47"><img src="{{ '/assets/images/marketplace-covers/2c7f412c91bbad7dd1e0.jpg' | relative_url }}" alt="Listing image for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47"><img src="{{ '/assets/images/marketplace-covers/2c7f412c91bbad7dd1e0.jpg' | relative_url }}" alt="Listing image for First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">First Flying Saucer Kenneth Arnold UFO 1947 1/144 Scale Model Kit 18SFP47</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO flying saucer model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO flying saucer model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+flying+saucer+model+kit+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO flying saucer model kit -gerry -anderson -series -television -band -concert -tour -album -ticket" data-ebay-reference="check-claims-how-strong-is-a-no-boom-ufo-claim-ufo-noises-ufo-flying-saucer-model-kit-gerry-anderson-series-television-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ The strongest cases are not the ones with the most dramatic descriptions. They a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ The strongest cases are not the ones with the most dramatic descriptions. They a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ The strongest cases are not the ones with the most dramatic descriptions. They a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ The strongest cases are not the ones with the most dramatic descriptions. They a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ The strongest cases are not the ones with the most dramatic descriptions. They a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -840,112 +840,112 @@ The strongest cases are not the ones with the most dramatic descriptions. They a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) -- and is indepen- den...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/09/120274main_fs-016-dfrc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>create sonic boomsThe lateral spreading of the sonic boom depends only upon altitude, speed and the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;) -- and is indepen- den...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: investigates the faint side of sonic booms  
-   Link: <a href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</p></details>
+   Link:<a href="https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/nasa-investigates-the-faint-side-of-sonic-booms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Investigates the &#x27;FaINT&#x27; Side of Sonic Booms19 May 2013 — For an aircraft flying at a supersonic speed of about Mach 1.2 or less...</p></details>
    Published: May 2013  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1.3 to...Read more...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110011322/downloads/20110011322.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1.3 to...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EA Haering Jr · 2012 · Cited by 9 — This paper describes the methods and computations used to place the focused sonic boom on the SCAMP a...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20130003184/downloads/20130003184.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EA Haering Jr · 2012 · Cited by 9 — This paper describes the methods and computations used to place the focused sonic boom on the SCAMP a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOOM RESEARCHby AR Seebass · 1967 · Cited by 28 — Typically, a 700 000- pound, 300-foot-long aircraft flying at a Mach number of 3 and an...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19680011944/downloads/19680011944.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOOM RESEARCHby AR Seebass · 1967 · Cited by 28 — Typically, a 700 000- pound, 300-foot-long aircraft flying at a Mach number of 3 and an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OF SONIC BOOMS GENERATED BY...by KS Green · 1974 · Cited by 1 — Atmospheric pressure, temperature, wind speed, and wind direction are pl...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19740026373/downloads/19740026373.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF SONIC BOOMS GENERATED BY...by KS Green · 1974 · Cited by 1 — Atmospheric pressure, temperature, wind speed, and wind direction are pl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104540/sonic-boom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceSonic Boom &gt; Air Force &gt; Fact Sheet DisplayFor today&#x27;s supersonic aircraft in normal operating conditions, the peak overpressure...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: signalcleveland.org  
    Title: Signal Cleveland Sonic boom?  
-   Link: <a href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow">https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</p></details>
+   Link:<a href="https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/" target="_blank" rel="noopener noreferrer nofollow">https://signalcleveland.org/meteor-sonic-boom-near-cleveland-northeast-ohio-march-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts break down Northeast Ohio&#x27;s rare...Mar 17, 2026 — The meteor was first visible at an altitude of 50 miles above Lake Erie off th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Sonic boom  
-   Link: <a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic boomFor steady supersonic flight, the boom is described as a carpet boom since it moves with the aircraft as it maintains supers...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sonic_boom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sonic_boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic boomFor steady supersonic flight, the boom is described as a carpet boom since it moves with the aircraft as it maintains supers...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</p></details>
+   Link:<a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aviation Reporting Center on Anomalous...NARCAP has investigated, documented, and analyzed aviation safety-related observations...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: narcap.de  
-   Link: <a href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they saw a b...</p></details>
+   Link:<a href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Defense: What Should We Prepare For?No sonic boom was mentioned. The personnel of the Bentwaters control tower said they saw a b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Mach 40-60) and accelerations (hundreds to thousands of times g) [51, 52...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Mach 40-60) and accelerations (hundreds to thousands of times g) [51, 52...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbsnews.com  
    Title: what is a sonic boom how does it happen virginia fighter jets cessna plane crash  
-   Link: <a href="https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhat is a sonic boom, and how does it happen?Jun 5, 2023 — So, an aircraft flying at supersonic speeds at an altitude of 50,000 f...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/what-is-a-sonic-boom-how-does-it-happen-virginia-fighter-jets-cessna-plane-crash/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhat is a sonic boom, and how does it happen?Jun 5, 2023 — So, an aircraft flying at supersonic speeds at an altitude of 50,000 f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gD7wMZL1eZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD7wMZL1eZ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Silencing Sonic BoomsToday we&#x27;ll explore the phenomenon of the sonic boom the physics behind it how iconic jets like the B...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=laM0Nv8nkw4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X-59: Sonic Booms ExplainedThe x59 will be able to fly at supersonic speeds faster than the speed of sound without producing a loud sonic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=laM0Nv8nkw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=laM0Nv8nkw4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X-59: Sonic Booms ExplainedThe x59 will be able to fly at supersonic speeds faster than the speed of sound without producing a loud sonic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
+   Link:<a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with an artifact of national security or at a national security location.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aeroreport.de  
    Title: A brief guide: Supersonic flight without the boom  
-   Link: <a href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow">https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2025 — “The aircraft&#x27;s cruising speed must be constantly adjusted so that the sonic boom waves don&#x27;t extend below a desired height...</p></details>
+   Link:<a href="https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom" target="_blank" rel="noopener noreferrer nofollow">https://aeroreport.de/en/good-to-know/a-brief-guide-supersonic-flight-without-the-boom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2025 — “The aircraft&#x27;s cruising speed must be constantly adjusted so that the sonic boom waves don&#x27;t extend below a desired height...</p></details>
    Published: May 8, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: i analyzed 79621 declassified ufo reports with ai  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>77 reports describe silent flight combined with instant acceleration simultaneously. -... Sonic Boom and gone. CounterSimple3771.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t9cikz/i_analyzed_79621_declassified_ufo_reports_with_ai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>77 reports describe silent flight combined with instant acceleration simultaneously. -... Sonic Boom and gone. CounterSimple3771.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: narcap.org  
-   Link: <a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>na, UAP, commonly associated with aviation safety incidents.Read more...</p></details>
+   Link:<a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>na, UAP, commonly associated with aviation safety incidents.Read more...</p></details>

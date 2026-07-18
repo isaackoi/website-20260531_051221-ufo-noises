@@ -268,14 +268,14 @@ image: /assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_
 
 ## Introduction
 
-The Bristol Hum is one of the most famous examples of a mysterious environmental noise becoming wrapped up in wider theories about unexplained phenomena. Since the 1970s, residents across parts of Bristol have reported hearing a persistent low-frequency droning or rumbling sound, often late at night and often in a way that seemed impossible to locate. Because the sound felt detached from any visible source, it occasionally entered discussions about unusual aerial activity and other unexplained events. Yet one of the most persistent explanations has remained strikingly ordinary: industrial equipment operating around Avonmouth, the heavily industrialised port area on Bristol's western edge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+The Bristol Hum is one of the most famous examples of a mysterious environmental noise becoming wrapped up in wider theories about unexplained phenomena. Since the 1970s, residents across parts of Bristol have reported hearing a persistent low-frequency droning or rumbling sound, often late at night and often in a way that seemed impossible to locate. Because the sound felt detached from any visible source, it occasionally entered discussions about unusual aerial activity and other unexplained events. Yet one of the most persistent explanations has remained strikingly ordinary: industrial equipment operating around Avonmouth, the heavily industrialised port area on Bristol's western edge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-1-dark.svg" | relative_url }}" alt="Bristol Hum illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Bristol Hum important is not that the mystery was conclusively solved. It was not. Instead, the case shows how a genuine, widely reported sound can point investigators toward industrial causes while still resisting a final explanation. That combination has made the Bristol Hum a recurring reference point whenever strange noises are linked to UFO claims or other extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+What makes the Bristol Hum important is not that the mystery was conclusively solved. It was not. Instead, the case shows how a genuine, widely reported sound can point investigators toward industrial causes while still resisting a final explanation. That combination has made the Bristol Hum a recurring reference point whenever strange noises are linked to UFO claims or other extraordinary interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 ## What residents reported hearing
 
-Reports associated with the Bristol Hum began attracting public attention in the mid-1970s, when residents wrote to local newspapers describing a deep, continuous vibration or low rumble that seemed to linger across different parts of the city. Witnesses often described a sound that was more felt than heard, sometimes comparing it to a distant engine, heavy machinery, electrical equipment or an idling diesel motor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+Reports associated with the Bristol Hum began attracting public attention in the mid-1970s, when residents wrote to local newspapers describing a deep, continuous vibration or low rumble that seemed to linger across different parts of the city. Witnesses often described a sound that was more felt than heard, sometimes comparing it to a distant engine, heavy machinery, electrical equipment or an idling diesel motor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 Several features of the reports made the sound especially difficult to investigate:
 
@@ -283,9 +283,9 @@ Several features of the reports made the sound especially difficult to investiga
 * The noise was often reported indoors more strongly than outdoors.
 * It appeared most noticeable during quiet night-time hours.
 * Listeners frequently struggled to identify a [direction]({{ 'direction/' | relative_url }}) of origin.
-* Moving around did not always make the sound louder or quieter in predictable ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Moving around did not always make the sound louder or quieter in predictable ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-For some residents, the experience was not merely irritating. Accounts collected over the years linked the hum to sleep disruption, anxiety and significant stress. Reports of physical symptoms varied and remained controversial, but complaints commonly included headaches, fatigue and an inability to escape the sound inside homes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
+For some residents, the experience was not merely irritating. Accounts collected over the years linked the hum to sleep disruption, anxiety and significant stress. Reports of physical symptoms varied and remained controversial, but complaints commonly included headaches, fatigue and an inability to escape the sound inside homes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
 
 These characteristics are one reason hum cases became associated with UFO discussions. A low-frequency sound that seems to come from nowhere can feel less like ordinary neighbourhood noise and more like an unseen presence. When no [aircraft]({{ 'aircraft/' | relative_url }}), vehicle or machine is visible, listeners may naturally search for more unusual explanations.
 
@@ -293,9 +293,9 @@ These characteristics are one reason hum cases became associated with UFO discus
 
 ## Why Avonmouth became the leading suspect
 
-The most influential industrial explanation focused on Avonmouth, the large port and industrial district west of Bristol. Avonmouth contains docks, warehouses, power infrastructure, transport facilities and other heavy industrial operations capable of producing continuous low-frequency noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+The most influential industrial explanation focused on Avonmouth, the large port and industrial district west of Bristol. Avonmouth contains docks, warehouses, power infrastructure, transport facilities and other heavy industrial operations capable of producing continuous low-frequency noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
-Over time, investigators and local observers increasingly focused on large industrial ventilation systems and extraction fans operating around warehouses in the area. A widely repeated theory held that powerful industrial fans generated low-frequency sound waves that travelled across the city under the right atmospheric conditions. The theory became so prominent that it was often referred to simply as the Avonmouth fan explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-snippet">The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</span></span></span>
+Over time, investigators and local observers increasingly focused on large industrial ventilation systems and extraction fans operating around warehouses in the area. A widely repeated theory held that powerful industrial fans generated low-frequency sound waves that travelled across the city under the right atmospheric conditions. The theory became so prominent that it was often referred to simply as the Avonmouth fan explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.ie">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.ie</span><span class="citation-popover-snippet">The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</span></span></span>
 
 The idea had several strengths:
 
@@ -305,11 +305,11 @@ The idea had several strengths:
 * Low-frequency sound travels farther than many higher-pitched sounds.
 * Bristol's geography allows sound to propagate across built-up areas.
 * Atmospheric conditions can refract and redirect low-frequency noise.
-* Listeners often describe industrial fan noise using language similar to Bristol Hum reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Listeners often describe industrial fan noise using language similar to Bristol Hum reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
-The theory also fit a broader pattern seen in other hum investigations worldwide. In multiple cases, environmental acoustics experts have eventually traced mysterious droning sounds to industrial plants, ventilation systems, compressors, pumps or heavy infrastructure rather than anything airborne or exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+The theory also fit a broader pattern seen in other hum investigations worldwide. In multiple cases, environmental acoustics experts have eventually traced mysterious droning sounds to industrial plants, ventilation systems, compressors, pumps or heavy infrastructure rather than anything airborne or exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-2-dark.svg" | relative_url }}" alt="Bristol Hum illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The industrial fan explanation's strongest evidence
@@ -318,25 +318,25 @@ The appeal of the Avonmouth explanation was not merely that it sounded plausible
 
 ### Low-frequency sound behaves strangely
 
-Hum complaints frequently involve frequencies roughly in the range of tens of hertz rather than hundreds or thousands. Such sounds are difficult for humans to localise accurately. A listener may hear the noise clearly but struggle to determine where it originates. Researchers studying hum phenomena have repeatedly noted that listeners often perceive the sound as surrounding them rather than coming from a single point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Hum complaints frequently involve frequencies roughly in the range of tens of hertz rather than hundreds or thousands. Such sounds are difficult for humans to localise accurately. A listener may hear the noise clearly but struggle to determine where it originates. Researchers studying hum phenomena have repeatedly noted that listeners often perceive the sound as surrounding them rather than coming from a single point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 ### Industrial areas can affect entire regions
 
-Avonmouth is not a small industrial estate. It is a major port and industrial zone containing extensive warehousing, transport infrastructure and heavy commercial activity. Even when a specific machine is not exceptionally loud near its source, continuous operation can create regional acoustic effects under favourable conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Avonmouth is not a small industrial estate. It is a major port and industrial zone containing extensive warehousing, transport infrastructure and heavy commercial activity. Even when a specific machine is not exceptionally loud near its source, continuous operation can create regional acoustic effects under favourable conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_RmaE4Gs6AY" title="Mount Forel - The Hum (Official video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer">Mount Forel - The Hum (Official video)</a></p><p class="youtube-embed-meta">Channel: Mount Forel &middot; Views: 7.3K &middot; Uploaded: May 2022 &middot; Length: 4 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_RmaE4Gs6AY">Open on YouTube</a></p></div></div></div>
 
 ### Night-time conditions favour long-distance propagation
 
-The Bristol Hum was often reported most strongly at night. That pattern fits known acoustic behaviour. As background traffic and urban noise diminish, previously masked low-frequency sounds become easier to notice. Temperature [inversions]({{ 'inversions/' | relative_url }}) can also allow industrial noise to travel farther than expected, creating the impression that a source is hovering nearby rather than operating kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+The Bristol Hum was often reported most strongly at night. That pattern fits known acoustic behaviour. As background traffic and urban noise diminish, previously masked low-frequency sounds become easier to notice. Temperature [inversions]({{ 'inversions/' | relative_url }}) can also allow industrial noise to travel farther than expected, creating the impression that a source is hovering nearby rather than operating kilometres away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
-Taken together, these factors gave the industrial fan theory more explanatory power than many of the alternative proposals that emerged over the years, including claims involving secret communications systems, unusual aircraft or other speculative causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
+Taken together, these factors gave the industrial fan theory more explanatory power than many of the alternative proposals that emerged over the years, including claims involving secret communications systems, unusual aircraft or other speculative causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4mfwA6I-0k0" title="Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4mfwA6I-0k0" target="_blank" rel="noopener noreferrer">Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained</a></p><p class="youtube-embed-meta">Channel: Maddox Transformer &middot; Views: 5.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4mfwA6I-0k0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4mfwA6I-0k0">Open on YouTube</a></p></div></div></div>
 
 ## Why the mystery never fully closed
 
-The biggest problem for the Avonmouth fan explanation is that reports did not simply disappear after the industrial equipment most commonly blamed for the hum was altered, removed or decommissioned. Some residents continued reporting similar sounds years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+The biggest problem for the Avonmouth fan explanation is that reports did not simply disappear after the industrial equipment most commonly blamed for the hum was altered, removed or decommissioned. Some residents continued reporting similar sounds years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 That does not automatically disprove an industrial origin. Several possibilities remain:
 
@@ -345,210 +345,210 @@ That does not automatically disprove an industrial origin. Several possibilities
 * Different industrial sources may have produced similar sounds at different times.
 * More than one source may have contributed simultaneously.
 * Some reports may involve genuine environmental noise while others involve unrelated auditory phenomena.
-* Changes in industrial activity could alter the sound without eliminating it completely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+* Changes in industrial activity could alter the sound without eliminating it completely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 </div>
 
-Another complication is that "the Hum" may not be a single phenomenon at all. Researchers and acoustics specialists increasingly treat hum reports as a category rather than one unified event. In some locations, industrial machinery appears strongly implicated. In others, investigations have considered biological, geological or auditory explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
+Another complication is that "the Hum" may not be a single phenomenon at all. Researchers and acoustics specialists increasingly treat hum reports as a category rather than one unified event. In some locations, industrial machinery appears strongly implicated. In others, investigations have considered biological, geological or auditory explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Hum</span><span class="citation-popover-snippet">The Hum</span></span></span>
 
 That means the Bristol Hum may have involved a real industrial noise source without every subsequent report sharing the same cause.
 
 <img src="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-3-dark.svg" | relative_url }}" alt="Bristol Hum illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_noises_37edd1_industrial_noise_mis_f8566f_bristol_hum_industri_57315c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why disputed hum cases keep returning to industry
 
-The Bristol Hum remains influential because it demonstrates a recurring pattern in mysterious-noise investigations. People can hear a sound that is real, persistent and deeply disruptive while still lacking a clear way to identify its source. The absence of an obvious source often encourages extraordinary interpretations, including links to UFOs or hidden technologies. Yet when investigators examine the physical environment, industrial infrastructure repeatedly emerges as the most credible starting point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+The Bristol Hum remains influential because it demonstrates a recurring pattern in mysterious-noise investigations. People can hear a sound that is real, persistent and deeply disruptive while still lacking a clear way to identify its source. The absence of an obvious source often encourages extraordinary interpretations, including links to UFOs or hidden technologies. Yet when investigators examine the physical environment, industrial infrastructure repeatedly emerges as the most credible starting point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
-The Bristol case never produced the clean ending many people expect from a mystery. Instead, it highlighted a more complicated reality: industrial sound can travel unexpectedly, behave strangely and affect only part of a population, making a mundane source feel mysterious. Even decades later, the Avonmouth fan theory remains important not because it solved every report, but because it showed how easily environmental noise can be mistaken for something far more extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
+The Bristol case never produced the clean ending many people expect from a mystery. Instead, it highlighted a more complicated reality: industrial sound can travel unexpectedly, behave strangely and affect only part of a population, making a mundane source feel mysterious. Even decades later, the Avonmouth fan theory remains important not because it solved every report, but because it showed how easily environmental noise can be mistaken for something far more extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Can you hear the Hum?</span><span class="citation-popover-snippet">The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</span><span class="citation-popover-meta">Published: July 7, 2021</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Bristol Hum Still Points Toward Industry. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Bristol Hum Still Points Toward Industry. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
-        </h4>
-        <p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering Noise Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0CBBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Engineering Noise Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering Noise Control">Engineering Noise Control</a>
+</h4>
+<p class="fr-book-author">By David A. Bies, Colin Hansen et al.</p>
         
-        <p class="fr-book-desc">Explains industrial noise mechanisms relevant to Bristol Hum theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains industrial noise mechanisms relevant to Bristol Hum theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Engineering+Noise+Control+by+David+A.+Bies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Mike Goldsmith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sound: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fWjLCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sound: A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sound: A Very Short Introduction">Sound: A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Mike Goldsmith</p>
         
-        <p class="fr-book-desc">Provides accessible background on sound perception and propagation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible background on sound perception and propagation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+Introduction+by+Mike+Goldsmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects with the wider UFO-interest audience surrounding hum mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects with the wider UFO-interest audience surrounding hum mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-FsoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
-        </h4>
-        <p class="fr-book-author">By R. Murray Schafer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soundscape on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-FsoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Soundscape" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soundscape">The Soundscape</a>
+</h4>
+<p class="fr-book-author">By R. Murray Schafer</p>
         
-        <p class="fr-book-desc">Places urban and industrial sound experiences into wider context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places urban and industrial sound experiences into wider context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Soundscape+by+R.+Murray+Schafer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+Noise+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering Noise Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sound%3A+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sound: A Very Short books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bristol-hum-why-the-bristol-hum-still-points-toward-industry-ufo-noises-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ The Bristol case never produced the clean ending many people expect from a myste
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ The Bristol case never produced the clean ending many people expect from a myste
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ The Bristol case never produced the clean ending many people expect from a myste
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ The Bristol case never produced the clean ending many people expect from a myste
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ The Bristol case never produced the clean ending many people expect from a myste
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,94 +754,94 @@ The Bristol case never produced the clean ending many people expect from a myste
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Avonmouth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Avonmouth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Avonmouth</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Hum  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Hum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Hum</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theguardian.com  
    Title: The Guardian Can you hear the Hum?  
-   Link: <a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery noise that says a lot...July 7, 2021 — 8 Jul 2021 — A prevailing theory was that the Bristol Hum originated from large indus...</p></details>
    Published: July 7, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</p></details>
+   Link:<a href="https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/life-style/the-hum-listeners-rebecca-hall-mystery-noise-b2647826.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent&#x27;It brought me to my knees&#x27;: The Hum – a mysterious...November 20, 2024 — 18 Nov 2024 — “Residents described hearing a lo...</p></details>
    Published: November 20, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent&#x27;Bristol hum&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/bristol-hum-residents-report-return-of-mysterious-noise-a6821976.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Independent&#x27;Bristol hum&#x27;: Residents report return of mysterious noise20 Jan 2016 — The noise has been blamed on various causes, such...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</p></details>
+   Link:<a href="https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/living/2392390/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thesun.ie  
-   Link: <a href="https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</p></details>
+   Link:<a href="https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/living/296859/what-is-the-spooky-bristol-hum-heres-what-causes-the-strange-noise-phenomenon-thats-bothered-locals-for-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SunWhat is the Bristol Hum, a strange noise that&#x27;s bothered...13 Dec 2016 — One suggestion was that the noise was caused by industri...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/eccEQqcj4d0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eccEQqcj4d0</a>  
+   Link:<a href="https://www.youtube.com/shorts/eccEQqcj4d0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/eccEQqcj4d0</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: Has anyone else been hearing the Bristol Hum recently?  
-   Link: <a href="https://www.facebook.com/groups/100351226764201/posts/3697856167013671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/100351226764201/posts/3697856167013671/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Its a low frequency [humming](&amp;#123;&amp;#123; &#x27;humming/&#x27; | relative_url &amp;#125;&amp;#125;)/droning noise that rises in pitch in the last couple of seconds. Its 24/7 and more noticeable at night and is...</p></details>
+   Link:<a href="https://www.facebook.com/groups/100351226764201/posts/3697856167013671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/100351226764201/posts/3697856167013671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its a low frequency [humming](&amp;#123;&amp;#123; &#x27;humming/&#x27; | relative_url &amp;#125;&amp;#125;)/droning noise that rises in pitch in the last couple of seconds. Its 24/7 and more noticeable at night and is...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aring a persistent low- frequency sound known as “The Hum.” It...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/list25/posts/in-places-like-taos-new-mexico-and-bristol-uk-some-residents-have-reported-heari/1465885094945765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aring a persistent low- frequency sound known as “The Hum.” It...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed at a warehouse in nearby Avonmouth. But according to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheHum/comments/1n36eoh/anyone_had_any_luck_finding_the_source_of_their/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed at a warehouse in nearby Avonmouth. But according to...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed hearing this puzzling sound, but its origins remain a...</p></details>
+   Link:<a href="https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bristol/comments/1h3px5t/have_you_heard_the_mysterious_hum_in_bristol/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed hearing this puzzling sound, but its origins remain a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mysterious Hum Rattles American City as Residents Report Sleepless Nights  
-   Link: <a href="https://www.youtube.com/watch?v=Y-Ntjw0x9f8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-Ntjw0x9f8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y-Ntjw0x9f8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y-Ntjw0x9f8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Transformers HUM? | Normal vs. Concerning Transformer Sounds Explained...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: threads.com  
-   Link: <a href="https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the 1970s, people have reported hearing a...1 Feb 2026 — The low frequency sound (which is usually heard at night by an estimated...</p></details>
+   Link:<a href="https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40weirdbristol/post/DUOpJ6mCA-1/since-the-s-people-have-reported-hearing-a-mysterious-hum-across-bristol-the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since the 1970s, people have reported hearing a...1 Feb 2026 — The low frequency sound (which is usually heard at night by an estimated...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yourtango.com  
-   Link: <a href="https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds" target="_blank" rel="noopener noreferrer nofollow">https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sound That Makes 2% Of People Lose Their Minds3 Nov 2025 — The Bristol Hum, in particular, is thought to be a result of larg...</p></details>
+   Link:<a href="https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds" target="_blank" rel="noopener noreferrer nofollow">https://www.yourtango.com/self/certain-sound-makes-small-percent-people-lose-their-minds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sound That Makes 2% Of People Lose Their Minds3 Nov 2025 — The Bristol Hum, in particular, is thought to be a result of larg...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: have you ever heard of the bristol hum  
-   Link: <a href="https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?26 Dec 2021 — Have you ever heard of the Bristol hum?...</p></details>
+   Link:<a href="https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bristol.live/posts/have-you-ever-heard-of-the-bristol-hum/4707505462647933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?26 Dec 2021 — Have you ever heard of the Bristol hum?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Mount Forel  
-   Link: <a href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RmaE4Gs6AY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Hum Rattles American City as Residents Report Sleepless Nights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_RmaE4Gs6AY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_RmaE4Gs6AY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Hum Rattles American City as Residents Report Sleepless Nights...</p></details>
